@@ -1,8 +1,0 @@
-[Line1]
-Name=Circle line
-Stations=Govan(Ibrox,Patrick),Ibrox,Cessnock,Kinning Park,Shields Road,West Street,Bridge Street,St. Enoch,Buchanan Street,Cowcaddens,St. George's Cross,Kelvinbridge,Hillhead,Kelvinhall,Patrick(Govan,Kelvinhall)
-Driving=(2,2),2,2,1,2,1,1,1,2,1,2,2,2,1,(2,2)
-DelayDay=4
-DelayNight=8
-
-[]

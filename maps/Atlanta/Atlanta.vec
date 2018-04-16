@@ -1,9 +1,0 @@
-size 519x540
-PenColor 0404A4
-TextOut Arial,40,16,7, Atlanta
-TextOut Arial,10,8,43, (Attention! All time intervals in this version equal 2 minutes)
-
-PenColor FF9933
-TextOut Arial, 12, 421, 194, North-Sounsh line, 1
-PenColor 0099CC
-TextOut Arial, 12, 421, 216, West-East line, 1

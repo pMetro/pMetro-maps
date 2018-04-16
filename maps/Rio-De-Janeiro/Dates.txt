@@ -1,8 +1,0 @@
-[Options]
-AddToInfo=1
-Caption=Общая информация
-CityName=Рио-де-Жанейро
-StringToAdd='  Дата открытия: '
-
-[1]
-Cantagalo=27.02.2007

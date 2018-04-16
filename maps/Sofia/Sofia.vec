@@ -1,8 +1,0 @@
-Size 910x700
-PenColor 040484
-BrushColor -1
-TextOut Arial, 50, 478, 28, Софийско метро, 1
-PenColor D40000
-TextOut Arial, 20, 627, 125, първи метродиаметър
-PenColor 0044AA
-TextOut Arial, 20, 627, 157, втори метродиаметър

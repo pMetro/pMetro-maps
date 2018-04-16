@@ -1,7 +1,0 @@
-Size 400x400
-
-PenColor 0404A4
-BrushColor -1
-TextOut Arial, 35, 10, 8, Harbin, 1
-TextOut Arial, 10, 9, 44, Attention! All time intervals
-TextOut Arial, 10, 9, 52, in this version equal 2 minutes
