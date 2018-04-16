@@ -1,8 +1,0 @@
-Size 600x350
-PenColor 0404A4
-TextOut Arial,28,228,2, Glasgow, 1
-PenColor B4E3EB
-Line -20,200, 680,200, 30
-PenColor FFFFFF
-BrushColor -1
-TextOut Arial,28,237,186, river Clyde, 1

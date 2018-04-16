@@ -1,8 +1,0 @@
-size 630x500
-PenColor 0404A4
-TextOut Arial,28,5,5,Guadalajara
-TextOut Arial,10,5,35,(Attention! All time intervals in this version equal 2 minutes)
-PenColor 008000
-TextOut Arial,20,115,72,L1
-PenColor ff0000
-TextOut Arial,20,115,97,L2

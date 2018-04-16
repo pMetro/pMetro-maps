@@ -1,6 +1,0 @@
-Size 24x24
-PenColor 000000
-BrushColor FFFFFF
-Polygon 4,4, 20,4, 23,7, 23,17, 20,20, 4,20, 1,17, 1,7, 2
-BrushColor -1
-TextOut Arial, 14, 3, 5, +Ì, 1

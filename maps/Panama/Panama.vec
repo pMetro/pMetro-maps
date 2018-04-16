@@ -1,9 +1,0 @@
-Size 440x480
-
-BrushColor -1
-PenColor 0404A4
-AngleTextOut 0, Arial, 43, 26, 18, Panama Metro, 1
-
-PenColor B4E3EB
-BrushColor B4E3EB
-Polygon 278,480, 278,445, 324,373, 342,373, 342,392, 538,196, 538,480

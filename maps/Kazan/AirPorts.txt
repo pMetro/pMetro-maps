@@ -1,8 +1,0 @@
-[Options]
-AddToInfo=0
-CityName=Казань
-MenuName=Разное\Проезд к аэропортам
-MenuImage=Airplane_logo.vec
-
-[Первая]
-Проспект Победы

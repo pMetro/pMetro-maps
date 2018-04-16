@@ -1,8 +1,0 @@
-[Include]
-Mob_ZOpened.txt
-
-[Options]
-AddToInfo=0
-CityName=Волгоград
-MenuName=Моб.связь\Зона покрытия МТС
-MenuImage=Mob_Mts_logo.bmp
