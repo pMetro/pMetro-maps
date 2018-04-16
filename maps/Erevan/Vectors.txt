@@ -1,8 +1,0 @@
-[Options]
-AddToInfo=1
-Caption=Схема
-CityName=Ереван
-Type=Image
-
-[1]
-Чарбах=Charbah.vec

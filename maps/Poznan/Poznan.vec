@@ -1,5 +1,0 @@
-size 250x200
-PenColor 0404A4
-BrushColor -1
-TextOut Arial,35,10,10,Poznan,1
-TextOut Arial,10,10,45,(Attention! All time intervals in this version equal 2 minutes)
