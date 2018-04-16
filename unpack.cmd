@@ -1,7 +1,7 @@
 @echo off
 SETLOCAL EnableDelayedExpansion
 
-set ZIP7=D:\WinApps\7-Zip\7z
+set ZIP7=C:\WinApps\7-Zip\7z.exe
 set PMZ_DIR=pmz
 set MAPS_DIR=maps
 

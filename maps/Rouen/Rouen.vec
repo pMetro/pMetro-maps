@@ -1,9 +1,0 @@
-size 530x670
-PenColor 0404A4
-TextOut Arial,34,14,3, Rouen,1
-TextOut Arial,26,35,36, Metro,1
-PenColor 66CCFF
-Spline 2,116, 88,74, 113,64, 148,59, 184,63, 218,75, 345,121, 387,137, 410,155, 427,180, 12
-BrushColor -1
-PenColor 0000FF
-TextOut Arial, 10,135,54, La Seine,1

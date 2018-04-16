@@ -1,9 +1,0 @@
-[Options]
-AddToInfo=0
-CityName=Тбилиси
-MenuName=Моб.связь\Открытые станции
-
-[Akhmeteli-Varketili]
-Elektrodepo=
-Didube=
-

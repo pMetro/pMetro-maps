@@ -1,9 +1,0 @@
-Size 850x680
-PenColor 0404A4
-TextOut Arial, 25, 20, 0, Copenhagen metro, 1
-TextOut Arial, 10, 20, 22, (Attention! All time intervals in this version equal 2 minutes)
-TextOut Arial, 18, 600, 10, Lines
-PenColor 046434
-TextOut Arial, 20, 660, 35, M 1
-PenColor FCCC04
-TextOut Arial, 20, 660, 70, M 2

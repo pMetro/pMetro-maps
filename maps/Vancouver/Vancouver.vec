@@ -1,8 +1,0 @@
-size 795x499
-PenColor 0404A4
-TextOut Arial,40,353,28, VANCOUVER SkyTrain
-TextOut Arial,10,425,66, (Attention! All time intervals in this version equal 2 minutes)
-PenColor 1C54BC
-TextOut Arial,20,77,408,Expo Line
-PenColor FFD520
-TextOut Arial,20,77,383,Millenium Line

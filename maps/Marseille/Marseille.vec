@@ -1,9 +1,0 @@
-size 480x390
-PenColor 0404A4
-TextOut Arial,40,15,3, Marseille
-TextOut Arial,10,15,38, (Attention! All time intervals in this version equal 2 minutes)
-
-PenColor 0000AF
-TextOut Arial, 12, 87, 95, 1, 1
-PenColor AF0000
-TextOut Arial, 12, 87, 117, 2, 1

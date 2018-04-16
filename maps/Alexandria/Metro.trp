@@ -1,6 +1,0 @@
-[Line1]
-Name=Tram Al Raml
-Stations=El Nasr,El Seiouff,Sidi Bishr,El Sariya,Louran,Tharwat,San Stefano,Kasr El Safa(Glym),Glym(Ramsis),Ramsis(El Bostan),El Bostan(El Hadaya),El Hadaya(Isis),Isis(Roushdy,El Wezarah),Janakleece(,San Stefano),Schutz(,Janakleece),Safar(,Schutz),Bacous(,Safar),El Karnak(,Bacous),El Wezarah(,El Karnak),Roushdy(Mohamed Mahfouz,Isis),Mohamed Mahfouz,Moustafa Kamel,Sidi Gaber El Sheikh(Cleopatra El Hammat),Cleopatra El Hammat(Cleopatra El Soghrah),Cleopatra El Soghrah(Sporting),Sporting(Small Sporting,Cleopatra),Sidi Gaber El Mahat(,Moustafa Kamel),Cleopatra(,Sidi Gaber El Mahat),Small Sporting(El Ibrahima,Sporting),El Ibrahima,El Moaskar,Gamaa,El Shatby,El Shoban El Moslemin,Moustafa Zayan,Hasan Rasen,Ibrahim Mosque,Ramleh
-Driving=2,2,2,2,2,2,2,(2),(2),(2),(2),(2),(2,2),(,2),(,2),(,2),(,2),(,2),(,2),(2,2),2,2,(2),(2),(2),(2,2),(,2),(,2),(2,2),2,2,2,2,2,2,2,2
-
-[]

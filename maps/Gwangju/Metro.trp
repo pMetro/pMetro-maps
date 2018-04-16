@@ -1,9 +1,0 @@
-[Line1]
-Name=1
-Stations=Nokdong,Sotae1(,Nokdong),Sotae2(Hakdong / Jeungsimsa),Hakdong / Jeungsimsa,Nam Gwangju,Culture Complex,Geumnamno 4-ga,Geumnamno 5-ga,Yangdong Market,Dolgogae,Nongseong,Hwajeong,Ssangcheon,Uncheon,Sangmu,Kim Daejung Convention Center,Airport,Songjeong Park,Songjeongri,Dosan,Pyeongdong
-Aliases=Sotae1,Sotae,Sotae2,Sotae
-Driving=2,(,2),(2),2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-
-[Transfers]
-Shuttle=1,Sotae1,1,Sotae2,2
-
