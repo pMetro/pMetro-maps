@@ -1,7 +1,0 @@
-[Line1]
-Name=Peoplemover
-Stations=Broadway(Cadillac Square,Grand Circus Park),Cadillac Square,Greektown,Bricktown,Renaissance Center,Millender Center,Financial District,Joe Louis Arena,Cobo Center,Fort/Cass,Michigan Avenue,Times Square,Grand Circus Park(Broadway,Times Square)
-Driving=(2,2),2,2,2,2,2,2,2,2,2,2,2,(2,2)
-DelayDay=0
-DelayNight=0
-

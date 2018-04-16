@@ -1,8 +1,0 @@
-[Options]
-AddToInfo=0
-CityName=София
-MenuName=Моб.связь\Открытые станции
-
-[1 metrodiametr]
-Обеля=
-

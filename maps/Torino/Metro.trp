@@ -1,8 +1,0 @@
-[Line1]
-Name=1
-Stations=Fermi,Paradiso,Marche,Massaua,Pozzo Strada,Monte Grappa,Rivoli,Racconigi,Bernini,Principi d'Acaja,XVIII dicembre(Porta Susa,Principi d'Acaja,Vinzaglio),Porta Susa,Vinzaglio(Re Umberto,Porta Susa,,XVIII dicembre),Re Umberto,Porta Nuova
-Driving=2,2,2,2,2,2,2,2,2,2,(,2,4),0,(2,,,4),2
-DelayDay=3
-DelayNight=6
-
-[]

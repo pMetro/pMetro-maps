@@ -1,8 +1,0 @@
-[Options]
-Name=Moscow
-CityName=Москва
-Country=Россия
-RusName=Москва
-NeedVersion=1.29.2
-DelayNames=День,Час-пик,Ночь
-

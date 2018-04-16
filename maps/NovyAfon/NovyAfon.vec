@@ -1,7 +1,0 @@
-Size 370x200
-PenColor 0404A4
-BrushColor -1
-TextOut Arial, 25, 19, 6, Новый Афон, 1
-
-SpotRect 278, 171, 80, 16, LoadMap NovyAfon-s.map
-AngleTextOut 0, Arial, 15, 278, 171, схема путей, 5

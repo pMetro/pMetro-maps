@@ -1,7 +1,0 @@
-[Line1]
-Name=Prima linea
-Stations=Canepari,Brin,Dinegro,Principe,Darsena,San Giorgio,Sarzano,De Ferrari(Corvetto,Sarzano,Bringole),Corvetto,Bringole(,Corvetto,,De Ferrari)
-Driving=0,2,2,2,2,2,2,(,2,4),0,(,,,4)
-DelayDay=10
-DelayNight=20
-

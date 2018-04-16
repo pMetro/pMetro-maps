@@ -1,9 +1,0 @@
-[Options]
-AddToInfo=1
-CityName=Харьков
-Caption=z
-MenuName=Моб.связь\Открытые участки
-
-[Drivings]
-1=Салтовская,Киевская,Академика Барабашова,20,80
-

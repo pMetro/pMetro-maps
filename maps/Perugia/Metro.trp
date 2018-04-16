@@ -1,8 +1,0 @@
-[Line1]
-Name=Minimetro
-Stations=Pian di Maasiano,Cortonese,Madonna Alta,Fontivegge FS,Case Bruciate,Cupa,Pincetto
-Driving=2,2,2,2,2,2
-DelayDay=15
-DelayNight=30
-
-[]

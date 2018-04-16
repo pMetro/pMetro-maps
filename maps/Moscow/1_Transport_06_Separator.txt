@@ -1,4 +1,0 @@
-[Options]
-AddToInfo=0
-MenuName=Транспорт\-
-

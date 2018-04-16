@@ -1,8 +1,0 @@
-size 800x770
-TextOut Arial,34,70,0,СХЕМА ЛИНИЙ,1
-TextOut Arial,34,70,40,ХАРЬКОВСКОГО,1
-TextOut Arial,34,70,80,МЕТРОПОЛИТЕНА,1
-TextOut Arial,15,600,30,Холодногорско-Заводская
-TextOut Arial,15,600,50,Салтовская
-TextOut Arial,15,600,70,Алексеевская
-TextOut Arial,15,600,90,Салтовское ответление

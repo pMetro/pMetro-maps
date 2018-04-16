@@ -1,8 +1,0 @@
-[Options]
-AddToInfo=1
-Caption=Макет
-CityName=Ереван
-Type=3dImage
-
-[1]
-Чарбах=Charbah.pm3d
