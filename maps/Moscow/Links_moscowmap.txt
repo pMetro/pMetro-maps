@@ -1,0 +1,212 @@
+[Options]
+AddToInfo=1
+Caption=Ссылки
+CityName=Москва
+StringToAdd='  Карта окрестностей станции: '
+
+[Сокольническая]
+Юго-Западная=http://moscowmap.ru/metrostation.asp?metroid=15
+Проспект Вернадского=http://moscowmap.ru/metrostation.asp?metroid=16
+Университет=http://moscowmap.ru/metrostation.asp?metroid=17
+Воробьевы горы=http://moscowmap.ru/metrostation.asp?metroid=18
+Спортивная=http://moscowmap.ru/metrostation.asp?metroid=19
+Фрунзенская=http://moscowmap.ru/metrostation.asp?metroid=20
+Парк культуры=http://moscowmap.ru/metrostation.asp?metroid=21
+Кропоткинская=http://moscowmap.ru/metrostation.asp?metroid=33
+Библиотека имени Ленина=http://moscowmap.ru/metrostation.asp?metroid=22
+Охотный ряд=http://moscowmap.ru/metrostation.asp?metroid=23
+Лубянка=http://moscowmap.ru/metrostation.asp?metroid=24
+Чистые пруды=http://moscowmap.ru/metrostation.asp?metroid=25
+Красные ворота=http://moscowmap.ru/metrostation.asp?metroid=26
+Комсомольская=http://moscowmap.ru/metrostation.asp?metroid=12
+Красносельская=http://moscowmap.ru/metrostation.asp?metroid=28
+Сокольники=http://moscowmap.ru/metrostation.asp?metroid=29
+Преображенская площадь=http://moscowmap.ru/metrostation.asp?metroid=30
+Черкизовская=http://moscowmap.ru/metrostation.asp?metroid=31
+Бульвар Рокоссовского=http://moscowmap.ru/metrostation.asp?metroid=32
+
+[Замоскворецкая]
+Речной вокзал=http://moscowmap.ru/metrostation.asp?metroid=130
+Водный стадион=http://moscowmap.ru/metrostation.asp?metroid=129
+Войковская=http://moscowmap.ru/metrostation.asp?metroid=128
+Сокол=http://moscowmap.ru/metrostation.asp?metroid=127
+Аэропорт=http://moscowmap.ru/metrostation.asp?metroid=126
+Динамо=http://moscowmap.ru/metrostation.asp?metroid=125
+Белорусская=http://moscowmap.ru/metrostation.asp?metroid=3
+Маяковская=http://moscowmap.ru/metrostation.asp?metroid=123
+Тверская=http://moscowmap.ru/metrostation.asp?metroid=122
+Театральная=http://moscowmap.ru/metrostation.asp?metroid=121
+Новокузнецкая=http://moscowmap.ru/metrostation.asp?metroid=120
+Павелецкая=http://moscowmap.ru/metrostation.asp?metroid=119
+Автозаводская=http://moscowmap.ru/metrostation.asp?metroid=118
+Коломенская=http://moscowmap.ru/metrostation.asp?metroid=117
+Каширская=http://moscowmap.ru/metrostation.asp?metroid=116
+Кантемировская=http://moscowmap.ru/metrostation.asp?metroid=115
+Царицыно=http://moscowmap.ru/metrostation.asp?metroid=114
+Орехово=http://moscowmap.ru/metrostation.asp?metroid=113
+Домодедовская=http://moscowmap.ru/metrostation.asp?metroid=112
+Красногвардейская=http://moscowmap.ru/metrostation.asp?metroid=111
+;Алма-Атинская=
+
+[Арбатско-Покровская]
+;Митино=
+;Волоколамская=
+;Строгино=
+;Славянский бульвар=
+Крылатское=http://moscowmap.ru/metrostation.asp?metroid=46
+Молодежная=http://moscowmap.ru/metrostation.asp?metroid=45
+Кунцевская=http://moscowmap.ru/metrostation.asp?metroid=44
+Парк Победы=http://moscowmap.ru/metrostation.asp?metroid=187
+Киевская=http://moscowmap.ru/metrostation.asp?metroid=47
+Смоленская=http://moscowmap.ru/metrostation.asp?metroid=48
+Арбатская=http://moscowmap.ru/metrostation.asp?metroid=49
+Площадь Революции=http://moscowmap.ru/metrostation.asp?metroid=50
+Курская=http://moscowmap.ru/metrostation.asp?metroid=51
+Бауманская=http://moscowmap.ru/metrostation.asp?metroid=52
+Электрозаводская=http://moscowmap.ru/metrostation.asp?metroid=53
+Семеновская=http://moscowmap.ru/metrostation.asp?metroid=54
+Партизанская=http://moscowmap.ru/metrostation.asp?metroid=55
+Измайловская=http://moscowmap.ru/metrostation.asp?metroid=56
+Первомайская=http://moscowmap.ru/metrostation.asp?metroid=57
+Щелковская=http://moscowmap.ru/metrostation.asp?metroid=58
+
+[Филевская]
+;Выставочная=
+Александровский сад=http://moscowmap.ru/metrostation.asp?metroid=34
+Арбатская=http://moscowmap.ru/metrostation.asp?metroid=187
+Смоленская=http://moscowmap.ru/metrostation.asp?metroid=36
+Киевская=http://moscowmap.ru/metrostation.asp?metroid=47
+Студенческая=http://moscowmap.ru/metrostation.asp?metroid=38
+Кутузовская=http://moscowmap.ru/metrostation.asp?metroid=39
+Фили=http://moscowmap.ru/metrostation.asp?metroid=40
+Багратионовская=http://moscowmap.ru/metrostation.asp?metroid=41
+Филевский парк=http://moscowmap.ru/metrostation.asp?metroid=42
+Пионерская=http://moscowmap.ru/metrostation.asp?metroid=43
+Кунцевская=http://moscowmap.ru/metrostation.asp?metroid=44
+
+[Кольцевая]
+Белорусская=http://moscowmap.ru/metrostation.asp?metroid=3
+Новослободская=http://moscowmap.ru/metrostation.asp?metroid=2
+Проспект Мира=http://moscowmap.ru/metrostation.asp?metroid=75
+Комсомольская=http://moscowmap.ru/metrostation.asp?metroid=12
+Курская=http://moscowmap.ru/metrostation.asp?metroid=51
+Таганская=http://moscowmap.ru/metrostation.asp?metroid=10
+Павелецкая=http://moscowmap.ru/metrostation.asp?metroid=119
+Добрынинская=http://moscowmap.ru/metrostation.asp?metroid=8
+Октябрьская=http://moscowmap.ru/metrostation.asp?metroid=70
+Парк культуры=http://moscowmap.ru/metrostation.asp?metroid=21
+Киевская=http://moscowmap.ru/metrostation.asp?metroid=47
+Краснопресненская=http://moscowmap.ru/metrostation.asp?metroid=4
+
+[Калужско-Рижская]
+Новоясеневская=http://moscowmap.ru/metrostation.asp?metroid=59
+Ясенево=http://moscowmap.ru/metrostation.asp?metroid=60
+Теплый Стан=http://moscowmap.ru/metrostation.asp?metroid=61
+Коньково=http://moscowmap.ru/metrostation.asp?metroid=62
+Беляево=http://moscowmap.ru/metrostation.asp?metroid=63
+Калужская=http://moscowmap.ru/metrostation.asp?metroid=64
+Новые Черемушки=http://moscowmap.ru/metrostation.asp?metroid=65
+Профсоюзная=http://moscowmap.ru/metrostation.asp?metroid=66
+Академическая=http://moscowmap.ru/metrostation.asp?metroid=67
+Ленинский проспект=http://moscowmap.ru/metrostation.asp?metroid=68
+Шаболовская=http://moscowmap.ru/metrostation.asp?metroid=69
+Октябрьская=http://moscowmap.ru/metrostation.asp?metroid=70
+Третьяковская=http://moscowmap.ru/metrostation.asp?metroid=71
+Китай-город=http://moscowmap.ru/metrostation.asp?metroid=72
+Тургеневская=http://moscowmap.ru/metrostation.asp?metroid=73
+Сухаревская=http://moscowmap.ru/metrostation.asp?metroid=74
+Проспект Мира=http://moscowmap.ru/metrostation.asp?metroid=75
+Рижская=http://moscowmap.ru/metrostation.asp?metroid=76
+Алексеевская=http://moscowmap.ru/metrostation.asp?metroid=77
+ВДНХ=http://moscowmap.ru/metrostation.asp?metroid=78
+Ботанический сад=http://moscowmap.ru/metrostation.asp?metroid=79
+Свиблово=http://moscowmap.ru/metrostation.asp?metroid=80
+Бабушкинская=http://moscowmap.ru/metrostation.asp?metroid=81
+Медведково=http://moscowmap.ru/metrostation.asp?metroid=82
+
+[Таганско-Краснопресненская]
+Выхино=http://moscowmap.ru/metrostation.asp?metroid=131
+Рязанский проспект=http://moscowmap.ru/metrostation.asp?metroid=132
+Кузьминки=http://moscowmap.ru/metrostation.asp?metroid=133
+Текстильщики=http://moscowmap.ru/metrostation.asp?metroid=134
+Волгоградский проспект=http://moscowmap.ru/metrostation.asp?metroid=135
+Пролетарская=http://moscowmap.ru/metrostation.asp?metroid=149
+Таганская=http://moscowmap.ru/metrostation.asp?metroid=10
+Китай-город=http://moscowmap.ru/metrostation.asp?metroid=72
+Кузнецкий мост=http://moscowmap.ru/metrostation.asp?metroid=138
+Пушкинская=http://moscowmap.ru/metrostation.asp?metroid=139
+Баррикадная=http://moscowmap.ru/metrostation.asp?metroid=140
+Улица 1905 года=http://moscowmap.ru/metrostation.asp?metroid=141
+Беговая=http://moscowmap.ru/metrostation.asp?metroid=142
+Полежаевская=http://moscowmap.ru/metrostation.asp?metroid=143
+Октябрьское поле=http://moscowmap.ru/metrostation.asp?metroid=144
+Щукинская=http://moscowmap.ru/metrostation.asp?metroid=145
+Тушинская=http://moscowmap.ru/metrostation.asp?metroid=146
+Сходненская=http://moscowmap.ru/metrostation.asp?metroid=147
+Планерная=http://moscowmap.ru/metrostation.asp?metroid=148
+
+[Калининско-Солнцевская]
+Третьяковская=http://moscowmap.ru/metrostation.asp?metroid=71
+Марксистская=http://moscowmap.ru/metrostation.asp?metroid=151
+Площадь Ильича=http://moscowmap.ru/metrostation.asp?metroid=152
+Авиамоторная=http://moscowmap.ru/metrostation.asp?metroid=153
+Шоссе Энтузиастов=http://moscowmap.ru/metrostation.asp?metroid=154
+Перово=http://moscowmap.ru/metrostation.asp?metroid=155
+Новогиреево=http://moscowmap.ru/metrostation.asp?metroid=156
+
+[Серпуховско-Тимирязевская]
+Бульвар Дмитрия Донского=http://moscowmap.ru/metrostation.asp?metroid=186
+Аннино=http://moscowmap.ru/metrostation.asp?metroid=107
+Улица Академика Янгеля=http://moscowmap.ru/metrostation.asp?metroid=185
+Пражская=http://moscowmap.ru/metrostation.asp?metroid=84
+Южная=http://moscowmap.ru/metrostation.asp?metroid=85
+Чертановская=http://moscowmap.ru/metrostation.asp?metroid=86
+Севастопольская=http://moscowmap.ru/metrostation.asp?metroid=87
+Нахимовский проспект=http://moscowmap.ru/metrostation.asp?metroid=88
+Нагорная=http://moscowmap.ru/metrostation.asp?metroid=89
+Нагатинская=http://moscowmap.ru/metrostation.asp?metroid=90
+Тульская=http://moscowmap.ru/metrostation.asp?metroid=91
+Серпуховская=http://moscowmap.ru/metrostation.asp?metroid=92
+Полянка=http://moscowmap.ru/metrostation.asp?metroid=93
+Боровицкая=http://moscowmap.ru/metrostation.asp?metroid=94
+Чеховская=http://moscowmap.ru/metrostation.asp?metroid=95
+Цветной бульвар =http://moscowmap.ru/metrostation.asp?metroid=96
+Менделеевская=http://moscowmap.ru/metrostation.asp?metroid=97
+Савеловская=http://moscowmap.ru/metrostation.asp?metroid=98
+Дмитровская=http://moscowmap.ru/metrostation.asp?metroid=99
+Тимирязевская=http://moscowmap.ru/metrostation.asp?metroid=100
+Петровско-Разумовская=http://moscowmap.ru/metrostation.asp?metroid=101
+Владыкино=http://moscowmap.ru/metrostation.asp?metroid=102
+Отрадное=http://moscowmap.ru/metrostation.asp?metroid=103
+Бибирево=http://moscowmap.ru/metrostation.asp?metroid=104
+Алтуфьево=http://moscowmap.ru/metrostation.asp?metroid=105
+
+[Люблинско-Дмитровская]
+;Достоевская=
+;Трубная=
+Чкаловская=http://moscowmap.ru/metrostation.asp?metroid=170
+Римская=http://moscowmap.ru/metrostation.asp?metroid=169
+Крестьянская застава=http://moscowmap.ru/metrostation.asp?metroid=168
+Дубровка=http://moscowmap.ru/metrostation.asp?metroid=167
+Кожуховская=http://moscowmap.ru/metrostation.asp?metroid=166
+Печатники=http://moscowmap.ru/metrostation.asp?metroid=165
+Волжская=http://moscowmap.ru/metrostation.asp?metroid=164
+Люблино=http://moscowmap.ru/metrostation.asp?metroid=163
+Братиславская=http://moscowmap.ru/metrostation.asp?metroid=157
+Марьино=http://moscowmap.ru/metrostation.asp?metroid=161
+
+[Каховская]
+Каширская=http://moscowmap.ru/metrostation.asp?metroid=116
+Варшавская=http://moscowmap.ru/metrostation.asp?metroid=110
+Каховская=http://moscowmap.ru/metrostation.asp?metroid=109
+
+[Бутовская]
+Улица Старокачаловская=http://moscowmap.ru/metrostation.asp?metroid=192
+Улица Скобелевская=http://moscowmap.ru/metrostation.asp?metroid=190
+Бульвар Адмирала Ушакова=http://moscowmap.ru/metrostation.asp?metroid=191
+Улица Горчакова=http://moscowmap.ru/metrostation.asp?metroid=189
+Бунинская аллея=http://moscowmap.ru/metrostation.asp?metroid=188
+;Улица Старопотаповская=
+;Улица Остафьевская=
+;Новокурьяново=
+

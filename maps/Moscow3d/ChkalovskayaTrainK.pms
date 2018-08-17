@@ -443,4 +443,4 @@ begin
 //    DrawTrain1(i, LeftDoor[i], Types[i]);
 //  DrawPath(20);
   StartStatus := 1;
-end.
+end.

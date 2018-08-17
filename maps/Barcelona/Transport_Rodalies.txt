@@ -63,4 +63,4 @@ Cornella Centre=Станция Cornella.\nЛинии R1, R4.\nРасписание: http://www.renfe.c
 Estacio de Sant Adria=Станция Sant Adria de Besos.\nЛиния R1.\nРасписание: http://www.renfe.com/EN/viajeros/cercanias/barcelona/index.html
 
 [T6]
-Estacio de Sant Adria=Станция Sant Adria de Besos.\nЛиния R1.\nРасписание: http://www.renfe.com/EN/viajeros/cercanias/barcelona/index.html
+Estacio de Sant Adria=Станция Sant Adria de Besos.\nЛиния R1.\nРасписание: http://www.renfe.com/EN/viajeros/cercanias/barcelona/index.html

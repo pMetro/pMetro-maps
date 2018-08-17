@@ -3,21 +3,21 @@ Type=Metro
 
 [Line1]
 Name=Line 1
-LineMap=1.map
+LineMap=1_line.map
 Stations=Kifissia,KAT,Maroussi,Neratziotissa,Irini,Iraklio,Nea Ionia,Pefkakia,Perissos,Ano Patissia,Aghios Eleftherios,Kato Patissia,Aghios Nikolaos,Attiki,Victoria,Omonia,Monastiraki,Thissio,Petralona,Tavros,Kalithea,Moschato,Faliro,Piraeus
 Driving=2,2.30,3,2,2.30,1.30,2.30,1.30,1.30,2.30,1.30,2,1.30,2,2,1.40,1.05,2.10,1.25,1.10,1.50,2.35,3.20
 Delays=10,3.5,5,5,7,15
 
 [Line2]
 Name=Line 2
-LineMap=2.map
+LineMap=2_line.map
 Stations=Anthoupoli,Peristeri,Aghios Antonios,Sepolia,Attiki,St. Larissis,Metaxourghio,Omonia,Panepistimio,Syntagma,Akropoli,Syngrou-Fix,Neos Kosmos,Aghios Ioannis,Dafni,Aghios Dimitrios/Alexandros Panagoulis,Ilioupoli,Alimos,Argyroupoli,Elliniko
 Driving=2,2,1,2,1,(2,2),(1,1),2,1,2,1,2,1,2,1,2,2,2,2
 Delays=10,4,7,5,10,15
 
 [Line3]
 Name=Line 3
-LineMap=3.map
+LineMap=3_line.map
 Stations=Dimotiko Theatro,Piraeus,Maniatika,Nikea,Korydallos,Aghia Varvara,Aghia Marina,Egaleo,Eleonas,Kerameikos,Monastiraki,Syntagma,Evangelismos,Megaro Moussikis,Ambelokipi,Panormou,Katehaki,Ethniki Amyna,Holargos,Nomismatokopio,Aghia Paraskevi,Halandri,Doukissis Plakentias,Pallini,Peania-Kantza,Koropi,Aerothromio
 Driving=0,0,0,0,0,0,2,2,2,2,2,(2,3),(1,1),2,2,2,(1,1),(2,2),(2,1),1,(2,2),(2,1),8,2,6,5,(,6)
 Delays=10,4.5,7,7,10,15

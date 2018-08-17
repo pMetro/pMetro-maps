@@ -1,6 +1,6 @@
 [Line1]
 Name=M 1
-LineMap=1.map
+LineMap=1_line.map
 Stations=Vanlose,Flinthom,Lindevang,Solbjerg,Fredericksberg,Forum,Norreport,Kongens Nytorv,Cristianshavn,Islands Brygge,Universitetet,Sundby,Bella Center,Orestad,Vestamager
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2
 DelayDay=5
@@ -8,7 +8,7 @@ DelayNight=15
 
 [Line2]
 Name=M 2
-LineMap=2.map
+LineMap=2_line.map
 Stations=Vanlose,Flinthom,Lindevang,Solbjerg,Fredericksberg,Forum,Norreport,Kongens Nytorv,Cristianshavn,Amagerbro,Lergravsparken,Oresund,Amager Strand,Femoren,Kastrup,Lufthavnen
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 DelayDay=5

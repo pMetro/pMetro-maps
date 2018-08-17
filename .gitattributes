@@ -1,0 +1,10 @@
+# To view the line-endings in files you can use the command 'git ls-files --eol'
+# It can be specified: 'w/crlf', 'w/lf', 'w/mixed'
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Images should be treated as binary (is a macro for -text -diff)
+*.bmp   binary
+*.gif   binary
+*.pm3d  binary
+*.png   binary

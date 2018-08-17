@@ -5,4 +5,4 @@ CityName=Рио-де-Жанейро
 StringToAdd='  Дата открытия: '
 
 [1]
-Cantagalo=27.02.2007
+Cantagalo=27.02.2007

@@ -20,4 +20,4 @@ CityName=Sofia
 Западен парк=Выход на пересечение бульвара Pirotski с бульварами Dobrinova Scala и Louis Pasteur.\nhttp://www.metropolitan.bg/html/zappark_eng.htm
 Люлин=Выход на бульвар Pirotski.\nhttp://www.metropolitan.bg/html/lulin_eng.htm\n
 Сливница=Выход на бульвар Сливница.\nhttp://www.metropolitan.bg/html/slivnica_eng.htm\n
-Обеля=
+Обеля=

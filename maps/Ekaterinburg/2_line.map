@@ -1,0 +1,20 @@
+[Options]
+StationDiameter=16
+ImageFileName=2_line.vec
+WordWrap=False
+LinesWidth=9
+
+[Север-Юг]
+Coordinates=0,0, 0,0, 0,0, 0,0, 0,0, 220,180
+Rects=0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 87,173,118,15
+Rects2=
+
+[Запад-Восток]
+Coordinates=240,60, 240,100, 240,140, 240,180
+Rects=256,55,117,15, 256,95,86,15, 256,135,147,15, 256,173,118,15
+Rects2=
+
+[Городская электричка]
+Coordinates=
+Rects=
+Rects2=

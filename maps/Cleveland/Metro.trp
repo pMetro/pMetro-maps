@@ -1,6 +1,6 @@
 [Line1]
 Name=Red Line
-LineMap=1.map
+LineMap=1_line.map
 Stations=Louis Stokes Station at Windermere,Superior,Euclid - E. 120,University Circle,E. 105 - Quincy,E. 97th,E. 55th,E.34 - Campus,Tower City - Public Square,W. 25 - Ohio City,W. 65 - Madison,West Blvd - Cudell,W. 117 - Madison,Triskett,West Park,Puritas,Brookpark,Cleveland Hopkins Int'l Airport
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 DelayDay=0
@@ -8,7 +8,7 @@ DelayNight=0
 
 [Line2]
 Name=Blue Line
-LineMap=2.map
+LineMap=2_line.map
 Stations=South Harbor,North Coast,Amtrak,West 3rd Street,Flats East Bank,Settlers Landing,Tower City - Public Square,E.34 - Campus,E. 55th,Drexmore,S. Woodland,Southington,Onaway,Ashby,Lee,Avalon,Kenmore,Lynnfield,Farnsleigh,Warrensville
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 DelayDay=0
@@ -16,7 +16,7 @@ DelayNight=0
 
 [Line3]
 Name=Green Line
-LineMap=3.map
+LineMap=3_line.map
 Stations=South Harbor,North Coast,Amtrak,West 3rd Street,Flats East Bank,Settlers Landing,Tower City - Public Square,E.34 - Campus,E. 55th,E. 79th,Woodhill,E. 116th,Shaker Square,Coventry,Southington,South Park,Lee,Attleboro,Eaton,Courtland,Warrensville,Bellvoir,West Green,Green
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 DelayDay=0

@@ -286,4 +286,4 @@ begin
   DrawTrain1(CurrentPath, LeftDoor[CurrentPath]);
 //  DrawPath(20);
   StartStatus := 1;
-end.
+end.

@@ -15,4 +15,4 @@ Type=Image
 Безымянка=Bezymyanka.vec
 Кировская=Kirovskaya.vec
 Юнгородок=Yungorodok.vec
-Крылья Советов=KrylyaSovetov.vec
+Крылья Советов=KrylyaSovetov.vec

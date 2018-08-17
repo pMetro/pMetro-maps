@@ -38,4 +38,4 @@ Cornella=Линии Т1, T2
 Sant Adria de Besos=Линии Т4, Т6
 
 [R4]
-Cornella=Линии Т1, T2
+Cornella=Линии Т1, T2

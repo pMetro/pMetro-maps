@@ -1,6 +1,6 @@
 [Line1]
 Name=M 1
-LineMap=M 1.map
+LineMap=M1.map
 Stations=Dristor,Piata Muncii,Iancului,Obor,Stefan cel Mare,Piata Victoriei,Gara de Nord,Basarab,Crangasi,Petrache Poenaru,Grozavesti,Eroilor,Izvor,Piata Unirii,Timpuri Noi,Mihai Bravu,Dristor2,Nicolae Grigorescu,Titan,Costin Georgian,Republica,Pantelimon
 Driving=2,3,2,2,3,2,3,2,2,2,3,2,2,2,2,2,2,2,2,2,2
 DelayDay=5
@@ -8,7 +8,7 @@ DelayNight=8
 
 [Line2]
 Name=M 2
-LineMap=M 2.map
+LineMap=M2.map
 Stations=Pipera,Aurel Vlaicu,Aviatorilor,Piata Victoriei,Piata Romana,Universitatii,Piata Unirii,Tineretului,Eroii Revolutiei,Constantin Brancoveanu,Piata Sudului,Aparatorii Patriei,Dimitrie Leonida,Berceni
 Driving=2,3,2,2,3,2,3,2,2,2,3,2,2
 DelayDay=5
@@ -16,7 +16,7 @@ DelayNight=8
 
 [Line3]
 Name=M 3
-LineMap=M 3.map
+LineMap=M3.map
 Stations=Preciziei,Pacii,Gorjului,Lujerului,Politehnica,Eroilor,Izvor,Piata Unirii,Timpuri Noi,Mihai Bravu,Dristor2,Nicolae Grigorescu,1 Dec 1918,Nicolae Teclu,Anghel Saligny
 Driving=2,3,2,2,3,2,2,2,2,2,2,2,2,2
 DelayDay=6
@@ -24,7 +24,7 @@ DelayNight=12
 
 [Line4]
 Name=M 4
-LineMap=M 4.map
+LineMap=M4.map
 Stations=Gara de Nord,Basarab,Grivita,1 Mai,Jiului,Parc Bazilescu,Laminorului,Lac Straulesti
 Driving=2,3,2,2,2,0,0
 DelayDay=6

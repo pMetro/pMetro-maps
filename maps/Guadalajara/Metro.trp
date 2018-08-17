@@ -1,12 +1,12 @@
 [Line1]
 Name=L1
-LineMap=1.map
+LineMap=1_line.map
 Stations=Periferico Norte,Dermatologico,Atemajac,Division del Norte,Avila Camacho,Mezquitan,Refugio,Juarez,Mexicaltzingo,Washington,Santa Filomena,Unidad Deportiva,Urdaneta,18 de Marzo,Isla Raza,Patria Sur,Espana,Tesoro,Periferico Sur
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 
 [Line2]
 Name=L2
-LineMap=2.map
+LineMap=2_line.map
 Stations=Juarez,Plaza Universidad,San Juan de Dios,Belisario Dominguez,Oblatos,Cristobal de Onate,San Andres,San Jacinto,La Aurora,Tetian
 Driving=2,2,2,2,2,2,2,2,2
 

@@ -60,4 +60,4 @@ Type=Image
 Харьковская=Kharkovskaya.vec
 Вырлица=Vyrlitsa.vec
 Бориспольская=Borispolskaya.vec
-Красный хутор=KrasnyHutor.vec
+Красный хутор=KrasnyHutor.vec

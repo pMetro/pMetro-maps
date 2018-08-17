@@ -1,6 +1,6 @@
 [Line1]
 Name=1 GREEN ANGRIGNON - HONORÉ-BEAUGRAND
-LineMap=1.map
+LineMap=1_line.map
 Stations=Angrignon,Monk,Jolicoeur,Verdun,De L'Église,LaSalle,Charlevoix,Lionel-Groulx,Atwater,Guy-Concordia,Peel,McGill,Place des Arts,Saint-Laurent,Berri-UQAM,Beaudry,Papineau,Frontenac,Préfontaine,Joliette,Pie-IX,Viau,Assomption,Cadillac,Langelier,Radisson,Honoré-Beaugrand
 Driving=1,2,1,2,1,1,2,2,1,2,1,1,1,1,1,1,2,2,1,1,2,1,1,2,1,1
 DelayDay=5
@@ -8,7 +8,7 @@ DelayNight=7
 
 [Line2]
 Name=2 ORANGE CÔTE-VERTU - MONTMORENCY
-LineMap=2.map
+LineMap=2_line.map
 Stations=Côte-Vertu,Du Collège,De La Savane,Namur,Plamondon,Côte-Sainte-Catherine,Snowdon,Villa-Maria,Vendôme,Place-St-Henri,Lionel-Groulx,Georges-Vanier,Lucien-l'Allier,Bonaventure,Square-Victoria,Place-d'Armes,Champ-de-Mars,Berri-UQAM,Sherbrooke,Mont-Royal,Laurier,Rosemont,Beaubien,Jean-Talon,Jarry,Crémazie,Sauvé,Henri-Bourassa,Cartier,Concorde,Montmorency
 Driving=1,2,1,2,1,1,2,2,2,1,1,2,1,1,1,1,2,1,2,1,1,1,2,1,2,2,1,2,2,2
 DelayDay=5
@@ -16,7 +16,7 @@ DelayNight=7
 
 [Line3]
 Name=3 BLUE SNOWDON - SAINT-MICHEL
-LineMap=3.map
+LineMap=3_line.map
 Stations=Snowdon,Côte-des-Neiges,Université-de-Montréal,Édouard-Montpetit,Outremont,Acadie,Parc,De Castelnau,Jean-Talon,Fabre,D'Iberville,Saint-Michel
 Driving=1,1,2,1,2,1,1,2,1,1,1
 DelayDay=5
@@ -24,7 +24,7 @@ DelayNight=5
 
 [Line4]
 Name=4 YELLOW BERRI-UQAM - LONGUEUIL
-LineMap=4.map
+LineMap=4_line.map
 Stations=Berri-UQAM,Jean-Drapeau,Longueuil
 Driving=2,2
 DelayDay=7

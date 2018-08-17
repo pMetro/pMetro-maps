@@ -9,4 +9,4 @@ CityName=Athenas (Афины)
 Aerothromio=Аэропорт Eleftherios Venizelos (Элефтериос Венизелос).\nСайт аэропорта: http://www.aia.gr/
 
 [Aerothromio - Kiato]
-Aerothromio=Аэропорт Eleftherios Venizelos (Элефтериос Венизелос).\nСайт аэропорта: http://www.aia.gr/
+Aerothromio=Аэропорт Eleftherios Venizelos (Элефтериос Венизелос).\nСайт аэропорта: http://www.aia.gr/

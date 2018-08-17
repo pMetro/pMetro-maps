@@ -154,4 +154,4 @@ begin
   DrawTrainClock1(2, 9);
 
   StartStatus := 1;
-end.
+end.

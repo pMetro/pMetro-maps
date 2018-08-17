@@ -1,0 +1,81 @@
+[Options]
+AddToInfo=0
+MenuName=Railway\Stations
+Caption=Railway
+
+[Ringlijn]
+Bijlmer=
+Duivendrecht=
+RAI=
+Zuid/WTC=
+Lelylaan=
+Sloterdijk=
+
+[Amstelveenlijn]
+Zuid/WTC=
+RAI=
+Amstel=
+Centraal Station=
+
+[Gaasperplaslijn]
+Diemen Zuid=
+Amstel=
+Centraal Station=
+
+[Geinlijn]
+Bijlmer=
+Duivendrecht=
+Amstel=
+Centraal Station=
+
+[Tramline #1]
+Station Lelylaan=
+Centraal Station=
+
+[Tramline #2]
+Centraal Station=
+
+[Tramline #3]
+Muiderpoortstation=
+
+[Tramline #4]
+Centraal Station=
+Station RAI=
+
+[Tramline #5]
+Centraal Station=
+Station Zuid=
+
+[Tramline #7]
+Muiderpoortstation=
+
+[Tramline #9]
+Centraal Station=
+
+[Tramline #10]
+
+[Tramline #12]
+Amstelstation=
+Station Sloterdijk=
+
+[Tramline #13]
+Centraal Station=
+
+[Tramline #14]
+
+[Tramline #16]
+Centraal Station=
+
+[Tramline #17]
+Station Lelylaan=
+Centraal Station=
+
+[Tramline #24]
+Centraal Station=
+
+[Tramline #25]
+Centraal Station=
+
+[Tramline #26]
+Centraal Station=
+

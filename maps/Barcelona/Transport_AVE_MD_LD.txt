@@ -34,4 +34,4 @@ Sants=Железнодорожный вокзал Barcelona - Sants Estacio (AVE, Larga Distancia, Me
 Estacio de Franca=Железнодорожный вокзал Barcelona - Estacio de Franca (Media Distancia, Rodalies)
 
 [R2-Nord]
-Sants=Железнодорожный вокзал Barcelona - Sants Estacio (AVE, Larga Distancia, Media Distancia, Rodalies)
+Sants=Железнодорожный вокзал Barcelona - Sants Estacio (AVE, Larga Distancia, Media Distancia, Rodalies)

@@ -24,4 +24,4 @@ Hwanggumbol=06.10.1978
 Konguk=09.09.1985
 Kwangbok=09.09.1985
 
-[]
+[]

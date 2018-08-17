@@ -23,4 +23,4 @@ TextOut Arial, 12, 30, 330, Скрыть ж/д, 2
 
 SpotRect 30, 360, 84, 22, LoadMap Tram.map
 TextOut Arial, 12, 30, 360, Схема движения, 2
-TextOut Arial, 12, 30, 370,    трамваев, 2
+TextOut Arial, 12, 30, 370,    трамваев, 2

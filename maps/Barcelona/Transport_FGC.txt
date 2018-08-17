@@ -37,4 +37,4 @@ Bellvitge=Станция Gornal.\nЛинии L8, S33, S4, S8, R5, R6.\nРасписание: http://fg
 Bellvitge=Станция Gornal.\nЛинии L8, S33, S4, S8, R5, R6.\nРасписание: http://fgc.net/eng/index.asp
 
 [R2-Nord]
-Bellvitge=Станция Gornal.\nЛинии L8, S33, S4, S8, R5, R6.\nРасписание: http://fgc.net/eng/index.asp
+Bellvitge=Станция Gornal.\nЛинии L8, S33, S4, S8, R5, R6.\nРасписание: http://fgc.net/eng/index.asp

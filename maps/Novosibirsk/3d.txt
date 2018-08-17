@@ -19,4 +19,4 @@ Type=3dImage
 Сибирская=KrasnyProspekt-Sibirskaya.pm3d
 Березовая Роща=BeryozovayaRoscha.pm3d
 Маршала Покрышкина=MarshalaPokryshkina.pm3d
-Золотая Нива=ZolotayaNiva.pm3d
+Золотая Нива=ZolotayaNiva.pm3d
