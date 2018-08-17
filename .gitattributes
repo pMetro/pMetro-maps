@@ -3,6 +3,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+# Explicitly declare text files you want to always be normalized and converted
+# to native line endings on checkout.
+*.pms   text
+*.txt   text
+
 # Images should be treated as binary (is a macro for -text -diff)
 *.bmp   binary
 *.gif   binary
