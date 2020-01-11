@@ -83,8 +83,8 @@ StringToAdd='  Расписание: '
 Купчино=http://tutu.ru/spb/station.php?nnst=9301
 Шушары=http://tutu.ru/spb/station.php?nnst=13702
 Паровозный Музей=http://tutu.ru/spb/station.php?nnst=13802
-21 км=http://tutu.ru/spb/station.php?nnst=13902
-Детское Село=http://tutu.ru/spb/station.php?nnst=6701
+Детскосельская=http://tutu.ru/spb/station.php?nnst=13902
+Царское Село=http://tutu.ru/spb/station.php?nnst=6701
 Павловск=http://tutu.ru/spb/station.php?nnst=6801
 34 км=http://tutu.ru/spb/station.php?nnst=14102
 36 км=http://tutu.ru/spb/station.php?nnst=14202

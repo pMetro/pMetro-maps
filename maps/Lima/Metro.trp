@@ -1,5 +1,4 @@
 [Line1]
 Name=1
-Stations=Villa El Salvador,Parque Industrial,Pumacahua,Villa Maria,Maria Auxiliadora,San Juan,Atocongo,Jorge Chavez,Ayacucho,Cabitos,Angamos,San Borja Sur,La Cultura,Nicolas Arriola,Gamarra,Miguel Grau
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-
+Stations=Villa El Salvador,Parque Industrial,Pumacahua,Villa Maria,Maria Auxiliadora,San Juan,Atocongo,Jorge Chavez,Ayacucho,Cabitos,Angamos,San Borja Sur,La Cultura,Arriola,Gamarra,Grau,El Angel,Presbitero Maestro,Caja de Agua,Piramide del Sol,Los Jardines,Los Postes,San Carlos,San Martin,Santa Rosa,Bayovar
+Driving=2,2,2,2,2,3,2,2,2,3,2,2,3,2,2,2,2,3,2,2,2,2,2,2,2

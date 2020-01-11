@@ -1,65 +1,97 @@
-Size 935x635
-BrushColor -1
-PenColor 0404A4
-TextOut Arial, 35, 150, 10, Alicante, 1
-TextOut Arial, 15, 150, 45, (Attention! All time intervals in this version equal 2 minutes)
-
-PenColor 29BBEE
-BrushColor 29BBEE
-Polygon 0,557, 30,557, 30,606, 0,635
-Polygon 17,635, 49,604, 49,570, 63,556, 133,556, 157,530, 224,530, 250,556, 250,592, 268,609, 268,629, 272,635
-Polygon 337,635, 439,533, 439,486, 570,354, 598,354, 700,252, 700,36, 753,0, 776,0, 776,635
-Polygon 897,0, 935,0, 935,154, 897,116
-Polygon 935,238, 935,440, 904,420, 904,268
-Polygon 919,635, 919,535, 935,521, 935,635
+Size 1225x1720
 
 PenColor 000000
-BrushColor 000000
-Ellipse 655,32, 673,50
-Ellipse 665,32, 683,50
-Ellipse 876,530, 894,548
-Ellipse 886,530, 904,548
+TextOut Arial, 60, 400, 800, Alicante, 1
+
+Opaque 75
+PenColor DBEED8
+BrushColor DBEED8
+Polygon 0,1720, 1225,1720, 1225,1192, 999,1192, 859,1058, 763,1159, 379,1159, 377,994, 0,994
+
+Opaque 75
+PenColor F1D2E4
+BrushColor F1D2E4
+Polygon 922,867, 1225,867, 1225,1262, 861,1262, 751,1153, 923,972
+
+Opaque 75
+PenColor F2E7F0
+BrushColor F2E7F0
+Polygon 934,650, 1225,650, 1225,1005, 934,1005
+
+Opaque 75
+PenColor F8DBBF
+BrushColor F8DBBF
+Polygon 922,422, 1225,422, 1225,800, 922,800
+
+Opaque 75
+PenColor F2E7F0
+BrushColor F2E7F0
+Polygon 934,308, 1225,308, 1225,573, 934,573
+
+Opaque 75
+PenColor E6E6E5
+BrushColor E6E6E5
+Polygon 922,0, 1225,0, 1225,353, 922,353
+
+Opaque 100
+PenColor 94DBF3
+BrushColor 94DBF3
+Polygon 0,1509, 52,1509, 52,1608, 12,1650, 22,1659, 105,1576, 105,1544, 227,1544, 262,1509, 326,1509, 375,1556, 375,1574, 411,1608, 407,1613, 481,1685, 555,1685, 720,1534, 720,1402, 903,1217, 963,1217, 1170,1031, 1170,750, 1195,721, 1195,606, 1146,568, 1146,353, 1197,316, 1197,174, 1128,115, 1128,0, 1225,0, 1225,1720, 0,1720
 
 PenColor FFFFFF
+
+BrushColor E12734
+Polygon 34,1350, 54,1350, 54,1370, 34,1370
+TextOut Arial, 16, 36, 1352, L1, 1
+Polygon 964,703, 984,703, 984,723, 964,723
+TextOut Arial, 16, 966, 705, L1, 1
+
+BrushColor 11AB4B
+Polygon 34,1325, 54,1325, 54,1345, 34,1345
+TextOut Arial, 16, 36, 1327, L2, 1
+Polygon 105,999, 125,999, 125,1019, 105,1019
+TextOut Arial, 16, 107, 1001, L2, 1
+
+BrushColor FBC409
+Polygon 34,1375, 54,1375, 54,1395, 34,1395
+TextOut Arial, 16, 36, 1377, L3, 1
+Polygon 864,1114, 884,1114, 884,1134, 864,1134
+TextOut Arial, 16, 866, 1116, L3, 1
+
+BrushColor BC94C8
+Polygon 34,1400, 54,1400, 54,1420, 34,1420
+TextOut Arial, 16, 36, 1402, L4, 1
+Polygon 604,1492, 624,1492, 624,1512, 604,1512
+TextOut Arial, 16, 606, 1494, L4, 1
+
+BrushColor 224F9B
+Polygon 105,1439, 125,1439, 125,1459, 105,1459
+TextOut Arial, 16, 107, 1441, L5, 1
+Polygon 631,1492, 651,1492, 651,1512, 631,1512
+TextOut Arial, 16, 633, 1494, L5, 1
+
+BrushColor 7B6664
+Polygon 964,738, 984,738, 984,758, 964,758
+TextOut Arial, 16, 966, 740, L9, 1
+Polygon 990,70, 1010,70, 1010,90, 990,90
+TextOut Arial, 16, 991, 73, L9, 1
+
 BrushColor FFFFFF
-Ellipse 656,33, 672,49
-Ellipse 666,33, 682,49
-Ellipse 877,531, 893,547
-Ellipse 887,531, 903,547
 
-PenColor FC0E0C
-Arrow 895,539, 895,578, 6
-BrushColor FC0E0C
-PenColor FFFFFF
-Ellipse 889,533, 901,545
-Polygon 887,585, 887,605, 907,605, 907,585
-TextOut Arial, 16, 891, 588, L1, 1
+PenColor 4FC074
+TextOut Arial, 42, 445, 1112, ZONA A, 1
 
-PenColor 7B6664
-Arrow 664,41, 664,0, 6
-BrushColor 7B6664
-PenColor FFFFFF
-Ellipse 658,35, 670,47
-Polygon 631,11, 631,31, 651,31, 651,11
-TextOut Arial, 16, 635, 14, L9, 1
+PenColor C59061
+TextOut Arial, 42, 719, 986, ZONA B, 1
 
-BrushColor FC0E0C
-Polygon 105,70, 105,95, 130,95, 130,70
-SpotRect 105, 70, 25, 25, SelectRoute L1
-TextOut Arial, 18, 110, 75, L1, 1
-BrushColor FCD604
-Polygon 105,110, 105,135, 130,135, 130,110
-SpotRect 105, 110, 25, 25, SelectRoute L3
-TextOut Arial, 18, 110, 115, L3, 1
-BrushColor CC96CB
-Polygon 105,150, 105,175, 130,175, 130,150
-SpotRect 105, 150, 25, 25, SelectRoute L4
-TextOut Arial, 18, 110, 155, L4, 1
-BrushColor 955700
-Polygon 105,190, 105,215, 130,215, 130,190
-SpotRect 105, 190, 25, 25, SelectRoute 4L
-TextOut Arial, 18, 110, 195, 4L, 1
-BrushColor 7B6664
-Polygon 105,230, 105,255, 130,255, 130,230
-SpotRect 105, 230, 25, 25, SelectRoute L9
-TextOut Arial, 18, 110, 235, L9, 1
+PenColor 424B99
+TextOut Arial, 42, 767, 819, ZONA C, 1
+
+PenColor F46C18
+TextOut Arial, 42, 767, 597, ZONA D, 1
+
+PenColor BC94C8
+TextOut Arial, 42, 767, 375, ZONA E, 1
+
+PenColor A2A6A3
+TextOut Arial, 42, 767, 203, ZONA F, 1

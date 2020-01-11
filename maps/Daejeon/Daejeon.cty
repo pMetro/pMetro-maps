@@ -3,8 +3,9 @@ Name=Daejeon
 CityName=Daejeon
 Country=Южная Корея
 RusName=Тэджон
-NeedVersion=1.26.3
-MapAuthors=Схема от 15.10.2007г.
-MapAuthors=Автор: Варламов Дмитрий (www.chpeks.com)
+NeedVersion=1.29.5
+MapAuthors=Схема от 12.08.2019г.
+MapAuthors=Автор: Дмитрий Варламов
+MapAuthors=Информация взята с сайта www.djet.co.kr
 
 []

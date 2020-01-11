@@ -3,8 +3,7 @@ Name=Singapore
 CityName=Singapore
 Country=Сингапур
 RusName=Сингапур
-NeedVersion=1.26.3
-MapAuthors=Схема от 05.03.2016г.
-MapAuthors=Автор: Варламов Дмитрий (www.chpeks.com)
-MapAuthors=Интервалы с сайта: http://www.smrt.com.sg/
-
+NeedVersion=1.29.5
+MapAuthors=Схема от 02.09.2019г.
+MapAuthors=Автор: Дмитрий Варламов
+MapAuthors=Интервалы с сайта: www.smrt.com.sg

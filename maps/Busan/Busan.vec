@@ -1,16 +1,44 @@
-Size 1100x820
-PenColor 0404A4
-BrushColor -1
-TextOut Arial, 35, 63, 603, Busan, 1
-TextOut Arial, 10, 63, 633, (Attention! All time intervals in this version equal 2 minutes)
+Size 1260x795
 
-PenColor F06A00
-TextOut Arial, 12, 132, 686, 1, 1
-PenColor 81BF48
-TextOut Arial, 12, 132, 706, 2, 1
-PenColor BB8C00
-TextOut Arial, 12, 132, 726, 3, 1
-PenColor 217DCB
-TextOut Arial, 12, 132, 746, 4, 1
-PenColor 8451A0
-TextOut Arial, 12, 132, 766, BGL, 1
+TextOut Arial, 35, 1074, 439, Busan, 1
+
+PenColor FFFFFF
+BrushColor F66130
+Ellipse 101,562, 121,582
+TextOut Arial, 16, 108, 565, 1, 1
+Ellipse 645,25, 665,45
+TextOut Arial, 16, 652, 28, 1, 1
+
+BrushColor 1FAC14
+Ellipse 1179,276, 1199,296
+TextOut Arial, 16, 1186, 279, 2, 1
+Ellipse 374,27, 394,47
+TextOut Arial, 16, 381, 30, 2, 1
+
+BrushColor B58941
+Ellipse 895,416, 915,436
+TextOut Arial, 16, 902, 419, 3, 1
+Ellipse 266,341, 286,361
+TextOut Arial, 16, 273, 344, 3, 1
+
+BrushColor 286CD3
+Ellipse 605,324, 625,344
+TextOut Arial, 16, 612, 327, 4, 1
+Ellipse 917,26, 937,46
+TextOut Arial, 16, 924, 29, 4, 1
+
+PenColor AF49CC
+Line 408,488, 505,488, 20
+Line 74,36, 171,36, 20
+BrushColor AF49CC
+PenColor FFFFFF
+TextOut Arial, 16, 408, 480, Busan–Gimhae, 1
+TextOut Arial, 16, 74, 28, Busan–Gimhae, 1
+
+PenColor 4EAFD6
+Line 550,500, 607,500, 20
+Line 1028,90, 1085,90, 20
+BrushColor 4EAFD6
+PenColor FFFFFF
+TextOut Arial, 16, 550, 492, Donghae, 1
+TextOut Arial, 16, 1028, 82, Donghae, 1

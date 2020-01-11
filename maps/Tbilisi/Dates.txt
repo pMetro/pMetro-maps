@@ -28,9 +28,7 @@ Tsereteli=15.09.1979
 Politektnikuri=15.09.1979
 Medikal Institut=15.09.1979
 Delisi=15.09.1979
-
-[Saburtalo-1]
-Delisi=15.09.1979
 Vazha Pshavela=02.04.2000
-University=должна открыться в 2010 году
+University=16.10.2017
+
 

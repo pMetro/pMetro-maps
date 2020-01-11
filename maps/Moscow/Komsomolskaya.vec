@@ -383,25 +383,25 @@ BrushColor 615F56
 SpotRect 658, 130, 30, 30, ShowMessage Выход №1
 SpotRect 712, 325, 30, 30
 SpotRect 680, 1060, 30, 30
-SpotRect 780, 945, 30, 30
-SpotRect 838, 906, 30, 30
-SpotRect 594, 637, 30, 30
-SpotRect 647, 595, 30, 30
-SpotRect 574, 568, 30, 30
-SpotRect 641, 552, 30, 30
-SpotRect 663, 1150, 30, 30
-SpotRect 555, 1162, 30, 30
-SpotRect 715, 7, 30, 30
+SpotRect 599, 1127, 30, 30
+SpotRect 719, 13, 30, 30
+SpotRect 588, 0, 30, 30
+SpotRect 569, 575, 30, 30
+SpotRect 642, 551, 30, 30
+SpotRect 646, 596, 30, 30
+SpotRect 584, 637, 30, 30
+SpotRect 854, 862, 30, 30
+SpotRect 782, 948, 30, 30
 BrushColor -1
 TextOut Arial, 25, 666, 131, 1
 TextOut Arial, 25, 720, 326, 2
 TextOut Arial, 25, 688, 1061, 3
-TextOut Arial, 25, 788, 946, 4
-TextOut Arial, 25, 846, 907, 5
-TextOut Arial, 25, 602, 638, 6
-TextOut Arial, 25, 655, 596, 7
-TextOut Arial, 25, 582, 569, 8
-TextOut Arial, 25, 649, 553, 9
-TextOut Arial, 25, 665, 1151, 10
-TextOut Arial, 25, 557, 1163, 11
-TextOut Arial, 25, 717, 8, 12
+TextOut Arial, 25, 607, 1128, 4
+TextOut Arial, 25, 727, 14, 5
+TextOut Arial, 25, 596, 1, 6
+TextOut Arial, 25, 577, 576, 7
+TextOut Arial, 25, 650, 552, 8
+TextOut Arial, 25, 654, 597, 9
+TextOut Arial, 25, 586, 638, 10
+TextOut Arial, 25, 856, 863, 11
+TextOut Arial, 25, 784, 949, 12

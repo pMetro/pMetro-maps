@@ -26,7 +26,7 @@ DelayNight=8
 Name=M5
 Stations=Bignami,Ponale,Bicocca,Ca Granda,Istria,Marche,Zara,Isola,Garibaldi,Monumentale,Cenisio,Gerusalemme,Domodossola,Tre Torri,Portello,Lotto,Segesta,San Siro Ippodromo,San Siro Stadio
 LineMap=M5.map
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,3,3,2,2,2,2
+Driving=2,2,2,2,2,2,2,2,2,2,2,2,3,(3),2,2,2,2
 DelayDay=3
 DelayNight=8
 

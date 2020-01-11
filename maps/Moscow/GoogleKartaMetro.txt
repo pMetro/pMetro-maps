@@ -49,7 +49,7 @@ StringToAdd='  Ссылка на карту kartametro.info: '
 
 [Арбатско-Покровская]
 Крылатское=http://kartametro.info/?v=1&ll=55.756611,37.40791&z=17&t=h
-Молодежная=http://kartametro.info/?v=1&ll=55.740836,37.41662&z=17&t=h
+Молодёжная=http://kartametro.info/?v=1&ll=55.740836,37.41662&z=17&t=h
 Кунцевская=http://kartametro.info/?v=1&ll=55.73075,37.44579&z=17&t=h
 Славянский бульвар=<нет данных>
 Парк Победы=http://kartametro.info/?v=1&ll=55.736079,37.51748&z=17&t=h

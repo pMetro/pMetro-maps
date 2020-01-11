@@ -7,34 +7,41 @@ StringToAdd='  ƒата открыти€: '
 [Orange Line]
 Central=31.03.2001
 Galeria=31.03.2001
+102 Sul=04.06.2009
+108 Sul=12.04.2008
+112 Sul=09.05.2009
 114 Sul=31.03.2001
 Asa Sul=31.03.2001
 Shopping=31.03.2001
 Feira do Guara=31.03.2001
+Guara=10.05.2010
+Arniqueiras=06.02.2002
 Aguas Claras=31.03.2001
 Taguatinga Sul=31.03.2001
 Furnas=31.03.2001
-Terminal Samambaia=06.02.2002
-Samambaia Sul=31.03.2001
-Arniqueiras=06.02.2002
-108 Sul=12.04.2007
+Samambaia Sul=06.02.2002
+Terminal Samambaia=31.03.2001
 
 [Green Line]
-Praca de Relogio=31.03.2001
-Concessionarias=18.05.2004
-Centro Metropolitano=но€брь 2006 г.
-Ceilandia Sul=но€брь 2006 г.
 Central=31.03.2001
 Galeria=31.03.2001
+102 Sul=04.06.2009
+108 Sul=12.04.2008
+112 Sul=09.05.2009
 114 Sul=31.03.2001
 Asa Sul=31.03.2001
 Shopping=31.03.2001
 Feira do Guara=31.03.2001
-Aguas Claras=31.03.2001
+Guara=10.05.2010
 Arniqueiras=06.02.2002
-108 Sul=12.04.2007
-Guariroba=16.04.2007
-Ceilandia Centro=16.04.2007
-Ceilandia Norte=16.04.2007
-Terminal Ceilandia=16.04.2007
+Aguas Claras=31.03.2001
+Concessionarias=18.05.2004
+Praca de Relogio=31.03.2001
+Centro Metropolitano=11.2006
+Ceilandia Sul=11.2006
+Guariroba=16.04.2008
+Ceilandia Centro=16.04.2008
+Ceilandia Norte=16.04.2008
+Terminal Ceilandia=16.04.2008
 
+[]

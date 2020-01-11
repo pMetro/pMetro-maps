@@ -25,6 +25,6 @@ Type=Image
 Бурнаковская=Burnakovskaya.vec
 Канавинская=Kanavinskaya.vec
 Московская=Moskovskaya.vec
-;Стрелка=
+Стрелка=Strelka.vec
 ;Волга=
 

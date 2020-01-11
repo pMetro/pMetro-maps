@@ -1,35 +1,58 @@
 [Line1]
 Name=1
-Stations=Tajrish,Gheytariyeh,Shahid Sadr,Gholhak,Shari'ati,Mirdamad,Shahid Hemmat,Mosalla,Shahid Beheresti,Shahid Mofateh,Haft-e-tir,Taleghani,Darvazeh Dowlat,Saadi,Imam Khomeini,Panzdah-e-Khordad,Khayam,Molavi,Shoosh,Terminal-e-Jonoob,Khazaneh,Ali abad,Javanmard Ghasab,Shahr-e-Rey,Bagher shahr,Haram-e-Motahar,Kahrizak
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Tajrish,Gheytariyeh,Shahid Sadr,Gholhak,Doctor Shari’ati,Mirdamad,Shahid Haghani,Shahid Hemmat,Mosalla-ye Emam Khomeini,Shahid Beheshti,Shahid Mofatteh,Shohada-ye Haftom-e Tir,Taleghani,Darvazeh Dowlat,Sa’di,Emam Khomeini,Panzdah-e Khordad,Khayyam,Meydan-e Mohammadiyeh,Shoush,Payaneh Jonoub,Shahid Bokharaei,Ali Abad,Javanmard-e Ghassab,Shahr-e Rey,Palayeshgah,Shahed-Bagher Shahr 1,Haram-e Motahhar-e Emam Khomeini,Kahrizak(,Haram-e Motahhar-e Emam Khomeini),Shahed-Bagher Shahr 2(Namayeshgah-e Shahr-e Aftab),Namayeshgah-e Shahr-e Aftab(Vavan,Shahed-Bagher Shahr 2,Emam Khomeini Airport),Vavan,Emam Khomeini Airport(Shahr-e Parand,Vavan,,Namayeshgah-e Shahr-e Aftab),Shahr-e Parand
+Aliases=Shahed-Bagher Shahr 1,Shahed-Bagher Shahr,Shahed-Bagher Shahr 2,Shahed-Bagher Shahr
+Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,(,2),(2),(,2,2),0,(,,,2)
 
 [Line2]
 Name=2
-Stations=Farhang Sara,Tehran Pars,Shahid Bagheri,Elm o Sanat University,Sarsabz,Sabalan,Shahid Madani,Darvazeh Shemiran,Baharestan,Mellat,Imam Khomeini,Hasan Abad,Majles,Meydan-e-Hor,Navab,Azadi,Sharif University,Tarasht,Tehran/Sadeghieh
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Farhangsara,Tehranpars,Shahid Bagheri,Daneshgah-e Elm-o San’at,Sarsabz,Janbazan,Fadak,Sabalan,Shahid Madani,Emam Hossein,Darvazeh Shemiran,Baharestan,Mellat,Emam Khomeini,Hasan Abad,Daneshgah-e Emam Ali,Meydan-e-Hor,Shahid Navab-e Safavi,Shademan,Daneshgah-e Sharif,Tarasht,Tehran/Sadeghiyeh
+Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 
 [Line3]
 Name=3
-Stations=Ghaem,Nobonyad,Shahid Zeyn-o-ddin,Shahid Beheshti,Shahid Doctor Fatemi,Meydan-e,Vali Asr,Majles,Monirieh,Rahahan,Javadieh,Ghale Morghi,Shahrak-e Shari'ati,Abdol Abad,Ne'mat Abad,Azadegan
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Gha’em,Shahid Mahallati(Aghdasiyeh,Gha’em,Nobonyad),Aghdasiyeh,Nobonyad(Hossein Abad,Aghdasiyeh,,Shahid Mahallati),Hossein Abad,Meydan-e Heravi,Shahid Zeynoddin,Khajeh Abdollah-e Ansari,Shahid Sayyad-e Shirazi,Shahid Ghodousi,Sohrevardi,Shahid Beheshti,Mirza-ye Shirazi,Meydan-e Jahad,Meydan-e Hazrat-e Vali Asr,Teatr-e Shahr,Moniriyeh,Mahdiyeh,Rahahan,Javadiyeh,Zamzam,Shahrak-e Shari’ati,Abdol Abad,Ne’mat Abad,Azadegan
+Driving=2,(,2,2),0,(2,,,2),2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 
 [Line4]
 Name=4
-Stations=Ekbatan,Shahrak Ekbatan(Bime,Ekbatan,Meydan-e Azadi),Bime,Meydan-e Azadi(Ostad Moein,Bime,,Shahrak Ekbatan),Ostad Moein,Doctor Habib-o-llah,Azadi,Tohid,Enghelab,Vali Asr,Ferdowsi,Darvazeh Dowlat,Darvazeh Shemiran,Shohada Square,Sheykh-o-raeis,Piroozi,Nabard,Niroo Hanavaei,Shahid Kolahdooz
-Driving=2,(,2,4),0,(2,,,4),2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Eram-e Sabz,Shahrk-e Ekbatan,Bimeh 1,Meydan-e Azadi,Ostad Mo’in,Doctor Habibollah,Shademan,Towhid,Meydan-e Enghelab-e Eslami,Teatr-e Shahr,Ferdowsi,Darvazeh Dowlat,Darvazeh Shemiran,Meydan-e Shohada,Ebn-e Sina,Pirouzi,Nabard,Nirou Havaei,Shahid Kolahdouz(,Nirou Havaei),Bimeh 2(Mehrabad Airport Terminal 1&2),Mehrabad Airport Terminal 1&2,Mehrabad Airport Terminal 4&6
+Aliases=Bimeh 1,Bimeh,Bimeh 2,Bimeh
+Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,(,2),(2),2
 
 [Line5]
 Name=5
-Stations=Tehran/Sadeghieh,Ekbatan,Azadi Stadium,Park-e-Jangali,Iran Khodro,Vard Avard,Garm Darreh,Atomosfer,Karaj,Mahdasht,Golshahr
+Stations=Tehran/Sadeghiyeh,Eram-e Sabz,Varzeshgah-e Azadi,Chitgar,Iran Khodro,Vardavard,Garmdarreh,Atmosfer,Karaj,Mohammad Shahr,Golshahr
 Driving=2,2,2,2,2,2,2,2,2,2
 
+[Line6]
+Name=6
+Stations=Kouhsar,Shohada-ye Kan,Shahran,Shahr-e Ziba,Ayatollah Kashani,Shahid Sattari,Shahid Ashrafi Esfahani,Yadegar-e Emam,Marzdaran,Shahrak-e Azmayesh,Daneshgah-e Tarbiat Modarres,Karegar,Boostan-e Laleh,Meydan-e Hazrat-e Vali Asr,Shahid Nejatollahi,Shohada-ye Haftom-e Tir,Bahar Shiraz,Sarbaz,Emam Hossein,Meydan-e Shohada(Amir Kabir,Emam Hossein,Be’sat),Amir Kabir,Shohada-ye Hefdah-e Shahrivar,Meydan-e Khorasan,Shahid Rezaei,Be’sat(Kiyan Shahr,Shahid Rezaei,Dowlat Abad,Meydan-e Shohada),Kiyan Shahr,Dowlat Abad(Cheshmeh Ali,Kiyan Shahr,,Be’sat),Cheshmeh Ali,Ebn-e Babviyeh,Meydan-e Hazrat-e Abdol Azim,Haram-e Hazrat-e Abdol Azim
+Driving=0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,(,,2),0,0,0,0,(,,2,2),0,(,,,2),0,0,0
+
+[Line7]
+Name=7
+Stations=Meydan-e Ketab,Shahid Dadman,Meydan-e San’at(Borj-e Milad-e Tehran,Shahid Dadman,Daneshgah-e Tarbiat Modarres),Borj-e Milad-e Tehran,Boostan-e Goftegou,Daneshgah-e Tarbiat Modarres(Bagher Khan,Boostan-e Goftegou,Shahid Navab-e Safavi,Meydan-e San’at),Bagher Khan,Towhid,Shahid Navab-e Safavi(Roudaki,Towhid,,Daneshgah-e Tarbiat Modarres),Roudaki,Komeyl,Beryanak,Helal Ahmar,Mahdiyeh,Meydan-e Mohammadiyeh(Mowlavi,Mahdiyeh,Basij),Mowlavi,Meydan-e Ghiyam,Shohada-ye Hefdah-e Shahrivar,Bozorgrah-e Shahid Mahallati,Ahang,Basij(Varzeshgah-e Takhti,Ahang,,Meydan-e Mohammadiyeh),Varzeshgah-e Takhti
+Driving=0,0,(,,2),0,0,(,,2,2),0,0,(2,,,2),2,2,2,2,2,(,2,2),0,0,0,0,0,(,,,2)
+
 [Transfers]
-=1,Imam Khomeini, 2,Imam Khomeini, 2
-=1,Darvazeh Dowlat,4,Darvazeh Dowlat,2
-=2,Tehran/Sadeghieh, 5,Tehran/Sadeghieh, 2
-=2,Darvazeh Shemiran,4,Darvazeh Shemiran,2
-=3,Shahid Beheshti,1,Shahid Beheresti,2
-=4,Azadi,2,Azadi,2
-=4,Ekbatan,5,Ekbatan,2
-=4,Vali Asr,3,Vali Asr,2
-=3,Majles,2,Majles,2
+Shahed-Bagher Shahr=1,Shahed-Bagher Shahr 1, 1,Shahed-Bagher Shahr 2, 2
+Emam Khomeini=1,Emam Khomeini, 2,Emam Khomeini, 2
+Shahid Beheshti=1,Shahid Beheshti, 3,Shahid Beheshti, 2
+Darvazeh Dowlat=1,Darvazeh Dowlat, 4,Darvazeh Dowlat, 2
+Shohada-ye Haftom-e Tir=1,Shohada-ye Haftom-e Tir, 6,Shohada-ye Haftom-e Tir, 0
+Meydan-e Mohammadiyeh=1,Meydan-e Mohammadiyeh, 7,Meydan-e Mohammadiyeh, 2
+Darvazeh Shemiran=2,Darvazeh Shemiran, 4,Darvazeh Shemiran, 2
+Shademan=2,Shademan, 4,Shademan, 2
+Tehran/Sadeghiyeh=2,Tehran/Sadeghiyeh, 5,Tehran/Sadeghiyeh, 2
+Emam Hossein=2,Emam Hossein, 6,Emam Hossein, 0
+Shahid Navab-e Safavi=2,Shahid Navab-e Safavi, 7,Shahid Navab-e Safavi, 2
+Teatr-e Shahr=3,Teatr-e Shahr, 4,Teatr-e Shahr, 2
+Meydan-e Hazrat-e Vali Asr=3,Meydan-e Hazrat-e Vali Asr, 6,Meydan-e Hazrat-e Vali Asr, 0
+Mahdiyeh=3,Mahdiyeh, 7,Mahdiyeh, 2
+Bimeh=4,Bimeh 1, 4,Bimeh 2, 2
+Eram-e Sabz=4,Eram-e Sabz, 5,Eram-e Sabz, 2
+Meydan-e Shohada=4,Meydan-e Shohada, 6,Meydan-e Shohada, 2
+Towhid=4,Towhid, 7,Towhid, 0
+Daneshgah-e Tarbiat Modarres=6,Daneshgah-e Tarbiat Modarres, 7,Daneshgah-e Tarbiat Modarres, 0
+Shohada-ye Hefdah-e Shahrivar=6,Shohada-ye Hefdah-e Shahrivar, 7,Shohada-ye Hefdah-e Shahrivar, 0

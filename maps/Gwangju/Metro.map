@@ -1,23 +1,30 @@
 [Options]
-StationDiameter=13
+StationDiameter=12
 ImageFileName=Gwangju.vec
-LinesWidth=7
+LinesWidth=8
 WordWrap=False
 UpperCase=False
 
 [1]
-Color=ff0000
-LabelsColor=cf0000
-Coordinates=840,320, 840,270, 840,255, 840,180, 795,135, 770,110, 745,85, 725,65, 695,50, 650,70, 600,60, 560,60, 520,60, 475,60, 425,75, 365,115, 240,115, 180,115, 125,160, 95,190, 35,220
-Rects=780,312,46,15, 0,0,0,0, 790,256,30,15, 712,182,115,15, 714,135,71,15, 781,97,85,15, 757,74,88,15, 737,53,88,15, 680,23,88,15, 630,83,49,15, 582,33,58,15, 538,73,51,15, 492,34,63,15, 454,69,46,15, 369,62,42,15, 296,127,161,15, 221,88,36,15, 115,90,80,15, 137,161,61,15, 104,198,34,15, 32,232,63,15
+Color=67A128
+LabelsColor=000000
+Coordinates=884,333, 883,241, 861,173, 831,135, 816,93, 789,64, 764,44, 729,38, 693,58, 640,49, 603,56, 563,60, 513,66, 464,87, 427,112, 279,104, 220,109, 180,142, 161,180, 75,224
+Rects=829,314,46,15, 841,242,30,15, 742,176,109,15, 755,141,66,15, 827,85,85,15, 809,55,88,15, 781,33,88,15, 637,13,88,15, 701,67,49,15, 575,28,58,15, 605,66,51,15, 498,35,63,15, 519,73,46,15, 415,67,42,15, 435,120,161,15, 288,81,36,15, 134,86,80,15, 35,120,137,15, 118,159,34,15, 17,195,63,15
 Rect=
+Rects2=
 
 [AdditionalNodes]
-1=1,Geumnamno 5-ga,Yangdong Market, 710,50
-2=1,Yangdong Market,Dolgogae, 685,50, 665,70
-3=1,Dolgogae,Nongseong, 635,70, 625,60
-4=1,Uncheon,Sangmu, 440,60
-5=1,Sangmu,Kim Daejung Convention Center, 385,115
-6=1,Songjeong Park,Songjeongri, 170,115
-7=1,Dosan,Pyeongdong, 65,220
+1=1,Nokdong,Sotae, 892,301, spline
+2=1,Namgwangju,Culture Complex, 821,117, spline
+3=1,Culture Complex,Geumnamno 4-ga, 810,82, spline
+4=1,Geumnamno 5-ga,Yangdong Market, 744,30, spline
+5=1,Yangdong Market,Dolgogae, 714,49, spline
+6=1,Dolgogae,Nongseong, 675,65, 656,51, spline
+7=1,Ssangcheon,Uncheon, 538,61, spline
+8=1,Uncheon,Sangmu, 492,72, spline
+9=1,Kim Daejung Convention Center,Airport, 385,129, 354,119, spline
+10=1,Airport,Songjeong Park, 245,103, spline
+11=1,Songjeong Park,Gwangju Songjeong Station, 201,118, spline
+12=1,Dosan,Pyeongdong, 111,214, spline
 
+[]

@@ -1,9 +1,12 @@
 @echo off
 SETLOCAL EnableDelayedExpansion
 
-set ZIP7=D:\WinApps\7-Zip\7z.exe
+set ZIP7=7z.exe
 set PMZ_DIR=pmz
 set MAPS_DIR=maps
+
+rmdir /q/s %MAPS_DIR%
+mkdir %MAPS_DIR%
 
 for /f %%F in ('dir /b %PMZ_DIR%\*.pmz') do (
   set FILENAME=%%F

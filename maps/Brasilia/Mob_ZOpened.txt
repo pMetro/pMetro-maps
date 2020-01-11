@@ -3,32 +3,42 @@ AddToInfo=0
 CityName=Бразилиа
 MenuName=Моб.связь\Открытые участки
 
+[Drivings]
+OrangeLineAsaSulTerminalSamambaia=Orange Line,Asa Sul,Terminal Samambaia
+OrangeLineAsaSul114Sul=Orange Line,Asa Sul,114 Sul,0,40
+GreenLineAsaSulEstradaParque=Green Line,Asa Sul,Estrada Parque
+GreenLineAsaSul114Sul=Green Line,Asa Sul,114 Sul,0,40
+GreenLineEstradaParquePracadeRelogio=Green Line,Estrada Parque,Praca de Relogio,0,40
+GreenLineCentroMetropolitanoTerminalCeilandia=Green Line,Centro Metropolitano,Terminal Ceilandia
+GreenLineCentroMetropolitanoOnoyama=Green Line,Centro Metropolitano,Onoyama,0,70
+GreenLinePracadeRelogioOnoyama=Green Line,Praca de Relogio,Onoyama,30,70
+
 [Orange Line]
+Asa Sul=
 Shopping=
 Feira do Guara=
+Guara=
+Arniqueiras=
 Aguas Claras=
 Taguatinga Sul=
 Furnas=
-Terminal Samambaia=
 Samambaia Sul=
-Arniqueiras=
-108 Sul=
-Guara=
+Terminal Samambaia=
 
 [Green Line]
-Praca de Relogio=
-Concessionarias=
-Centro Metropolitano=
-Ceilandia Sul=
+Asa Sul=
 Shopping=
 Feira do Guara=
-Aguas Claras=
+Guara=
 Arniqueiras=
-108 Sul=
+Aguas Claras=
+Concessionarias=
+Estrada Parque=
+Centro Metropolitano=
+Ceilandia Sul=
 Guariroba=
 Ceilandia Centro=
 Ceilandia Norte=
 Terminal Ceilandia=
-Estrada Parque=
-Guara=
 
+[]

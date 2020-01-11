@@ -1,12 +1,100 @@
-Size 540x640
-PenColor 0404A4
-BrushColor -1
-TextOut Arial, 28, 5, 5, Medellin, 1
-TextOut Arial, 10, 5, 35, (Attention! All time intervals in this version equal 2 minutes)
-
-PenColor 0000AF
-TextOut Arial, 12, 84, 112, Line A, 1
-PenColor 9F0000
-TextOut Arial, 12, 84, 132, Line B, 1
-PenColor 007000
-TextOut Arial, 12, 84, 152, Line K, 1
+Size 660x920
+PenColor 000000
+TextOut Arial, 28, 420, 640, Medellin, 1
+TextOut Arial, 10, 420, 670, (Attention! All time intervals in this version equal 2 minutes)
+TextOut Arial, 10, 420, 690, Metro Urban Train, 1
+TextOut Arial, 10, 535, 690, Aerial Cable Car, 1
+TextOut Arial, 10, 420, 755, Tramway, 1
+TextOut Arial, 10, 420, 790, Bus Rapid Transit, 1
+; river
+PenColor CEE3EF
+Line 230,5, 230,550, 274,580, 274,744, 298,775, 298,828, 270,852, 270,915, 10
+; A
+PenColor FFFFFF
+BrushColor 1761AA
+Ellipse 238,886, 258,906
+TextOut Arial, 14, 244, 889, A, 1
+Ellipse 241,19, 261,39
+TextOut Arial, 14, 247, 22, A, 1
+Ellipse 420,705, 440,725
+TextOut Arial, 14, 426, 708, A, 1
+; B
+BrushColor FB833B
+Ellipse 66,433, 86,453
+TextOut Arial, 14, 72, 436, B, 1
+Ellipse 258,473, 278,493
+TextOut Arial, 14, 264, 476, B, 1
+Ellipse 420,730, 440,750
+TextOut Arial, 14, 426, 733, B, 1
+; H
+BrushColor FA3797
+Ellipse 632,401, 652,421
+TextOut Arial, 14, 638, 404, H, 1
+Ellipse 539,419, 559,439
+TextOut Arial, 14, 545, 422, H, 1
+Ellipse 535,705, 555,725
+TextOut Arial, 14, 541, 708, H, 1
+; J
+BrushColor FFC04F
+Ellipse 47,297, 67,317
+TextOut Arial, 14, 54, 300, J, 1
+Ellipse 29,433, 49,453
+TextOut Arial, 14, 36, 436, J, 1
+Ellipse 535,730, 555,750
+TextOut Arial, 14, 542, 733, J, 1
+; K
+BrushColor AAD356
+Ellipse 356,133, 376,153
+TextOut Arial, 14, 362, 136, K, 1
+Ellipse 237,168, 257,188
+TextOut Arial, 14, 243, 171, K, 1
+Ellipse 535,755, 555,775
+TextOut Arial, 14, 541, 758, K, 1
+; L
+BrushColor 895E2E
+Ellipse 589,139, 609,159
+TextOut Arial, 14, 596, 142, L, 1
+Ellipse 350,172, 370,192
+TextOut Arial, 14, 357, 175, L, 1
+Ellipse 535,780, 555,800
+TextOut Arial, 14, 542, 783, L, 1
+; M
+BrushColor 582891
+Ellipse 488,376, 508,396
+TextOut Arial, 14, 493, 379, M, 1
+Ellipse 440,423, 460,443
+TextOut Arial, 14, 445, 426, M, 1
+Ellipse 535,805, 555,825
+TextOut Arial, 14, 540, 808, M, 1
+; P
+BrushColor FF3831
+Ellipse 36,153, 56,173
+TextOut Arial, 14, 43, 156, P, 1
+Ellipse 188,171, 208,191
+TextOut Arial, 14, 195, 174, P, 1
+Ellipse 535,830, 555,850
+TextOut Arial, 14, 542, 833, P, 1
+; T-A
+BrushColor 2EA14A
+Ellipse 299,469, 319,489
+TextOut Arial, 10, 302, 475, T-A, 1
+Ellipse 584,439, 604,459
+TextOut Arial, 10, 587, 445, T-A, 1
+Ellipse 420,768, 440,788
+TextOut Arial, 10, 423, 773, T-A, 1
+; 1
+BrushColor 22757D
+Ellipse 310,217, 330,237
+TextOut Arial, 14, 317, 220, 1, 1
+Ellipse 59,588, 79,608
+TextOut Arial, 14, 66, 591, 1, 1
+Ellipse 420,805, 440,825
+TextOut Arial, 14, 427, 808, 1, 1
+; 2
+BrushColor 56B1B2
+Ellipse 308,173, 328,193
+TextOut Arial, 14, 315, 176, 2, 1
+Ellipse 59,561, 79,581
+TextOut Arial, 14, 66, 564, 2, 1
+Ellipse 420,830, 440,850
+TextOut Arial, 14, 427, 833, 2, 1

@@ -107,13 +107,13 @@ BrushColor 615F56
 SpotRect 434, 396, 30, 30, ShowMessage Выход №1
 SpotRect 588, 475, 30, 30
 SpotRect 597, 579, 30, 30
-SpotRect 591, 655, 30, 30
-SpotRect 352, 518, 30, 30
-SpotRect 332, 427, 30, 30
+SpotRect 328, 426, 30, 30
+SpotRect 624, 701, 30, 30
+SpotRect 298, 523, 30, 30
 BrushColor -1
 TextOut Arial, 25, 442, 397, 1
 TextOut Arial, 25, 596, 476, 1
 TextOut Arial, 25, 605, 580, 2
-TextOut Arial, 25, 599, 656, 3
-TextOut Arial, 25, 360, 519, 4
-TextOut Arial, 25, 340, 428, 5
+TextOut Arial, 25, 336, 427, 3
+TextOut Arial, 25, 632, 702, 4
+TextOut Arial, 25, 306, 524, 5

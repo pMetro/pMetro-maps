@@ -1,5 +1,5 @@
 Size 1050x1220
 PenColor 040464
 BrushColor -1
-AngleTextOut 0, Arial, 15, 827, 162, Схема движения автобусов Зеленограда, 5
-SpotRect 801, 153, 250, 22, LoadMap Buses_zel.map
+AngleTextOut 0, Arial, 15, 926, 162, Схема движения автобусов Зеленограда, 5
+SpotRect 900, 153, 250, 22, LoadMap Buses_zel.map

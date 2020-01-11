@@ -1,34 +1,45 @@
 [Line1]
 Name=1
-Stations=Nopo-dong,Beomeosa,Namsan-dong,Dusil,Guseo-dong,Jangjeon-dong,Pusan Nat'l. Univ.,Oncheonjang,Myeongnyun-dong,Dongnae,Busan N. Univ. Edu.,Yeonsan-dong,City Hall,Yangjeong,Bujeon-dong,Seomyeon,Beomnaegol,Beomil-dong,Jwacheon-dong,Busanjin,Choryang-dong,Busan station,Jungang-dong,Nampo-dong,Jagalchi,Toseong-dong,Dongdaesin-dong,Seodaesin-dong,Daeti,Goejeong,Saha,Dangni,Hadan,Sinpyeong
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Dadaepo Beach,Dadaepo Harbor,Natgae,Sinjangnim,Jangnim,Dongmae,Sinpyeong,Hadan,Dangni,Saha,Goejeong,Daeti,Seodaesin,Dongdaesin,Toseong,Jagalchi,Nampo,Jungang,Busan Station,Choryang,Busanjin,Jwacheon,Beomil,Beomnaegol,Seomyeon,Bujeon,Yangjeong,City Hall,Yeonsan,Busan Nat'l Univ. of Edu.,Dongnae,Myeongnyun,Oncheonjang,Pusan Nat'l Univ.,Jangjeon,Guseo,Dusil,Namsan,Beomeosa,Nopo
+Driving=2,(2,3),2,2,2,4,(2,3),(2,3),2,(2,1),1,(3,2),(2,2),3,2,(2,3),(2,1),2,1,(2,2),(1,1),(2,2),2,2,2,(2,1),2,1,(2,2),2,2,2,2,2,2,2,2,(1,1),(3,2),(,2)
 
 [Line2]
 Name=2
-Stations=Yangsan,Namyangsan,National University,Jeungsan,Hopo,Geumgok,Dongwon,Yulli,Hwamyeong,Sujeong,Deokcheon,Gumyeong,Gunam,Mora,Modeok,Deokpo,Sasang,Gamjeon,Jurye,Naengjeong,Gaegeum,Dongeui Univ.,Gaya,Buam,Seomyeon,Jeonpo,Munjeon,Munhyeon,Jigegol,Motgol,Daeyeon,Kyungsung Univ..Pukyong Nat'l Univ.,Namcheon,Geumnyeonsan,Gwangan,Suyeong,Millak,Centum City,Museum,Dongbaek,Haeundae,Jung-dong,Jangsan
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Jangsan,Jung-dong,Haeundae,Dongbaek,BEXCO,Centum City,Millak,Suyeong,Gwangan,Geumnyeonsan,Namcheon,Kyungsung Univ. - Pukyong Nat'l Univ.,Daeyeon,Motgol,Jigegol,Munhyeon,Busan Int'l Finance Center-Busan Bank,Jeonpo,Seomyeon,Buam,Gaya,Dongeui Univ.,Gaegeum,Naengjeong,Jurye,Gamjeon,Sasang,Deokpo,Modeok,Mora,Gunam,Gumyeong,Deokcheon,Sujeong,Hwamyeong,Yulli,Dongwon,Geumgok,Hopo,Jeungsan,Pusan Nat'l Univ. Yangsan Campus,Namyangsan,Yangsan
+Driving=2,1,(2,2),2,2,2,3,2,2,(2,1),1,(2,2),(1,1),(2,2),2,(2,1),1,(2,2),(2,5),(2,1),2,2,2,(2,1),2,2,3,(2,2),2,2,2,(3,1),(2,2),(3,3),(2,2),2,2,3,(4,2),2,2,2
 
 [Line3]
 Name=3
-Stations=Daejeo,Sports Park,Gangseo-gu Office,Gupo,Deokcheon,Sukdeung,Namsanjeong,Mandeok,Minam,Sajik,Sports Complex,Geoje,Yeonsan-dong,Mulmangol,Baesan,Mangmi,Suyeong
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Suyeong,Mangmi,Baesan,Mulmangol,Yeonsan,Geoje,Sports Complex,Sajik,Minam,Mandeok,Namsanjeong,Sukdeung,Deokcheon,Gupo,Gangseo-gu Office,Sports Park,Daejeo
+Driving=2,(1,3),(3,2),(2,2),2,1,(2,2),2,4,2,2,2,(2,1),(3,3),(2,2),2,(,1)
 
 [Line4]
 Name=4
-Stations=Minam,Dongnae,Suan,Nakmin,Chungnyeolsa,Myeongjang,Seodong,Geumsa,Banyeo Agricultural Market,Seokdae,Youngsan Univ,Dong-Busan College,Gochon,Anpyeong
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Minam,Dongnae,Suan,Nangmin,Chungnyeolsa,Myeongjang,Seo-dong,Geumsa,Banyeo Agricultural Market,Seokdae,Youngsan Univ.,Dong-Pusan College,Gochon,Anpyeong
+Driving=2,2,1,(2,2),(2,1),2,2,1,(2,2),3,(2,2),(2,3),(2,1)
 
 [Line5]
-Name=BGL
-Stations=Sasang,Gwaebeop Renecite,Seobusan Yutongjigu,Gimhae Int'l Airport,Deokdu,Deunggu,Daejeo,Pyeonggang,Daesa,Buram,Jinae,Gimhae College,Inje University,Gimhae City Hall,Buwon,Bonghwang,Royal Tomb of King Suro,Gimhae National Museum,Yeonji Park,Presbyterian University,Kaya University
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Name=Busan–Gimhae
+Stations=Sasang,Gwaebeop Renecite,Seobusan Yutongjigu,Gimhae International Airport,Deokdu,Deunggu,Daejeo,Pyeonggang,Daesa,Buram,Jinae,Gimhae College,Inje Univ.,Gimhae City Hall,Buwon,Bonghwang,Royal Tomb of King Suro,Gimhae National Museum,Yeonji Park,Presbyterian Univ.,Kaya Univ.
+Driving=1,(3,2),2,2,3,3,2,(2,1),1,(2,2),(1,1),(2,2),2,1,2,2,1,2,3,3,(,2)
+
+[Line6]
+Name=Donghae
+Stations=Bujeon,Geojehaemaji,Geoje,Busan Nat'l Univ. of Edu.,Dongnae,Allak(Wondong,Dongnae,Jaesong),Wondong,Jaesong(Centum,Wondong,,Allak),Centum,BEXCO,Shin-Haeundae,Songjeong,OSIRIA,Gijang,Ilgwang
+Driving=3,2,2,3,2,(,2,3),0,(2,,,3),2,5,3,3,4,3
 
 [Transfers]
-Yeonsan-dong=1,Yeonsan-dong, 3,Yeonsan-dong, 2
-Seomyeon=1,Seomyeon, 2,Seomyeon, 2
-Deokcheon=2,Deokcheon, 3,Deokcheon, 2
-Suyeong=2,Suyeong, 3,Suyeong, 2
-Minam=4,Minam,3,Minam,2
-Dongnae=1,Dongnae,4,Dongnae,2
-Sasang=2,Sasang,BGL,Sasang,2
-Daejeo=3,Daejeo,BGL,Daejeo,2
+12Seomyeon=1,Seomyeon, 2,Seomyeon, 2
+1DonghaeBujeon=1,Bujeon, Donghae,Bujeon, 8
+13Yeonsan=1,Yeonsan, 3,Yeonsan, 3
+1DonghaeBusanNatlUnivofEdu=1,Busan Nat'l Univ. of Edu., Donghae,Busan Nat'l Univ. of Edu., 4
+14Dongnae=1,Dongnae, 4,Dongnae, 6
+2DonghaeBEXCO=2,BEXCO, Donghae,BEXCO, 6 
+23Suyeong=2,Suyeong, 3,Suyeong, 3
+2BusanGimhaeSasang=2,Sasang, Busan–Gimhae,Sasang, 5
+23Deokcheon=2,Deokcheon, 3,Deokcheon, 3
+3DonghaeGeoje=3,Geoje, Donghae,Geoje, 5
+34Minam=3,Minam, 4,Minam, 4
+3BusanGimhaeDaejeo=3,Daejeo, Busan–Gimhae,Daejeo, 4
+
+[]

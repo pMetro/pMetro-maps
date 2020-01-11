@@ -1,23 +1,52 @@
-Size 950x730
-PenColor 0404A4
-BrushColor -1
-TextOut Arial, 35, 191, 15, Tehran, 1
-TextOut Arial, 10, 191, 49, (Attention! All time intervals in this version equal 2 minutes)
-
-BrushColor -1
-PenColor CF0000
-TextOut Arial, 12, 66, 86, Line 1, 1
-
-PenColor 34349C
-TextOut Arial, 12, 66, 106, Line 2, 1
-
-PenColor 2C64C7
-TextOut Arial, 12, 66, 126, Line 3, 1
-
-PenColor FCCC04
-TextOut Arial, 12, 66, 146, Line 4, 1
-
-PenColor 008000
-TextOut Arial, 12, 66, 166, Line 5, 1
-
-
+Size 1662x1229
+Image tehran.png
+PenColor 000000
+TextOut Arial, 35, 414, 831, Tehran, 1
+TextOut Arial, 10, 414, 865, (Attention! All time intervals in this version equal 2 minutes)
+; 1
+PenColor FFFFFF
+BrushColor ED2D25
+Ellipse 1119,52, 1139,72
+TextOut Arial, 16, 1126, 55, 1, 1
+Ellipse 1066,1182, 1086,1202
+TextOut Arial, 16, 1073, 1185, 1, 1
+Ellipse 672,1142, 692,1162
+TextOut Arial, 16, 679, 1145, 1, 1
+; 2
+BrushColor 0A53A0
+Ellipse 1610,376, 1630,396
+TextOut Arial, 16, 1617, 379, 2, 1
+Ellipse 598,379, 618,399
+TextOut Arial, 16, 605, 382, 2, 1
+; 3
+BrushColor 29BDED
+Ellipse 1611,137, 1631,157
+TextOut Arial, 16, 1618, 140, 3, 1
+Ellipse 805,1079, 825,1099
+TextOut Arial, 16, 812, 1082, 3, 1
+; 4
+BrushColor FDD104
+Ellipse 530,380, 550,400
+TextOut Arial, 16, 537, 383, 4, 1
+Ellipse 489,709, 509,729
+TextOut Arial, 16, 496, 712, 4, 1
+Ellipse 1560,636, 1580,656
+TextOut Arial, 16, 1567, 639, 4, 1
+; 5
+BrushColor 07865B
+Ellipse 635,425, 655,445
+TextOut Arial, 16, 642, 428, 5, 1
+Ellipse 28,426, 48,446
+TextOut Arial, 16, 35, 429, 5, 1
+; 6
+BrushColor EC6FA6
+Ellipse 78,213, 98,233
+TextOut Arial, 16, 85, 216, 6, 1
+Ellipse 1342,1140, 1362,1160
+TextOut Arial, 16, 1349, 1143, 6, 1
+; 7
+BrushColor 862B81
+Ellipse 737,65, 757,85
+TextOut Arial, 16, 744, 68, 7, 1
+Ellipse 1566,784, 1586,804
+TextOut Arial, 16, 1573, 787, 7, 1

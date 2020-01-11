@@ -54,7 +54,7 @@ StringToAdd='  Карта окрестностей станции: '
 ;Строгино=
 ;Славянский бульвар=
 Крылатское=http://moscowmap.ru/metrostation.asp?metroid=46
-Молодежная=http://moscowmap.ru/metrostation.asp?metroid=45
+Молодёжная=http://moscowmap.ru/metrostation.asp?metroid=45
 Кунцевская=http://moscowmap.ru/metrostation.asp?metroid=44
 Парк Победы=http://moscowmap.ru/metrostation.asp?metroid=187
 Киевская=http://moscowmap.ru/metrostation.asp?metroid=47

@@ -56,7 +56,7 @@ StringToAdd='  Ссылка на спутниковую карту Google: '
 Мякинино=http://maps.google.com/maps?t=h&hl=ru&ie=UTF8&ll=55.824831,37.385407&spn=0.002772,0.009634&z=17
 Строгино=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&ll=55.803758,37.402518&spn=0.002466,0.007231&z=17&om=1
 Крылатское=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&ll=55.756601,37.407986&spn=0.004975,0.02135&z=16&om=1
-Молодежная=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.740756,37.417073&spn=0.002488,0.007231&z=17
+Молодёжная=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.740756,37.417073&spn=0.002488,0.007231&z=17
 Кунцевская=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.730783,37.445987&spn=0.002489,0.007231&z=17
 Парк Победы=http://maps.google.com/maps?q=55%C2%B044'9.14%22N+37%C2%B031'2.07%22E&spn=0.008436,0.025603&t=k&iwloc=A&hl=en&z=17
 Кунцевская=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.730783,37.445987&spn=0.002489,0.007231&z=17

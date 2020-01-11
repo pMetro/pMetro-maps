@@ -5,16 +5,81 @@ Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 
 [Line2]
 Name=B
-Stations=San Antonio,Cisnersos,Suramericana(Estadio,Cisnersos,,Caribe),Estadio,Floresta,Santa Lucia,San Javier(,Santa Lucia),Caribe(Suramericana)
-Driving=2,2,(2,2,,2),2,2,2,(,2),(2)
+Stations=San Antonio,Cisnersos,Suramericana,Estadio,Floresta,Santa Lucia,San Javier
+Driving=2,2,2,2,2,2
 
 [Line3]
-Name=K
-Stations=Acevedo,Andalucia,Popular,Santo Domingo Savio
+Name=H
+Stations=Oriente,Las Torres,Villa Sierra
+Driving=2,2
+
+[Line4]
+Name=J
+Stations=San Javier,Juan XXIII,Vallejuelos,La Aurora
 Driving=2,2,2
 
-[Transfers]
-San Antonio=A,San Antonio, B,San Antonio, 2
-Caribe=A,Caribe, B,Caribe, 0
-Acevedo=A,Acevedo, K,Acevedo, 2
+[Line5]
+Name=K
+Stations=Acevedo,Andalucia,Popular,Santo Domingo
+Driving=2,2,2
 
+[Line6]
+Name=L
+Stations=Santo Domingo,Arvi
+Driving=2
+
+[Line7]
+Name=M
+Stations=Miraflores,El Pinal,Trece de Noviembre
+Driving=2,2
+
+[Line8]
+Name=P
+Stations=Acevedo,SENA,Doce de Octubre,El Progresso
+Driving=0,0,0
+
+[Line9]
+Name=T-A
+Stations=San Antonio,San Jose,Pabellon del Agua EPM,Bicentenario,Buenos Aires,Miraflores,Loyola,Alejandro Echavarria,Oriente
+Driving=2,2,2,2,2,2,2,2
+
+[Line10]
+Name=1
+Stations=U. de M.,Los Alpes,La Palma,Parque Belen,Rosales,Fatima,Nutibara,Industriales,Plaza Mayor,Cisneros,Minorista,Chagualo,Ruta N – U. de A,Hospital,Palos Verdes,Gardel,Manrique,Las Esmeraldas,Berlin,Parque Aranjuez
+Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+
+[Line11]
+Name=2
+Stations=U. de M.,Los Alpes,La Palma,Parque Belen,Rosales,Fatima,Nutibara,Industriales,Barrio Colombia,Barrio San Diego,Barrio Colon,San Jose,La Playa,Catedral Metropolitana,Palos Verdes,Gardel,Manrique,Las Esmeraldas,Berlin,Parque Aranjuez
+Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+
+[Transfers]
+A B San Antonio=A,San Antonio, B,San Antonio, 2
+A T-A San Antonio=A,San Antonio,T-A,San Antonio,2
+B T-A San Antonio=B,San Antonio,T-A,San Antonio,2
+A K Acevedo=A,Acevedo, K,Acevedo, 2
+A P Acevedo=A,Acevedo, P,Acevedo, 0
+K P Acevedo=K,Acevedo, P,Acevedo, 0
+Hospital=A,Hospital,1,Hospital,2
+A 1 Industriales=A,Industriales,1,Industriales,2
+A 2 Industriales=A,Industriales,2,Industriales,2
+1 2 Industriales=1,Industriales,2,Industriales,2
+San Javier=B,San Javier, J,San Javier, 2
+Cisnersos=B,Cisnersos,1,Cisneros,2
+Santo Domingo=K,Santo Domingo,L,Santo Domingo,2
+Miraflores=M,Miraflores,T-A,Miraflores,2
+Oriente=H,Oriente,T-A,Oriente,2
+San Jose=T-A,San Jose,2,San Jose,2
+U. de M.=1,U. de M.,2,U. de M.,2
+Los Alpes=1,Los Alpes,2,Los Alpes,2
+La Palma=1,La Palma,2,La Palma,2
+Parque Belen=1,Parque Belen,2,Parque Belen,2
+Rosales=1,Rosales,2,Rosales,2
+Fatima=1,Fatima,2,Fatima,2
+Nutibara=1,Nutibara,2,Nutibara,2
+Palos Verdes=1,Palos Verdes,2,Palos Verdes,2
+Gardel=1,Gardel,2,Gardel,2
+Manrique=1,Manrique,2,Manrique,2
+Las Esmeraldas=1,Las Esmeraldas,2,Las Esmeraldas,2
+Berlin=1,Berlin,2,Berlin,2
+Parque Aranjuez=1,Parque Aranjuez,2,Parque Aranjuez,2

@@ -18,7 +18,7 @@ StringToAdd='  '
 Красногвардейская=Междугородные автобусы: http://mostransavto.ru/?page=mroutes&ostt=%CA%F0%E0%F1%ED%EE%E3%E2%E0%F0%E4%E5%E9%F1%EA%E0%FF\nСхема остановок: http://www.mostransavto.ru/metro/krasnogv.gif
 
 [Арбатско-Покровская]
-Молодежная=Междугородные автобусы: http://mostransavto.ru/?page=mroutes&ostt=%CC%EE%EB%EE%E4%E5%E6%ED%E0%FF\nСхема остановок: http://www.mostransavto.ru/metro/molod.gif
+Молодёжная=Междугородные автобусы: http://mostransavto.ru/?page=mroutes&ostt=%CC%EE%EB%EE%E4%E5%E6%ED%E0%FF\nСхема остановок: http://www.mostransavto.ru/metro/molod.gif
 Кунцевская=Междугородные автобусы: http://mostransavto.ru/?page=mroutes&ostt=%CA%F3%ED%F6%E5%E2%F1%EA%E0%FF\nСхема остановок: http://www.mostransavto.ru/metro/kuncev.gif
 Киевская=Междугородные автобусы: http://mostransavto.ru/?page=mroutes&ostt=%CA%E8%E5%E2%F1%EA%E0%FF\nСхема остановок: http://www.mostransavto.ru/metro/kiev.gif
 Партизанская=Междугородные автобусы: http://mostransavto.ru/?page=mroutes&ostt=%CF%E0%F0%F2%E8%E7%E0%ED%F1%EA%E0%FF\nСхема остановок: http://www.mostransavto.ru/metro/partizan.gif

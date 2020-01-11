@@ -1,9 +1,10 @@
-Size 910x310
-PenColor 0404A4
-BrushColor -1
-TextOut Arial, 35, 478, 41, Lima, 1
-TextOut Arial, 10, 477, 76, (Attention! All time intervals in this version equal 2 minutes)
+Size 230x705
+PenColor 000000
+TextOut Arial, 35, 117, 307, Lima, 1
 
-; река
-;PenColor D9F5FF
-;Spline -196,206, 61,-60, 142,-202, 226,-304, 20
+PenColor FFFFFF
+BrushColor 008000
+Ellipse 202,673, 222,693
+TextOut Arial, 16, 209, 676, 1, 1
+Ellipse 63,11, 83,31
+TextOut Arial, 16, 70, 14, 1, 1

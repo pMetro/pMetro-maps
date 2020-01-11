@@ -56,7 +56,7 @@ StringToAdd='  Карта Yandex: '
 Строгино=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=11&mapX=-6119&mapY=15285&act=5&slices=1&tool=grab
 Славянский бульвар=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=-1620&mapY=7050&act=5&slices=1&tool=grab
 Крылатское=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=12&mapX=-5648&mapY=9856&act=5&slices=1&tool=grab
-Молодежная=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=-5097&mapY=8227&act=5&slices=1&tool=grab
+Молодёжная=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=-5097&mapY=8227&act=5&slices=1&tool=grab
 Кунцевская=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=-3274&mapY=7103&act=5&slices=1&tool=grab
 ;Славянский бульвар=
 Парк Победы=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=1144&mapY=7707&act=5&slices=1&tool=grab

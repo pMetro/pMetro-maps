@@ -1,11 +1,19 @@
-Size 870x500
-PenColor 0404A4
-BrushColor -1
-TextOut Arial, 28, 30, 5, Brasilia
-TextOut Arial, 10, 30, 35, (Attention! All time intervals in this version equal 2 minutes)
+Size 1000x500
+PenColor 000000
+TextOut Arial, 35, 395, 108, Brasilia, 1
 
-PenColor CF9500
-TextOut Arial, 12, 133, 72, Linha 1
+PenColor FFA500
+Line 449,447, 495,447, 20
+Line 939,42, 985,42, 20
+BrushColor FFA500
+PenColor FFFFFF
+TextOut Arial, 16, 449, 439, Orange, 1
+TextOut Arial, 16, 939, 34, Orange, 1
 
 PenColor 008000
-TextOut Arial, 12, 132, 93, Linha 2
+Line 109,202, 149,202, 20
+Line 941,19, 981,19, 20
+BrushColor 008000
+PenColor FFFFFF
+TextOut Arial, 16, 109, 194, Green, 1
+TextOut Arial, 16, 941, 11, Green, 1

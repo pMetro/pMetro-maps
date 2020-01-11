@@ -1,49 +1,92 @@
 [Line1]
 Name=L1
-Stations=Luceros,Mercado,MARQ,Sangueta,Lucentum,El Campello,Venta Lanuza,Paradis,La Vila Joiosa,Creueta,Costera Pastor,Hospital Vila,Hiper Finestrat,Terra Mitica,Benidorm
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Luceros,Mercado,MARQ-CASTILLO,Sangueta,La Isleta,Lucentum,El Campello,Poble Espanyol,Amerador,Coveta Fuma,Cala Piteres,Venta Lanuza,Paradis,La Vila Joiosa,Creueta,Costera Pastor,Hospital Vila,C.C La Marina-Finestrat,Terra Mitica,Benidorm,Benidorm Intermodal
+Driving=2,2,3,4,2,13,(2,14),(2,4),2,3,(7,1),(9,8),(3,11),3,(2,2),(5,3),(3,3),(2,5),3,2
+LineMap=L1.map
 
 [Line2]
-Name=L3
-Stations=Luceros,Mercado,MARQ,Sangueta,La Isleta,Albufereta,Lucentum,Condomina,Campo de Golf,Costa Blanca,Carrabiners,Muchavista,Les Llances,Fabraquer,Salesians,Pla Barraques,El Campello,Poble Espanyol,Amerador,Coveta Fuma,Cala Piteres,Venta Lanuza
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Name=L2
+Stations=Luceros,Mercado,MARQ-CASTILLO,La Goteta-Plaza Mar 2,Bulevar del Pla,Garbinet,Hospital,Maestro Alonso,Pintor Gaston Castello,Virgen del Remedio,Ciudad Jardin,Santa Isabel,Universitat,Sant Vicent del Raspeig
+Driving=2,2,2,2,2,2,(3,3),(2,2),2,2,3,2,2
+LineMap=L2.map
 
 [Line3]
-Name=L4
-Stations=Luceros,Mercado,MARQ,Sangueta,La Isleta,Albufereta,Lucentum,Miriam Blasco,Sergio Cardell,Tridente,Av. Naciones,Cabo Huertas(Av. Benidorm),Av. Benidorm(Londres),Londres(Pl. La Coruna),Pl. La Coruna(Instituto),Instituto(P. Escandinavos),P. Escandinavos(Holanda),Holanda(-Av. Naciones)
-Driving=2,2,2,2,2,2,2,2,2,2,2,(2),(2),(2),(2),(2),(2),(2)
+Name=L3
+Stations=Luceros,Mercado,MARQ-CASTILLO,Sangueta,La Isleta,Albufereta,Lucentum,Condomina,Campo de Golf,Costa Blanca,Carrabiners,Muchavista,Les Llances,Fabraquer,Salesians,Pla Barraques,El Campello
+Driving=2,2,3,4,1,1,2,1,2,3,2,2,2,1,1,(2,2),(,1)
+LineMap=L3.map
 
 [Line4]
-Name=4L
-Stations=Puerta Del Mar,La Marina,Sangueta
-Driving=2,2
+Name=L4
+Stations=Luceros,Mercado,MARQ-CASTILLO,Sangueta,La Isleta,Albufereta,Lucentum,Miriam Blasco,Sergio Cardell,Tridente,Av. Naciones,Cabo Huertas(Av. Benidorm),Av. Benidorm(Londres),Londres(Pl. La Coruna),Pl. La Coruna(Instituto),Instituto(P. Escandinavos),P. Escandinavos(Holanda),Holanda(-Av. Naciones)
+Driving=2,2,3,4,1,(2,3),1,(2,3),2,2,2,(2),(2),(2),(2),(2),(1),(3)
+LineMap=L4.map
 
 [Line5]
+Name=L5
+Stations=Porta Del Mar,La Marina,Sangueta,La Isleta,Albufereta,Lucentum,Miriam Blasco,Sergio Cardell,Tridente,Av. Naciones,Cabo Huertas(Av. Benidorm),Av. Benidorm(Londres),Londres(Pl. La Coruna),Pl. La Coruna(Instituto),Instituto(P. Escandinavos),P. Escandinavos(Holanda),Holanda(-Av. Naciones)
+Driving=0,0,0,0,0,0,0,0,0,0,(),(),(),(),(),(),()
+LineMap=L5.map
+
+[Line6]
 Name=L9
-Stations=Benidorm,Disco Benidorm,Cami Coves,L'Alfas del Pi,Ventorrillo,Altea,Garganes,Cap Negret,Olla Altea,Calp,Ferrandet,Benissa,Teulada,Gata,La Xara,Hospital Denia,Alqueries,Denia
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Benidorm,Benidorm Intermodal,Cami Coves,L'Alfas del Pi,El Albir,Altea,Garganes,Cap Negret,Olla Altea,Calp(Ferrandet,Olla Altea,Benissa),Ferrandet,Benissa(Teulada,Ferrandet,,Calp),Teulada,Gata,La Xara(La Pedrera,Gata,Alqueries),La Pedrera,Alqueries(Denia,La Pedrera,,La Xara),Denia
+Driving=2,2,3,2,5,(3,4),2,(4,4),(12,2),(,13,19),0,(7,,,21),12,11,(,12,11),0,(5,,,11),(,4)
+LineMap=L9.map
 
 [Transfers]
-=L1,Luceros,L3,Luceros,2
-=L1,Luceros,L4,Luceros,2
-=L3,Luceros,L4,Luceros,2
-=L1,Mercado,L3,Mercado,2
-=L1,Mercado,L4,Mercado,2
-=L3,Mercado,L4,Mercado,2
-=L1,MARQ,L3,MARQ,2
-=L1,MARQ,L4,MARQ,2
-=L3,MARQ,L4,MARQ,2
-=L1,Sangueta,L3,Sangueta,2
-=L1,Sangueta,L4,Sangueta,2
-=L1,Sangueta,4L,Sangueta,2
-=L3,Sangueta,L4,Sangueta,2
-=L3,Sangueta,4L,Sangueta,2
-=L4,Sangueta,4L,Sangueta,2
-=L1,Lucentum,L3,Lucentum,2
-=L1,Lucentum,L4,Lucentum,2
-=L3,Lucentum,L4,Lucentum,2
-=L1,El Campello,L3,El Campello,2
-=L1,Venta Lanuza,L3,Venta Lanuza,2
-=L1,Benidorm,L9,Benidorm,2,invisible
-=L3,La Isleta,L4,La Isleta,2
-=L3,Albufereta,L4,Albufereta,2
+Luceros12=L1,Luceros,L2,Luceros,2
+Luceros13=L1,Luceros,L3,Luceros,2
+Luceros14=L1,Luceros,L4,Luceros,2
+Luceros23=L2,Luceros,L3,Luceros,2
+Luceros24=L2,Luceros,L4,Luceros,2
+Luceros34=L3,Luceros,L4,Luceros,2
+Mercado12=L1,Mercado,L2,Mercado,2
+Mercado13=L1,Mercado,L3,Mercado,2
+Mercado14=L1,Mercado,L4,Mercado,2
+Mercado23=L2,Mercado,L3,Mercado,2
+Mercado24=L2,Mercado,L4,Mercado,2
+Mercado34=L3,Mercado,L4,Mercado,2
+MARQCASTILLO12=L1,MARQ-CASTILLO,L2,MARQ-CASTILLO,2
+MARQCASTILLO13=L1,MARQ-CASTILLO,L3,MARQ-CASTILLO,2
+MARQCASTILLO14=L1,MARQ-CASTILLO,L4,MARQ-CASTILLO,2
+MARQCASTILLO23=L2,MARQ-CASTILLO,L3,MARQ-CASTILLO,2
+MARQCASTILLO24=L2,MARQ-CASTILLO,L4,MARQ-CASTILLO,2
+MARQCASTILLO34=L3,MARQ-CASTILLO,L4,MARQ-CASTILLO,2
+Sangueta13=L1,Sangueta,L3,Sangueta,2
+Sangueta14=L1,Sangueta,L4,Sangueta,2
+Sangueta15=L1,Sangueta,L5,Sangueta,2
+Sangueta34=L3,Sangueta,L4,Sangueta,2
+Sangueta35=L3,Sangueta,L5,Sangueta,2
+Sangueta45=L4,Sangueta,L5,Sangueta,2
+LaIsleta13=L1,La Isleta,L3,La Isleta,2
+LaIsleta14=L1,La Isleta,L4,La Isleta,2
+LaIsleta15=L1,La Isleta,L5,La Isleta,2
+LaIsleta34=L3,La Isleta,L4,La Isleta,2
+LaIsleta35=L3,La Isleta,L5,La Isleta,2
+LaIsleta45=L4,La Isleta,L5,La Isleta,2
+Albufereta34=L3,Albufereta,L4,Albufereta,2
+Albufereta35=L3,Albufereta,L5,Albufereta,2
+Albufereta45=L4,Albufereta,L5,Albufereta,2
+Lucentum13=L1,Lucentum,L3,Lucentum,2
+Lucentum14=L1,Lucentum,L4,Lucentum,2
+Lucentum15=L1,Lucentum,L5,Lucentum,2
+Lucentum34=L3,Lucentum,L4,Lucentum,2
+Lucentum35=L3,Lucentum,L5,Lucentum,2
+Lucentum45=L4,Lucentum,L5,Lucentum,2
+MiriamBlasco=L4,Miriam Blasco,L5,Miriam Blasco,2
+SergioCardell=L4,Sergio Cardell,L5,Sergio Cardell,2
+Tridente=L4,Tridente,L5,Tridente,2
+AvNaciones=L4,Av. Naciones,L5,Av. Naciones,2
+CaboHuertas=L4,Cabo Huertas,L5,Cabo Huertas,2
+AvBenidorm=L4,Av. Benidorm,L5,Av. Benidorm,2
+Londres=L4,Londres,L5,Londres,2
+PlLaCoruna=L4,Pl. La Coruna,L5,Pl. La Coruna,2
+Instituto=L4,Instituto,L5,Instituto,2
+PEscandinavos=L4,P. Escandinavos,L5,P. Escandinavos,2
+Holanda=L4,Holanda,L5,Holanda,2
+ElCampello=L1,El Campello,L3,El Campello,2
+Benidorm=L1,Benidorm,L9,Benidorm,2
+BenidormIntermodal=L1,Benidorm Intermodal,L9,Benidorm Intermodal,2
+
+[]

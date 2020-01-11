@@ -1,0 +1,33 @@
+[Options]
+StationDiameter=12
+ImageFileName=L2.vec
+LinesWidth=8
+WordWrap=False
+UpperCase=False
+
+[L1]
+Color=E12734
+Coordinates=65,450, 65,420, 65,390
+Rects=
+Rect=
+
+[L2]
+Color=11AB4B
+Coordinates=85,450, 85,420, 85,390, 85,360, 85,330, 85,300, 85,270, 85,240, 85,210, 85,180, 85,150, 85,120, 85,90, 85,60
+LabelsColor=11AB4B
+Rects=100,443,42,15, 100,413,45,15, 100,383,90,15, 100,353,110,15, 100,323,78,15, 100,293,44,15, 100,263,43,15, 100,233,80,15, 100,203,113,15, 100,173,99,15, 100,143,71,15, 100,113,63,15, 100,83,56,15, 100,53,120,15
+Rect=
+
+[L3]
+Color=FBC409
+Coordinates=45,450, 45,420, 45,390
+Rects=
+Rect=
+
+[L4]
+Color=BC94C8
+Coordinates=25,450, 25,420, 25,390
+Rects=
+Rect=
+
+[]

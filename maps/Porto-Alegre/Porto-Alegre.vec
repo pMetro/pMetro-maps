@@ -1,10 +1,15 @@
-Size 380x600
-PenColor 0404A4
-BrushColor -1
-TextOut Arial, 35, 11, 0, Porto Alegre, 1
-TextOut Arial, 10, 11, 35, (Attention! All time intervals in this version equal 2 minutes)
+Size 400x950
+PenColor 000000
+TextOut Arial, 35, 43, 354, Porto Alegre, 1
 
-; река
+; river
 PenColor D9F5FF
 BrushColor D9F5FF
-Polygon 111,600, 111,579, 128,562, 140,562, 183,519, 183,400, 198,385, 326,385, 326,379, 195,379, 180,394, 142,356, 0,356, 0,369, 138,369, 162,393, 162,471, 78,555, 78,600
+Polygon 43,949, 129,867, 129,767, 144,754, 318,754, 318,742, 140,742, 135,748, 94,709, 0,709, 0,724, 89,724, 114,752, 115,813, 0,926, 0,950
+
+PenColor FFFFFF
+BrushColor FF0000
+Ellipse 66,927, 86,947
+TextOut Arial, 16, 73, 930, 1, 1
+Ellipse 357,7, 377,27
+TextOut Arial, 16, 364, 10, 1, 1

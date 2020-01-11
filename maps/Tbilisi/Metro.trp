@@ -7,20 +7,12 @@ DelayNight=10
 
 [Line2]
 Name=Saburtalo
-Stations=Vagzlis Moedani,Tsereteli,Politektnikuri,Medikal Institut,Delisi,Bakhtrioni
-Driving=2,2,2,2,0
+Stations=Vagzlis Moedani,Tsereteli,Politektnikuri,Medikal Institut,Delisi,Vazha Pshavela,University
+Driving=2,2,2,2,3,3
 DelayDay=5
 DelayNight=10
-
-[Line3]
-Name=Saburtalo-1
-Stations=Delisi,Vazha Pshavela,University
-Driving=3,0
-DelayDay=10
-DelayNight=12
 
 [Transfers]
 ;линия,станция, линия,станция, время
 1=Akhmeteli-Varketili,Vagzlis Moedani,Saburtalo,Vagzlis Moedani,2
-2=Saburtalo,Delisi,Saburtalo-1,Delisi,0
 

@@ -1,41 +1,143 @@
 [Line1]
-Name=Ampang
-Stations=Sentul Timur,Sentul,Titiwangsa,PWTC,Sultan Ismail,Bandaraya,Masjid Jamek,Plaza Rakyat,Hang Tuah,Pudu,Chan Sow Lin,Miharja,Maluri,Pandan Jaya,Pandan Indah,Cempaka,Cahaya,Ampang
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Name=1
+Stations=Batu Caves,Taman Wahyu,Kampung Batu,Batu Kentomen,Sentul,Putra,Bank Negara,Kuala Lumpur,KL Sentral,Mid Valley,Seputeh,Salak Selatan,Bandar Tasik Selatan,Serdang,Kajang,UKM,Bangi,Batang Benar,Nilai,Labu,Tiroi,Seremban,Senawang,Sungai Gadut,Rembau,Pulau Sebang/Tampin
+Driving=3,1,2,4,6,3,4,5,5,2,4,5,8,10,5,6,10,6,7,6,8,6,5,14,14
 
 [Line2]
-Name=Sri Petaling
-Stations=Sentul Timur,Sentul,Titiwangsa,PWTC,Sultan Ismail,Bandaraya,Masjid Jamek,Plaza Rakyat,Hang Tuah,Pudu,Chan Sow Lin,Cheras,Salak Selatan,Bandar Tun Razak,Tasik Selatan,Sungai Besi,Bukit Jalil,Sri Petaling
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Name=2
+Stations=Tanjung Malim,Kuala Kubu Bharu,Rasa,Batang Kali,Serendah,Rawang,Kuang,Sungai Buloh,Kepong Sentral,Kepong,Segambut,Putra,Bank Negara,Kuala Lumpur,KL Sentral,Abdullah Hukum,Angkasapuri,Pantai Dalam,Petaling,Jalan Templer,Kampung Dato Harun,Seri Setia,Setia Jaya,Subang Jaya,Batu Tiga,Shah Alam,Padang Jawa,Bukit Badak,Klang,Teluk Pulai,Teluk Gadong,Kampung Raja Uda,Jalan Kastam,Port Klang
+Driving=13,5,3,8,11,9,8,7,3,4,5,3,4,5,6,2,3,3,2,2,2,2,4,6,5,5,5,3,4,3,3,3,5
 
 [Line3]
-Name=Kelana Jaya
-Stations=Gombak,Taman Melati,Wangsa Maju,Sri Rampai,Setiawangsa,Jelatek,Dato Keramat,Damai,Ampang Park,KLCC,Kapung Baru,Dang Wangi,Masjid Jamek,Pasar Seni,KL Sentral,Bangsar,Abdullah Hukum,Kerinchi,Universiti,Taman Jaya,Asia Jaya,Taman Paramount,Taman Bahagia,Kelana Jaya
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Name=3
+Stations=Sentul Timur,Sentul,Titiwangsa,PWTC,Sultan Ismail,Bandaraya,Masjid Jamek,Plaza Rakyat,Hang Tuah,Pudu,Chan Sow Lin,Miharja,Maluri,Pandan Jaya,Pandan Indah,Cempaka,Cahaya,Ampang
+Driving=2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,1,2
 
 [Line4]
-Name=KL Monorail
-Stations=Titiwangsa,Chow Kit,Medan Tuanku,Bukit Nanas,Raja Chulan,Bukit Bintang,Imbi,Hang Tuah,Maharajalela,Tun Sambanthan,KL Sentral
-Driving=2,2,2,2,2,2,2,2,2,2
+Name=4
+Stations=Sentul Timur,Sentul,Titiwangsa,PWTC,Sultan Ismail,Bandaraya,Masjid Jamek,Plaza Rakyat,Hang Tuah,Pudu,Chan Sow Lin,Cheras,Salak Selatan,Bandar Tun Razak,Bandar Tasik Selatan,Sungai Besi,Bukit Jalil,Sri Petaling,Awan Besar,Muhibbah,Alam Sutera,Kinrara BK5,IOI Puchong Jaya,Pusat Bandar Puchong,Taman Perindustrian Puchong,Bandar Puteri,Puchong Perdana,Puchong Prima,Putra Heights
+Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,2,2,3,3,3,3,2,5,3,5
+
+[Line5]
+Name=5
+Stations=Gombak,Taman Melati,Wangsa Maju,Sri Rampai,Setiawangsa,Jelatek,Dato' Keramat,Damai,Ampang Park,KLCC,Kampung Baru,Dang Wangi,Masjid Jamek,Pasar Seni,KL Sentral,Bangsar,Abdullah Hukum,Kerinchi,Universiti,Taman Jaya,Asia Jaya,Taman Paramount,Taman Bahagia,Kelana Jaya,Lembah Subang,Ara Damansara,Glenmarie,Subang Jaya,SS15,SS18,USJ7,Taipan,Wawasan,USJ21,Alam Megah,Subang Alam,Putra Heights
+Driving=3,3,2,4,2,1,2,2,2,2,2,2,2,3,2,2,2,2,3,3,2,2,2,3,2,3,2,2,2,4,2,2,2,3,2,3
+
+[Line6]
+Name=6
+Stations=KL Sentral,KLIA,klia2
+Driving=35,4
+
+[Line7]
+Name=7
+Stations=KL Sentral,Bandar Tasik Selatan,Putrajaya/Cyberjaya,Salak Tinggi,KLIA,klia2
+Driving=7,12,9,7,4
+
+[Line8]
+Name=8
+Stations=KL Sentral,Tun Sambanthan,Maharajalela,Hang Tuah,Imbi,Bukit Bintang,Raja Chulan,Bukit Nanas,Medan Tuanku,Chow Kit,Titiwangsa
+Driving=1,2,2,1,2,2,2,2,2,2
+
+[Line9]
+Name=9
+Stations=Sungai Buloh,Kampung Selamat,Kwasa Damansara,Kwasa Sentral,Kota Damansara,Surian,Mutiara Damansara,Bandar Utama,TTDI,Phileo Damansara,Pusat Bandar Damansara,Semantan,Muzium Negara,Pasar Seni,Merdeka,Bukit Bintang,Tun Razak Exchange,Cochrane,Maluri,Taman Pertama,Taman Midah,Taman Mutiara,Taman Connaught,Taman Suntex,Sri Raya,Bandar Tun Hussein Onn,Batu 11 Cheras,Bukit Dukung,Sungai Jernih,Stadium Kajang,Kajang
+Driving=3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,3,3,3,3,3
+
+[Line10]
+Name=10
+Stations=KL Sentral,Subang Jaya,Terminal Skypark
+Driving=26,21
+
+[Line11]
+Name=B1
+Stations=Sunway-Setia Jaya,Mentari,Sunway Lagoon,SunMed,SunU-Monash,South Quay-USJ1,USJ 7
+Driving=2,3,6,13,3,3
 
 [Transfers]
-01=Ampang,Sentul Timur,Sri Petaling,Sentul Timur,2
-02=Ampang,Sentul,Sri Petaling,Sentul,2
-03=Ampang,Titiwangsa,Sri Petaling,Titiwangsa,2
-04=KL Monorail,Titiwangsa,Sri Petaling,Titiwangsa,2
-05=KL Monorail,Titiwangsa,Ampang,Titiwangsa,2
-06=Ampang,PWTC,Sri Petaling,PWTC,2
-07=Ampang,Sultan Ismail,Sri Petaling,Sultan Ismail,2
-08=Ampang,Bandaraya,Sri Petaling,Bandaraya,2
-09=Ampang,Masjid Jamek,Sri Petaling,Masjid Jamek,2
-10=Kelana Jaya,Masjid Jamek,Ampang,Masjid Jamek,2
-11=Kelana Jaya,Masjid Jamek,Sri Petaling,Masjid Jamek,2
-12=Ampang,Plaza Rakyat,Sri Petaling,Plaza Rakyat,2
-13=Ampang,Hang Tuah,Sri Petaling,Hang Tuah,2
-14=Ampang,Hang Tuah,KL Monorail,Hang Tuah,2
-15=Sri Petaling,Hang Tuah,KL Monorail,Hang Tuah,2
-16=Ampang,Pudu,Sri Petaling,Pudu,2
-17=Sri Petaling,Chan Sow Lin,Ampang,Chan Sow Lin,2
+1 2 Putra=1,Putra, 2,Putra, 10
+1 3 Putra PWTC=1,Putra, 3,PWTC, 7, invisible
+1 4 Putra PWTC=1,Putra, 4,PWTC, 7, invisible
+1 2 Bank Negara=1,Bank Negara, 2,Bank Negara, 10
+1 3 Bank Negara Bandaraya=1,Bank Negara, 3,Bandaraya, 7, invisible
+1 4 Bank Negara Bandaraya=1,Bank Negara, 4,Bandaraya, 7, invisible
+1 2 Kuala Lumpur=1,Kuala Lumpur, 2,Kuala Lumpur, 10
+1 5 Kuala Lumpur Pasar Seni=1,Kuala Lumpur, 5,Pasar Seni, 7, invisible
+1 9 Kuala Lumpur Pasar Seni=1,Kuala Lumpur, 9,Pasar Seni, 7, invisible
+1 2 KL Sentral=1,KL Sentral, 2,KL Sentral, 10
+1 5 KL Sentral=1,KL Sentral, 5,KL Sentral, 7
+1 6 KL Sentral=1,KL Sentral, 6,KL Sentral, 5
+1 7 KL Sentral=1,KL Sentral, 7,KL Sentral, 5
+1 8 KL Sentral=1,KL Sentral, 8,KL Sentral, 10, invisible
+1 9 KL Sentral Muzium Negara=1,KL Sentral, 9,Muzium Negara, 10, invisible
+1 10 KL Sentral=1,KL Sentral, 10,KL Sentral, 10
+1 4 Bandar Tasik Selatan=1,Bandar Tasik Selatan, 4,Bandar Tasik Selatan, 7
+1 7 Bandar Tasik Selatan=1,Bandar Tasik Selatan, 7,Bandar Tasik Selatan, 10
+1 9 Kajang=1,Kajang, 9,Kajang, 10
 
-18=KL Monorail,KL Sentral,Kelana Jaya,KL Sentral,10,invisible
-19=Kelana Jaya,Dang Wangi,KL Monorail,Bukit Nanas,10,invisible
+2 9 Sungai Buloh=2,Sungai Buloh, 9,Sungai Buloh, 5
+2 3 Putra PWTC=2,Putra, 3,PWTC, 7, invisible
+2 4 Putra PWTC=2,Putra, 4,PWTC, 7, invisible
+2 3 Bank Negara Bandaraya=2,Bank Negara, 3,Bandaraya, 7, invisible
+2 4 Bank Negara Bandaraya=2,Bank Negara, 4,Bandaraya, 7, invisible
+2 5 Kuala Lumpur Pasar Seni=2,Kuala Lumpur, 5,Pasar Seni, 7, invisible
+2 9 Kuala Lumpur Pasar Seni=2,Kuala Lumpur, 9,Pasar Seni, 7, invisible
+2 5 KL Sentral=2,KL Sentral, 5,KL Sentral, 7
+2 6 KL Sentral=2,KL Sentral, 6,KL Sentral, 10
+2 7 KL Sentral=2,KL Sentral, 7,KL Sentral, 10
+2 8 KL Sentral=2,KL Sentral, 8,KL Sentral, 10, invisible
+2 9 KL Sentral Muzium Negara=2,KL Sentral, 9,Muzium Negara, 10, invisible
+2 10 KL Sentral=2,KL Sentral, 10,KL Sentral, 10
+2 5 Abdullah Hukum=2,Abdullah Hukum, 5,Abdullah Hukum, 7
+2 B1 Setia Jaya Sunway-Setia Jaya=2,Setia Jaya, B1,Sunway-Setia Jaya, 4, invisible
+2 5 Subang Jaya=2,Subang Jaya, 5,Subang Jaya, 4
+2 10 Subang Jaya=2,Subang Jaya, 10,Subang Jaya, 10
+
+3 4 Sentul Timur=3,Sentul Timur, 4,Sentul Timur, 10
+3 4 Sentul=3,Sentul, 4,Sentul, 10
+3 4 Titiwangsa=3,Titiwangsa, 4,Titiwangsa, 10
+3 4 Titiwangsa=3,Titiwangsa, 8,Titiwangsa, 3
+3 4 PWTC=3,PWTC, 4,PWTC, 10
+3 4 Sultan Ismail=3,Sultan Ismail, 4,Sultan Ismail, 10
+3 4 Bandaraya=3,Bandaraya, 4,Bandaraya, 10
+3 4 Masjid Jamek=3,Masjid Jamek, 4,Masjid Jamek, 2
+3 4 Masjid Jamek=3,Masjid Jamek, 5,Masjid Jamek, 4
+3 4 Plaza Rakyat=3,Plaza Rakyat, 4,Plaza Rakyat, 10
+3 9 Plaza Rakyat Merdeka=3,Plaza Rakyat, 9,Merdeka, 6
+3 4 Hang Tuah=3,Hang Tuah, 4,Hang Tuah, 10
+3 8 Hang Tuah=3,Hang Tuah, 8,Hang Tuah, 6
+3 4 Pudu=3,Pudu, 4,Pudu, 10
+3 4 Chan Sow Lin=3,Chan Sow Lin, 4,Chan Sow Lin, 10
+3 9 Maluri=3,Maluri, 9,Maluri, 6
+
+4 8 Titiwangsa=4,Titiwangsa, 8,Titiwangsa, 3
+4 5 Masjid Jamek=4,Masjid Jamek, 5,Masjid Jamek, 4
+4 9 Plaza Rakyat Merdeka=4,Plaza Rakyat, 9,Merdeka, 6
+4 8 Hang Tuah=4,Hang Tuah, 8,Hang Tuah, 6
+4 7 Bandar Tasik Selatan=4,Bandar Tasik Selatan, 7,Bandar Tasik Selatan, 10
+4 5 Putra Heights=4,Putra Heights, 5,Putra Heights, 4
+
+5 8 Dang Wangi Bukit Nanas=5,Dang Wangi, 8,Bukit Nanas, 7, invisible
+5 9 Pasar Seni=5,Pasar Seni,9,Pasar Seni, 4
+5 6 KL Sentral=5,KL Sentral, 6,KL Sentral, 10
+5 7 KL Sentral=5,KL Sentral, 7,KL Sentral, 10
+5 8 KL Sentral=5,KL Sentral, 8,KL Sentral, 10, invisible
+5 9 KL Sentral Muzium Negara=5,KL Sentral, 9,Muzium Negara, 10, invisible
+5 10 KL Sentral=5,KL Sentral, 10,KL Sentral, 10
+5 10 Subang Jaya=5,Subang Jaya, 10,Subang Jaya, 10
+5 B1 USJ7=5,USJ7, B1,USJ 7, 4
+
+6 7 KL Sentral=6,KL Sentral, 7,KL Sentral, 10
+6 8 KL Sentral=6,KL Sentral, 8,KL Sentral, 10, invisible
+6 9 KL Sentral Muzium Negara=6,KL Sentral, 9,Muzium Negara, 10, invisible
+6 10 KL Sentral=6,KL Sentral, 10,KL Sentral, 10
+6 7 KLIA=6,KLIA, 7,KLIA, 10
+6 7 klia2=6,klia2, 7,klia2, 10
+
+7 8 KL Sentral=7,KL Sentral, 8,KL Sentral, 10, invisible
+7 9 KL Sentral Muzium Negara=7,KL Sentral, 9,Muzium Negara, 10, invisible
+7 10 KL Sentral=7,KL Sentral, 10,KL Sentral, 10
+
+8 10 KL Sentral=8,KL Sentral, 10,KL Sentral, 10, invisible
+8 9 Bukit Bintang=8,Bukit Bintang, 9,Bukit Bintang, 3, invisible
+
+9 10 Muzium Negara KL Sentral=9,Muzium Negara, 10,KL Sentral, 10, invisible

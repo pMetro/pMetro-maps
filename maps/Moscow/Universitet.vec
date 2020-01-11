@@ -199,8 +199,8 @@ AngleTextOut 0, Arial, 15, 393, 768, Московский цирк >>
 Angle -45
 PenColor FFD900
 BrushColor 615F56
-SpotRect 493, 680, 30, 30, ShowMessage Выход №1
-SpotRect 455, 98, 30, 30
+SpotRect 437, 56, 30, 30, ShowMessage Выход №1
+SpotRect 555, 651, 30, 30
 BrushColor -1
-TextOut Arial, 25, 501, 681, 1
-TextOut Arial, 25, 463, 99, 2
+TextOut Arial, 25, 445, 57, 1
+TextOut Arial, 25, 563, 652, 2

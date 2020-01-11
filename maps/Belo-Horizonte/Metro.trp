@@ -1,6 +1,6 @@
 [Line1]
 Name=1
 Stations=Vilarinho,Floramar,Waldomiro Lobo,Primeiro de Maio,Sao Gabriel,Minas Shopping,Jose Candido Silveira,Santa Ines,Horto,Santa Tereza,Santa Efigenia,Central,Lagoinha,Carlos Prates,Calafate,Gameleira,Vila Oeste,Cidade Industrial,Eldorado
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Driving=2,2,2,2,2,2,2,2,2,2,2,(3,3),3,(2,2),3,3,2,2
 
 []

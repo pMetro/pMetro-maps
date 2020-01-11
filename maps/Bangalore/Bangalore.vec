@@ -3,8 +3,9 @@ Size 630x500
 PenColor 0404A4
 BrushColor -1
 TextOut Arial, 35, 309, 6, Bangalore, 1
+TextOut Arial, 10, 309, 42, (Attention! All time intervals in this version equal 2 minutes)
 
-PenColor 9A34CB
+PenColor 8C2877
 TextOut Arial, 12, 379, 83, Purple line, 1
-PenColor 00AF52
+PenColor 00B050
 TextOut Arial, 12, 379, 103, Green line, 1

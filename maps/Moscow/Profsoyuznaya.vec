@@ -107,20 +107,20 @@ AngleTextOut -90, Arial, 15, 355, 614, Нахимовский проспект
 Angle -62
 PenColor FFD900
 BrushColor 615F56
-SpotRect 566, 230, 30, 30, ShowMessage Выход №1
-SpotRect 600, 163, 30, 30
-SpotRect 324, 104, 30, 30
-SpotRect 358, 44, 30, 30
-SpotRect 15, 688, 30, 30
-SpotRect 45, 783, 30, 30
-SpotRect 258, 814, 30, 30
-SpotRect 226, 870, 30, 30
+SpotRect 262, 768, 30, 30, ShowMessage Выход №1
+SpotRect 197, 900, 30, 30
+SpotRect 8, 802, 30, 30
+SpotRect 57, 662, 30, 30
+SpotRect 340, 156, 30, 30
+SpotRect 414, 20, 30, 30
+SpotRect 585, 107, 30, 30
+SpotRect 520, 256, 30, 30
 BrushColor -1
-TextOut Arial, 25, 574, 231, 1
-TextOut Arial, 25, 608, 164, 2
-TextOut Arial, 25, 332, 105, 3
-TextOut Arial, 25, 366, 45, 4
-TextOut Arial, 25, 23, 689, 5
-TextOut Arial, 25, 53, 784, 6
-TextOut Arial, 25, 266, 815, 7
-TextOut Arial, 25, 234, 871, 8
+TextOut Arial, 25, 270, 769, 1
+TextOut Arial, 25, 205, 901, 2
+TextOut Arial, 25, 16, 803, 3
+TextOut Arial, 25, 65, 663, 4
+TextOut Arial, 25, 348, 157, 5
+TextOut Arial, 25, 422, 21, 6
+TextOut Arial, 25, 593, 108, 7
+TextOut Arial, 25, 528, 257, 8

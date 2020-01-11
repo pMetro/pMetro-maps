@@ -55,7 +55,7 @@ StringToAdd='  Фотографии станции: '
 Строгино=http://www.mymetro.ru/cgi-bin/list.pl?lng=ru&a=1&b=3&c=20
 Строгино=http://metro.ru/stations/arbatsko-pokrovskaya/strogino/
 Крылатское=http://metro.ru/stations/arbatsko-pokrovskaya/krylatskoye/
-Молодежная=http://metro.ru/stations/arbatsko-pokrovskaya/molodezhnaya/
+Молодёжная=http://metro.ru/stations/arbatsko-pokrovskaya/molodezhnaya/
 Кунцевская=http://metro.ru/stations/arbatsko-pokrovskaya/kuncevskaya/
 Славянский бульвар=http://metro.ru/stations/arbatsko-pokrovskaya/slavyanskiy_bulvar/
 Парк Победы=http://metro.ru/stations/arbatsko-pokrovskaya/park_pobedy/

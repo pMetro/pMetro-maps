@@ -1,6 +1,6 @@
 [Line1]
 Name=1
-Stations=Panam,Sinheung,Daedong,Daejeon Station,Jungangro,Junggu District Administration,Seodaejeon Intersection,Oryong,Yongmoon,Tanbang,City Hall,Government Complex,Galma,Wolpyeong,Gapcheon,Yuseong Spa,Guam,National Cemetery,World Cup Stadium,Noeun,Jijok,Banseok
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Panam,Sinheung,Dae-dong,Daejeon,Jungangno,Jung-gu Office,Seodaejeonnegeori,Oryong,Yongmun,Tanbang,City Hall,Government Complex Daejeon,Galma,Wolpyeong,Gapcheon,Yuseong Spa,Guam,National Cemetery,World Cup Stadium,Noeun,Jijok,Banseok
+Driving=2,2,2,2,1,(2,2),2,2,3,(1,2),(2,2),2,2,(2,1),2,2,1,(2,2),2,(2,1),2
 
 []

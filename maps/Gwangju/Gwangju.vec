@@ -1,5 +1,10 @@
-Size 880x350
-PenColor 0404A4
-BrushColor -1
-TextOut Arial, 28, 363, 207, Gwangju, 1
-TextOut Arial, 10, 353, 243, (Attention! All time intervals in this version equal 2 minutes)
+Size 930x370
+PenColor 000000
+TextOut Arial, 35, 343, 197, Gwangju, 1
+
+PenColor FFFFFF
+BrushColor 67A128
+Ellipse 857,338, 877,358
+TextOut Arial, 16, 864, 341, 1, 1
+Ellipse 42,216, 62,236
+TextOut Arial, 16, 49, 219, 1, 1

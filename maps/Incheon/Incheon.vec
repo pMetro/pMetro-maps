@@ -1,5 +1,17 @@
-size 530x780
-PenColor 0404A4
-BrushColor -1
-TextOut Arial,28,13,16, Incheon, 1
-TextOut Arial,10,12,41, (Attention! All time intervals in this version equal 2 minutes)
+Size 740x700
+
+PenColor 000000
+TextOut Arial, 35, 310, 210, Incheon, 1
+
+PenColor FFFFFF
+BrushColor 6F99D0
+Ellipse 691,74, 711,94
+TextOut Arial, 16, 698, 77, 1, 1
+Ellipse 15,637, 35,657
+TextOut Arial, 16, 22, 640, 1, 1
+
+BrushColor F04E29
+Ellipse 8,17, 28,37
+TextOut Arial, 16, 15, 20, 2, 1
+Ellipse 709,482, 729,502
+TextOut Arial, 16, 716, 485, 2, 1

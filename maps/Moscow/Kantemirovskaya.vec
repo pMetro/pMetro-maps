@@ -123,16 +123,16 @@ AngleTextOut 0, Arial, 15, 893, 595, Пролетарский проспект
 Angle 65
 PenColor FFD900
 BrushColor 615F56
-SpotRect 70, 342, 30, 30, ShowMessage Выход №1
-SpotRect 28, 242, 30, 30
-SpotRect 378, 103, 30, 30
-SpotRect 739, 857, 30, 30
-SpotRect 775, 940, 30, 30
-SpotRect 402, 1111, 30, 30
+SpotRect 684, 813, 30, 30, ShowMessage Выход №1
+SpotRect 765, 1004, 30, 30
+SpotRect 470, 1136, 30, 30
+SpotRect 132, 364, 30, 30
+SpotRect 50, 190, 30, 30
+SpotRect 317, 70, 30, 30
 BrushColor -1
-TextOut Arial, 25, 78, 343, 1
-TextOut Arial, 25, 36, 243, 2
-TextOut Arial, 25, 386, 104, 3
-TextOut Arial, 25, 747, 858, 4
-TextOut Arial, 25, 783, 941, 5
-TextOut Arial, 25, 410, 1112, 6
+TextOut Arial, 25, 692, 814, 1
+TextOut Arial, 25, 773, 1005, 2
+TextOut Arial, 25, 478, 1137, 3
+TextOut Arial, 25, 140, 365, 4
+TextOut Arial, 25, 58, 191, 5
+TextOut Arial, 25, 325, 71, 6

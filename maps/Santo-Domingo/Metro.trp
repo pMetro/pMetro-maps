@@ -3,3 +3,12 @@ Name=1
 Stations=Mama Tingo,Gregorio Urbano Gilbert,Gregorio Luperon,Jose Francisco Pena Gomez,Hermanas Mirabal,Maximo Gomez,Los Tainos,Pedro Livio Cedeno,Pena Battle,Juan Pablo Duarte,Prof. Juan Bosch,Casandra Damiron,Joaquin Balaguer,Amin Abel,Francisco Alberto Caamano,Centro de los Heroes
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
 
+[Line2]
+Name=2
+Stations=Maria Montez,Pedro F. Bono,Francisco G. Billini,Ulises F. Espaillat,Pedro Mir,Freddy Beras Goico,Juan Ulises Garcia,Juan Pablo Duarte,Coronel Rafael Tomas Fernandez,Mauricio Baez,Ramon Caceres,Horacio Vasquez,Manuel de Jesus Abreu Galvan,Eduardo Brito,Ercilia Pepin,Rosa Duarte,Trina de Moya Vasquez,Concepcion Bona
+Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+
+[Transfers]
+Juan Pablo Duarte=1,Juan Pablo Duarte,2,Juan Pablo Duarte,2
+
+[]

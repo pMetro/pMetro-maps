@@ -3,9 +3,9 @@ Name=Belo-Horizonte
 CityName=Belo Horizonte
 Country=Бразилия
 RusName=Белу-Оризонти
-NeedVersion=1.26.3
-MapAuthors=Схема от 27.10.2006г.
-MapAuthors=Автор: Варламов Дмитрий (www.chpeks.com)
-MapAuthors=Информация взята с сайтов www.urbanrail.net и www.metrobh.gov.br
+NeedVersion=1.29.5
+MapAuthors=Схема от 17.08.2019г.
+MapAuthors=Автор: Дмитрий Варламов
+MapAuthors=Информация взята с сайта www.urbanrail.net
 
 []

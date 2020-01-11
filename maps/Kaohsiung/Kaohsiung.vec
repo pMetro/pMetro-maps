@@ -1,16 +1,27 @@
-Size 520x800
-PenColor 0404A4
-BrushColor -1
-TextOut Arial, 28, 10, 28, Kaohsiung, 1
-TextOut Arial, 9, 10, 58, (Attention! All time intervals in this version equal 2 minutes)
+Size 930x1260
+PenColor 000000
+TextOut Arial, 35, 540, 240, Kaohsiung, 1
 
-PenColor CF0000
-TextOut Arial, 12, 71, 85, Red Line, 1
-PenColor FFA500
-TextOut Arial, 12, 71, 104, Orange Line, 1
+PenColor E30964
+Line 437,51, 462,51, 20
+Line 695,1094, 720,1094, 20
+BrushColor E30964
+PenColor FFFFFF
+TextOut Arial, 16, 437, 43, Red, 1
+TextOut Arial, 16, 695, 1086, Red, 1
 
-; река
-PenColor D9F5FF
-BrushColor D9F5FF
-Polygon 0,210, 64,274, 64,373, 0,437
-Polygon 0,606, 194,800, 0,800
+PenColor F89828
+Line 781,817, 827,817, 20
+Line 40,804, 86,804, 20
+BrushColor F89828
+PenColor FFFFFF
+TextOut Arial, 16, 781, 809, Orange, 1
+TextOut Arial, 16, 40, 796, Orange, 1
+
+PenColor 7CBD52
+Line 550,948, 602,948, 20
+Line 30,904, 82,904, 20
+BrushColor 7CBD52
+PenColor FFFFFF
+TextOut Arial, 16, 550, 940, Circular, 1
+TextOut Arial, 16, 30, 896, Circular, 1

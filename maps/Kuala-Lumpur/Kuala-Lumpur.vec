@@ -1,18 +1,90 @@
-Size 630x610
-
-PenColor 0404A4
+Size 1300x1300
+PenColor 000000
+TextOut Arial, 35, 100, 300, Kuala Lumpur, 1
+; Pedestrian transfers
+Dashed 655,400, 696,400, 3
+Dashed 850,460, 883,433, 3
+Dashed 655,511, 696,511, 3
+Dashed 871,517, 883,494, 3
+Dashed 655,622, 717,622, 3
+Dashed 619,661, 637,723, 3
+Dashed 637,723, 699,673, 3
+Dashed 443,898, 443,921, 3
+; 1
+PenColor FFFFFF
+BrushColor 3F5EB4
+Ellipse 642,33, 662,53
+Ellipse 1067,1151, 1087,1171
 BrushColor -1
-TextOut Arial, 35, 40, 5, Kuala Lumpur, 1
-TextOut Arial, 10, 40, 45, (Attention! All time intervals in this version equal 2 minutes)
-
-PenColor F79510
-TextOut Arial, 15, 70, 280, Ampang
-
-PenColor 800000
-TextOut Arial, 15, 70, 300, Sri Petaling
-
-PenColor ff007f
-TextOut Arial, 15, 70, 320, Kelana Jaya
-
-PenColor 80cb28
-TextOut Arial, 15, 70, 340, KL Monorail
+TextOut Arial, 16, 649, 36, 1, 1
+TextOut Arial, 16, 1074, 1154, 1, 1
+; 2
+BrushColor ED2423
+Ellipse 417,33, 437,53
+Ellipse 116,1123, 136,1143
+BrushColor -1
+TextOut Arial, 16, 424, 36, 2, 1
+TextOut Arial, 16, 123, 1126, 2, 1
+; 3
+BrushColor F38312
+Ellipse 707,209, 727,229
+Ellipse 1080,271, 1100,291
+BrushColor -1
+TextOut Arial, 16, 714, 212, 3, 1
+TextOut Arial, 16, 1087, 274, 3, 1
+; 4
+BrushColor 871111
+Ellipse 685,209, 705,229
+Ellipse 408,1054, 428,1074
+BrushColor -1
+TextOut Arial, 16, 692, 212, 4, 1
+TextOut Arial, 16, 415, 1057, 4, 1
+; 5
+BrushColor EC114B
+Ellipse 841,72, 861,92
+Ellipse 386,1054, 406,1074
+BrushColor -1
+TextOut Arial, 16, 848, 75, 5, 1
+TextOut Arial, 16, 393, 1057, 5, 1
+; 6
+BrushColor 98168B
+Ellipse 555,678, 575,698
+Ellipse 868,1120, 888,1140
+BrushColor -1
+TextOut Arial, 16, 562, 681, 6, 1
+TextOut Arial, 16, 875, 1123, 6, 1
+; 7
+BrushColor 3EA2B2
+Ellipse 576,678, 596,698
+Ellipse 890,1120, 910,1140
+BrushColor -1
+TextOut Arial, 16, 583, 681, 7, 1
+TextOut Arial, 16, 897, 1123, 7, 1
+; 8
+BrushColor 7FCC27
+Ellipse 718,358, 738,378
+Ellipse 687,683, 707,703
+BrushColor -1
+TextOut Arial, 16, 725, 361, 8, 1
+TextOut Arial, 16, 694, 686, 8, 1
+; 9
+BrushColor 098137
+Ellipse 544,271, 564,291
+Ellipse 928,895, 948,915
+BrushColor -1
+TextOut Arial, 16, 551, 274, 9, 1
+TextOut Arial, 16, 935, 898, 9, 1
+; 10
+BrushColor A0612A
+Ellipse 235,694, 255,714
+Ellipse 597,678, 617,698
+BrushColor -1
+TextOut Arial, 16, 238, 697, 10, 1
+TextOut Arial, 16, 599, 681, 10, 1
+; B1
+BrushColor 024D36
+Ellipse 353,937, 373,957
+Ellipse 455,912, 475,932
+BrushColor -1
+TextOut Arial, 16, 356, 940, B1, 1
+TextOut Arial, 16, 457, 915, B1, 1

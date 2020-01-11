@@ -1,5 +1,6 @@
 [Line1]
 Name=1
-Stations=Mercado,Rodoviaria,Sao Pedro,Farrapos,Aeroporto,Anchieta,Niteroi,Fatima,Canoas/La Salle,Mathias Velho,Sao Luis/Ulbra,Petrobras,Esteio,Luis Pasteur,Sapucaia,Unisinos,Sao Leopoldo,Rio dos Sinos,Santo Afonso
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Mercado,Rodoviaria,Sao Pedro,Farrapos,Aeroporto,Anchieta,Niteroi,Fatima,Canoas,Mathias Velho,Sao Luis,Petrobras,Esteio,Luiz Pasteur,Sapucaia,Unisinos,Sao Leopoldo,Rio dos Sinos,Santo Afonso,Industrial,Fenac,Novo Hamburgo
+Driving=2,2,3,3,1,3,2,3,2,2,2,3,3,3,4,3,3,2,2,2,3
 
+[]

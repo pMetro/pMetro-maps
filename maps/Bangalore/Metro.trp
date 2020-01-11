@@ -1,13 +1,11 @@
 [Line1]
 Name=Purple
 Stations=Baiyappanahalli,Swami Vivekananda Road,Indiranagar,Halasuru,Trinity,Mahatma Gandhi Road,Cubbon Park,Vidhana Soudha,Sir M. Visveshwaraya,Majestic,City Railway Station,Magadi Road,Hosahalli,Vijayanagar,Attiguppe,Deepanjali Nagar,Mysore Road
-Driving=2,2,2,3,3,3,2,2,2,2,3,2,3,2,3,2
-Delays=8,6,15
+Driving=2,2,2,2,2,0,(2,2),(),0,0,0,2,2,2,2,2
 
 [Line2]
 Name=Green
 Stations=Nagasandra,Dasarahalli,Jalahalli,Peenya Industry,Peenya,Yeshwanthpur Industry,Yeshwanthpur,Sandal Soap Factory,Mahalakshmi,Rajajinagar,Kuvempu Road,Srirampura,Sampige Road
 Driving=2,2,2,2,2,2,2,2,2,2,2,2
-Delays=10,10,15
 
 [Transfers]

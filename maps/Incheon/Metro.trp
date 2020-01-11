@@ -1,6 +1,14 @@
 [Line1]
 Name=1
-Stations=Gyeyang,Gyulhyeon,Bakchon,Imhak,Gyesan,Gyeongin National University of Education,Jakjeon,Galsan,Bupyeong-gu Office,Bupyeong Market,Bupyeong,Dongsu,Bupyeongsamgeori,Ganseogogeori,Incheon City Hall,Arts Center,Incheon Bus Terminal,Munhak Sports Complex,Seonhak,Sinyeonsu,Woninjae,Dongchun,Dongmak,Campus Town,Technopark,BIT Zone,University of Incheon,Central Park,International Business District
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Gyeyang,Gyulhyeon,Bakchon,Imhak,Gyesan,Gyeongin Nat'l Univ. of Edu.,Jakjeon,Galsan,Bupyeong-gu Office,Bupyeong Market,Bupyeong,Dongsu,Bupyeongsamgeori,Ganseogogeori,Incheon City Hall,Arts Center,Incheon Bus Terminal,Munhak Sports Complex,Seonhak,Sinyeonsu,Woninjae,Dongchun,Dongmak,Campus Town,Technopark,BIT Zone,Incheon Nat'l Univ.,Central Park,Int'l Business District
+Driving=3,3,2,2,3,2,2,2,2,2,2,2,2,3,2,2,2,2,2,2,2,2,3,2,3,2,2,1
 
+[Line2]
+Name=2
+Stations=Geomdan Oryu,Wanggil,Geomdan Sageori,Majeon,Wanjeong,Dokjeong,Geomam,Geombawi,Asiad Stadium,Seo-gu Office,Gajeong,Gajeong Jungang Market,Seongnam,West Woman's Community Center,Incheon Gajwa,Gajaeul,Juan Nat'l Industrial Complex,Juan,Citizens Park,Seokbawi Market,Incheon City Hall,Seokcheon Sageori,Moraenae Market,Mansu,Namdong-gu Office,Incheon Grand Park,Unyeon
+Driving=2,2,2,1,1,2,2,2,2,2,2,1,1,1,2,2,1,2,1,1,1,1,1,2,2,2
 
+[Transfers]
+IncheonCityHall=1,Incheon City Hall,2,Incheon City Hall,12
+
+[]

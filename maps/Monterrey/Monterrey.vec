@@ -1,10 +1,17 @@
-size 690x495
-PenColor 0404A4
-BrushColor -1
-TextOut Arial,28,380,5,Monterrey, 1
-TextOut Arial,10,380,35,(Attention! All time intervals in this version equal 2 minutes)
-
-PenColor F7782E
-TextOut Arial, 12, 420, 121, 1, 1
-PenColor 007000
-TextOut Arial, 12, 420, 141, 2, 1
+Size 690x495
+PenColor 000000
+TextOut Arial, 28, 400, 100, Monterrey, 1
+TextOut Arial, 10, 400, 130, (Attention! All time intervals in this version equal 2 minutes)
+; 1
+PenColor FFFFFF
+BrushColor FFA500
+Ellipse 650,375, 670,395
+TextOut Arial, 16, 657, 378, 1, 1
+Ellipse 4,3, 24,23
+TextOut Arial, 16, 11, 6, 1, 1
+; 2
+BrushColor 008000
+Ellipse 281,1, 301,21
+TextOut Arial, 16, 288, 4, 2, 1
+Ellipse 334,465, 354,485
+TextOut Arial, 16, 341, 468, 2, 1

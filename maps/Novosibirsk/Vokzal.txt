@@ -1,0 +1,10 @@
+[Options]
+AddToInfo=1
+CityName=Новосибирск
+MenuName=Разное\Вокзалы
+Caption=Вокзал
+StringToAdd='  Вокзал:'
+MenuImage=Vokzals_logo.bmp
+
+[Дзержинская]
+Площадь Гарина-Михайловского=Вокзал "Новосибирск-Главный".

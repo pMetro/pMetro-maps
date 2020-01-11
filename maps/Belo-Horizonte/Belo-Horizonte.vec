@@ -1,5 +1,10 @@
-size 500x400
-PenColor 0404A4
-BrushColor -1
-TextOut Arial,28,5,5,Belo Horizonte
-TextOut Arial,10,5,35,(Attention! All time intervals in this version equal 2 minutes)
+Size 500x400
+PenColor 000000
+TextOut Arial, 35, 59, 188, Belo Horizonte
+
+PenColor FFFFFF
+BrushColor 0000AF
+Ellipse 245,13, 265,33
+TextOut Arial, 16, 252, 16, 1, 1
+Ellipse 43,345, 63,365
+TextOut Arial, 16, 50, 348, 1, 1

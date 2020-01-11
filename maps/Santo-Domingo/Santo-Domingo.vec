@@ -1,5 +1,17 @@
-size 260x710
-PenColor 0404A4
-BrushColor -1
-TextOut Arial,35,20,5,Santo Domingo,1
-TextOut Arial,10,20,45,(Attention! All time intervals in this version equal 2 minutes)
+Size 730x480
+PenColor 000000
+TextOut Arial, 35, 476, 33, Santo Domingo, 1
+TextOut Arial, 10, 476, 73, (Attention! All time intervals in this version equal 2 minutes)
+
+PenColor FFFFFF
+BrushColor 0000FF
+Ellipse 247,454, 267,474
+TextOut Arial, 16, 254, 457, 1, 1
+Ellipse 397,8, 417,28
+TextOut Arial, 16, 404, 11, 1, 1
+
+BrushColor FF0000
+Ellipse 691,210, 711,230
+TextOut Arial, 16, 698, 213, 2, 1
+Ellipse 12,342, 32,362
+TextOut Arial, 16, 19, 345, 2, 1

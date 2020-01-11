@@ -74,8 +74,8 @@ Times Sq - 42 St=станция открыта 27.10.1904
 [5 - Lexington Av Express]
 Eastchester - Dyre Avenue=станция открыта 29.05.1912
 Baychester Avenue=станция открыта 29.05.1912
-Dyre Avenue Line Gun Hill Rd=станция открыта 29.05.1912
-Dyre Avenue Line Pelham Parkway=станция открыта 29.05.1912
+Gun Hill Rd=станция открыта 29.05.1912
+Pelham Parkway=станция открыта 29.05.1912
 Morris Park=станция открыта 29.05.1912
 Bowling Green=станция открыта 10.07.1905
 
@@ -135,13 +135,13 @@ Cypress Avenue=станция открыта 07.01.1919
 Brook Avenue=станция открыта 07.01.1919
 138 St - 3 Av=станция открыта 07.01.1919
 
-[2 - Seventh Av Local]
+[3 - Seventh Av Local]
 Wakefield 241 St=станция открыта 13.12.1920
 Nereid Avenue=станция открыта 31.03.1917
 233 St=станция открыта 31.03.1917
 225 St=станция открыта 31.03.1917
 219 St=станция открыта 03.03.1917
-Gun Hill Rd=станция открыта 03.03.1917
+Gun Hill Road=станция открыта 03.03.1917
 Burke Avenue=станция открыта 03.03.1917
 Allerton Avenue=станция открыта 03.03.1917
 Pelham Parkway=станция открыта 03.03.1917

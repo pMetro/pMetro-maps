@@ -1,56 +1,88 @@
 [Line1]
-Name=North South
-Stations=Jurong East,Bukit Batok,Bukit Gombak,Choa Chu Kang,Yew Tee,Kranji,Marsiling,Woodlands,Admiralty,Sembawang,Yishun,Khatib,Yio Chu Kang,Ang Mo Kio,Bishan,Braddell,Toa Payoh,Novena,Newton,Orchard,Somerset,Dhoby Ghaut,City Hall,Raffles Place,Marina Bay,Marina South Pier
-Driving=3,2,4,2,5,2,3,2,3,4,2,6,2,3,2,2,2,2,2,2,1,2,2,2,2
+Name=East West
+Stations=Pasir Ris,Tampines,Simei,Tanah Merah(Bedok,Simei,Expo),Bedok,Kembangan,Eunos,Paya Lebar,Aljunied,Kallang,Lavender,Bugis,City Hall,Raffles Place,Tanjong Pagar,Outram Park,Tiong Bahru,Redhill,Queenstown,Commonwealth,Buona Vista,Dover,Clementi,Jurong East,Chinese Garden,Lakeside,Boon Lay,Pioneer,Joo Koon,Gul Circle,Tuas Crescent,Tuas West Road,Tuas Link(,Tuas West Road),Expo(Changi Airport,Tanah Merah),Changi Airport
+Driving=3,2,3,(3,3,3),2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4,2,3,2,2,4,3,2,2,2,(,2),(8,3)
 DelayDay=4
 DelayNight=7
 
 [Line2]
-Name=East West
-Stations=Changi Airport,Expo(Tanah Merah,Changi Airport),Pasir Ris(Tampines),Tampines,Simei,Tanah Merah(Bedok,Simei,,Expo),Bedok,Kembangan,Eunos,Paya Lebar,Aljunied,Kallang,Lavender,Bugis,City Hall,Raffles Place,Tanjong Pagar,Outram Park,Tiong Bahru,Redhill,Queenstown,Commonwealth,Buona Vista,Dover,Clementi,Jurong East,Chinese Garden,Lakeside,Boon Lay,Pioneer,Joo Koon
-Driving=2,(2,2),(2),3,3,(3,3,,2),2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,4,2,2,3,2,2
+Name=North South
+Stations=Jurong East,Bukit Batok,Bukit Gombak,Choa Chu Kang,Yew Tee,Kranji,Marsiling,Woodlands,Admiralty,Sembawang(Canberra,Admiralty,Yishun),Canberra,Yishun(Khatib,Canberra,,Sembawang),Khatib,Yio Chu Kang,Ang Mo Kio,Bishan,Braddell,Toa Payoh,Novena,Newton,Orchard,Somerset,Dhoby Ghaut,City Hall,Raffles Place,Marina Bay,Marina South Pier
+Driving=3,2,4,2,5,2,3,2,3,(,3,4),0,(2,,,4),6,2,2,2,2,2,2,2,2,1,2,2,2,2
 DelayDay=4
 DelayNight=7
 
 [Line3]
 Name=North East
-Stations=Harbour Front,Outram Park,Chinatown,Clarke Quay,Dhoby Ghaut,Little India,Farrer Park,Boon Keng,Potong Pasir,Serangoon,Kovan,Hougang,Buangkok,Sengkang,Punggol
-Driving=4,1,2,2,2,1,3,2,4,2,3,2,3,2
+Stations=Harbour Front,Outram Park,Chinatown,Clarke Quay,Dhoby Ghaut,Little India,Farrer Park,Boon Keng,Potong Pasir,Woodleigh,Serangoon,Kovan,Hougang,Buangkok,Sengkang,Punggol
+Driving=3,2,2,2,2,2,2,3,1,2,3,2,2,2,3
 DelayDay=4
 DelayNight=7
 
 [Line4]
 Name=Circle
-Stations=Marina Bay,Bayfront(Promenade,Marina Bay),Dhoby Ghaut(Bras Basah),Bras Basah,Esplanade,Promenade(Nicoll Highway,Esplanade,,Bayfront),Nicoll Highway,Stadium,Mountbatten,Dakota,Paya Lebar,MacPherson,Tai Seng,Bartley,Serangoon,Lorong Chuan,Bishan,Marymount,Caldecott(Bukit Brown,Marymount,Botanic Gardens),Bukit Brown,Botanic Gardens(Farrer Road,Bukit Brown,,Caldecott),Farrer Road,Holland Village,Buona Vista,one-north,Kent Ridge,Haw Par Villa,Pasir Panjang,Labrador Park,Telok Blangah,Harbour Front
-Driving=2,(2,2),(2),2,2,(2,2,,2),2,2,2,2,2,2,2,2,2,2,2,2,(,2,4),0,(2,,,4),2,2,2,2,2,2,2,2,2
+Stations=Dhoby Ghaut,Bras Basah,Esplanade,Promenade(Nicoll Highway,Esplanade,,Bayfront),Nicoll Highway,Stadium,Mountbatten,Dakota,Paya Lebar,MacPherson,Tai Seng,Bartley,Serangoon,Lorong Chuan,Bishan,Marymount,Caldecott(Bukit Brown,Marymount,Botanic Gardens),Bukit Brown,Botanic Gardens(Farrer Road,Bukit Brown,,Caldecott),Farrer Road,Holland Village,Buona Vista,one-north,Kent Ridge,Haw Par Villa,Pasir Panjang,Labrador Park,Telok Blangah,Harbour Front(,Telok Blangah),Marina Bay(Bayfront),Bayfront(Promenade,Marina Bay)
+Driving=2,2,2,(2,2,,2),2,2,2,2,2,2,3,2,2,3,3,2,(,2,5),0,(2,,,5),2,3,1,2,3,2,2,2,2,(,2),(2),(2,2)
 DelayDay=4
 DelayNight=7
 
 [Line5]
 Name=Downtown
-Stations=Bukit Panjang,Cashew,Hillview,Beauty World,King Albert Park,Sixth Avenue,Tan Kah Kee,Botanic Gardens,Stevens,Newton,Little India,Rochor,Bugis,Promenade,Bayfront,Downtown,Telok Ayer,Chinatown
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Bukit Panjang,Cashew,Hillview,Beauty World,King Albert Park,Sixth Avenue,Tan Kah Kee,Botanic Gardens,Stevens,Newton,Little India,Rochor,Bugis,Promenade,Bayfront,Downtown,Telok Ayer,Chinatown,Fort Canning,Bencoolen,Jalan Besar,Bendemeer,Geylang Bahru,Mattar,MacPherson,Ubi,Kaki Bukit,Bedok North,Bedok Reservoir,Tampines West,Tampines,Tampines East,Upper Changi,Expo
+Driving=2,1,4,2,2,2,2,2,2,3,1,2,2,2,2,1,2,2,1,2,2,2,2,3,1,2,2,3,2,2,2,4,1
+DelayDay=4
+DelayNight=7
+
+[Line6]
+Name=Bukit Panjang LRT
+Stations=Choa Chu Kang,South View,Keat Hong,Teck Whye,Phoenix,Bukit Panjang(Petir,Phoenix,,Senja),Petir,Pending,Bangkit,Fajar,Segar,Jelapang,Senja(Bukit Panjang,Jelapang)
+Driving=1,1,1,1,1,(1,1,,1),1,1,1,1,1,1,(1,1)
+DelayDay=4
+DelayNight=7
+
+[Line7]
+Name=Sengkang LRT
+Stations=Sengkang(Compassvale,Ranggung,Cheng Lim,Renjong),Compassvale,Rumbia,Bakau,Kangkar,Ranggung(Sengkang,Kangkar),Cheng Lim(Farmway,Sengkang),Farmway,Kupang,Thanggam,Fernvale,Layar,Tongkang,Renjong(Sengkang,Tongkang)
+Driving=(2,2,2,2),1,1,1,2,(2,2),(1,2),1,1,1,1,1,1,(2,1)
+DelayDay=4
+DelayNight=7
+
+[Line8]
+Name=Punggol LRT
+Stations=Punggol(Cove,Damai,Sam Kee,Soo Teck),Cove,Meridian,Coral Edge,Riviera,Kadaloor,Oasis,Damai(Punggol,Oasis),Sam Kee(Teck Lee,Punggol),Teck Lee,Punggol Point,Samudera,Nibong,Sumang,Soo Teck(Punggol,Sumang)
+Driving=(2,2,2,2),1,1,1,1,1,1,(2,1),(1,2),1,1,1,1,1,(2,1)
 DelayDay=4
 DelayNight=7
 
 [Transfers]
-Jurong East=North South,Jurong East, East West,Jurong East, 2
-City Hall=North South,City Hall, East West,City Hall, 1
-Raffles Place=North South,Raffles Place, East West,Raffles Place, 1
-Dhoby Ghaut=North South,Dhoby Ghaut, North East,Dhoby Ghaut, 2
-Outram Park=East West,Outram Park, North East,Outram Park, 2
-=Circle,Buona Vista,East West,Buona Vista,2
-=North South,Bishan,Circle,Bishan,2
-=Circle,Serangoon,North East,Serangoon,2
-=Circle,Paya Lebar,East West,Paya Lebar,2
-=North East,Harbour Front,Circle,Harbour Front,2
-=Circle,Marina Bay,North South,Marina Bay,2
-=Circle,Dhoby Ghaut,North East,Dhoby Ghaut,2
-=Circle,Dhoby Ghaut,North South,Dhoby Ghaut,2
-=Downtown,Botanic Gardens,Circle,Botanic Gardens,2
-=North South,Newton,Downtown,Newton,2
-=Downtown,Little India,North East,Little India,2
-=Downtown,Bugis,East West,Bugis,2
-=Downtown,Promenade,Circle,Promenade,2
-=Downtown,Bayfront,Circle,Bayfront,2
-=Downtown,Chinatown,North East,Chinatown,2
+Tampines=East West,Tampines,Downtown,Tampines, 6
+Expo=East West,Expo, Downtown,Expo, 6
+Paya Lebar=East West,Paya Lebar, Circle,Paya Lebar, 6
+Bugis=East West,Bugis, Downtown,Bugis, 6
+City Hall=East West,City Hall, North South,City Hall, 6
+Raffles Place=East West,Raffles Place, North South,Raffles Place, 6
+Outram Park=East West,Outram Park, North East,Outram Park, 6
+Buona Vista=East West,Buona Vista, Circle,Buona Vista, 6
+Jurong East=East West,Jurong East, North South,Jurong East, 6
+
+Choa Chu Kang=North South,Choa Chu Kang, Bukit Panjang LRT,Choa Chu Kang, 6
+Bishan=North South,Bishan, Circle,Bishan, 6
+Newton=North South,Newton, Downtown,Newton, 6
+Dhoby Ghaut NS NE=North South,Dhoby Ghaut, North East,Dhoby Ghaut, 6
+Dhoby Ghaut NS CC=North South,Dhoby Ghaut, Circle,Dhoby Ghaut, 6
+Marina Bay=North South,Marina Bay, Circle,Marina Bay, 6
+
+Harbour Front=North East,Harbour Front, Circle,Harbour Front, 6
+Chinatown=North East,Chinatown, Downtown,Chinatown, 6
+Dhoby Ghaut NE CC=North East,Dhoby Ghaut, Circle,Dhoby Ghaut, 6
+Little India=North East,Little India, Downtown,Little India, 6
+Serangoon=North East,Serangoon, Circle,Serangoon, 6
+Sengkang=North East,Sengkang, Sengkang LRT,Sengkang, 6
+Punggol=North East,Punggol, Punggol LRT,Punggol, 6
+
+Promenade=Circle,Promenade, Downtown,Promenade, 6
+MacPherson=Circle,MacPherson, Downtown,MacPherson, 6
+Botanic Gardens=Circle,Botanic Gardens, Downtown,Botanic Gardens, 6
+Bayfront=Circle,Bayfront, Downtown,Bayfront, 6
+
+Bukit Panjang=Downtown,Bukit Panjang, Bukit Panjang LRT,Bukit Panjang, 6

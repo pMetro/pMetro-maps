@@ -121,8 +121,8 @@ StringToAdd='  Карта окрестностей cтанции: '
 Купчино=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6353120&mapY=6638000&act=5&mapWidth=800
 Шушары=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6353680&mapY=6635420&act=5&mapWidth=800
 Паровозный Музей=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6354080&mapY=6633500&act=5&mapWidth=800
-21 км=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6355280&mapY=6628160&act=5&mapWidth=800
-Детское Село=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6355680&mapY=6626180&act=5&mapWidth=800
+Детскосельская=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6355280&mapY=6628160&act=5&mapWidth=800
+Царское Село=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6355680&mapY=6626180&act=5&mapWidth=800
 Павловск=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6355760&mapY=6622880&act=5&mapWidth=800
 
 [Электричка: Московский]

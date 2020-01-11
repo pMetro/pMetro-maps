@@ -150,13 +150,13 @@ Angle 83
 PenColor FFD900
 BrushColor 615F56
 SpotRect 600, -25, 30, 30, ShowMessage Выход №1
-SpotRect 60, 954, 30, 30
-SpotRect 140, 956, 30, 30
-SpotRect 120, 1095, 30, 30
-SpotRect 38, 1091, 30, 30
+SpotRect 119, 1088, 30, 30
+SpotRect 137, 957, 30, 30
+SpotRect 40, 1077, 30, 30
+SpotRect 60, 955, 30, 30
 BrushColor -1
 TextOut Arial, 25, 608, -24, 1
-TextOut Arial, 25, 68, 955, 2
-TextOut Arial, 25, 148, 957, 3
-TextOut Arial, 25, 128, 1096, 4
-TextOut Arial, 25, 46, 1092, 5
+TextOut Arial, 25, 127, 1089, 2
+TextOut Arial, 25, 145, 958, 3
+TextOut Arial, 25, 48, 1078, 4
+TextOut Arial, 25, 68, 956, 5

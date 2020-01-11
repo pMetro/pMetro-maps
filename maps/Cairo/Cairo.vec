@@ -1,12 +1,23 @@
-size 600x740
-PenColor 0404A4
-BrushColor -1
-TextOut Arial,28,360,300,Cairo, 1
-TextOut Arial,10,360,335,(Attention! All time intervals in this version equal 2 minutes)
+Size 750x1200
+PenColor 000000
+TextOut Arial, 28, 369, 528, Cairo, 1
+TextOut Arial, 10, 369, 563, (Attention! All time intervals in this version equal 2 minutes)
 
-PenColor AF0000
-TextOut Arial, 12, 79, 146, 1, 1
-PenColor AF8500
-TextOut Arial, 12, 79, 164, 2, 1
-PenColor 00AF00
-TextOut Arial, 12, 79, 182, 3, 1
+PenColor FFFFFF
+BrushColor 003399
+Ellipse 485,1174, 505,1194
+TextOut Arial, 16, 492, 1177, 1, 1
+Ellipse 554,9, 574,29
+TextOut Arial, 16, 561, 12, 1, 1
+
+BrushColor BF2928
+Ellipse 147,688, 167,708
+TextOut Arial, 16, 154, 691, 2, 1
+Ellipse 248,157, 268,177
+TextOut Arial, 16, 255, 160, 2, 1
+
+BrushColor 008100
+Ellipse 559,135, 579,155
+TextOut Arial, 16, 566, 138, 3, 1
+Ellipse 251,403, 271,423
+TextOut Arial, 16, 258, 406, 3, 1

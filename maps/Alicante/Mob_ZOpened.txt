@@ -1,0 +1,134 @@
+[Options]
+AddToInfo=0
+CityName=Alicante
+MenuName=Моб.связь\Открытые участки
+
+[Drivings]
+L1SanguetaMARQCASTILLO=L1,Sangueta,MARQ-CASTILLO,0,85
+L1SanguetaLaIsleta=L1,Sangueta,La Isleta,0,20
+L1LaIsletaSangueta=L1,La Isleta,Sangueta,0,20
+L1LaIsletaBenidormIntermodal=L1,La Isleta,Benidorm Intermodal
+L2LaGotetaPlazaMar2MARQCASTILLO=L2,La Goteta-Plaza Mar 2,MARQ-CASTILLO,0,75
+L2LaGotetaPlazaMar2BulevardelPla=L2,La Goteta-Plaza Mar 2,Bulevar del Pla,0,15
+L2BulevardelPlaLaGotetaPlazaMar2=L2,Bulevar del Pla,La Goteta-Plaza Mar 2,0,40
+L2BulevardelPlaSantVicentdelRaspeig=L2,Bulevar del Pla,Sant Vicent del Raspeig
+L3SanguetaMARQCASTILLO=L3,Sangueta,MARQ-CASTILLO,0,85
+L3SanguetaLaIsleta=L3,Sangueta,La Isleta,0,20
+L3LaIsletaSangueta=L3,La Isleta,Sangueta,0,20
+L3LaIsletaElCampello=L3,La Isleta,El Campello
+L4SanguetaMARQCASTILLO=L4,Sangueta,MARQ-CASTILLO,0,85
+L4SanguetaLaIsleta=L4,Sangueta,La Isleta,0,20
+L4LaIsletaSangueta=L4,La Isleta,Sangueta,0,20
+L4LaIsletaHolanda=L4,La Isleta,Holanda
+L4HolandaAvNaciones=L4,Holanda,Av. Naciones
+L5PortaDelMarSangueta=L5,Porta Del Mar,Sangueta
+L5SanguetaLaIsleta=L5,Sangueta,La Isleta,0,20
+L5LaIsletaSangueta=L5,La Isleta,Sangueta,0,20
+L5LaIsletaHolanda=L5,La Isleta,Holanda
+L5HolandaAvNaciones=L5,Holanda,Av. Naciones
+L9BenidormDenia=L9,Benidorm,Denia
+
+[L1]
+Sangueta=
+La Isleta=
+Lucentum=
+El Campello=
+Poble Espanyol=
+Amerador=
+Coveta Fuma=
+Cala Piteres=
+Venta Lanuza=
+Paradis=
+La Vila Joiosa=
+Creueta=
+Costera Pastor=
+Hospital Vila=
+C.C La Marina-Finestrat=
+Terra Mitica=
+Benidorm=
+Benidorm Intermodal=
+
+[L2]
+La Goteta-Plaza Mar 2=
+Bulevar del Pla=
+Garbinet=
+Hospital=
+Maestro Alonso=
+Pintor Gaston Castello=
+Virgen del Remedio=
+Ciudad Jardin=
+Santa Isabel=
+Universitat=
+Sant Vicent del Raspeig=
+
+[L3]
+Sangueta=
+La Isleta=
+Albufereta=
+Lucentum=
+Condomina=
+Campo de Golf=
+Costa Blanca=
+Carrabiners=
+Muchavista=
+Les Llances=
+Fabraquer=
+Salesians=
+Pla Barraques=
+El Campello=
+
+[L4]
+Sangueta=
+La Isleta=
+Albufereta=
+Lucentum=
+Miriam Blasco=
+Sergio Cardell=
+Tridente=
+Av. Naciones=
+Cabo Huertas=
+Av. Benidorm=
+Londres=
+Pl. La Coruna=
+Instituto=
+P. Escandinavos=
+Holanda=
+
+[L5]
+Porta Del Mar=
+La Marina=
+Sangueta=
+La Isleta=
+Albufereta=
+Lucentum=
+Miriam Blasco=
+Sergio Cardell=
+Tridente=
+Av. Naciones=
+Cabo Huertas=
+Av. Benidorm=
+Londres=
+Pl. La Coruna=
+Instituto=
+P. Escandinavos=
+Holanda=
+
+[L9]
+Benidorm=
+Benidorm Intermodal=
+Cami Coves=
+L'Alfas del Pi=
+El Albir=
+Altea=
+Garganes=
+Cap Negret=
+Olla Altea=
+Calp=
+Ferrandet=
+Benissa=
+Teulada=
+Gata=
+La Xara=
+La Pedrera=
+Alqueries=
+Denia=

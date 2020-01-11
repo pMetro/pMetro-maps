@@ -1,139 +1,157 @@
-Size 1160x1360
-Image 1.png
+Size 1390x1500
+;Image 1.bmp
 PenColor B4E3EB
 ; река
 ;Spline 677,678, 696,649, 712,638, 741,635, 787,628, 817,621, 852,601, 864,588, 866,580, 862,559, 850,542, 827,522, 816,494, 814,458, 823,432, 830,419, 827,400, 817,391, 798,380, 788,368, 789,350, 791,331, 783,308, 771,296, 753,281, 746,267, 738,246, 719,227, 690,215, 665,203, 654,185, 659,170, 679,157, 698,146, 713,133, 730,114, 739,95, 5
 ;Spline 921,987, 871,987, 820,993, 779,1001, 750,987, 750,958, 774,941, 780,916, 768,893, 740,888, 697,894, 667,905, 645,907, 630,900, 621,881, 623,860, 645,841, 683,827, 703,809, 715,785, 718,746, 702,708, 680,679, 641,647, 611,630, 578,620, 554,621, 534,626, 514,636, 494,651, 466,683, 448,711, 419,753, 398,779, 371,802, 341,819, 303,821, 274,792, 275,759, 289,741, 322,713, 355,685, 369,663, 377,634, 371,610, 353,597, 307,599, 271,601, 249,595, 233,569, 236,535, 233,518, 215,505, 190,499, 172,484, 158,451, 150,410, 136,383, 109,362, 84,358, 57,358, 17,361, 20
 ;Spline 707,798, 706,767, 693,739, 667,704, 639,679, 604,659, 564,651, 534,652, 503,660, 480,672, 13
 PenColor 040464
-AngleTextOut 0, Arial, 34, 126, -1, СХЕМА ЛИНИЙ СКОРОСТНОГО ТРАНСПОРТА МОСКВЫ, 1
+AngleTextOut 0, Arial, 34, 126, -1, МОСКВА, 1
 
 PenColor E41C0C
-AngleTextOut 0, Arial, 16, 102, 1053, 1 Сокольническая, 1
+AngleTextOut 0, Arial, 16, 66, 956, 1 Сокольническая, 1
 PenColor 046434
-AngleTextOut 0, Arial, 16, 102, 1071, 2 Замоскворецкая, 1
+AngleTextOut 0, Arial, 16, 66, 974, 2 Замоскворецкая, 1
 PenColor 34349C
-AngleTextOut 0, Arial, 16, 102, 1089, 3 Арбатско-Покровская, 1
+AngleTextOut 0, Arial, 16, 66, 992, 3 Арбатско-Покровская, 1
 PenColor 1C54BC
-AngleTextOut 0, Arial, 16, 102, 1107, 4 Филевская, 1
+AngleTextOut 0, Arial, 16, 66, 1010, 4 Филевская, 1
 PenColor 543C04
-AngleTextOut 0, Arial, 16, 102, 1125, 5 Кольцевая, 1
+AngleTextOut 0, Arial, 16, 66, 1028, 5 Кольцевая, 1
 PenColor F7782E
-AngleTextOut 0, Arial, 16, 102, 1143, 6 Калужско-Рижская, 1
+AngleTextOut 0, Arial, 16, 66, 1046, 6 Калужско-Рижская, 1
 PenColor AC24AC
-AngleTextOut 0, Arial, 16, 102, 1161, 7 Таганско-Краснопресненская, 1
+AngleTextOut 0, Arial, 16, 66, 1064, 7 Таганско-Краснопресненская, 1
 PenColor F49E01
-AngleTextOut 0, Arial, 16, 102, 1179, 8 Калининско-Солнцевская, 1
+AngleTextOut 0, Arial, 16, 66, 1082, 8 Калининско-Солнцевская, 1
 PenColor 4C4C4C
-AngleTextOut 0, Arial, 16, 102, 1197, 9 Серпуховско-Тимирязевская, 1
+AngleTextOut 0, Arial, 16, 66, 1100, 9 Серпуховско-Тимирязевская, 1
 PenColor 5C9F2E
-AngleTextOut 0, Arial, 16, 102, 1215, 10 Люблинско-Дмитровская, 1
+AngleTextOut 0, Arial, 16, 66, 1118, 10 Люблинско-Дмитровская, 1
 PenColor 34649C
-AngleTextOut 0, Arial, 16, 102, 1233, 11 Каховская, 1
+AngleTextOut 0, Arial, 16, 66, 1136, 11 Каховская, 1
 PenColor 2D69FC
-AngleTextOut 0, Arial, 16, 102, 1251, Л1 Бутовская, 1
+AngleTextOut 0, Arial, 16, 66, 1154, Л1 Бутовская, 1
 PenColor 84ACBC
-AngleTextOut 0, Arial, 16, 102, 1277, М1 Монорельс, 1
+AngleTextOut 0, Arial, 16, 66, 1172, М1 Монорельс, 1
 PenColor DE7272
-AngleTextOut 0, Arial, 16, 101, 1305, МЦК, 1
+AngleTextOut 0, Arial, 16, 66, 1190, МЦК, 1
+PenColor DE64A1
+AngleTextOut 0, Arial, 16, 66, 1208, 15 Некрасовская, 1
 PenColor 21A097
-AngleTextOut 0, Arial, 16, 101, 1323, БКЛ, 1
+AngleTextOut 0, Arial, 16, 66, 1226, БКЛ, 1
+PenColor F6A800
+AngleTextOut 0, Arial, 16, 66, 1244, МЦД1, 1
+PenColor E83F83
+AngleTextOut 0, Arial, 16, 66, 1262, МЦД2, 1
 
+[МЦД1]
+Color=F6A800
+LabelsColor=F6A800
+Coordinates=387,101, 476,101, 565,101, 628,101, 675,101, 714,140, 749,186, 749,224, 749,254, 749,279, 749,315, 749,357, 749,418, 749,456, 749,486, 744,536, 586,694, 521,759, 415,865, 303,977, 254,975, 160,881, 91,775, 91,733, 91,677, 91,620, 91,581, 91,524
+Rects=381,77,33,15, 438,111,90,15, 536,77,63,15, 607,111,46,15, 678,78,75,15, 720,117,65,15, 758,180,28,15, 758,216,56,15, 758,247,54,15, 758,272,75,15, 758,308,49,15, 758,350,52,15, 0,0,0,0, 0,0,0,0, -15,-13,69,15, 658,528,70,15, -18,-17,70,15, 531,762,44,15, 349,844,60,15, 302,986,30,15, 177,992,66,28, 90,886,61,15, 99,762,47,28, 100,727,39,15, 101,671,65,15, 100,614,51,15, 103,575,44,15, 100,517,53,15
+Heights=
+Rect=
+Rects2=
+
+[МЦД2]
+Color=E83F83
+LabelsColor=E83F83
 
 
 PenColor 040464
 BrushColor -1
-AngleTextOut 0, Arial, 15, 827, 37, Схема движения электропоездов, 5
-SpotRect 803, 34, 241, 22, LoadMap RailWay.map
+AngleTextOut 0, Arial, 15, 926, 37, Схема движения электропоездов, 5
+SpotRect 900, 34, 250, 22, LoadMap RailWay.map
 
-AngleTextOut 0, Arial, 15, 827, 62, Схема движения речных трамваев, 5
-SpotRect 801, 59, 250, 22, LoadMap RechnoyTramvay.map
+AngleTextOut 0, Arial, 15, 926, 62, Схема движения речных трамваев, 5
+SpotRect 900, 59, 250, 22, LoadMap RechnoyTramvay.map
 
 Image LinkTramsOnMainMap.vec
 Image LinkTrolleysOnMainMap.vec
 Image LinkHistoryOnMainMap.vec
 Image LinkZelBusesOnMainMap.vec
 
-Image Vokzals_logo.vec, 803, 34
-Image Rechnoy_logo.vec, 801, 59
+Image Vokzals_logo.vec, 902, 34
+Image Rechnoy_logo.vec, 900, 59
 
 BrushColor -1
 PenColor 505050
 
-SpotRect 855, 256, 20, 20, SelectRoute Сокольническая
-TextOut Arial, 20, 860, 256, 1, 1
-
-SpotRect 213, 1026, 20, 20, SelectRoute Сокольническая
-TextOut Arial, 20, 218, 1026, 1, 1
-
-SpotRect 317, 41, 20, 20, SelectRoute Замоскворецкая
-TextOut Arial, 20, 322, 41, 2, 1
-
-SpotRect 939, 1260, 20, 20, SelectRoute Замоскворецкая
-TextOut Arial, 20, 944, 1260, 2, 1
-
-SpotRect 990, 176, 20, 20, SelectRoute Арбатско-Покровская
-TextOut Arial, 20, 995, 176, 3, 1
-
-SpotRect 31, 184, 20, 20, SelectRoute Арбатско-Покровская
-TextOut Arial, 20, 36, 184, 3, 1
-
-SpotRect 550, 621, 20, 20, SelectRoute Филевская
-TextOut Arial, 20, 555, 621, 4, 1
-
-SpotRect 127, 566, 20, 20, SelectRoute Филевская
-TextOut Arial, 20, 132, 566, 4, 1
-
-SpotRect 70, 466, 20, 20, SelectRoute Филевская
-TextOut Arial, 20, 75, 466, 4, 1
-
-SpotRect 419, 352, 20, 20, SelectRoute Кольцевая
-TextOut Arial, 20, 424, 352, 5, 1
-
-SpotRect 756, 741, 20, 20, SelectRoute Кольцевая
-TextOut Arial, 20, 761, 741, 5, 1
-
-SpotRect 720, 32, 20, 20, SelectRoute Калужско-Рижская
-TextOut Arial, 20, 725, 32, 6, 1
-
-SpotRect 359, 1203, 20, 20, SelectRoute Калужско-Рижская
-TextOut Arial, 20, 364, 1203, 6, 1
-
-SpotRect 1005, 1108, 20, 20, SelectRoute Таганско-Краснопресненская
-TextOut Arial, 20, 1010, 1108, 7, 1
-
-SpotRect 177, 89, 20, 20, SelectRoute Таганско-Краснопресненская
-TextOut Arial, 20, 182, 89, 7, 1
-
-SpotRect 1075, 411, 20, 20, SelectRoute Калининско-Солнцевская
-TextOut Arial, 20, 1080, 411, 8, 1
-
-SpotRect 31, 865, 20, 20, SelectRoute Калининско-Солнцевская
-TextOut Arial, 20, 36, 865, 8, 1
-
-SpotRect 507, 37, 20, 20, SelectRoute Серпуховско-Тимирязевская
-TextOut Arial, 20, 512, 37, 9, 1
-
-SpotRect 497, 1219, 20, 20, SelectRoute Серпуховско-Тимирязевская
-TextOut Arial, 20, 502, 1219, 9, 1
-
-SpotRect 852, 1278, 20, 20, SelectRoute Люблинско-Дмитровская
-TextOut Arial, 20, 856, 1278, 10, 1
-
-SpotRect 475, 60, 20, 20, SelectRoute Люблинско-Дмитровская
-TextOut Arial, 20, 480, 60, 10, 1
-
-SpotRect 643, 1056, 20, 20, SelectRoute Каховская
-TextOut Arial, 20, 648, 1056, 11, 1
-
-SpotRect 426, 1223, 20, 20, SelectRoute Бутовская
-TextOut Arial, 20, 431, 1223, Л1, 1
-
-SpotRect 784, 227, 20, 20, SelectRoute Монорельс
-TextOut Arial, 20, 789, 227, М1, 1
-
-SpotRect 474, 193, 20, 20, SelectRoute Монорельс
-TextOut Arial, 20, 479, 193, М1, 1
+;SpotRect 855, 256, 20, 20, SelectRoute Сокольническая
+;TextOut Arial, 20, 860, 256, 1, 1
+;
+;SpotRect 213, 1081, 20, 20, SelectRoute Сокольническая
+;TextOut Arial, 20, 218, 1081, 1, 1
+;
+;SpotRect 317, 41, 20, 20, SelectRoute Замоскворецкая
+;TextOut Arial, 20, 322, 41, 2, 1
+;
+;SpotRect 939, 1260, 20, 20, SelectRoute Замоскворецкая
+;TextOut Arial, 20, 944, 1260, 2, 1
+;
+;SpotRect 990, 176, 20, 20, SelectRoute Арбатско-Покровская
+;TextOut Arial, 20, 995, 176, 3, 1
+;
+;SpotRect 31, 184, 20, 20, SelectRoute Арбатско-Покровская
+;TextOut Arial, 20, 36, 184, 3, 1
+;
+;SpotRect 550, 621, 20, 20, SelectRoute Филевская
+;TextOut Arial, 20, 555, 621, 4, 1
+;
+;SpotRect 127, 566, 20, 20, SelectRoute Филевская
+;TextOut Arial, 20, 132, 566, 4, 1
+;
+;SpotRect 70, 466, 20, 20, SelectRoute Филевская
+;TextOut Arial, 20, 75, 466, 4, 1
+;
+;SpotRect 419, 352, 20, 20, SelectRoute Кольцевая
+;TextOut Arial, 20, 424, 352, 5, 1
+;
+;SpotRect 756, 741, 20, 20, SelectRoute Кольцевая
+;TextOut Arial, 20, 761, 741, 5, 1
+;
+;SpotRect 720, 32, 20, 20, SelectRoute Калужско-Рижская
+;TextOut Arial, 20, 725, 32, 6, 1
+;
+;SpotRect 359, 1203, 20, 20, SelectRoute Калужско-Рижская
+;TextOut Arial, 20, 364, 1203, 6, 1
+;
+;SpotRect 1005, 1108, 20, 20, SelectRoute Таганско-Краснопресненская
+;TextOut Arial, 20, 1010, 1108, 7, 1
+;
+;SpotRect 177, 89, 20, 20, SelectRoute Таганско-Краснопресненская
+;TextOut Arial, 20, 182, 89, 7, 1
+;
+;SpotRect 1075, 411, 20, 20, SelectRoute Калининско-Солнцевская
+;TextOut Arial, 20, 1080, 411, 8, 1
+;
+;SpotRect 30, 1020, 20, 20, SelectRoute Калининско-Солнцевская
+;TextOut Arial, 20, 35, 1020, 8, 1
+;
+;SpotRect 507, 37, 20, 20, SelectRoute Серпуховско-Тимирязевская
+;TextOut Arial, 20, 512, 37, 9, 1
+;
+;SpotRect 497, 1219, 20, 20, SelectRoute Серпуховско-Тимирязевская
+;TextOut Arial, 20, 502, 1219, 9, 1
+;
+;SpotRect 852, 1278, 20, 20, SelectRoute Люблинско-Дмитровская
+;TextOut Arial, 20, 856, 1278, 10, 1
+;
+;SpotRect 475, 60, 20, 20, SelectRoute Люблинско-Дмитровская
+;TextOut Arial, 20, 480, 60, 10, 1
+;
+;SpotRect 643, 1056, 20, 20, SelectRoute Каховская
+;TextOut Arial, 20, 648, 1056, 11, 1
+;
+;SpotRect 426, 1223, 20, 20, SelectRoute Бутовская
+;TextOut Arial, 20, 431, 1223, Л1, 1
+;
+;SpotRect 784, 227, 20, 20, SelectRoute Монорельс
+;TextOut Arial, 20, 789, 227, М1, 1
+;
+;SpotRect 474, 193, 20, 20, SelectRoute Монорельс
+;TextOut Arial, 20, 479, 193, М1, 1
 
 ;PenColor FF4040
 ;BrushColor -1

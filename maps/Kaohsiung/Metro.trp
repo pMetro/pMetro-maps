@@ -1,12 +1,22 @@
 [Line1]
 Name=Red Line
-Stations=Gangshan South,Ciaotou Station,Ciaotou Sugar Refinery,Cingpu,Metropolitan Park,Houjing,Nanzih Export Processing Zone,Oil Refinery Elementary School,World Games,Zuoying/THSR,Ecological District,Kaohsiung Arena,Aozihdi,Houyi,Kaohsiung Main Station,Formosa Boulevard,Central Park,Sanduo Shopping District,Shihjia,Kaisyuan,Cianjhen Senior High School,Caoya,Kaohsiung International Airport,Siaogang
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Stations=Siaogang,Kaohsiung International Airport,Caoya,Cianjhen Senior High School,Kaisyuan,Shihjia,Sanduo Shopping District,Central Park,Formosa Boulevard,Kaohsiung Main Station,Houyi,Aozihdi,Kaohsiung Arena,Ecological District,Zuoying,World Games,Oil Refinery Elementary School,Nanzih Export Processing Zone,Houjing,Metropolitan Park,Cingpu,Ciaotou Sugar Refinery,Ciaotou Station,Gangshan South
+Driving=2,3,2,2,2,2,2,2,2,3,2,2,3,3,3,2,3,2,2,3,2,2,2
 
 [Line2]
 Name=Orange Line
 Stations=Sizihwan,Yanchengpu,City Council,Formosa Boulevard,Sinyi Elementary School,Cultural Center,Wukuaicuo,Martial Arts Stadium,Weiwuying,Fongshan West,Fongshan,Dadong,Fongshan Junior High School,Daliao
-Driving=2,2,2,2,2,2,2,2,2,2,2,2,2
+Driving=2,2,2,2,2,2,2,2,2,2,2,2,3
+
+[Line3]
+Name=Circular light rail
+Stations=Lizihnei(Kaisyuan Rueitian,Depot),Kaisyuan Rueitian,Cianjhen Star,Kaisyuan Jhonghua,Dream Mall,Commerce and Trade Park,Software Technology Park,Kaohsiung Exhibition Center,Cruise Terminal,Glory Pier,Love Pier,Dayi Pier-2,Penglai Pier-2,Hamasen,Wufu 4th Rd.,Dagong Rd.,Singlong Rd.,Gushan,Jiouru 4th Rd.,Museum of Fine Arts Station,Art Park,Kaohsiung Municipal United Hospital,Longde Rd.,Kaohsiung City Hall,Longhua Junior High School,Wanzihnei,Dingshan,Wanzihnei,Jiansing Rd.,Dashun Jiouru,Universal Cinemas,Rainbow Park,Minsheng Hospital,Kuochi Vocational High School,Wuchang Rd.,Ersheng Rd.,Depot(Lizihnei,Ersheng Rd.)
+Driving=(3),2,2,3,3,2,3,2,3,2,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,()
 
 [Transfers]
-1=Red Line,Formosa Boulevard,Orange Line,Formosa Boulevard,2
+1=Red Line,Formosa Boulevard,Orange Line,Formosa Boulevard,8
+2=Orange Line,Sizihwan,Circular light rail,Hamasen,3
+3=Red Line,Kaisyuan,Circular light rail,Cianjhen Star,4
+4=Red Line,Aozihdi,Circular light rail,Kaohsiung City Hall,0
+
+[]

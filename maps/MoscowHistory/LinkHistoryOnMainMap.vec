@@ -1,5 +1,5 @@
 Size 1050x1220
 PenColor 040464
 BrushColor -1
-AngleTextOut 0, Arial, 15, 827, 137, —хемы развити€ метро, 5
-SpotRect 801, 129, 250, 22, LoadMap Metro1935.map
+AngleTextOut 0, Arial, 15, 926, 137, —хемы развити€ метро, 5
+SpotRect 900, 129, 250, 22, LoadMap Metro1935.map

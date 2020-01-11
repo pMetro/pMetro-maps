@@ -22,4 +22,4 @@ StringToAdd='  Карта окрестностей cтанции: '
 Бурнаковская=http://maps.yandex.ru/map.xml?mapID=7&size=5&scale=6&mapX=432752&mapY=6242812&act=5&mapWidth=640
 Канавинская=http://maps.yandex.ru/map.xml?mapID=7&size=5&scale=6&mapX=433648&mapY=6242188&act=5&mapWidth=640
 Московская=http://maps.yandex.ru/map.xml?mapID=7&size=5&scale=6&mapX=434800&mapY=6242428&act=5&mapWidth=640
-
+Стрелка=http://maps.yandex.ru/map.xml?mapID=7&size=5&scale=6&mapX=435200&mapY=6243828&act=5&mapWidth=640

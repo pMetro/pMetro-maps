@@ -1,24 +1,62 @@
-Size 1140x770
-
-; река
-PenColor D9F5FF
-BrushColor D9F5FF
-Polygon 0,588, 196,588, 358,750, 564,750, 590,724, 779,724, 884,619, 961,618, 1104,475, 1140,475, 1140,770, 0,770
-Polygon 821,682, 801,662, 740,662, 727,675, 715,663, 729,649, 808,649, 808,540, 814,540, 814,586, 830,586, 830,606, 814,606, 814,649, 834,669
-Polygon 752,0, 668,84, 638,84, 638,116, 691,116, 807,0
-Polygon 380,0, 213,167, 213,224, 192,224, 192,158, 236,114, 236,0
-
-PenColor 0404A4
+Size 1330x921
+PenColor 000000
+TextOut Arial, 35, 35, 8, Singapore, 1
+; EW
+PenColor FFFFFF
+BrushColor 009744
+Ellipse 1174,277, 1194,297
+Ellipse 1269,525, 1289,545
+Ellipse 43,197, 63,217
 BrushColor -1
-TextOut Arial, 35, 15, 8, Singapore, 1
-
-PenColor FF0000
-TextOut Arial, 12, 72, 80, North South, 1
-PenColor 008000
-TextOut Arial, 12, 72, 100, East West, 1
-PenColor C600C6
-TextOut Arial, 12, 72, 120, North East, 1
-PenColor FF9A00
-TextOut Arial, 12, 72, 140, Circle, 1
-PenColor 0354A6
-TextOut Arial, 12, 72, 160, Downtown, 1
+TextOut Arial, 12, 1176, 282, EW, 1
+TextOut Arial, 12, 1271, 530, EW, 1
+TextOut Arial, 12, 45, 202, EW, 1
+; NS
+BrushColor D32E12
+Ellipse 212,422, 232,442
+Ellipse 715,870, 735,890
+BrushColor -1
+TextOut Arial, 12, 215, 426, NS, 1
+TextOut Arial, 12, 718, 875, NS, 1
+; NE
+BrushColor 9B01AC
+Ellipse 363,835, 383,855
+Ellipse 959,111, 979,131
+BrushColor -1
+TextOut Arial, 12, 366, 839, NE, 1
+TextOut Arial, 12, 962, 116, NE, 1
+; CC
+BrushColor F4A106
+Ellipse 654,838, 674,858
+Ellipse 392,835, 412,855
+BrushColor -1
+TextOut Arial, 12, 657, 842, CC, 1
+TextOut Arial, 12, 395, 840, CC, 1
+; DT
+BrushColor 035DBF
+Ellipse 379,180, 399,200
+Ellipse 1199,549, 1219,569
+BrushColor -1
+TextOut Arial, 12, 382, 184, DT, 1
+TextOut Arial, 12, 1202, 554, DT, 1
+; BP
+BrushColor 708370
+Ellipse 211,180, 231,200
+Ellipse 490,201, 510,221
+BrushColor -1
+TextOut Arial, 12, 214, 184, BP, 1
+TextOut Arial, 12, 493, 206, BP, 1
+; S
+BrushColor 708370
+Ellipse 854,132, 874,152
+Ellipse 971,249, 991,269
+BrushColor -1
+TextOut Arial, 12, 861, 136, S, 1
+TextOut Arial, 12, 978, 254, S, 1
+; P
+BrushColor 708370
+Ellipse 934,56, 954,76
+Ellipse 1052,175, 1072,195
+BrushColor -1
+TextOut Arial, 12, 941, 60, P, 1
+TextOut Arial, 12, 1059, 180, P, 1

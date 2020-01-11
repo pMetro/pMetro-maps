@@ -1,7 +1,7 @@
 @echo off
 SETLOCAL EnableDelayedExpansion
 
-set ZIP7=full_path\7z\7z.exe
+set ZIP7=7z.exe
 set ZIP_DIR=download
 set MAPS_DIR=maps
 
