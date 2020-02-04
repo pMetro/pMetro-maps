@@ -234,15 +234,15 @@ AngleTextOut 40, Arial, 15, 394, 568, Триумфальная арка >>
 Angle 20
 PenColor FFD900
 BrushColor 615F56
-SpotRect 254, 404, 30, 30, ShowMessage Выход №1
-SpotRect 542, 309, 30, 30
+SpotRect 546, 310, 30, 30, ShowMessage Выход №1
+SpotRect 265, 399, 30, 30
 SpotRect 560, 440, 30, 30
 SpotRect 618, 551, 30, 30
 SpotRect 495, 518, 30, 30
 SpotRect 336, 9, 30, 30
 BrushColor -1
-TextOut Arial, 25, 262, 405, 1
-TextOut Arial, 25, 550, 310, 2
+TextOut Arial, 25, 554, 311, 1
+TextOut Arial, 25, 273, 400, 2
 TextOut Arial, 25, 568, 441, 3
 TextOut Arial, 25, 626, 552, 4
 TextOut Arial, 25, 503, 519, 5
