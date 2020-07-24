@@ -111,12 +111,14 @@ PenColor 00AFAF
 BrushColor -1
 AngleTextOut 210, Arial, 15, 757, 701, Варшавское шоссе
 AngleTextOut 210, Arial, 15, -63, 392, платформа Нижние Котлы
+AngleTextOut 210, Arial, 15, 887, 426, << к станции МЦК
+AngleTextOut 210, Arial, 15, 864, 419, '"Верхние Котлы"'
 
 ; Выходы
 Angle -75
 PenColor FFD900
 BrushColor 615F56
-SpotRect 186, 799, 30, 30, ShowMessage Выход №1
+SpotRect 155, 774, 30, 30, ShowMessage Выход №1
 SpotRect 95, 787, 30, 30
 SpotRect 3, 943, 30, 30
 SpotRect 13, 808, 30, 30
@@ -124,10 +126,10 @@ SpotRect 460, 31, 30, 30
 SpotRect 617, 92, 30, 30
 SpotRect 643, 183, 30, 30
 BrushColor -1
-TextOut Arial, 25, 194, 800, 1
-TextOut Arial, 25, 103, 788, 2
-TextOut Arial, 25, 11, 944, 3
-TextOut Arial, 25, 21, 809, 4
-TextOut Arial, 25, 468, 32, 5
-TextOut Arial, 25, 625, 93, 6
-TextOut Arial, 25, 651, 184, 7
+TextOut Arial, 25, 163, 775, 1
+TextOut Arial, 25, 103, 788, 1
+TextOut Arial, 25, 11, 944, 2
+TextOut Arial, 25, 21, 809, 3
+TextOut Arial, 25, 468, 32, 4
+TextOut Arial, 25, 625, 93, 5
+TextOut Arial, 25, 651, 184, 6
