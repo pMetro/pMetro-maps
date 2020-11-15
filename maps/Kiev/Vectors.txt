@@ -24,11 +24,11 @@ Type=Image
 Черниговская=Chernigovskaya.vec
 Лесная=Lesnaya.vec
 
-[Куреневско-Красноармейская]
+[Оболонско-Теремковская]
 Героев Днепра=GeroivDnepra.vec
 Минская=Minskaya.vec
 Оболонь=Obolon.vec
-Петровка=Petrovka.vec
+Почайна=Pochaina.vec
 Тараса Шевченко=TarasaShevchenko.vec
 Контрактовая площадь=KontraktovayaPl.vec
 Почтовая площадь=PochtovayaPloshad.vec

@@ -182,12 +182,12 @@ AngleTextOut 45, Arial, 15, 181, 667, ул. Руставели
 Angle 45
 PenColor FFD900
 BrushColor 615F56
-SpotRect 59, 278, 30, 30, ShowMessage Выход №1
-SpotRect 387, 168, 30, 30
-SpotRect 834, 613, 30, 30
-SpotRect 616, 835, 30, 30
+SpotRect 394, 164, 30, 30, ShowMessage Выход №1
+SpotRect 56, 284, 30, 30
+SpotRect 622, 849, 30, 30
+SpotRect 852, 628, 30, 30
 BrushColor -1
-TextOut Arial, 25, 67, 279, 1
-TextOut Arial, 25, 395, 169, 2
-TextOut Arial, 25, 842, 614, 3
-TextOut Arial, 25, 624, 836, 4
+TextOut Arial, 25, 402, 165, 1
+TextOut Arial, 25, 64, 285, 2
+TextOut Arial, 25, 630, 850, 3
+TextOut Arial, 25, 860, 629, 4

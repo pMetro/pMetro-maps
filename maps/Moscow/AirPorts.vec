@@ -1,63 +1,67 @@
 Size 1160x1360
+Opaque 20
+Image 1.png
+Opaque 100
+
 PenColor 000000
 BrushColor FFFFFF
-Railway 6, 8, 7, 402,392, 446,260, 382,107, 237,31
-Line 319,120, 239,29, 2
-Line 190,107, 239,29, 2
+Railway 6, 8, 7, 591,558, 657,512, 687,433, 669,259, 535,166, 385,110, 241,62
+Line 448,285, 243,60, 2
+Line 313,275, 243,60, 2
 
-Line 239,29, 108,29, 2
-Line 239,25, 108,25, 2
-AngleTextOut 0, Arial, 22, 107, 2, Шереметьево, 1
-AngleTextOut 54, Arial, 12, 186, 77, авт.817
-AngleTextOut -50, Arial, 12, 286, 58, авт.851
+Line 243,60, 112,60, 2
+Line 243,56, 112,56, 2
+AngleTextOut 0, Arial, 22, 111, 33, Шереметьево, 1
+AngleTextOut -74, Arial, 12, 297, 176, авт.817
+AngleTextOut -50, Arial, 12, 290, 89, авт.851
 
 BrushColor -1
-Ellipse 363,389, 415,441, 2
+Ellipse 526,542, 596,612, 2
 
-Image MenuImages\Airplane_logo.vec, 59, 0
+Image Airplane_logo.vec, 63, 31
 
 ;Домодедово
 PenColor 000000
 BrushColor -1
-Line 670,1348, 718,1278, 2
-Line 670,1348, 812,1348, 2
-Line 670,1352, 812,1352, 2
-Railway 6, 8, 7, 665,1348, 631,1187, 625,983, 669,824
+Line 1044,1496, 1004,1372, 2
+Line 1044,1496, 1186,1496, 2
+Line 1044,1500, 1186,1500, 2
+Railway 6, 8, 7, 1039,1496, 880,1331, 739,1167, 847,1003
 
-AngleTextOut 0, Arial, 22, 695, 1326, Домодедово, 1
-AngleTextOut 55, Arial, 12, 690, 1316, авт.308
+AngleTextOut 0, Arial, 22, 1069, 1474, Домодедово, 1
+AngleTextOut -70, Arial, 12, 1015, 1409, авт.308
 ;AngleTextOut 38, Arial, 12, 721, 1126, авт.522
 
-Image MenuImages\Airplane_logo.vec, 819, 1322
+Image Airplane_logo.vec, 1193, 1470
 
 
 ;Внуково
 PenColor 000000
 BrushColor -1
 ;Line 161,1098, 319,683, 2
-Railway 6, 8, 7, 312,625, 217,774, 122,984
-Line 120,981, 207,987, 207,931, 2
-Line 207,987, 207,987, 5
-Line 207,959, 207,959, 5
-Line 207,931, 207,931, 5
-Line 120,981, 211,1015, 2
-Ellipse 293,561, 360,628, 2
-Line 120,981, 26,981, 2
-Line 120,985, 26,985, 2
-AngleTextOut 0, Arial, 22, 27, 958, Внуково, 1
-AngleTextOut -25, Arial, 12, 141, 989, авт.911
-AngleTextOut -5, Arial, 12, 144, 964, авт.611
+Railway 6, 8, 7, 486,824, 389,1065, 278,1315
+Line 276,1312, 442,1226, 442,1179, 2
+Line 442,1226, 442,1226, 5
+Line 442,1202, 442,1202, 5
+Line 442,1179, 442,1179, 5
+Line 276,1312, 444,1253, 2
+Ellipse 461,759, 528,826, 2
+Line 276,1312, 182,1312, 2
+Line 276,1316, 182,1316, 2
+AngleTextOut 0, Arial, 22, 183, 1289, Внуково, 1
+AngleTextOut 20, Arial, 12, 357, 1285, авт.911
+AngleTextOut 28, Arial, 12, 351, 1253, авт.611
 
-Image MenuImages\Airplane_logo.vec, -17, 955
+Image Airplane_logo.vec, 139, 1286
 
 ;Жуковский
 PenColor 000000
 BrushColor -1
-Line 1013,1219, 1013,1110, 2
-Ellipse 655,772, 712,829, 2
-Line 1110,1217, 1016,1217, 2
-Line 1110,1221, 1016,1221, 2
-AngleTextOut 0, Arial, 22, 1017, 1194, Жуковский, 1
-AngleTextOut 90, Arial, 12, 1015, 1168, авт.441э
+Line 1305,1314, 1247,1228, 2
+Ellipse 843,966, 891,1014, 2
+Line 1402,1312, 1308,1312, 2
+Line 1402,1316, 1308,1316, 2
+AngleTextOut 0, Arial, 22, 1309, 1289, Жуковский, 1
+AngleTextOut -58, Arial, 12, 1269, 1257, авт.441э
 
-Image MenuImages\Airplane_logo.vec, 1121, 1190
+Image Airplane_logo.vec, 1413, 1285

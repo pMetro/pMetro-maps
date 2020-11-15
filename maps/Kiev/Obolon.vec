@@ -8,7 +8,7 @@ Polygon 626,422, 626,392, 176,392, 176,422
 PenColor 333399
 BrushColor -1
 AngleTextOut 0, Arial, 20, 525, 532, Минская >>
-AngleTextOut 0, Arial, 20, 177, 370, << Петровка
+AngleTextOut 0, Arial, 20, 177, 370, << Почайна
 AngleTextOut 0, Arial, 25, 349, 448, Оболонь, 1
 
 ;южный вестибюль

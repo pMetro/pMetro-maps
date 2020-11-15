@@ -1,0 +1,10 @@
+[Options]
+AddToInfo=1
+CityName=Екатеринбург
+MenuName=Разное\Вокзалы
+Caption=Вокзал
+StringToAdd='  Вокзал:'
+MenuImage=Vokzals_logo.bmp
+
+[Север-Юг]
+Уральская=Железнодорожный вокзал

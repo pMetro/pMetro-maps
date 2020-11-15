@@ -7,7 +7,7 @@ Polygon -105,337, -105,307, 345,307, 345,337
 Polygon -105,417, -105,447, 345,447, 345,417
 PenColor 333399
 BrushColor -1
-AngleTextOut 360, Arial, 20, -105, 283, << Петровка
+AngleTextOut 360, Arial, 20, -105, 283, << Почайна
 AngleTextOut 0, Arial, 20, 122, 447, Контрактовая площадь >>
 AngleTextOut 360, Arial, 25, 1, 358, Тараса Шевченко, 1
 

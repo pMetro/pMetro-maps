@@ -1,0 +1,11 @@
+[Options]
+AddToInfo=1
+CityName=Екатеринбург
+Caption=Автовокзалы
+MenuName=Разное\Автовокзалы
+StringToAdd='  Автовокзалы:'
+MenuImage=Mostransavto_logo.bmp
+
+[Север-Юг]
+Уральская
+Чкаловская

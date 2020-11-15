@@ -24,11 +24,11 @@ StringToAdd='  Ссылка на статью в Википедии: '
 Черниговская=http://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%B8%D0%B3%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9A%D0%B8%D0%B5%D0%B2%29
 Лесная=http://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%B0%D1%8F_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9A%D0%B8%D0%B5%D0%B2%29
 
-[Куреневско-Красноармейская]
+[Оболонско-Теремковская]
 Героев Днепра=http://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%BE%D0%B5%D0%B2_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%B0_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
 Минская=http://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9A%D0%B8%D0%B5%D0%B2%29
 Оболонь=http://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%BE%D0%BB%D0%BE%D0%BD%D1%8C_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-Петровка=http://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%BA%D0%B0_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
+Почайна=https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%87%D0%B0%D0%B9%D0%BD%D0%B0_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE)
 Тараса Шевченко=http://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D1%81%D0%B0_%D0%A8%D0%B5%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
 Контрактовая площадь=http://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
 Почтовая площадь=http://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
@@ -43,7 +43,7 @@ StringToAdd='  Ссылка на статью в Википедии: '
 Выставочный центр=http://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
 Ипподром=http://ru.wikipedia.org/wiki/%D0%98%D0%BF%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%BC_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE,_%D0%9A%D0%B8%D0%B5%D0%B2%29
 Теремки=http://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%B5%D0%BC%D0%BA%D0%B8_%28%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
-                                                             
+
 [Сырецко-Печерская]
 Сырец=http://ru.wikipedia.org/wiki/%D0%A1%D1%8B%D1%80%D0%B5%D1%86_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
 Дорогожичи=http://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%BE%D0%B6%D0%B8%D1%87%D0%B8_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE%29
