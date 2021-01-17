@@ -1,8 +1,8 @@
 [Line1]
 Name=Chilonzor
 LineMap=Chilonzor.map
-Stations=Olmazor,Chilonzor,Mirzo Ulug'bek,Novza,Milliy Bog',Bunyodkor,Paxtakor,Mustaqillik Maydoni,Amir Temur Xiyoboni,Hamid Olimjon,Pushkin,Buyuk Ipak Yo'li
-Driving=3,2,2,2,2,2,2,2,2,2,2
+Stations=Chinor,Kipchok,Afrosiyob,Sirg'ali,Toshkent Xalqa Yo'li,Choshtepa,Olmazor,Chilonzor,Mirzo Ulug'bek,Novza,Milliy Bog',Bunyodkor,Paxtakor,Mustaqillik Maydoni,Amir Temur Xiyoboni,Hamid Olimjon,Pushkin,Buyuk Ipak Yo'li
+Driving=0,2,2,2,2,2,3,2,2,2,2,2,2,2,2,2,2
 DelayDay=5
 DelayNight=10
 
@@ -18,7 +18,15 @@ DelayNight=10
 Name=Yunusobod
 LineMap=Yunusobod.map
 Stations=Ming O'rik,Yunus Rajabiy,Abdulla Qodiriy,Minor,Bodomzor,Shahriston,Fayzulla Xo'jaev,Yunus-Obod,Turkiston
-Driving=2,2,2,2,2,0,0,0
+Driving=2,2,2,2,2,2,2,2
+DelayDay=5
+DelayNight=10
+
+[Line4]
+Name=Mustaqilligining
+LineMap=
+Stations=Do'stlik-2,Ohongaron,Tuzel,Iltifot,Rohat,Yangiobod,Qo'yliq
+Driving=2,2,2,2,2,2
 DelayDay=5
 DelayNight=10
 
@@ -27,4 +35,4 @@ DelayNight=10
 1=Chilonzor,Paxtakor,O'zbekiston,Alisher Navoiy,2
 2=O'zbekiston,Oybek,Yunusobod,Ming O'rik,2
 3=Yunusobod,Yunus Rajabiy,Chilonzor,Amir Temur Xiyoboni,2
-
+4=O'zbekiston,Do'stlik,Mustaqilligining,Do'stlik-2,2

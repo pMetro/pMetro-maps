@@ -1,7 +1,7 @@
 
 set PMZ_DIR=pmz
 
-del /qf %PMZ_DIR%\* > nul
+del /q /f %PMZ_DIR%\* > nul
 cd %PMZ_DIR%
 
 certutil.exe -urlcache -split -f "http://pmetro.chpeks.com/download/pMetroSetup.exe" pMetroSetup.exe

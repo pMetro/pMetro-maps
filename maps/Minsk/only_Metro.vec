@@ -1,8 +1,9 @@
 Size 1035x777
 PenColor 040484
 TextOut Arial, 15, 828, 530, ЛИНИИ МЕТРО:
-TextOut Arial, 12, 828, 550, Московская
-TextOut Arial, 12, 828, 570, Автозаводская
+TextOut Arial, 15, 828, 550, Московская
+TextOut Arial, 15, 828, 570, Автозаводская
+TextOut Arial, 15, 828, 590, Зеленолужская
 
 TextOut Arial, 20, 230, 10, СХЕМА МЕТРОПОЛИТЕНА г. МИНСКА, 1
 

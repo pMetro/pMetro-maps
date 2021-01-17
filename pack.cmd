@@ -7,7 +7,7 @@ set PMZ_DIR=pmz
 set MAPS_DIR=maps
 
 
-del /qf %ZIP_DIR%\* > nul
+del /q /f %ZIP_DIR%\* > nul
 
 FOR /D %%G in ("%MAPS_DIR%\*") DO (
 rem  %ZIP7% a -tzip -bb0 %PMZ_DIR%\%%~nxG.pmz .\%MAPS_DIR%\%%~nxG\*  > nul

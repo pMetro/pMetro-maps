@@ -24,6 +24,7 @@ StringToAdd='  Фотографии станции: '
 Университет=http://metro.ru/stations/sokolnicheskaya/universitet/
 Проспект Вернадского=http://metro.ru/stations/sokolnicheskaya/prospekt_vernadskogo/
 Юго-Западная=http://metro.ru/stations/sokolnicheskaya/jugo_zapadnaya/
+Тропарёво=http://metro.ru/stations/sokolnicheskaya/troparyovo/
 
 [Замоскворецкая]
 Речной вокзал=http://metro.ru/stations/zamoskvoretskaya/rechnoy_vokzal/
@@ -46,13 +47,13 @@ StringToAdd='  Фотографии станции: '
 Орехово=http://metro.ru/stations/zamoskvoretskaya/orekhovo/
 Домодедовская=http://metro.ru/stations/zamoskvoretskaya/domodedovskaya/
 Красногвардейская=http://metro.ru/stations/zamoskvoretskaya/krasnogvardeyskaya/
-;Алма-Атинская=
+Алма-Атинская=http://metro.ru/stations/zamoskvoretskaya/alma-atinskaya/
 
 [Арбатско-Покровская]
-Митино=http://www.mymetro.ru/cgi-bin/list.pl?lng=ru&a=1&b=3&c=22
-Волоколамская=http://www.mymetro.ru/cgi-bin/list.pl?lng=ru&a=1&b=3&c=21
-;Минская=
-Строгино=http://www.mymetro.ru/cgi-bin/list.pl?lng=ru&a=1&b=3&c=20
+;Пятницкое шоссе=
+Митино=http://metro.ru/stations/arbatsko-pokrovskaya/mitino/
+Волоколамская=http://metro.ru/stations/arbatsko-pokrovskaya/volokolamskaya/
+Мякинино=http://metro.ru/stations/arbatsko-pokrovskaya/myakinino/
 Строгино=http://metro.ru/stations/arbatsko-pokrovskaya/strogino/
 Крылатское=http://metro.ru/stations/arbatsko-pokrovskaya/krylatskoye/
 Молодёжная=http://metro.ru/stations/arbatsko-pokrovskaya/molodezhnaya/
@@ -80,8 +81,8 @@ StringToAdd='  Фотографии станции: '
 Фили=http://metro.ru/stations/filevskaya/fili/
 Кутузовская=http://metro.ru/stations/filevskaya/kutuzovskaya/
 Студенческая=http://metro.ru/stations/filevskaya/studencheskaya/
-Выставочная=http://metro.ru/stations/filevskaya/delovoy_tsentr/
-Международная=http://www.mymetro.ru/cgi-bin/list.pl?lng=ru&a=1&b=4&c=20\nhttp://news.metro.ru/f415.html
+Выставочная=http://metro.ru/stations/filevskaya/vistavichnaya/
+Международная=http://news.metro.ru/f415.html
 Киевская=http://metro.ru/stations/filevskaya/kievskaya/
 Смоленская=http://metro.ru/stations/filevskaya/smolenskaya/
 Арбатская=http://metro.ru/stations/filevskaya/arbatskaya/
@@ -125,13 +126,13 @@ StringToAdd='  Фотографии станции: '
 Коньково=http://metro.ru/stations/kaluzhsko-rizhskaya/konkovo/
 Теплый Стан=http://metro.ru/stations/kaluzhsko-rizhskaya/teplyi_stan/
 Ясенево=http://metro.ru/stations/kaluzhsko-rizhskaya/yasenevo/
-Новоясеневская=http://metro.ru/stations/kaluzhsko-rizhskaya/bitsevskiy_park/
+Новоясеневская=http://metro.ru/stations/kaluzhsko-rizhskaya/novoyasenevskaya/
 
 [Таганско-Краснопресненская]
 Планерная=http://metro.ru/stations/tagansko-krasnopresnenskaya/planernaya/
 Сходненская=http://metro.ru/stations/tagansko-krasnopresnenskaya/shodnenskaya/
 Тушинская=http://metro.ru/stations/tagansko-krasnopresnenskaya/tushinskaya/
-;Волоколамская=http://www.mymetro.ru/cgi-bin/list.pl?lng=ru&a=1&b=7&c=04
+;Спартак=http://metro.ru/stations/tagansko-krasnopresnenskaya/spartak/
 Щукинская=http://metro.ru/stations/tagansko-krasnopresnenskaya/shukinskaya/
 Октябрьское поле=http://metro.ru/stations/tagansko-krasnopresnenskaya/oktyabrskoye_pole/
 Полежаевская=http://metro.ru/stations/tagansko-krasnopresnenskaya/polezhaevskaya/
@@ -148,8 +149,12 @@ StringToAdd='  Фотографии станции: '
 Кузьминки=http://metro.ru/stations/tagansko-krasnopresnenskaya/kuzminki/
 Рязанский проспект=http://metro.ru/stations/tagansko-krasnopresnenskaya/ryazanskiy_prospekt/
 Выхино=http://metro.ru/stations/tagansko-krasnopresnenskaya/vyhino/
+Лермонтовский проспект=http://metro.ru/stations/tagansko-krasnopresnenskaya/lermontovksy-prospekt/
+Жулебино=http://metro.ru/stations/tagansko-krasnopresnenskaya/zhulebino/
+;Котельники=
 
 [Калининско-Солнцевская]
+Новокосино=http://metro.ru/stations/kalininskaya/novokosino/
 Новогиреево=http://metro.ru/stations/kalininskaya/novogireevo/
 Перово=http://metro.ru/stations/kalininskaya/perovo/
 Шоссе Энтузиастов=http://metro.ru/stations/kalininskaya/shosse_entuziastov/
@@ -200,9 +205,9 @@ StringToAdd='  Фотографии станции: '
 Люблино=http://metro.ru/stations/lyublinskaya/lyublino/
 Братиславская=http://metro.ru/stations/lyublinskaya/bratislavskaya/
 Марьино=http://metro.ru/stations/lyublinskaya/maryino/
-;Борисово=http://www.mymetro.ru/cgi-bin/list.pl?lng=ru&a=1&b=10&c=15
-;Шипиловская=http://metro.ru/stations/lyublinskaya/shipilovskaya/
-;Шипиловская=http://www.mymetro.ru/cgi-bin/list.pl?lng=ru&a=1&b=10&c=16
+Борисово=http://metro.ru/stations/lyublinskaya/borisovo/
+Шипиловская=http://metro.ru/stations/lyublinskaya/shipilovskaya/
+Шипиловская=http://metro.ru/stations/lyublinskaya/zyablikovo/
 
 [Каховская]
 Каширская=http://metro.ru/stations/kakhovskaya/kashirskaya/
@@ -210,16 +215,18 @@ StringToAdd='  Фотографии станции: '
 Каховская=http://metro.ru/stations/kakhovskaya/kakhovskaya/
 
 [Бутовская]
-Улица Старокачаловская=http://www.mosmetro.ru/pages/page_6.php?id_page=324
-Улица Скобелевская=http://www.mosmetro.ru/pages/page_6.php?id_page=325
-Бульвар Адмирала Ушакова=http://www.mosmetro.ru/pages/page_6.php?id_page=326
-Улица Горчакова=http://www.mosmetro.ru/pages/page_6.php?id_page=327
-Бунинская аллея=http://www.mosmetro.ru/pages/page_6.php?id_page=32
+Битцевский парк=http://metro.ru/stations/butovskaya/bitsevskiy_park/
+Лесопарковая=http://metro.ru/stations/butovskaya/lesoparkovaya/
+;Улица Старокачаловская=http://www.mosmetro.ru/pages/page_6.php?id_page=324
+;Улица Скобелевская=http://www.mosmetro.ru/pages/page_6.php?id_page=325
+;Бульвар Адмирала Ушакова=http://www.mosmetro.ru/pages/page_6.php?id_page=326
+;Улица Горчакова=http://www.mosmetro.ru/pages/page_6.php?id_page=327
+;Бунинская аллея=http://www.mosmetro.ru/pages/page_6.php?id_page=32
 
 [Монорельс]
-Выставочный центр=http://www.mosmetro.ru/pages/page_6.php?id_page=333
-Улица академика Королева=http://www.mosmetro.ru/pages/page_6.php?id_page=334
-Телецентр=http://www.mosmetro.ru/pages/page_6.php?id_page=335
-Улица Милашенкова=http://www.mosmetro.ru/pages/page_6.php?id_page=336
-Тимирязевская=http://www.mosmetro.ru/pages/page_6.php?id_page=337
+;Выставочный центр=http://www.mosmetro.ru/pages/page_6.php?id_page=333
+;Улица академика Королева=http://www.mosmetro.ru/pages/page_6.php?id_page=334
+;Телецентр=http://www.mosmetro.ru/pages/page_6.php?id_page=335
+;Улица Милашенкова=http://www.mosmetro.ru/pages/page_6.php?id_page=336
+;Тимирязевская=http://www.mosmetro.ru/pages/page_6.php?id_page=337
 

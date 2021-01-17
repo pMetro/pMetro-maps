@@ -1,10 +1,12 @@
-Size 512x469
+Size 550x520
 PenColor 040464
-TextOut Arial, 36, 240, 408, TOSHKENT, 1
-TextOut Arial, 10, 240, 442, (Attention! All time intervals in this version equal 2 minutes)
+TextOut Arial, 36, 201, 461, TOSHKENT, 1
+TextOut Arial, 10, 201, 495, (Attention! All time intervals in this version equal 2 minutes)
 PenColor F52D35
-TextOut Arial, 20, 74, 16, Chilonzor yo'li
+TextOut Arial, 20, 74, 12, Chilonzor yo'li
 PenColor 2D3C9B
-TextOut Arial, 20, 74, 40, O'zbekiston yo'li
+TextOut Arial, 20, 74, 36, O'zbekiston yo'li
 PenColor 4B7D43
-TextOut Arial, 20, 74, 64, Yunusobod yo'li
+TextOut Arial, 20, 74, 60, Yunusobod yo'li
+PenColor 917B9A
+TextOut Arial, 20, 74, 84, Yer Usti Halqa Liniyasi
