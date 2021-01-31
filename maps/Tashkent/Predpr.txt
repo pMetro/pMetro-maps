@@ -1,0 +1,46 @@
+[Options]
+AddToInfo=1
+CityName=Ташкент
+Caption=Предприятия
+MenuName=Разное\Предприятия
+StringToAdd='  '
+
+[Chilonzor]
+Olmazor=Фабрика СовПластИтал
+;Chilonzor=
+Mirzo Ulug'bek=ЦЭМС ( Центр Электро-Магнитной <???>)
+;Novza=
+;Milliy Bog'=
+Bunyodkor=Центральное управление Метрополитена
+;Paxtakor=
+Mustaqillik Maydoni=Центральный офис НГМК (Навоийского Горно-Металлургического Комбината)
+Amir Temur Xiyoboni=Завод Фотон\nРадиостанция "Пойтахт"\nГлавПочтамт
+Hamid Olimjon=Институт ирригации\nTerra Group - радиостанция Terra, редакция журналов Bella Terra
+Paxtakor=Центральный Телеграф\nЦентр УзИнфоКом\nЦМСМК (Центр Мониторинга Систем Массовых Коммуникаций)
+;Pushkin=
+;Buyuk Ipak Yo'li=
+
+[O'zbekiston]
+;Beruniy=
+;Tinchlik=
+;Chorsu=
+;G'afur G'ulom=
+Alisher Navoiy=Центральный Телеграф\nЦентр УзИнфоКом\nЦМСМК (Центр Мониторинга Систем Массовых Коммуникаций)
+;O'zbekiston=
+;Kosmonavtlar=
+;Oybek=
+;Toshkent=
+;Mashinasozlar=
+;Do'stlik=
+
+[Yunusobod]
+;Ming O'rik=
+;Yunus Rajabiy=
+Abdulla Qodiriy=Главпочтамт\nШвейная фабрика "Юлдуз"
+;Minor=
+;Bodomzor=
+Shahriston=РТПЦ - Радио-Телепередающий Центр (Телевышка)
+Yunus Rajabiy=Завод Фотон\nРадиостанция "Пойтахт"\nГлавПочтамт
+;Yunus-Obod=
+;Turkiston=
+

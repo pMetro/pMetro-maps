@@ -17,8 +17,8 @@ DelayNight=10
 [Line3]
 Name=Yunusobod
 LineMap=Yunusobod.map
-Stations=Ming O'rik,Yunus Rajabiy,Abdulla Qodiriy,Minor,Bodomzor,Shahriston,Fayzulla Xo'jaev,Yunus-Obod,Turkiston
-Driving=2,2,2,2,2,2,2,2
+Stations=Ming O'rik,Yunus Rajabiy,Abdulla Qodiriy,Minor,Bodomzor,Shahriston,Yunus-Obod,Turkiston
+Driving=2,2,2,2,2,2,2
 DelayDay=5
 DelayNight=10
 

@@ -1,0 +1,45 @@
+[Options]
+AddToInfo=1
+CityName=Ташкент
+Caption=Другое
+MenuName=Разное\Другое
+StringToAdd='  '
+
+[Chilonzor]
+;Olmazor=
+;Chilonzor=
+;Mirzo Ulug'bek=
+;Novza=
+Milliy Bog'=Олий Мажлис Республики Узбекистан
+;Bunyodkor=
+Paxtakor=Старая телевышка
+;Mustaqillik Maydoni=
+Amir Temur Xiyoboni=Ташкентский городской Хокимият
+Hamid Olimjon=ЗАГС Мирзо-Улугбекского района\nДархан
+Pushkin=Железнодорожная станция "Салар"
+;Buyuk Ipak Yo'li=
+
+[O'zbekiston]
+;Beruniy=
+;Tinchlik=
+;Chorsu=
+;G'afur G'ulom=
+;Alisher Navoiy=
+;O'zbekiston=
+;Kosmonavtlar=
+;Oybek=
+;Toshkent=
+Mashinasozlar=22-й авиагородок\nЖелезнодорожная станция товарного назначения
+;Do'stlik=
+
+[Yunusobod]
+;Ming O'rik=
+;Yunus Rajabiy=
+Abdulla Qodiriy=Ночной клуб Baccara
+Yunus Rajabiy=Ташкентский городской Хокимият
+;Minor=
+;Bodomzor=
+;Shahriston=
+;Yunus-Obod=
+;Turkiston=
+

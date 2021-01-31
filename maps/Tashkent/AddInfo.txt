@@ -1,0 +1,43 @@
+[Options]
+AddToInfo=1
+Caption=Расположение
+CityName=Ташкент
+StringToAdd='  '
+
+[Chilonzor]
+Olmazor=Расположена на пересечении проспекта Дружбы народов и ул. Гавхар.\n\nToshkent bus station for inter-city bus travel (including CIS)\nThe hippodrome\nToyota maintenance station\nRing road\nhttp://www.metrotashkent.narod.ru/line1/sraximov.htm
+Chilonzor=Расположена на пересечении проспекта Дружбы народов и улицы Фархадская.\n\nThe Farkhad market\nJewellery workshop\nhttp://www.metrotashkent.narod.ru/line1/chilanzar.htm
+Mirzo Ulug'bek=Расположена на пересечении проcпекта Дружбы народов и ул. Чапанота (бывш. Волгоградской), рядом с бывшим парком культуры и отдыха им. 40-летия ЛКСМ Узбекистана.\n\nEmbassy of the United States of America\nThe Chilanzar department store\nStadium "Labour Reserve"\n"Ulughbek" park\nDHL and Roz Trading offices\nUnitex international\nhttp://www.metrotashkent.narod.ru/line1/50letsssr.htm
+Novza=Расположена на пересечении проспекта Дружбы народов и ул. Мукими.\n\nPakistan Embassy\nEgyptian Embassy\nBritish Embassy\n"Computerland" offices\nhttp://www.metrotashkent.narod.ru/line1/khamza.htm
+Milliy Bog'=Расположена на проспекте Дружбы народов.\n\n"Uzbekfilm" cinema studio.\nhttp://www.metrotashkent.narod.ru/line1/komsomol.htm
+Bunyodkor=Расположена на проспекте Дружбы народов.\n\n"Bunyodkor" Concert Hall (Friendship of the Peoples)\nNavoi park.\nhttp://www.metrotashkent.narod.ru/line1/drnarodov.htm
+Paxtakor=Расположена около стадиона "Пахтакор" и спортивной арены "Ешлик".\n\n"Pahtakor" stadium\n"Young Spectators' Theatre"\nTV Centre\n"Ilkhom" theatre\n"Khamza" theatre\n"Yoshlik" sport complex\n"Navoi" cinema\n"Yoshlik" hotel.\nhttp://www.metrotashkent.narod.ru/line1/paxtakor.htm
+Mustaqillik Maydoni=Расположена в центре Ташкента.\n\nMustakillik square (Independence)\n"Navoi" theatre\nGerman and Vietnamese Embassies\n"Turkiston" concert hall\nPublishing House\n"Zeravshan" restaurant\nCentral department store\nThe Alai market place\nHotel "Tashkent"\n"Bakhor" concert hall\nThe Exhibition Hall\nThe State Library.\nhttp://www.metrotashkent.narod.ru/line1/pllenina.htm
+Amir Temur Xiyoboni=Расположена на улице Пушкина, вблизи сквера Амира Тимура (бывший сквер Революции).\n\nAmir Temur square\nUzbekistan hotel\nThe National Bank\nMuseum of Arts\n"Gorky" theatre\nFrench, Indian, Chinese, Turkish, Afghan, Latvian Embassies\nRadio Committee\nExpocentre\nThe Tashkent business centre\n"Uzneftegaz" corporation\nUniversity of Oriental Languages\nMuborak park\n"Al Mashrik" shop\n"Muborak" restaurant\n"Iverson" shop\nTurkish Airways office.\nhttp://www.metrotashkent.narod.ru/line1/oktrevolution.htm
+Hamid Olimjon=Расположена на улице Пушкина.\n\nThe Tashkent Conservatory of Music\n"Style" design centre\nZoo\n"Dubai Business Centre".\nhttp://www.metrotashkent.narod.ru/line1/alimjan.htm
+Pushkin=Расположена около площади Пушкина.\n\n"Start" stadium\n"Dinamo" tennis courts\nHigher Millitary School.\nhttp://www.metrotashkent.narod.ru/line1/pushkin.htm
+Buyuk Ipak Yo'li=Расположена на площади Буюк Ипак Йули (Великий Шелковый Путь. Бывшая площадь М.Горького).\n\nMinistry of Foreign Economic Relations\nThe Turkestan Military District\nUniversity of World Economy and Diplomacy.\nhttp://www.metrotashkent.narod.ru/line1/gorky.htm
+
+[O'zbekiston]
+Beruniy=Находится под перекрестком проспекта Беруни и улицы Фароби.\nСтанция сооружена рядом со спортивным комплексом "Алпомиш" (дворец спорта "Юбилейный") и Студенческим (ВУЗ) городком.\n\nVuzgorodok\nTashkent State University\n"Olympic" hotel\nIce rink Alpomish.\nhttp://www.metrotashkent.narod.ru/line2/beruni.htm
+Tinchlik=Находится под перекрестком улицы Матлубот и проспекта Беруни.\n\nTashkent "Old City"\nhttp://www.metrotashkent.narod.ru/line2/tinchlik.htm
+Chorsu=Построена на месте исторического центра города Ташкента - Бинкент, в настоящее время около крупного торгового комплекса "Детский мир". \n\n"Chorsu" hotel\nKhadra square\nThe circus\nThe State department store\nThe Chorsu market\nMadrassah Kukeldash.\nhttp://www.metrotashkent.narod.ru/line2/chorsu.htm
+G'afur G'ulom=Находится в стыке проспекта Абдуллы Кадыри и улицы Гафура Гуляма.\nВблизи станции находятся: парк культуры и отдыха Абдуллы Кадыри, магазины "Ганга" и "Скопле", здание цирка, один из офисов СП "Уздунробита".\n\nThe Gangha shop\n"Turon" hotel.\nhttp://www.metrotashkent.narod.ru/line2/gulyama.htm
+Alisher Navoiy=Находится под перекрестком проспекта Навои и улицы Абая около литературного музея имени Навои и торговых рядов.\nhttp://www.metrotashkent.narod.ru/line2/navoi.htm
+O'zbekiston=Находится под перекрестком проспекта Космонавтов и проспекта Узбекистанский, около дома Кооператоров.\n\nThe Uzbekbirlashuv trade corporation\n"Dom Kino" cinema\n"Bombay Bar" Indian food restaurant\nSony offices\nState Economic University\nhttp://www.metrotashkent.narod.ru/line2/uzbekistan.htm
+Kosmonavtlar=Находится под перекрестком проспектов Космонавтов и Ш. Рашидова.\n\nThe Central department store\nThe Blue Dome cafe\nPuppet theatre\nApplied Art Museum\nState Souvenier Shop.\nhttp://www.metrotashkent.narod.ru/line2/kosmonavtov.htm
+Oybek=Находится под перекрестком улицы Айбека, проспекта Космонавтов и улицы Лахути.\n\nThe Israeli Embassy\nThe Russia hotel\nAirways ticket office\nThe Pharmaceutical Institute\nThe Mirabad market.\nhttp://www.metrotashkent.narod.ru/line2/aibek.htm
+Toshkent=Находится под привокзальной площадью железнодорожного вокзала Северный.\n\nThe Tashkent railway station\nTrain Ticket office for foreigners\nhttp://www.metrotashkent.narod.ru/line2/tashkent.htm
+Mashinasozlar=Находится под перекрестком улиц Воровского и Хамзы. Вблизи станции находятся: завод Ташсельмаш, мукомольный комбинат, железнодорожная больница, автовокзал Чирчикского направления.\n\nThe Tashselmash Plant\nhttp://www.metrotashkent.narod.ru/line2/tashselmash.htm
+Do'stlik=Расположена под улицей Воровского, рядом с ГАО ТАПОиЧ. Один из выходов совмещен с проходной авиационного завода им. Чкалова.\n\nThe Chkalov Aircraft Plant\nhttp://www.metrotashkent.narod.ru/line2/chkalov.htm
+
+[Yunusobod]
+Ming O'rik=Расположена на стыке улиц Шахрисабз, Айбека и Афросиаб, вблизи гостиницы "Россия".\nhttp://www.metrotashkent.narod.ru/line3/mingurik.htm
+Yunus Rajabiy=Глубина заложения - 24 м. (Самая глубокая в Ташкентском метрополитене)\nhttp://www.metrotashkent.narod.ru/line3/radjabi.htm
+Abdulla Qodiriy=Расположена возле знаменитого Алайского рынка.\nhttp://www.metrotashkent.narod.ru/line3/kodyri.htm
+Minor=Расположена возле кинотеатра "Казахстан". Вход совмещён со входом в инженерное здание.\nhttp://www.metrotashkent.narod.ru/line3/minor.htm
+Bodomzor=Расположена рядом с Республиканским торгово-выставочным комплексом "Узэкспоцентр" (бывший ВДНХ) и "Ташкентлендом" (бывший парк "Победы").\nhttp://www.metrotashkent.narod.ru/line3/badamzar.htm
+Shahriston=http://www.metrotashkent.narod.ru/line3/abdullaev.htm
+Yunus-Obod=Существовали планы расположения станции в районе завода "Зенит", однако станция строится в районе между 13 и 15 кварталами массива Юнусабад.\nhttp://www.metrotashkent.narod.ru/line3/yunusabad.htm
+Turkiston=Будет расположена в районе кольцевой автодороги возле шоссе к поселку Гишткуприк (Черняевка).\nВозле станции будет построено депо для 3 линии.\nhttp://www.metrotashkent.narod.ru/line3/turkestan.htm
+

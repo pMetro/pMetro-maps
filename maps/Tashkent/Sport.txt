@@ -1,0 +1,45 @@
+[Options]
+AddToInfo=1
+CityName=Ташкент
+Caption=Спорт
+MenuName=Разное\Спорт
+StringToAdd='  '
+
+[Chilonzor]
+;Olmazor=
+;Chilonzor=
+Mirzo Ulug'bek=Стадион МХСК
+;Novza=
+;Milliy Bog'=
+;Bunyodkor=
+;Paxtakor=
+;Mustaqillik Maydoni=
+Amir Temur Xiyoboni=Дворец водного спорта им. Митрофанова
+;Hamid Olimjon=
+;Pushkin=
+;Buyuk Ipak Yo'li=
+
+[O'zbekiston]
+;Beruniy=
+;Tinchlik=
+;Chorsu=
+;G'afur G'ulom=
+;Alisher Navoiy=
+;O'zbekiston=
+;Kosmonavtlar=
+;Oybek=
+;Toshkent=
+;Mashinasozlar=
+;Do'stlik=
+
+[Yunusobod]
+;Ming O'rik=
+;Yunus Rajabiy=
+;Abdulla Qodiriy=
+;Minor=
+;Bodomzor=
+Shahriston=Спортивный комплекс "ЮнусАбад"
+Yunus Rajabiy=Дворец водного спорта им. Митрофанова
+;Yunus-Obod=
+;Turkiston=
+
