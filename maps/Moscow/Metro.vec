@@ -68,7 +68,7 @@ AngleTextOut 0, Arial, 15, 926, 62, —хема движени€ речных трамваев, 5
 SpotRect 900, 59, 250, 22, LoadMap RechnoyTramvay.map
 
 Image LinkTramsOnMainMap.vec
-Image LinkTrolleysOnMainMap.vec
+;Image LinkTrolleysOnMainMap.vec
 Image LinkHistoryOnMainMap.vec
 Image LinkZelBusesOnMainMap.vec
 

@@ -9,5 +9,5 @@ certutil.exe -urlcache -split -f "http://pmetro.chpeks.com/download/pMetroSetup.
 innoextract -se pMetroSetup.exe
 
 move app\*.pmz .
-rmdir /q/s app
+rd /q/s app
 del pMetroSetup.exe

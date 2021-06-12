@@ -444,12 +444,12 @@ SpotRect 600, 258, 30, 30, ShowMessage Выход №1
 SpotRect 926, 370, 30, 30
 SpotRect 898, 160, 30, 30
 SpotRect 1033, 203, 30, 30
-SpotRect 360, 1262, 30, 30
-SpotRect 729, 1192, 30, 30
+SpotRect 748, 1185, 30, 30
+SpotRect 363, 1265, 30, 30
 BrushColor -1
 TextOut Arial, 25, 608, 259, 1
 TextOut Arial, 25, 934, 371, 2
 TextOut Arial, 25, 906, 161, 3
 TextOut Arial, 25, 1041, 204, 4
-TextOut Arial, 25, 368, 1263, 5
-TextOut Arial, 25, 737, 1193, 6
+TextOut Arial, 25, 756, 1186, 5
+TextOut Arial, 25, 371, 1266, 6
