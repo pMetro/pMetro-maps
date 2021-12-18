@@ -206,7 +206,7 @@ Type=3dImage
 Шипиловская=Shipilovskaya.pm3d(501,-2326,114,270,49,3628)
 Зябликово=Krasnogvardeyskaya.pm3d(310,-2270,153,270,40,3690),Zyablikovo.pms
 
-[Каховская]
+[БКЛ]
 Каширская=Kashirskaya.pm3d
 Варшавская=Varshavskaya.pm3d(152,43,47,180,48,3507),VarshavskayaTrain.pms
 Каховская=Sevastopolskaya.pm3d(-81,-688,324,261,49,3571)

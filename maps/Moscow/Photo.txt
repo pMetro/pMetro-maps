@@ -209,7 +209,7 @@ StringToAdd='  Фотографии станции: '
 Шипиловская=http://metro.ru/stations/lyublinskaya/shipilovskaya/
 Шипиловская=http://metro.ru/stations/lyublinskaya/zyablikovo/
 
-[Каховская]
+[БКЛ]
 Каширская=http://metro.ru/stations/kakhovskaya/kashirskaya/
 Варшавская=http://metro.ru/stations/kakhovskaya/varshavskaya/
 Каховская=http://metro.ru/stations/kakhovskaya/kakhovskaya/

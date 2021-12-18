@@ -195,7 +195,7 @@ StringToAdd='  Карта окрестностей станции: '
 Братиславская=http://moscowmap.ru/metrostation.asp?metroid=157
 Марьино=http://moscowmap.ru/metrostation.asp?metroid=161
 
-[Каховская]
+[БКЛ]
 Каширская=http://moscowmap.ru/metrostation.asp?metroid=116
 Варшавская=http://moscowmap.ru/metrostation.asp?metroid=110
 Каховская=http://moscowmap.ru/metrostation.asp?metroid=109

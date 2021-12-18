@@ -28,22 +28,22 @@ PenColor 4C4C4C
 AngleTextOut 0, Arial, 16, 66, 1100, 9 Серпуховско-Тимирязевская, 1
 PenColor 5C9F2E
 AngleTextOut 0, Arial, 16, 66, 1118, 10 Люблинско-Дмитровская, 1
-PenColor 34649C
-AngleTextOut 0, Arial, 16, 66, 1136, 11 Каховская, 1
+;PenColor 34649C
+;AngleTextOut 0, Arial, 16, 66, 1118, 11 Каховская, 1
 PenColor 2D69FC
-AngleTextOut 0, Arial, 16, 66, 1154, Л1 Бутовская, 1
+AngleTextOut 0, Arial, 16, 66, 1136, Л1 Бутовская, 1
 PenColor 84ACBC
-AngleTextOut 0, Arial, 16, 66, 1172, М1 Монорельс, 1
+AngleTextOut 0, Arial, 16, 66, 1154, М1 Монорельс, 1
 PenColor DE7272
-AngleTextOut 0, Arial, 16, 66, 1190, МЦК, 1
+AngleTextOut 0, Arial, 16, 66, 1172, МЦК, 1
 PenColor DE64A1
-AngleTextOut 0, Arial, 16, 66, 1208, 15 Некрасовская, 1
+AngleTextOut 0, Arial, 16, 66, 1190, 15 Некрасовская, 1
 PenColor 21A097
-AngleTextOut 0, Arial, 16, 66, 1226, БКЛ, 1
+AngleTextOut 0, Arial, 16, 66, 1208, БКЛ, 1
 PenColor F6A800
-AngleTextOut 0, Arial, 16, 66, 1244, МЦД1, 1
+AngleTextOut 0, Arial, 16, 66, 1226, МЦД1, 1
 PenColor E83F83
-AngleTextOut 0, Arial, 16, 66, 1262, МЦД2, 1
+AngleTextOut 0, Arial, 16, 66, 1244, МЦД2, 1
 
 [МЦД1]
 Color=F6A800
