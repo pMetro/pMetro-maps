@@ -3,7 +3,6 @@ AddToInfo=1
 CityName=Москва
 MenuName=Транспорт\Речной трамвай
 MenuImage=Rechnoy_logo.vec
-ImageFileName=RechnoyTram.vec(Metro.map)
 Caption=Речной трамвай
 StringToAdd='  '
 

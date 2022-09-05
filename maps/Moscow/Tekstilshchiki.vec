@@ -160,10 +160,10 @@ Line 130,528, 137,528, 0.5
 Line 245,492, 252,492, 0.5
 PenColor 009900
 Stairs 245,495, 245,489, 220,495
-Stairs 137,531, 137,525, 162,531
+Stairs 106,531, 106,525, 131,531
 PenColor FF0000
 Stairs 252,495, 252,489, 277,495
-Stairs 130,531, 130,525, 105,531
+Stairs 161,531, 161,525, 136,531
 
 
 ; кассы
@@ -200,15 +200,15 @@ AngleTextOut 90, Arial, 15, 2, 466, Шоссейная улица
 PenColor 000000
 AngleTextOut 90, Arial, 25, 112, 729, Текстильщики, 1
 AngleTextOut 90, Arial, 25, 240, 729, Текстильщики, 1
-AngleTextOut 90, Arial, 20, 143, 729, << Люблино
-AngleTextOut 90, Arial, 20, 218, 622, Калитники >>
+AngleTextOut 90, Arial, 20, 143, 729, << Печатники
+AngleTextOut 90, Arial, 20, 218, 676, Новохохловская >>
 
 PenColor FF0000
-Arrow 116,533, 116,519
+Arrow 147,533, 147,519
 Arrow 266,498, 266,484
 PenColor 009900
 Arrow 231,487, 231,501
-Arrow 151,522, 151,536
+Arrow 120,522, 120,536
 
 ; Выходы
 Angle 0

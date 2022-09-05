@@ -1,5 +1,5 @@
-Size 1390x1500
-;Image 1.bmp
+Size 1570x1950
+;Image Mos78.png
 PenColor B4E3EB
 ; река
 ;Spline 677,678, 696,649, 712,638, 741,635, 787,628, 817,621, 852,601, 864,588, 866,580, 862,559, 850,542, 827,522, 816,494, 814,458, 823,432, 830,419, 827,400, 817,391, 798,380, 788,368, 789,350, 791,331, 783,308, 771,296, 753,281, 746,267, 738,246, 719,227, 690,215, 665,203, 654,185, 659,170, 679,157, 698,146, 713,133, 730,114, 739,95, 5
@@ -9,41 +9,43 @@ PenColor 040464
 AngleTextOut 0, Arial, 34, 126, -1, МОСКВА, 1
 
 PenColor E41C0C
-AngleTextOut 0, Arial, 16, 66, 956, 1 Сокольническая, 1
+AngleTextOut 0, Arial, 16, 67, 1126, 1 Сокольническая, 1
 PenColor 046434
-AngleTextOut 0, Arial, 16, 66, 974, 2 Замоскворецкая, 1
+AngleTextOut 0, Arial, 16, 67, 1146, 2 Замоскворецкая, 1
 PenColor 34349C
-AngleTextOut 0, Arial, 16, 66, 992, 3 Арбатско-Покровская, 1
+AngleTextOut 0, Arial, 16, 67, 1166, 3 Арбатско-Покровская, 1
 PenColor 1C54BC
-AngleTextOut 0, Arial, 16, 66, 1010, 4 Филевская, 1
+AngleTextOut 0, Arial, 16, 67, 1186, 4 Филевская, 1
 PenColor 543C04
-AngleTextOut 0, Arial, 16, 66, 1028, 5 Кольцевая, 1
+AngleTextOut 0, Arial, 16, 67, 1206, 5 Кольцевая, 1
 PenColor F7782E
-AngleTextOut 0, Arial, 16, 66, 1046, 6 Калужско-Рижская, 1
+AngleTextOut 0, Arial, 16, 67, 1226, 6 Калужско-Рижская, 1
 PenColor AC24AC
-AngleTextOut 0, Arial, 16, 66, 1064, 7 Таганско-Краснопресненская, 1
+AngleTextOut 0, Arial, 16, 67, 1246, 7 Таганско-Краснопресненская, 1
 PenColor F49E01
-AngleTextOut 0, Arial, 16, 66, 1082, 8 Калининско-Солнцевская, 1
+AngleTextOut 0, Arial, 16, 67, 1266, 8 Калининская, 1
+PenColor F49E01
+AngleTextOut 0, Arial, 16, 67, 1286, 8а Солнцевская, 1
 PenColor 4C4C4C
-AngleTextOut 0, Arial, 16, 66, 1100, 9 Серпуховско-Тимирязевская, 1
+AngleTextOut 0, Arial, 16, 67, 1306, 9 Серпуховско-Тимирязевская, 1
 PenColor 5C9F2E
-AngleTextOut 0, Arial, 16, 66, 1118, 10 Люблинско-Дмитровская, 1
+AngleTextOut 0, Arial, 16, 67, 1326, 10 Люблинско-Дмитровская, 1
 ;PenColor 34649C
-;AngleTextOut 0, Arial, 16, 66, 1118, 11 Каховская, 1
+;AngleTextOut 0, Arial, 16, 66, 1330, 11 Каховская, 1
 PenColor 2D69FC
-AngleTextOut 0, Arial, 16, 66, 1136, Л1 Бутовская, 1
+AngleTextOut 0, Arial, 16, 67, 1346, Л1 Бутовская, 1
 PenColor 84ACBC
-AngleTextOut 0, Arial, 16, 66, 1154, М1 Монорельс, 1
+AngleTextOut 0, Arial, 16, 67, 1366, М1 Монорельс, 1
 PenColor DE7272
-AngleTextOut 0, Arial, 16, 66, 1172, МЦК, 1
+AngleTextOut 0, Arial, 16, 67, 1386, МЦК, 1
 PenColor DE64A1
-AngleTextOut 0, Arial, 16, 66, 1190, 15 Некрасовская, 1
-PenColor 21A097
-AngleTextOut 0, Arial, 16, 66, 1208, БКЛ, 1
+AngleTextOut 0, Arial, 16, 67, 1406, 15 Некрасовская, 1
 PenColor F6A800
-AngleTextOut 0, Arial, 16, 66, 1226, МЦД1, 1
+AngleTextOut 0, Arial, 16, 67, 1426, МЦД1, 1
 PenColor E83F83
-AngleTextOut 0, Arial, 16, 66, 1244, МЦД2, 1
+AngleTextOut 0, Arial, 16, 67, 1446, МЦД2, 1
+PenColor 21A097
+AngleTextOut 0, Arial, 16, 67, 1466, БКЛ, 1
 
 [МЦД1]
 Color=F6A800

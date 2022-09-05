@@ -156,18 +156,3 @@ TextOut Arial, 25, 427, 1002, 4
 TextOut Arial, 25, 385, 913, 5
 TextOut Arial, 25, 777, 747, 6
 TextOut Arial, 25, 796, 994, 7
-
-Angle -65
-Opaque 70
- "закрыто"
-PenColor FFD0D0
-BrushColor FFD0D0
-Polygon 63,542, 26,542, 26,393, 63,393
-PenColor FF4040
-
-Opaque 100
-PenColor FF4040
-BrushColor -1
-AngleTextOut 90, Arial, 15, 33, 513, Закрыто
-Dashed 63,542, 26,542, 26,393, 63,393, 63,542
-BrushColor 000000

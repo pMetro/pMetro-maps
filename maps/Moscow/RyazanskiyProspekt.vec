@@ -135,8 +135,8 @@ AngleTextOut 13, Arial, 15, 171, 1019, улица Скрябина
 Angle -67
 PenColor FFD900
 BrushColor 615F56
-SpotRect 244, 671, 30, 30, ShowMessage Выход №1
-SpotRect 454, 172, 30, 30
+SpotRect 244, 671, 30, 30, ShowMessage Выход №2
+SpotRect 454, 172, 30, 30, ShowMessage Выход №1
 BrushColor -1
-TextOut Arial, 25, 252, 672, 1
-TextOut Arial, 25, 462, 173, 2
+TextOut Arial, 25, 252, 672, 2
+TextOut Arial, 25, 462, 173, 1
