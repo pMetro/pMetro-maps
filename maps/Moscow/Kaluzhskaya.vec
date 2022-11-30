@@ -158,11 +158,11 @@ SpotRect 794, 335, 30, 30
 BrushColor -1
 TextOut Arial, 25, 476, 784, 1
 TextOut Arial, 25, 507, 890, 2
-TextOut Arial, 25, 364, 1154, 3
-TextOut Arial, 25, 95, 1017, 4
-TextOut Arial, 25, 227, 761, 5
-TextOut Arial, 25, 267, 698, 6
-TextOut Arial, 25, 524, 204, 7
-TextOut Arial, 25, 562, 139, 8
-TextOut Arial, 25, 834, 274, 9
-TextOut Arial, 25, 796, 336, 10
+TextOut Arial, 25, 364, 1154, 5
+TextOut Arial, 25, 95, 1017, 6
+TextOut Arial, 25, 227, 761, 4
+TextOut Arial, 25, 267, 698, 3
+TextOut Arial, 25, 524, 204, 9
+TextOut Arial, 25, 555, 139, 10
+TextOut Arial, 25, 834, 274, 7
+TextOut Arial, 25, 802, 336, 8

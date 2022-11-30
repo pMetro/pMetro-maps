@@ -78,8 +78,8 @@ StringToAdd='  Расписание электричек: '
 Москва Казанская=http://www.tutu.ru/station.php?nnst=7402
 Электрозаводская=http://www.tutu.ru/station.php?nnst=7502
 Сортировочная=http://www.tutu.ru/station.php?nnst=7602
-Новая=http://www.tutu.ru/station.php?nnst=7702
-Фрезер=http://www.tutu.ru/station.php?nnst=7802
+Авиамоторная=http://www.tutu.ru/station.php?nnst=7702
+Андроновка=http://www.tutu.ru/station.php?nnst=7802
 Перово=http://www.tutu.ru/station.php?nnst=7902
 Плющево=http://www.tutu.ru/station.php?nnst=8002
 Вешняки=http://www.tutu.ru/station.php?nnst=8102

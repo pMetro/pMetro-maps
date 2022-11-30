@@ -12,7 +12,7 @@ Type=Image
 
 [Рязанская]
 Электрозаводская=ElectrozavodskayaZhD.vec
-Новая=Novaya.vec
+Авиамоторная=AviamotornayaZhD.vec
 Перово=Chuhlinka.vec
 Выхино=Vyhino.vec
 Отдых=Otdyh.vec

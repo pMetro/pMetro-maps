@@ -19,7 +19,7 @@ Type=Image
 Белорусская=BelZ.vec
 
 [Калининско-Солнцевская]
-Авиамоторная=Novaya.vec
+Авиамоторная=AviamotornayaZhD.vec
 
 [Серпуховско-Тимирязевская]
 Дмитровская=DmitrovskayaZhD.vec

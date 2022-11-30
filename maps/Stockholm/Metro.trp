@@ -1,6 +1,6 @@
 [Line1]
 Name=1
-Stations=Norsborg,Alby,Hallunda,Fittja,Masmo,Varby Gard,Varberg,Skarholmen,Satra,Bredang,Malarhojden,Axelsberg,Ornsberg,Aspudden,Liljeholmen(Hornstull,Aspudden,,Midsommarkransen),Hornstull,Zinkensdamm,Mariatorget,Slussen,Gamla Stan,T-Centralen,Ostermalmstorg(Stadion,T-Centralen,Karlaplan),Stadion,Tekniska Hogskolan,Universitetet,Bergshamra,Danderyds Sjukhus,Morby Centrum(,Danderyds Sjukhus),Fruangen(Vastertorp),Vastertorp,Hagerstensasen,Telefonplan,Midsommarkransen(Liljeholmen,Telefonplan),Karlaplan(Gardet,Ostermalmstorg),Gardet,Ropsten
+Stations=Norsborg,Hallunda,Alby,Fittja,Masmo,Varby Gard,Varberg,Skarholmen,Satra,Bredang,Malarhojden,Axelsberg,Ornsberg,Aspudden,Liljeholmen(Hornstull,Aspudden,,Midsommarkransen),Hornstull,Zinkensdamm,Mariatorget,Slussen,Gamla Stan,T-Centralen,Ostermalmstorg(Stadion,T-Centralen,Karlaplan),Stadion,Tekniska Hogskolan,Universitetet,Bergshamra,Danderyds Sjukhus,Morby Centrum(,Danderyds Sjukhus),Fruangen(Vastertorp),Vastertorp,Hagerstensasen,Telefonplan,Midsommarkransen(Liljeholmen,Telefonplan),Karlaplan(Gardet,Ostermalmstorg),Gardet,Ropsten
 Driving=1,2,2,2,2,2,1,2,2,2,2,1,2,2,(2,2,,2),1,1,2,2,2,2,(2,2,2),2,3,2,2,1,(,1),(1),1,2,2,(2,2),(2,2),2
 Delays=5,5
 
@@ -12,7 +12,7 @@ Delays=5,5
 
 [Line3]
 Name=3
-Stations=Hjulsta,Tensta,Rinkeby,Rissne,Duvbo,Sundbybergs Centrum,Vreten,Huvudsta,Vastra Skogen(Stadshagen,Huvudsta,,Solna Centrum),Stadshagen,Fridhemsplan,Radhuset,T-Centralen,Kungstradgarden(,T-Centralen),Akalla(Husby),Husby,Kista,Hallonbergen,Nackrosen,Solna Centrum(Vastra Skogen,Nackrosen)
+Stations=Hjulsta,Tensta,Rinkeby,Rissne,Duvbo,Sundbybergs Centrum,Solna strand,Huvudsta,Vastra Skogen(Stadshagen,Huvudsta,,Solna Centrum),Stadshagen,Fridhemsplan,Radhuset,T-Centralen,Kungstradgarden(,T-Centralen),Akalla(Husby),Husby,Kista,Hallonbergen,Nackrosen,Solna Centrum(Vastra Skogen,Nackrosen)
 Driving=2,2,3,2,1,1,2,1,(2,1,,2),2,1,2,1,(,1),(2),2,4,2,1,(2,1)
 Delays=5,5
 
