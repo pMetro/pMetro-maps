@@ -21,7 +21,7 @@ BrushColor -1
 AngleTextOut -90, Arial, 15, 1027, 186, Ярославский вокзал
 AngleTextOut -90, Arial, 15, 534, 128, Ленинградский вокзал
 AngleTextOut 0, Arial, 15, 423, 1198, Казанский вокзал
-AngleTextOut -90, Arial, 15, 163, 83, 'платформа "Каланчёвская"'
+AngleTextOut -90, Arial, 15, 163, 83, 'платформа "Площадь трёх вокзалов"'
 
 ; пути
 

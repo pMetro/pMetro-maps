@@ -222,11 +222,6 @@ Type=Image
 Шипиловская=Shipilovskaya.vec
 Зябликово=Krasnogvardeyskaya.vec
 
-[Каховская]
-Каширская=Kashirskaya.vec
-Варшавская=Varshavskaya.vec
-Каховская=Kahovskaya.vec
-
 [Бутовская]
 Битцевский парк=Novoyasenevskaya.vec
 Лесопарковая=Lesoparkovaya.vec
@@ -244,6 +239,15 @@ Type=Image
 Выставочный центр=VystavochnyCentr.vec\nVDNH-VystavochnyCentr.vec
 Улица Сергея Эйзенштейна=UlitsaSergeyaEizenshteina.vec
 
+[МЦД2]
+Печатники=Pechatniki.vec
+Текстильщики=Tekstilshchiki.vec
 
 [БКЛ]
 Деловой центр=Vystavochnaya.vec
+Каширская=Kashirskaya.vec
+Варшавская=Varshavskaya.vec
+Каховская=Kahovskaya.vec
+Печатники=Pechatniki.vec
+Текстильщики=Tekstilshchiki.vec
+

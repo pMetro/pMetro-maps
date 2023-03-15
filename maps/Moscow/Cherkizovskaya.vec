@@ -34,7 +34,8 @@ Line 142,547, 142,522, 132,522
 Line 27,559, 24,559
 Line 27,419, 24,419
 Line -30,419, -33,419
-Line -33,559, -30,559, -30,676, 151,676, 151,662, -20,662, -20,643, 151,643, 151,627, 60,627, 60,623
+Line -33,559, -30,559, -30,704
+Line -20,704, -20,676, 151,676, 151,662, -20,662, -20,643, 151,643, 151,627, 60,627, 60,623
 
 Line -3,419, -3,426
 Line -5,426, -1,426
@@ -80,10 +81,10 @@ Stairs -36,531, -36,527, 30,531
 
 ; стрелки
 PenColor FF0000
-Arrow -2,511, -2,524
+Arrow -2,508, -2,521
 Arrow 60,516, 45,516
 PenColor 009900
-Arrow 5,464, 5,476
+Arrow -2,448, -2,460
 Arrow 45,498, 60,498
 
 ;инфосос
@@ -148,16 +149,23 @@ AngleTextOut 0, Arial, 15, 157, 587, Окружной проезд
 AngleTextOut 0, Arial, 15, 626, 327, 'гостиница "Локомотив" >>'
 AngleTextOut 0, Arial, 15, 166, 239, 'стадион "Локомотив"'
 
+PenColor 000000
+AngleTextOut 0, Arial, 15, 76, 647, МЦК
+AngleTextOut -90, Arial, 15, -30, 656, Восточный вокзал -->
+
+
 ; Выходы
 Angle -90
 PenColor FFD900
 BrushColor 615F56
 SpotRect 338, 741, 30, 30, ShowMessage Выход №1
-SpotRect 184, 96, 30, 30
-SpotRect 184, 4, 30, 30
-SpotRect 369, 701, 30, 30
+SpotRect 366, 700, 30, 30
+SpotRect 489, 779, 30, 30
+SpotRect 156, 140, 30, 30
+SpotRect 186, 3, 30, 30
 BrushColor -1
 TextOut Arial, 25, 346, 742, 1
-TextOut Arial, 25, 192, 97, 2
-TextOut Arial, 25, 192, 5, 3
-TextOut Arial, 25, 377, 702, 4
+TextOut Arial, 25, 374, 701, 2
+TextOut Arial, 25, 497, 780, 3
+TextOut Arial, 25, 164, 141, 4
+TextOut Arial, 25, 194, 4, 5

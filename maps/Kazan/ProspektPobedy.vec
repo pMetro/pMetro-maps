@@ -9,7 +9,7 @@ Polygon 119,376, 569,376, 569,406, 119,406
 BrushColor -1
 PenColor CF0000
 AngleTextOut 0, Arial, 20, 174, 242, << Горки
-AngleTextOut 0, Arial, 20, 440, 406, тупик >>
+AngleTextOut 0, Arial, 20, 388, 406, Дубравная >>
 AngleTextOut 0, Arial, 25, 240, 317, Проспект Победы, 1
 
 ; левый вестибюль
@@ -169,20 +169,3 @@ AngleTextOut 0, Arial, 15, -128, 332, Рихарда Зорге
 AngleTextOut 0, Arial, 15, 739, 314, улица
 AngleTextOut 0, Arial, 15, 718, 329, Рихарда Зорге
 AngleTextOut 90, Arial, 15, 313, 219, проспект Победы
-
-Opaque 70
-; "закрыто"
-PenColor FFD0D0
-BrushColor FFD0D0
-Polygon 144,187, 144,283, 166,283, 166,187
-Polygon 522,179, 522,281, 544,281, 544,179
-PenColor FF4040
-
-Opaque 100
-PenColor FF4040
-BrushColor -1
-AngleTextOut 90, Arial, 15, 144, 255, Строится
-AngleTextOut 90, Arial, 15, 523, 242, Строится
-Dashed 144,187, 144,283, 166,283, 166,187, 144,187
-Dashed 522,179, 522,281, 544,281, 544,179, 522,179
-BrushColor 000000

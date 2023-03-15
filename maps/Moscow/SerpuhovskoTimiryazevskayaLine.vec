@@ -1,7 +1,8 @@
-Size 550x760
+Size 550x830
+Image 1.png
 PenColor 040464
 TextOut Arial, 34, 26, 0, 9 СЕРПУХОВСКО-ТИМИРЯЗЕВСКАЯ, 1
 TextOut Arial, 34, 26, 30, ЛИНИЯ, 1
 
 PenColor 84ACBC
-TextOut Arial, 14, 133, 185, (Монорельс)
+TextOut Arial, 14, 49, 212, (Монорельс)

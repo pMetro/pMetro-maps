@@ -16,8 +16,8 @@ DelayNight=15
 
 [Line3]
 Name=Фиолетовая
-Stations=Мемар Аджеми-2,Автовокзал
-Driving=3
+Stations=8 ноября,Мемар Аджеми-2,Автовокзал
+Driving=3,3
 DelayDay=10
 DelayNight=15
 
