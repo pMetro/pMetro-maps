@@ -237,7 +237,7 @@ Type=3dImage
 Тушино=Tushinskaya.pm3d(-1573,3675,41,90,52,7098),TushinskayaTrain1.pms,TushinskayaTrain2.pms
 
 [Павелецкая]
-Коломенское=Varshavskaya.pm3d(2586,2281,382,90,50,4358),VarshavskayaTrain.pms
+Варшавская=Varshavskaya.pm3d(2586,2281,382,90,50,4358),VarshavskayaTrain.pms
 
 [Белорусская]
 Тестовская=Testovskaya.pm3d

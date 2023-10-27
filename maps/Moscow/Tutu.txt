@@ -195,7 +195,7 @@ StringToAdd='  Расписание электричек: '
 Москва Тов.=http://www.tutu.ru/station.php?nnst=83611
 ЗИЛ=http://www.tutu.ru/station.php?nnst=83711
 Нижние Котлы=http://www.tutu.ru/station.php?nnst=83811
-Коломенское=http://www.tutu.ru/station.php?nnst=83911
+Варшавская=http://www.tutu.ru/station.php?nnst=83911
 Чертаново=http://www.tutu.ru/station.php?nnst=84011
 Бирюлево Тов.=http://www.tutu.ru/station.php?nnst=84111
 Бирюлево Пасс.=http://www.tutu.ru/station.php?nnst=84211

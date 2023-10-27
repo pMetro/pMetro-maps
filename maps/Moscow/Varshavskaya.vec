@@ -150,7 +150,7 @@ PenColor 00AFAF
 BrushColor -1
 AngleTextOut 0, Arial, 15, 72, 534, Чонгарский бульвар
 AngleTextOut 90, Arial, 15, 593, 216, Варшавское шоссе
-AngleTextOut 90, Arial, 15, 976, 189, 'платформа "Коломенское"'
+AngleTextOut 90, Arial, 15, 976, 189, 'платформа "Варшавская"'
 AngleTextOut 90, Arial, 15, 1169, 194, Каширский проезд
 PenColor 000000
 
