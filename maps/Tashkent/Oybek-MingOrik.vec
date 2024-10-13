@@ -7,7 +7,7 @@ BrushColor F5F5F5
 Line -776,461, 1307,460, 50
 Line 287,-383, 286,1398, 50
 
-; Ming O'rik
+; Ming o'rik
 
 ; пути
 PenColor 000000
@@ -19,7 +19,7 @@ BrushColor -1
 PenColor 4B7D43
 AngleTextOut 0, Arial, 20, 446, 402, << тупик
 AngleTextOut 0, Arial, 20, 744, 566, Yunus Rajabiy >>
-AngleTextOut 0, Arial, 25, 553, 485, Ming O'rik, 1
+AngleTextOut 0, Arial, 25, 553, 485, Ming o'rik, 1
 
 ; правый вестибюль
 

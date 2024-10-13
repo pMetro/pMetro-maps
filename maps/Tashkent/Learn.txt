@@ -7,39 +7,19 @@ MenuImage=Vuz.bmp
 StringToAdd='  '
 
 [Chilonzor]
-;Olmazor=
-;Chilonzor=
 Mirzo Ulug'bek=Центр Подготовки и Поддержки Молодых Программистов
 Novza=Медицинский лицей
-;Milliy Bog'=
-;Bunyodkor=
-;Paxtakor=
-;Mustaqillik Maydoni=
 Amir Temur Xiyoboni=Вестминстерский Университет
 Hamid Olimjon=Школы 17, 18
-;Pushkin=
-;Buyuk Ipak Yo'li=
 
 [O'zbekiston]
 Beruniy=Ташкентский Государственный Технический Университет (бывший Политех)\nТашкентский медицинский институт
 Tinchlik=Институт шелководства
-;Chorsu=
-;G'afur G'ulom=
-;Alisher Navoiy=
-;O'zbekiston=
-;Kosmonavtlar=
 Oybek=Институт Востоковеденья
-;Toshkent=
-;Mashinasozlar=
-;Do'stlik=
 
 [Yunusobod]
-Ming O'rik=110 школа\nИнститут Востоковеденья
+Ming o'rik=110 школа\nИнститут Востоковеденья
 Yunus Rajabiy=Школа\nВестминстерский Университет
 Abdulla Qodiriy=Учебный центр "Netdec"
-;Minor=
 Bodomzor=Ташкентский Университет Информационных Технологий (бывший Институт Связи)\nЦентр Научно-Технических и Маркетинговых Исследований.\nГосударственный тестовый центр
-;Shahriston=
-;Yunus-Obod=
-;Turkiston=
 

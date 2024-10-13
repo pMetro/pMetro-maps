@@ -10,7 +10,7 @@ Polygon 155,595, 155,565, 605,565, 605,595
 BrushColor -1
 PenColor 4B7D43
 AngleTextOut 0, Arial, 20, 155, 431, << Minor
-AngleTextOut 0, Arial, 20, 492, 595, Shahriston >>
+AngleTextOut 0, Arial, 20, 492, 595, Shaxriston >>
 AngleTextOut 0, Arial, 25, 335, 506, Bodomzor, 1
 
 ; правый вестибюль

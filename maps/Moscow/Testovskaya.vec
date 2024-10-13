@@ -3,8 +3,8 @@ Angle -15
 
 BrushColor -1
 PenColor 040464
-SpotRect 460, 1149, 198, 15, LoadVec Mezhd.vec
-TextOut Arial, 12, 460, 1149, Схема станции метро "Международная", 5
+SpotRect 460, 1149, 198, 15, LoadVec Moscow-City.vec
+TextOut Arial, 12, 460, 1149, Схема станции метро "Москва-Сити", 5
 SpotRect 464, 1112, 120, 15, LoadVec Test.vec
 TextOut Arial, 12, 464, 1112, Схема перехода к метро, 5
 PenColor 000000
@@ -94,11 +94,11 @@ Railway 6, 9, 4, 191,26, 191,1225
 
 BrushColor -1
 PenColor 707070
-AngleTextOut 90, Arial, 30, 97, 713, пл.Тестовская, 1
+AngleTextOut 90, Arial, 30, 97, 713, пл.Тестовская (Москва-Сити), 1
 PenColor 00AFAF
 AngleTextOut 0, Arial, 15, 15, 182, Шмитовский проезд
 AngleTextOut 90, Arial, 15, 289, 482, Третье транспортное кольцо
-AngleTextOut 90, Arial, 15, 420, 1170, '<-- к ст.м."Международная"'
+AngleTextOut 90, Arial, 15, 420, 1170, '<-- к ст.м."Москва-Сити"'
 PenColor 000000
 AngleTextOut 90, Arial, 15, 195, 663, кассы
 AngleTextOut 90, Arial, 15, 147, 524, кассы

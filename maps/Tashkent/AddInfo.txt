@@ -9,8 +9,8 @@ Olmazor=Расположена на пересечении проспекта Дружбы народов и ул. Гавхар.\n\nTos
 Chilonzor=Расположена на пересечении проспекта Дружбы народов и улицы Фархадская.\n\nThe Farkhad market\nJewellery workshop\nhttp://www.metrotashkent.narod.ru/line1/chilanzar.htm
 Mirzo Ulug'bek=Расположена на пересечении проcпекта Дружбы народов и ул. Чапанота (бывш. Волгоградской), рядом с бывшим парком культуры и отдыха им. 40-летия ЛКСМ Узбекистана.\n\nEmbassy of the United States of America\nThe Chilanzar department store\nStadium "Labour Reserve"\n"Ulughbek" park\nDHL and Roz Trading offices\nUnitex international\nhttp://www.metrotashkent.narod.ru/line1/50letsssr.htm
 Novza=Расположена на пересечении проспекта Дружбы народов и ул. Мукими.\n\nPakistan Embassy\nEgyptian Embassy\nBritish Embassy\n"Computerland" offices\nhttp://www.metrotashkent.narod.ru/line1/khamza.htm
-Milliy Bog'=Расположена на проспекте Дружбы народов.\n\n"Uzbekfilm" cinema studio.\nhttp://www.metrotashkent.narod.ru/line1/komsomol.htm
-Bunyodkor=Расположена на проспекте Дружбы народов.\n\n"Bunyodkor" Concert Hall (Friendship of the Peoples)\nNavoi park.\nhttp://www.metrotashkent.narod.ru/line1/drnarodov.htm
+Milliy bog'=Расположена на проспекте Дружбы народов.\n\n"Uzbekfilm" cinema studio.\nhttp://www.metrotashkent.narod.ru/line1/komsomol.htm
+Xalqlar do'stligi=Расположена на проспекте Дружбы народов.\n\n"Bunyodkor" Concert Hall (Friendship of the Peoples)\nNavoi park.\nhttp://www.metrotashkent.narod.ru/line1/drnarodov.htm
 Paxtakor=Расположена около стадиона "Пахтакор" и спортивной арены "Ешлик".\n\n"Pahtakor" stadium\n"Young Spectators' Theatre"\nTV Centre\n"Ilkhom" theatre\n"Khamza" theatre\n"Yoshlik" sport complex\n"Navoi" cinema\n"Yoshlik" hotel.\nhttp://www.metrotashkent.narod.ru/line1/paxtakor.htm
 Mustaqillik Maydoni=Расположена в центре Ташкента.\n\nMustakillik square (Independence)\n"Navoi" theatre\nGerman and Vietnamese Embassies\n"Turkiston" concert hall\nPublishing House\n"Zeravshan" restaurant\nCentral department store\nThe Alai market place\nHotel "Tashkent"\n"Bakhor" concert hall\nThe Exhibition Hall\nThe State Library.\nhttp://www.metrotashkent.narod.ru/line1/pllenina.htm
 Amir Temur Xiyoboni=Расположена на улице Пушкина, вблизи сквера Амира Тимура (бывший сквер Революции).\n\nAmir Temur square\nUzbekistan hotel\nThe National Bank\nMuseum of Arts\n"Gorky" theatre\nFrench, Indian, Chinese, Turkish, Afghan, Latvian Embassies\nRadio Committee\nExpocentre\nThe Tashkent business centre\n"Uzneftegaz" corporation\nUniversity of Oriental Languages\nMuborak park\n"Al Mashrik" shop\n"Muborak" restaurant\n"Iverson" shop\nTurkish Airways office.\nhttp://www.metrotashkent.narod.ru/line1/oktrevolution.htm
@@ -32,12 +32,12 @@ Mashinasozlar=Находится под перекрестком улиц Воровского и Хамзы. Вблизи станции
 Do'stlik=Расположена под улицей Воровского, рядом с ГАО ТАПОиЧ. Один из выходов совмещен с проходной авиационного завода им. Чкалова.\n\nThe Chkalov Aircraft Plant\nhttp://www.metrotashkent.narod.ru/line2/chkalov.htm
 
 [Yunusobod]
-Ming O'rik=Расположена на стыке улиц Шахрисабз, Айбека и Афросиаб, вблизи гостиницы "Россия".\nhttp://www.metrotashkent.narod.ru/line3/mingurik.htm
+Ming o'rik=Расположена на стыке улиц Шахрисабз, Айбека и Афросиаб, вблизи гостиницы "Россия".\nhttp://www.metrotashkent.narod.ru/line3/mingurik.htm
 Yunus Rajabiy=Глубина заложения - 24 м. (Самая глубокая в Ташкентском метрополитене)\nhttp://www.metrotashkent.narod.ru/line3/radjabi.htm
 Abdulla Qodiriy=Расположена возле знаменитого Алайского рынка.\nhttp://www.metrotashkent.narod.ru/line3/kodyri.htm
 Minor=Расположена возле кинотеатра "Казахстан". Вход совмещён со входом в инженерное здание.\nhttp://www.metrotashkent.narod.ru/line3/minor.htm
 Bodomzor=Расположена рядом с Республиканским торгово-выставочным комплексом "Узэкспоцентр" (бывший ВДНХ) и "Ташкентлендом" (бывший парк "Победы").\nhttp://www.metrotashkent.narod.ru/line3/badamzar.htm
-Shahriston=http://www.metrotashkent.narod.ru/line3/abdullaev.htm
-Yunus-Obod=Существовали планы расположения станции в районе завода "Зенит", однако станция строится в районе между 13 и 15 кварталами массива Юнусабад.\nhttp://www.metrotashkent.narod.ru/line3/yunusabad.htm
+Shaxriston=http://www.metrotashkent.narod.ru/line3/abdullaev.htm
+Yunusobod=Существовали планы расположения станции в районе завода "Зенит", однако станция строится в районе между 13 и 15 кварталами массива Юнусабад.\nhttp://www.metrotashkent.narod.ru/line3/yunusabad.htm
 Turkiston=Будет расположена в районе кольцевой автодороги возле шоссе к поселку Гишткуприк (Черняевка).\nВозле станции будет построено депо для 3 линии.\nhttp://www.metrotashkent.narod.ru/line3/turkestan.htm
 

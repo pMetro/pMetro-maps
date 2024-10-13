@@ -6,42 +6,15 @@ MenuName=Разное\Рестораны
 StringToAdd='  '
 
 [Chilonzor]
-;Olmazor=
-;Chilonzor=
-;Mirzo Ulug'bek=
 Novza=Ресторан "Флагман"
 Amir Temur Xiyoboni=Бар "Вертикальный мир"
-;Milliy Bog'=
-;Bunyodkor=
-;Paxtakor=
-;Mustaqillik Maydoni=
-;Amir Temur Xiyoboni=
-;Hamid Olimjon=
-;Pushkin=
-;Buyuk Ipak Yo'li=
 
 [O'zbekiston]
-;Beruniy=
-;Tinchlik=
-;Chorsu=
 G'afur G'ulom=Ресторан "Россини"
-;Alisher Navoiy=
-;O'zbekiston=
-;Kosmonavtlar=
 Oybek=Ресторан Angels Food
 Toshkent=Ресторан "Бриллиантовая рука"
-;Mashinasozlar=
-;Do'stlik=
 
 [Yunusobod]
 Yunus Rajabiy=Бар "Вертикальный мир"
-Ming O'rik=Ресторан Angels Food
-;Ming O'rik=
-;Yunus Rajabiy=
-;Abdulla Qodiriy=
-;Minor=
-;Bodomzor=
-;Shahriston=
-;Yunus-Obod=
-;Turkiston=
+Ming o'rik=Ресторан Angels Food
 

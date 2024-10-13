@@ -10,7 +10,7 @@ Polygon 147,513, 147,483, 597,483, 597,513
 BrushColor -1
 PenColor F52D35
 AngleTextOut 0, Arial, 20, 152, 349, << Mirzo Ulug'bek
-AngleTextOut 0, Arial, 20, 489, 513, Milliy Bog' >>
+AngleTextOut 0, Arial, 20, 489, 513, Milliy bog' >>
 AngleTextOut 0, Arial, 25, 355, 426, Novza, 1
 
 ; правый вестибюль

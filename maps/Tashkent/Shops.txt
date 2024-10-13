@@ -6,42 +6,21 @@ MenuName=Разное\Магазины
 StringToAdd='  '
 
 [Chilonzor]
-;Olmazor=
 Chilonzor=Фархадский рынок\nМагазин Шухрат\nПродуктовый рынок
 Mirzo Ulug'bek=Торговый Центр "Чиланзар"
 Novza=Торговый Центр "Чиланзар"\nСупермаркет "Метро"
-;Milliy Bog'=
-;Bunyodkor=
-;Paxtakor=
-;Mustaqillik Maydoni=
 Amir Temur Xiyoboni=Супермаркет "Дунё"
 Hamid Olimjon=Бутики "Европа Эксклюзив", Сабо, Спортландия
-;Pushkin=
 Buyuk Ipak Yo'li=Базар "Буз"\nУнивермаг "Светлана"\nАвтосалон "Шевроле"\nМагазин игрушек "Пиноккио"\nМагазин "Радиодетали"
 Paxtakor=Торговая ярмарка Навойи
 
 [O'zbekiston]
-;Beruniy=
-;Tinchlik=
 Chorsu=Торговый центр "Туркуаз" (бывший "ГУМ")
-;G'afur G'ulom=
 Alisher Navoiy=Торговая ярмарка Навойи
-;O'zbekiston=
 Kosmonavtlar=ЦУМ (Центральный Универсальный Магазин) - ныне Универмаг "Ташкент"\nМагазин "Жемчуг"
-;Oybek=
 Toshkent=Магазин "Военторг"
 Beruniy=Выставочный центр УзКургазмаСавдо
-;Mashinasozlar=
-;Do'stlik=
 
 [Yunusobod]
-;Ming O'rik=
-;Yunus Rajabiy=
 Abdulla Qodiriy=Алайский рынок\nСупермаркет Ардус\nБутики Puma, Adidas, Mexx
 Yunus Rajabiy=Супермаркет "Дунё"
-;Minor=
-;Bodomzor=
-;Shahriston=
-;Yunus-Obod=
-;Turkiston=
-

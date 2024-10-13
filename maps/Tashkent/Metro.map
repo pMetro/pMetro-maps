@@ -1,56 +1,60 @@
 [Options]
-ImageFileName=Tashkent2.png,Tashkent.vec
+ImageFileName=Tashkent.vec
 StationDiameter=13
 IsVector=1
 UpperCase=0
-WordWrap=0
+WordWrap=1
 
 [Chilonzor]
 Color=F52D35
 LabelsColor=F52D35
-Coordinates=25,509, 25,486, 25,464, 25,438, 25,412, 25,385, 25,357, 47,335, 66,316, 88,294, 112,270, 132,250, 160,235, 220,235, 302,235, 365,221, 429,221, 484,207
-Rects=34,502,35,15, 34,479,43,15, 34,457,50,15, 34,431,36,15, 34,405,102,15, 34,377,55,15, 33,355,43,15, 55,333,49,15, 74,314,75,15, 47,281,33,15, 50,257,54,15, 68,237,56,15, 94,221,46,15, 170,212,101,15, 313,231,106,15, 331,199,75,15, 438,218,42,15, 438,185,82,15
-Rect=12,10,190,24
+Coordinates=234,710, 197,688, 157,665, 115,641, 69,614, 24,567, 43,514, 67,473, 92,431, 122,378, 148,333, 205,290, 252,296, 335,302, 376,278, 413,246, 454,212
+Rects=227,684,35,15, 198,665,57,15, 158,642,37,15, 116,618,48,15, 70,591,55,15, 32,561,43,15, 51,510,49,15, 75,469,45,28, 100,426,33,15, 130,374,31,28, 156,329,40,28, 190,301,46,15, 222,261,58,28, 342,309,79,28, 385,276,40,28, 422,246,42,15, 463,198,47,28
+Rect=21,40,133,17
 Rects2=
 
 [O'zbekiston]
 Color=2D3C9B
 LabelsColor=2D3C9B
-Coordinates=38,128, 74,164, 120,178, 160,178, 160,219, 195,267, 229,287, 276,314, 297,327, 323,301, 401,274
-Rects=46,114,41,15, 78,143,41,15, 121,156,38,15, 169,171,68,15, 72,206,76,15, 128,268,59,15, 150,288,71,15, 230,314,34,15, 278,334,47,15, 331,299,74,15, 377,284,39,15
-Rect=12,34,190,24
+Coordinates=19,183, 54,212, 90,242, 157,258, 193,283, 213,338, 243,377, 279,406, 333,407, 388,367, 427,377
+Rects=27,168,41,15, 62,197,41,15, 91,220,38,15, 141,223,36,28, 178,245,40,28, 220,329,59,15, 175,384,71,15, 248,417,34,15, 341,405,47,15, 355,345,74,15, 393,387,39,15
+Rect=21,58,133,17
 Rects2=
 
 [Yunusobod]
 Color=4B7D43
 LabelsColor=4B7D43
-Coordinates=286,304, 302,249, 302,190, 302,159, 302,131, 302,103, 302,74, 302,46
-Rects=242,278,52,15, 313,245,74,15, 311,179,79,15, 311,152,30,15, 311,123,52,15, 311,95,55,15, 311,67,82,15, 311,38,62,15
-Rect=12,58,190,24
+Coordinates=293,393, 316,292, 286,255, 274,212, 274,164, 274,111, 274,64, 274,13
+Rects=266,354,30,28, 324,259,40,28, 295,230,42,28, 282,205,30,15, 282,157,52,15, 282,104,55,15, 282,57,57,15, 282,6,48,15
+Rect=21,76,133,17
 Rects2=
 
 [Mustaqilligining]
 Color=917b9a
 LabelsColor=917b9a
-Coordinates=416,274, 453,274, 479,300, 479,332, 479,364, 454,389, 431,412
-Rects=411,248,48,15, 462,261,56,15, 488,293,28,15, 488,325,26,15, 488,357,31,15, 463,387,54,15, 440,410,36,15
-Rect=12,82,190,24
+Coordinates=440,381, 485,400, 519,426, 527,465, 527,506, 519,566, 447,605, 377,584, 344,587, 311,590, 274,629, 274,661, 274,696, 251,713
+Rects=451,366,54,15, 420,402,57,15, 482,423,28,15, 485,458,34,15, 488,500,31,15, 457,553,54,15, 431,613,36,15, 360,592,41,15, 327,564,28,15, 302,598,36,15, 282,622,45,15, 282,654,60,15, 282,689,30,15, 262,713,43,15
+Rect=21,94,133,17
 Rects2=
 
 [AdditionalNodes]
-;1=O'zbekiston,Alisher Navoiy,O'zbekiston, 159,231
-;2=O'zbekiston,Kosmonavtlar,Oybek, 274,317
-;3=O'zbekiston,Oybek,Toshkent, 284,325
-;4=Chilonzor,Bunyodkor,Paxtakor, 153,230
-;5=Chilonzor,Paxtakor,Mustaqillik Maydoni, 165,228
-;6=Chilonzor,Mustaqillik Maydoni,Amir Temur Xiyoboni, 304,240
-;7=Chilonzor,Amir Temur Xiyoboni,Hamid Olimjon, 319,236
-;8=Yunusobod,Ming O'rik,Yunus Rajabiy, 307,246
-
-1=O'zbekiston,Tinchlik,Chorsu, 88,178
-2=Chilonzor,Paxtakor,Bunyodkor, 147,235
-3=O'zbekiston,O'zbekiston,Alisher Navoiy, 160,247
-4=Yunusobod,Yunus Rajabiy,Ming O'rik, 302,288
-5=Chilonzor,Amir Temur Xiyoboni,Hamid Olimjon, 316,221
-6=Chilonzor,Pushkin,Buyuk Ipak Yo'li, 443,207
-7=O'zbekiston,Mashinasozlar,Do'stlik, 350,274
+1=Yunusobod,Yunus Rajabiy,Ming o'rik, 330,336, spline
+2=Yunusobod,Abdulla Qodiriy,Minor, 277,237, spline
+3=Chilonzor,Amir Temur Xiyoboni,Hamid Olimjon, 355,294, spline
+4=Chilonzor,Amir Temur Xiyoboni,Mustaqillik Maydoni, 293,301, spline
+5=Chilonzor,Paxtakor,Xalqlar do'stligi, 175,302, spline
+6=Chilonzor,Olmazor,Chilonzor, 29,545, spline
+7=Chilonzor,Olmazor,Choshtepa, 34,589, spline
+8=Mustaqilligining,Qipchoq,Turon, 269,712, spline
+9=Mustaqilligining,Xonobod,Tolariq, 276,608, 287,596, spline
+10=Mustaqilligining,Matonat,Qo'yliq, 409,588, 431,601, spline
+11=Mustaqilligining,Qo'yliq,Yangiobod, 464,602, 504,580, spline
+12=Mustaqilligining,Yangiobod,Rohat, 526,548, spline
+13=Mustaqilligining,Olmos,Tuzel, 525,442, spline
+14=Mustaqilligining,Tuzel,Yashnobod, 507,412, spline
+15=O'zbekiston,Do'stlik,Mashinasozlar, 405,369, spline
+16=O'zbekiston,Mashinasozlar,Toshkent, 364,377, spline
+17=O'zbekiston,Toshkent,Oybek, 306,417, spline
+18=O'zbekiston,Kosmonavtlar,O'zbekiston, 223,357, spline
+19=O'zbekiston,Alisher Navoiy,G'afur G'ulom, 177,266, spline
+20=O'zbekiston,G'afur G'ulom,Chorsu, 134,257, 108,253, spline

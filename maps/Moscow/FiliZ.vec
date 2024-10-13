@@ -131,7 +131,7 @@ AngleTextOut 45, Arial, 15, 486, 238, кассы
 AngleTextOut 55, Arial, 15, 339, 598, кассы
 AngleTextOut 47, Arial, 15, 429, 333, зал ожидания
 AngleTextOut -40, Arial, 15, 155, 404, << к Горбушке
-AngleTextOut 49, Arial, 15, 433, 466, Тестовская >>, 1
+AngleTextOut 49, Arial, 15, 433, 466, Тестовская (Москва-Сити) >>, 1
 AngleTextOut 52, Arial, 15, 257, 628, << Кунцево, 1
 AngleTextOut 55, Arial, 15, 318, 674, платформа к Москве
 AngleTextOut 47, Arial, 15, 461, 364, платформа от Москвы

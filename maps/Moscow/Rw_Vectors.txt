@@ -41,7 +41,7 @@ Type=Image
 [Белорусская]
 Москва Смоленская=BelZ.vec
 Беговая=Begovaya.vec
-Тестовская=Testovskaya.vec
+Тестовская <Москва-Сити>=Testovskaya.vec
 Фили=FiliZ.vec
 Кунцево=Kunz.vec
 Рабочий Поселок=RabochiyPoselok.vec

@@ -7,41 +7,14 @@ MenuImage=Hotel.bmp
 StringToAdd='  '
 
 [Chilonzor]
-;Olmazor=
-;Chilonzor=
-;Mirzo Ulug'bek=
-;Novza=
-;Milliy Bog'=
-;Bunyodkor=
-;Paxtakor=
-;Mustaqillik Maydoni=
 Amir Temur Xiyoboni=Гостиница "Шератон"\nГостиница "Тата"\nГостиница "Узбекистан"
-;Hamid Olimjon=
-;Pushkin=
 Buyuk Ipak Yo'li=Гостиница "Саёхат"
 
 [O'zbekiston]
-;Beruniy=
-;Tinchlik=
-;Chorsu=
-;G'afur G'ulom=
-;Alisher Navoiy=
-;O'zbekiston=
-;Kosmonavtlar=
 Oybek=Гостиница "Гранд Мир Отель" (бывшая "Россия")
-;Toshkent=
-;Mashinasozlar=
-;Do'stlik=
 
 [Yunusobod]
-;Ming O'rik=
-;Yunus Rajabiy=
-;Abdulla Qodiriy=
-;Minor=
 Bodomzor=Гостиница "Интерконтиненталь"
 Yunus Rajabiy=Гостиница "Шератон"\nГостиница "Тата"\nГостиница "Узбекистан"
-Ming O'rik=Гостиница "Гранд Мир Отель" (бывшая "Россия")
-;Shahriston=
-;Yunus-Obod=
-;Turkiston=
+Ming o'rik=Гостиница "Гранд Мир Отель" (бывшая "Россия")
 

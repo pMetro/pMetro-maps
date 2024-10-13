@@ -9,8 +9,8 @@ Olmazor=Olmazor.vec
 Chilonzor=Chilonzor.vec
 Mirzo Ulug'bek=MirzoUlugbek.vec
 Novza=Novza.vec
-Milliy Bog'=MilliyBog.vec
-Bunyodkor=Bunyodkor.vec
+Milliy bog'=MilliyBog.vec
+Xalqlar do'stligi=Xalqlar do'stligi.vec
 Paxtakor=Paxtakor-AlisherNavoiy.vec
 Mustaqillik Maydoni=MustaqillikMaydoni.vec
 Amir Temur Xiyoboni=AmirTemurXiyoboni-YunusRajabiy.vec
@@ -32,12 +32,10 @@ Mashinasozlar=Mashinasozlart.vec
 Do'stlik=Dostlik.vec
 
 [Yunusobod]
-Ming O'rik=Oybek-MingOrik.vec
+Ming o'rik=Oybek-MingOrik.vec
 Yunus Rajabiy=AmirTemurXiyoboni-YunusRajabiy.vec
 Abdulla Qodiriy=AbdullaQodiriy.vec
 Minor=Minor.vec
 Bodomzor=Bodomzor.vec
-Shahriston=Shahriston.vec
-;Yunus-Obod=
-;Turkiston=
+Shaxriston=Shaxriston.vec
 

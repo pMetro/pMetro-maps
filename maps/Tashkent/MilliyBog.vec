@@ -10,8 +10,8 @@ Polygon -108,488, -108,458, 342,458, 342,488
 BrushColor -1
 PenColor F52D35
 AngleTextOut 0, Arial, 20, -103, 324, << Novza
-AngleTextOut 0, Arial, 20, 224, 488, Bunyodkor >>
-AngleTextOut 0, Arial, 25, 100, 401, Milliy Bog', 1
+AngleTextOut 0, Arial, 20, 224, 488, Xalqlar do'stligi >>
+AngleTextOut 0, Arial, 25, 100, 401, Milliy bog', 1
 
 ; правый вестибюль
 

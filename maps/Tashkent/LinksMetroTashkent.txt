@@ -9,8 +9,8 @@ Olmazor=http://www.metrotashkent.narod.ru/pic/line1/srakh/stpic_srakh.htm
 Chilonzor=http://www.metrotashkent.narod.ru/pic/line1/chil/stpic_chil.htm
 Mirzo Ulug'bek=http://www.metrotashkent.narod.ru/pic/line1/50let/stpic_50let.htm
 Novza=http://www.metrotashkent.narod.ru/pic/line1/khamza/stpic_khamza.htm
-Milliy Bog'=http://www.metrotashkent.narod.ru/pic/line1/koms/stpic_koms.htm
-Bunyodkor=http://www.metrotashkent.narod.ru/pic/line1/drn/stpic_drn.htm
+Milliy bog'=http://www.metrotashkent.narod.ru/pic/line1/koms/stpic_koms.htm
+Xalqlar do'stligi=http://www.metrotashkent.narod.ru/pic/line1/drn/stpic_drn.htm
 Paxtakor=http://www.metrotashkent.narod.ru/pic/line1/pakh/stpic_pakh.htm
 Mustaqillik Maydoni=http://www.metrotashkent.narod.ru/pic/line1/pll/stpic_pll.htm
 Amir Temur Xiyoboni=http://www.metrotashkent.narod.ru/pic/line1/oktrev/stpic_oktrev.htm
@@ -32,11 +32,11 @@ Mashinasozlar=http://www.metrotashkent.narod.ru/pic/line2/tsmash/stpic_tsmash.ht
 Do'stlik=http://www.metrotashkent.narod.ru/pic/line2/chk/stpic_chk.htm
 
 [Yunusobod]
-Ming O'rik=http://www.metrotashkent.narod.ru/pic/line3/ming/stpic_ming.htm
+Ming o'rik=http://www.metrotashkent.narod.ru/pic/line3/ming/stpic_ming.htm
 Yunus Rajabiy=http://www.metrotashkent.narod.ru/pic/line3/radjabi/stpic_radjabi.htm
 Abdulla Qodiriy=http://www.metrotashkent.narod.ru/pic/line3/kodyri/stpic_kodyri.htm
 Minor=http://www.metrotashkent.narod.ru/pic/line3/minor/stpic_minor.htm
 Bodomzor=http://www.metrotashkent.narod.ru/pic/line3/badam/stpic_badam.htm
-Shahriston=http://www.metrotashkent.narod.ru/pic/line3/habdul/stpic_habdul.htm
-;Yunus-Obod=
+Shaxriston=http://www.metrotashkent.narod.ru/pic/line3/habdul/stpic_habdul.htm
+;Yunusobod=
 ;Turkiston=

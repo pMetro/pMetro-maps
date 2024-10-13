@@ -83,8 +83,8 @@ Type=3dImage
 Смоленская=SmolenskayaF.pm3d
 Арбатская=Arbatskaya.pm3d
 Александровский сад=Borovitskaya.pm3d,Borovitskaya2.pms,BorovitskayaRusich.pms
-Выставочная=DelovoyCentr.pm3d
-Международная=Mezhdunarodnaya.pm3d
+Деловой центр=DelovoyCentr.pm3d
+Москва-Сити=Mezhdunarodnaya.pm3d
 
 [Кольцевая]
 Новослободская=Mendeleevskaya.pm3d,MendeleevskayaKoltsevaya.pms
@@ -240,7 +240,7 @@ Type=3dImage
 Варшавская=Varshavskaya.pm3d(2586,2281,382,90,50,4358),VarshavskayaTrain.pms
 
 [Белорусская]
-Тестовская=Testovskaya.pm3d
+Тестовская <Москва-Сити>=Testovskaya.pm3d
 Рабочий Поселок=RabochiyPoselok.pm3d,RabochiyPoselokS.pms
 Раздоры=Razdory.pm3d
 Беговая=Begovaya.pm3d(2450,-583,194,180,47,4465),BegovayaTrain.pms

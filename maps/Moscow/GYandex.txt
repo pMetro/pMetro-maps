@@ -74,8 +74,8 @@ StringToAdd='  Карта Yandex: '
 ;Щелковская=
 
 [Филевская]
-Международная=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=2179&mapY=9050&act=5&slices=1&tool=grab
-Выставочная=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=12&mapX=2819&mapY=9211&act=5&slices=1&tool=grab
+Москва-Сити=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=2179&mapY=9050&act=5&slices=1&tool=grab
+Деловой центр=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=12&mapX=2819&mapY=9211&act=5&slices=1&tool=grab
 Александровский сад=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=6941&mapY=9491&act=5&slices=1&tool=grab
 Арбатская=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=6543&mapY=9496&act=5&slices=1&tool=grab
 Смоленская=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=5327&mapY=9077&act=5&slices=1&tool=grab
@@ -230,7 +230,7 @@ StringToAdd='  Карта Yandex: '
 [Белорусская]
 Москва Смоленская=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=12&mapX=5216&mapY=12245&act=5&slices=1&tool=grab
 Беговая=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=12&mapX=3292&mapY=11807&act=5&slices=1&tool=grab
-Тестовская=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=12&mapX=2091&mapY=9689&act=5&slices=1&tool=grab
+Тестовская <Москва-Сити>=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=12&mapX=2091&mapY=9689&act=5&slices=1&tool=grab
 Фили=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=1074&mapY=8658&act=5&slices=1&tool=grab
 Кунцево=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=-3051&mapY=6678&act=5&slices=1&tool=grab
 Рабочий Поселок=http://maps.yandex.ru/map.xml?mapID=100&size=1&scale=13&mapX=-5187&mapY=6679&act=5&slices=1&tool=grab

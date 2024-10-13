@@ -78,8 +78,8 @@ Type=Image
 Щелковская=Schelkovskaya.vec
 
 [Филевская]
-Международная=Mezhd.vec
-Выставочная=Vystavochnaya.vec
+Москва-Сити=Moscow-City.vec
+Деловой центр=Vystavochnaya.vec
 Александровский сад=Borovitskaya.vec
 Арбатская=ArbatskayaF.vec
 Смоленская=SmolenskayaFL.vec

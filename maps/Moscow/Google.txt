@@ -75,8 +75,8 @@ StringToAdd='  Ссылка на спутниковую карту Google: '
 ;Щелковская=
 
 [Филевская]
-Международная=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.748172,37.532998&spn=0.002488,0.007231&z=17
-Выставочная=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.749639,37.542536&spn=0.004976,0.014462&z=16
+Москва-Сити=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.748172,37.532998&spn=0.002488,0.007231&z=17
+Деловой центр=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.749639,37.542536&spn=0.004976,0.014462&z=16
 Александровский сад=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.752242,37.60898&spn=0.002488,0.007231&z=17
 Арбатская=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.752145,37.602414&spn=0.002488,0.007231&z=17
 Смоленская=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.748516,37.582641&spn=0.002488,0.007231&z=17
@@ -289,7 +289,7 @@ StringToAdd='  Ссылка на спутниковую карту Google: '
 [Белорусская]
 Москва Смоленская=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.776748,37.579969&spn=0.002486,0.007231&z=17
 Беговая=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.773182,37.550336&spn=0.002486,0.007231&z=17
-Тестовская=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.75412,37.531872&spn=0.004975,0.014462&z=16
+Тестовская <Москва-Сити>=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.75412,37.531872&spn=0.004975,0.014462&z=16
 Фили=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.744362,37.515199&spn=0.002488,0.007231&z=17
 Кунцево=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.726868,37.449464&spn=0.002489,0.007231&z=17
 Рабочий Поселок=http://maps.google.com/maps?hl=ru&t=h&ie=UTF8&om=1&ll=55.72682,37.414423&spn=0.002489,0.007231&z=17

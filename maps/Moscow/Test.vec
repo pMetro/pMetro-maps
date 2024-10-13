@@ -2,12 +2,12 @@ Size 720x1030
 
 BrushColor -1
 PenColor 040464
-SpotRect 501, 885, 190, 15, LoadVec Mezhd.vec
-TextOut Arial, 12, 501, 885, 'Схема станции метро "Международная"', 5
+SpotRect 501, 885, 190, 15, LoadVec Moscow-City.vec
+TextOut Arial, 12, 501, 885, 'Схема станции метро "Москва-Сити"', 5
 SpotRect 4, 5, 190, 15, LoadVec Testovskaya.vec
-TextOut Arial, 12, 4, 5, 'Схема ж/д платформы "Тестовская"', 5
+TextOut Arial, 12, 4, 5, 'Схема ж/д платформы "Тестовская (Москва-Сити)"', 5
 PenColor 2C7CAC
-AngleTextOut 5, Arial, 15, 478, 827, Международная, 1
+AngleTextOut 5, Arial, 15, 478, 827, Москва-Сити, 1
 
 PenColor 00AFAF
 AngleTextOut -30, Arial, 15, 536, 62, 2-й Красногвардейский проезд

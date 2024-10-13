@@ -1,12 +1,13 @@
-Size 550x520
+Size 546x742
+;Image _OtherFiles\tashkent-metro-dark2.gif, -31, -73
 PenColor 040464
-TextOut Arial, 36, 201, 461, TOSHKENT, 1
-TextOut Arial, 10, 201, 495, (Attention! All time intervals in this version equal 2 minutes)
+TextOut Arial, 46, 220, 450, Toshkent, 1
+TextOut Arial, 46, 190, 490, Metropoliteni, 1
 PenColor F52D35
-TextOut Arial, 20, 74, 12, Chilonzor yo'li
+TextOut Arial, 15, 69, 41, Chilonzor yo'li
 PenColor 2D3C9B
-TextOut Arial, 20, 74, 36, O'zbekiston yo'li
+TextOut Arial, 15, 69, 59, O'zbekiston yo'li
 PenColor 4B7D43
-TextOut Arial, 20, 74, 60, Yunusobod yo'li
+TextOut Arial, 15, 69, 76, Yunusobod yo'li
 PenColor 917B9A
-TextOut Arial, 20, 74, 84, Yer Usti Halqa Liniyasi
+TextOut Arial, 15, 69, 94, Yer Usti Halqa Liniyasi

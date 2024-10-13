@@ -40,16 +40,18 @@ PenColor DE7272
 AngleTextOut 0, Arial, 16, 1252, 323, лжй, 1
 PenColor DE64A1
 AngleTextOut 0, Arial, 16, 1252, 343, 15 мЕЙПЮЯНБЯЙЮЪ, 1
+PenColor 03795F
+AngleTextOut 0, Arial, 16, 1252, 363, 16 рПНХЖЙЮЪ, 1
 PenColor F6A800
-AngleTextOut 0, Arial, 16, 1252, 363, лжд1, 1
+AngleTextOut 0, Arial, 16, 1252, 383, лжд1, 1
 PenColor E83F83
-AngleTextOut 0, Arial, 16, 1252, 383, лжд2, 1
+AngleTextOut 0, Arial, 16, 1252, 403, лжд2, 1
 PenColor EA5B04
-AngleTextOut 0, Arial, 16, 1252, 403, лжд3, 1
+AngleTextOut 0, Arial, 16, 1252, 423, лжд3, 1
 PenColor 3FB585
-AngleTextOut 0, Arial, 16, 1252, 423, лжд4, 1
+AngleTextOut 0, Arial, 16, 1252, 443, лжд4, 1
 PenColor 21A097
-AngleTextOut 0, Arial, 16, 1252, 443, айк, 1
+AngleTextOut 0, Arial, 16, 1252, 463, айк, 1
 
 PenColor 040464
 BrushColor -1

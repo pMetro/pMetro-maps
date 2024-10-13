@@ -7,40 +7,12 @@ MenuImage=Posol.bmp
 StringToAdd='  '
 
 [Chilonzor]
-;Olmazor=
-;Chilonzor=
 Mirzo Ulug'bek=Бывшее американское посольство
-;Novza=
-;Milliy Bog'=
-;Bunyodkor=
-;Paxtakor=
-;Mustaqillik Maydoni=
-;Amir Temur Xiyoboni=
-;Hamid Olimjon=
-;Pushkin=
-;Buyuk Ipak Yo'li=
 
 [O'zbekiston]
-;Beruniy=
-;Tinchlik=
-;Chorsu=
-;G'afur G'ulom=
-;Alisher Navoiy=
-;O'zbekiston=
 Kosmonavtlar=Британское консульство
 Oybek=Посольство Кореи
-;Toshkent=
-;Mashinasozlar=
-;Do'stlik=
 
 [Yunusobod]
-Ming O'rik=Посольство Кореи
-;Ming O'rik=
-;Yunus Rajabiy=
-;Abdulla Qodiriy=
-;Minor=
-;Bodomzor=
-;Shahriston=
-;Yunus-Obod=
-;Turkiston=
+Ming o'rik=Посольство Кореи
 

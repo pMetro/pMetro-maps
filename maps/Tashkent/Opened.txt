@@ -9,8 +9,8 @@ Olmazor=06.11.1977
 Chilonzor=06.11.1977
 Mirzo Ulug'bek=06.11.1977
 Novza=06.11.1977
-Milliy Bog'=06.11.1977
-Bunyodkor=06.11.1977
+Milliy bog'=06.11.1977
+Xalqlar do'stligi=06.11.1977
 Paxtakor=06.11.1977
 Mustaqillik Maydoni=06.11.1977
 Amir Temur Xiyoboni=06.11.1977
@@ -32,10 +32,10 @@ Mashinasozlar=06.11.1987
 Do'stlik=06.11.1987
 
 [Yunusobod]
-Ming O'rik=24.10.2001
+Ming o'rik=24.10.2001
 Yunus Rajabiy=24.10.2001
 Abdulla Qodiriy=24.10.2001
 Minor=24.10.2001
 Bodomzor=24.10.2001
-Shahriston=24.10.2001
+Shaxriston=24.10.2001
 

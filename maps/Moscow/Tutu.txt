@@ -358,7 +358,7 @@ StringToAdd='  Расписание электричек: '
 [Белорусская]
 Москва Смоленская=http://www.tutu.ru/station.php?nnst=101
 Беговая=http://www.tutu.ru/station.php?nnst=201
-Тестовская=http://www.tutu.ru/station.php?nnst=301
+Тестовская <Москва-Сити>=http://www.tutu.ru/station.php?nnst=301
 Фили=http://www.tutu.ru/station.php?nnst=401
 Кунцево=http://www.tutu.ru/station.php?nnst=501
 Рабочий Поселок=http://www.tutu.ru/station.php?nnst=601

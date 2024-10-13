@@ -7,42 +7,23 @@ MenuImage=Museums.bmp
 StringToAdd='  '
 
 [Chilonzor]
-;Olmazor=
-;Chilonzor=
-;Mirzo Ulug'bek=
-;Novza=
-;Milliy Bog'=
-Bunyodkor=Дворец Дружбы Народов (концертный зал)
-;Paxtakor=
-;Mustaqillik Maydoni=
+Xalqlar do'stligi=Дворец Дружбы Народов (концертный зал)
 Amir Temur Xiyoboni=Музей Фотографии\nОкружной Дом Офицеров
 Hamid Olimjon=Бывшая консерватория
 Pushkin=ТВОКУ - бывшее Суворовское училище
 Paxtakor=Дом печати
-;Pushkin=
-;Buyuk Ipak Yo'li=
 
 [O'zbekiston]
-;Beruniy=
 Tinchlik=Кинотеатр "Гунча"
 Chorsu=Планетарий\nДворец молодёжного творчества\nГалерея национального искусства
-;G'afur G'ulom=
 Alisher Navoiy=Дом печати
 O'zbekiston=Дом кино\nМузей кино\nКонсерватория
 Kosmonavtlar=Институт Гёте
-;Oybek=
 Toshkent=Музей железнодорожной техники\nДворец Культуры Железнодорожников
-;Mashinasozlar=
 Do'stlik=Кинотеатр на колёсах
 
 [Yunusobod]
-;Ming O'rik=
-;Yunus Rajabiy=
-;Abdulla Qodiriy=
 Minor=Кинотеатр "Казахстан"
 Bodomzor=Выставочный Центр УзЭкспоЦентр
 Yunus Rajabiy=Музей Фотографии\nОкружной Дом Офицеров
-;Shahriston=
-;Yunus-Obod=
-;Turkiston=
 

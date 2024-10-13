@@ -7,40 +7,12 @@ MenuImage=Parks.bmp
 StringToAdd='  '
 
 [Chilonzor]
-;Olmazor=
-;Chilonzor=
 Mirzo Ulug'bek=Парк Культуры и Отдыха имени Гафура Гуляма
-;Novza=
-;Milliy Bog'=
-;Paxtakor=
-;Mustaqillik Maydoni=
-;Amir Temur Xiyoboni=
 Hamid Olimjon=Парк Мирзо-Улугбек (бывший Тельмана)
-Milliy Bog'=Национальный ПКиО имени Алишера Навойи
-Bunyodkor=Национальный ПКиО имени Алишера Навойи
-;Pushkin=
-;Buyuk Ipak Yo'li=
-
-[O'zbekiston]
-;Beruniy=
-;Tinchlik=
-;Chorsu=
-;G'afur G'ulom=
-;Alisher Navoiy=
-;O'zbekiston=
-;Kosmonavtlar=
-;Oybek=
-;Toshkent=
-;Mashinasozlar=
-;Do'stlik=
+Milliy bog'=Национальный ПКиО имени Алишера Навойи
+Xalqlar do'stligi=Национальный ПКиО имени Алишера Навойи
 
 [Yunusobod]
-;Ming O'rik=
-;Yunus Rajabiy=
-;Abdulla Qodiriy=
-;Minor=
 Bodomzor=Парк Ташкентленд\nЯпонский сад\nАквапарк
-Shahriston=Парк Памяти и Почести
-;Yunus-Obod=
-;Turkiston=
+Shaxriston=Парк Памяти и Почести
 

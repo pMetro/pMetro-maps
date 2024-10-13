@@ -7,40 +7,13 @@ MenuImage=Tserkvi.bmp
 StringToAdd='  '
 
 [Chilonzor]
-;Olmazor=
-;Chilonzor=
 Mirzo Ulug'bek=Мечеть Кози-Рабад
-;Novza=
-;Milliy Bog'=
-;Bunyodkor=
-;Paxtakor=
-;Mustaqillik Maydoni=
 Amir Temur Xiyoboni=Куранты\nПамятник Амиру Темуру
-;Hamid Olimjon=
-;Pushkin=
-;Buyuk Ipak Yo'li=
 
 [O'zbekiston]
-;Beruniy=
-;Tinchlik=
-;Chorsu=
 G'afur G'ulom=Площадь Хадра
-;Alisher Navoiy=
-;O'zbekiston=
-;Kosmonavtlar=
-;Oybek=
-;Toshkent=
 Mashinasozlar=Кладбище Боткина
-;Do'stlik=
 
 [Yunusobod]
 Yunus Rajabiy=Куранты\nПамятник Амиру Темуру
-;Ming O'rik=
-;Yunus Rajabiy=
-;Abdulla Qodiriy=
-;Minor=
-;Bodomzor=
-;Shahriston=
-;Yunus-Obod=
-;Turkiston=
 

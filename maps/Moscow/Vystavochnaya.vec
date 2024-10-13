@@ -1,7 +1,7 @@
 Size 1710x1220
 Angle 30
 
-; Выставочная
+; Деловой центр
 
 ; пути
 
@@ -148,9 +148,9 @@ Line 936,265, 936,362
 
 PenColor 2C7CAC
 BrushColor -1
-AngleTextOut 0, Arial, 20, 909, 241, << Международная
+AngleTextOut 0, Arial, 20, 909, 241, << Москва-Сити
 AngleTextOut 0, Arial, 20, 1215, 405, Киевская >>
-AngleTextOut 0, Arial, 25, 1055, 313, Выставочная, 1
+AngleTextOut 0, Arial, 25, 1055, 313, Деловой центр, 1
 
 ; общее
 

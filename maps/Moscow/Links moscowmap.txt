@@ -71,7 +71,7 @@ StringToAdd='  Карта окрестностей станции: '
 Щелковская=http://moscowmap.ru/metrostation.asp?metroid=58
 
 [Филевская]
-;Выставочная=
+;Деловой центр=
 Александровский сад=http://moscowmap.ru/metrostation.asp?metroid=34
 Арбатская=http://moscowmap.ru/metrostation.asp?metroid=187
 Смоленская=http://moscowmap.ru/metrostation.asp?metroid=36

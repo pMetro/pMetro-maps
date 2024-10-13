@@ -6,41 +6,13 @@ MenuName=Разное\Моб.связь
 StringToAdd='  '
 
 [Chilonzor]
-;Olmazor=
-;Chilonzor=
-;Mirzo Ulug'bek=
-;Novza=
-Milliy Bog'=Офис провайдера "УзНЕТ"
-;Bunyodkor=
-;Paxtakor=
-;Mustaqillik Maydoni=
+Milliy bog'=Офис провайдера "УзНЕТ"
 Amir Temur Xiyoboni=Центральный офис сотовой компании "Beeline"
-;Hamid Olimjon=
-;Pushkin=
-;Buyuk Ipak Yo'li=
 
 [O'zbekiston]
-;Beruniy=
-;Tinchlik=
-;Chorsu=
-;G'afur G'ulom=
-;Alisher Navoiy=
-;O'zbekiston=
-;Kosmonavtlar=
 Oybek=Головные офисы провайдеров TPS (TechnoProSystem), BCC
-;Toshkent=
-;Mashinasozlar=
-;Do'stlik=
 
 [Yunusobod]
 Yunus Rajabiy=Центральный офис сотовой компании "Beeline"
-Ming O'rik=Головные офисы провайдеров TPS (TechnoProSystem), BCC
-;Ming O'rik=
-;Yunus Rajabiy=
-;Abdulla Qodiriy=
-;Minor=
-;Bodomzor=
-;Shahriston=
-;Yunus-Obod=
-;Turkiston=
+Ming o'rik=Головные офисы провайдеров TPS (TechnoProSystem), BCC
 

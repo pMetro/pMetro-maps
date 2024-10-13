@@ -43,7 +43,7 @@ Polygon 190,822, 640,822, 640,852, 190,852
 PenColor 2C7CAC
 BrushColor -1
 AngleTextOut 0, Arial, 20, 192, 689, << Студенческая
-AngleTextOut 0, Arial, 20, 192, 672, << Выставочная
+AngleTextOut 0, Arial, 20, 192, 672, << Деловой центр
 AngleTextOut 0, Arial, 20, 509, 852, Смоленская >>
 AngleTextOut 0, Arial, 25, 363, 763, Киевская, 1
 
