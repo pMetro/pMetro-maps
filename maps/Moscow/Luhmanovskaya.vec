@@ -1,0 +1,170 @@
+Size 1040x660
+
+; перекресток
+PenColor F5F5F5
+Spline -37,219, 492,119, 1036,139, 80
+Spline -47,138, 516,68, 1036,139, 40
+Spline 163,-75, 62,356, 143,654, 40
+
+; пути
+PenColor 000000
+BrushColor DE64A1
+Polygon 865,314, 415,314, 415,284, 865,284
+Polygon 415,424, 415,394, 865,394, 865,424
+
+BrushColor -1
+PenColor DE64A1
+AngleTextOut 0, Arial, 20, 415, 260, << Улица Дмитриевского
+AngleTextOut 0, Arial, 20, 741, 424, Некрасовка >>
+AngleTextOut 0, Arial, 25, 550, 328, Лухмановская, 1
+
+;инфосос
+PenColor 34349C
+BrushColor 34349C
+Polygon 642,358, 642,362, 643,362, 643,358
+PenColor FF0000
+BrushColor FF0000
+Polygon 642,354, 642,358, 643,358, 643,354
+
+
+; правый вестибюль
+
+; правый вестибюль
+PenColor 000000
+Line 913,383, 865,383, 865,394
+Line 913,325, 865,325, 865,314
+Line 865,337, 913,337
+Line 905,325, 939,291, 1021,291, 1021,532, 1003,532, 1003,516, 943,516
+Line 943,512, 986,512
+Line 986,486, 984,486
+Line 943,498, 1000,498
+Line 998,486, 1003,486, 1003,417, 939,417, 905,383
+Stairs 945,512, 945,498, 982,512
+Stairs 911,337, 911,383, 865,337
+BrushColor D0D0D0
+Ellipse 960,318, 990,389
+BrushColor FFFFFF
+PenColor FFFFFF
+Polygon 956,367, 965,368, 965,338, 956,339
+
+; кассы
+PenColor 000000
+BrushColor FFFFFF
+Polygon 969,338, 961,338, 961,368, 969,368
+BrushColor -1
+AngleTextOut 90, Arial, 10, 959, 365, кассы
+
+; турникеты
+BrushColor -1
+Line 962,372, 941,372
+Polygon 941,372, 936,372, 936,367, 941,367
+PenColor 009900
+Stairs 940,297, 936,297, 940,363
+PenColor FF0000
+Stairs 937,413, 941,413, 937,375
+
+;лифты
+PenColor 000000
+BrushColor D0EFFF
+Polygon 998,486, 986,486, 986,498, 998,498
+Polygon 913,325, 901,325, 901,337, 913,337
+BrushColor -1
+AngleTextOut 0, Arial, 4, 988, 489, лифт
+AngleTextOut 0, Arial, 4, 903, 328, лифт
+
+;стрелки
+PenColor FF0000
+Arrow 964,402, 975,402
+PenColor 009900
+Arrow 979,304, 968,304
+
+
+; левый вестибюль
+
+PenColor 000000
+Line 75,27, 53,75, 13,82
+Line 79,29, 62,66
+Line 90,34, 73,71, 132,98, 152,56
+Line 16,100, 72,90, 128,116, 257,244, 257,417, 375,417
+Line 15,95, 54,88
+Line 367,382, 415,382, 415,394
+Line 415,370, 367,370
+Line 375,327, 375,291, 275,291, 275,238, 157,120, 160,114
+Line 151,103, 148,110, 146,109, 167,63
+Line 163,61, 145,100
+Line 367,327, 415,327, 415,314
+Line 375,417, 375,382
+Stairs 15,82, 17,94, 53,75
+Stairs 162,63, 151,58, 146,98
+Stairs 89,36, 78,31, 73,71
+Stairs 369,370, 369,327, 415,370
+Stairs 195,166, 187,174, 188,159
+Line 188,159, 209,180
+Stairs 247,218, 239,226, 240,211
+Line 240,211, 262,233
+Stairs 159,131, 151,139, 152,124
+Line 152,124, 174,146
+BrushColor D0D0D0
+Ellipse 275,318, 305,389
+BrushColor FFFFFF
+PenColor FFFFFF
+Polygon 297,368, 306,367, 307,339, 298,338
+
+; кассы
+PenColor 000000
+BrushColor FFFFFF
+Polygon 303,338, 295,338, 295,368, 303,368
+BrushColor -1
+AngleTextOut 90, Arial, 10, 293, 365, кассы
+
+; турникеты
+BrushColor -1
+Line 298,325, 331,333
+Polygon 335,339, 330,338, 331,333, 336,334
+PenColor 009900
+Stairs 313,413, 318,414, 328,340
+PenColor FF0000
+Stairs 331,329, 336,330, 339,291
+
+;лифты
+PenColor 000000
+BrushColor D0EFFF
+Polygon 379,370, 367,370, 367,382, 379,382
+Polygon 165,103, 154,98, 149,109, 160,114
+Polygon 59,62, 48,57, 43,68, 54,73
+BrushColor -1
+AngleTextOut 0, Arial, 4, 369, 373, лифт
+AngleTextOut 0, Arial, 4, 153, 103, лифт
+AngleTextOut 0, Arial, 4, 47, 62, лифт
+
+
+;стрелки
+PenColor FF0000
+Arrow 293,305, 283,305
+PenColor 009900
+Arrow 283,400, 293,400
+
+
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 310, 127, Косинское шоссе
+AngleTextOut 0, Arial, 15, 595, 118, Северо-Восточная хорда
+AngleTextOut 70, Arial, 15, 96, 74, Лухмановская улица
+AngleTextOut -70, Arial, 15, 79, 488, Красковская улица
+PenColor 000000
+
+; Выходы
+;Angle -55
+PenColor FFD900
+BrushColor 615F56
+SpotRect 942, 463, 30, 30, ShowMessage Выход №1
+SpotRect 174, 41, 30, 30
+SpotRect 33, 6, 30, 30
+SpotRect 6, 45, 30, 30
+BrushColor -1
+TextOut Arial, 25, 950, 464, 1
+TextOut Arial, 25, 182, 42, 2
+TextOut Arial, 25, 41, 7, 3
+TextOut Arial, 25, 14, 46, 4

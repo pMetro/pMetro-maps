@@ -79,7 +79,7 @@ Type=Image
 
 [Филевская]
 Москва-Сити=Moscow-City.vec
-Деловой центр=Vystavochnaya.vec
+Деловой центр=DelovoyCentr.vec
 Александровский сад=Borovitskaya.vec
 Арбатская=ArbatskayaF.vec
 Смоленская=SmolenskayaFL.vec
@@ -168,6 +168,7 @@ Type=Image
 Третьяковская=Tretyakovskaya.vec
 
 [Солнцевская]
+Деловой центр=DelovoyCentr.vec
 Парк Победы=ParkPobedy.vec
 Минская=Minskaya.vec
 Ломоносовский проспект=LomonosovskyPr.vec
@@ -201,6 +202,12 @@ Type=Image
 Алтуфьево=Altufyevo.vec
 
 [Люблинско-Дмитровская]
+Физтех=Fiztekh.vec
+;Лианозово=
+;Яхромская=
+;Селигерская=
+;Верхние Лихоборы=
+;Окружная=
 Петровско-Разумовская=PetrovskoRazumovskaya.vec
 Фонвизинская=Fonvizinskaya.vec
 Бутырская=Butyrskaya.vec
@@ -239,15 +246,52 @@ Type=Image
 Выставочный центр=VystavochnyCentr.vec\nVDNH-VystavochnyCentr.vec
 Улица Сергея Эйзенштейна=UlitsaSergeyaEizenshteina.vec
 
+[МЦК]
+Нижегородская=Nizhegorodskaya.vec
+
+[Некрасовская]
+Некрасовка=Nekrasovka.vec
+Лухмановская=Luhmanovskaya.vec
+Улица Дмитриевского=UlitsaDmitrievskogo.vec
+Косино=Kosino.vec
+Юго-Восточная=Yugo-Vostochnaya.vec
+Окская=Okskaya.vec
+Стахановская=Stahanovskaya.vec
+Нижегородская=Nizhegorodskaya.vec
+
+[Троицкая]
+Новаторская=Novatorskaya.vec
+
+[МЦД1]
+
 [МЦД2]
+Тушинская=Tushinskaya.vec
 Печатники=Pechatniki.vec
 Текстильщики=Tekstilshchiki.vec
+
+[МЦД3]
+Косино=KosinoMCD3.vec
+Выхино=Vyhino.vec
+
+[МЦД4]
+Нижегородская=Nizhegorodskaya.vec
 
 [БКЛ]
-Деловой центр=Vystavochnaya.vec
-Каширская=Kashirskaya.vec
-Варшавская=Varshavskaya.vec
+Деловой центр=DelovoyCentr.vec
+Новаторская=Novatorskaya.vec
+Воронцовская=Kaluzhskaya.vec
+Зюзино=Zuzino.vec
 Каховская=Kahovskaya.vec
+Варшавская=Varshavskaya.vec
+Каширская=Kashirskaya.vec
+Кленовый бульвар=KlenovyBulvar.vec
+Нагатинский Затон=NagatinksiyZaton.vec
 Печатники=Pechatniki.vec
 Текстильщики=Tekstilshchiki.vec
-
+Нижегородская=Nizhegorodskaya.vec
+;Авиамоторная
+;Лефортово
+;Электрозаводская
+;Сокольники
+;Рижская
+;Марьина Роща

@@ -1,0 +1,166 @@
+Size 1200x660
+
+Angle -15
+
+; перекресток
+;PenColor F5F5F5
+;Spline -37,219, 492,119, 1036,139, 80
+
+; пути
+PenColor 000000
+BrushColor DE64A1
+Polygon 897,391, 447,391, 447,361, 897,361
+Polygon 447,501, 447,471, 897,471, 897,501
+
+BrushColor -1
+PenColor DE64A1
+AngleTextOut 0, Arial, 20, 447, 337, << Косино
+AngleTextOut 0, Arial, 20, 746, 501, Лухмановская >>
+AngleTextOut 0, Arial, 25, 582, 403, Улица Дмитриевского, 1
+
+;инфосос
+PenColor 34349C
+BrushColor 34349C
+Polygon 691,434, 691,438, 692,438, 692,434
+PenColor FF0000
+BrushColor FF0000
+Polygon 691,430, 691,434, 692,434, 692,430
+
+
+; правый вестибюль
+
+PenColor 000000
+Line 897,471, 897,460, 945,460, 945,495, 1076,495, 1076,301, 903,301
+Line 897,391, 897,404, 945,404, 945,368, 1055,368, 1055,322, 903,322
+Line 897,416, 944,416
+Stairs 905,322, 905,301, 943,322
+Stairs 899,416, 899,460, 944,416
+
+BrushColor D0D0D0
+Polygon 1055,391, 1027,391, 1027,472, 1055,472
+
+Opaque 70
+; "закрыто"
+PenColor FFD0D0
+BrushColor FFD0D0
+Polygon 899,298, 899,498, 1079,498, 1079,298
+PenColor FF4040
+
+Opaque 100
+PenColor FF4040
+BrushColor -1
+AngleTextOut 0, Arial, 15, 958, 399, Строится
+Dashed 899,298, 899,498, 1079,498, 1079,298, 899,298
+BrushColor 000000
+
+
+; левый вестибюль
+
+PenColor 000000
+Line 500,425, 500,423, 349,423
+Line 314,386, 249,386, 234,401, 234,480, 347,480, 360,460, 354,439, 500,439, 500,437
+Line 277,402, 277,399, 318,399, 328,438, 312,462, 262,462, 262,460, 277,460
+Line 447,391, 447,402
+Line 447,471, 447,460
+
+; эскалатор 4
+PenColor 7F7F7F
+Stairs 280,406, 280,456, 443,406
+PenColor 000000
+BrushColor 9B5509
+Polygon 447,402, 277,402, 277,406, 447,406
+Polygon 447,414, 277,414, 277,420, 447,420
+Polygon 447,428, 277,428, 277,434, 447,434
+Polygon 447,442, 277,442, 277,448, 447,448
+Polygon 447,456, 277,456, 277,460, 447,460
+
+Opaque 80
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 447,423, 349,423, 343,400, 318,399, 328,438, 312,462, 360,460, 354,439, 448,439
+Opaque 100
+Line 318,399, 328,438, 312,462
+Line 360,460, 354,439, 448,439
+Line 349,423, 447,423
+
+; турникеты
+Polygon 242,440, 239,444, 235,441, 238,437
+PenColor 777777
+Line 277,431, 269,431, 259,422, 259,408, 0.5
+PenColor 009900
+Stairs 258,459, 261,455, 240,446
+PenColor FF0000
+Stairs 294,396, 299,396, 294,386
+
+; стрелки
+PenColor FF0000
+Arrow 267,399, 267,392, 284,392
+PenColor 009900
+Arrow 296,471, 280,471
+
+;лифты
+PenColor 000000
+BrushColor D0EFFF
+Polygon 500,425, 488,425, 488,437, 500,437
+BrushColor -1
+AngleTextOut 0, Arial, 4, 490, 428, лифт
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 1101, 421, улица Дмитриевского
+AngleTextOut 0, Arial, 15, 539, 633, Косинское шоссе
+
+Angle 15
+
+PenColor 000000
+Line 430,168, 430,208, 161,208, 161,168
+Line 143,168, 143,208, 66,208, 66,168
+Line 48,168, 48,226, 310,226, 310,310
+Line 334,355, 334,226, 448,226, 448,168
+Line 62,168, 62,208
+Line 157,168, 157,208
+Line 444,168, 444,208
+Line 252,221, 285,221
+Line 347,221, 381,221
+Stairs 48,170, 62,170, 48,208
+Stairs 143,170, 157,170, 143,208
+Stairs 444,170, 430,170, 444,208
+Stairs 256,208, 256,221, 270,208
+Stairs 376,208, 376,221, 362,208
+
+PenColor 777777
+Line 322,226, 322,326, 310,323, 0.5
+
+;лифты
+PenColor 000000
+BrushColor D0EFFF
+Polygon 80,226, 68,226, 68,238, 80,238
+Polygon 427,196, 415,196, 415,208, 427,208
+BrushColor -1
+AngleTextOut 0, Arial, 4, 70, 229, лифт
+AngleTextOut 0, Arial, 4, 417, 199, лифт
+
+; касса
+BrushColor FFFFFF
+Polygon 346,321, 334,321, 334,350, 346,350
+BrushColor -1
+AngleTextOut -90, Arial, 10, 346, 324, кассы
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 3, 171, 30, 30, ShowMessage Выход №1
+SpotRect 170, 168, 30, 30
+SpotRect 389, 159, 30, 30
+
+BrushColor -1
+TextOut Arial, 25, 11, 172, 1
+TextOut Arial, 25, 178, 169, 2
+TextOut Arial, 25, 397, 160, 3
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 90, Arial, 15, 99, 174, Салтыковская улица
+AngleTextOut 90, Arial, 15, 467, 173, улица Наташи Каучевской

@@ -26,7 +26,7 @@ AngleTextOut 0, Arial, 15, 452, 431, Коломенская >>
 PenColor 34649C
 AngleTextOut 0, Arial, 20, 185, 311, Каширская, 1
 AngleTextOut 0, Arial, 15, 141, 241, << Варшавская
-AngleTextOut 0, Arial, 15, 538, 541, тупик >>
+AngleTextOut 0, Arial, 15, 451, 541, Кленовый бульвар >>
 
 ; переход
 
@@ -238,12 +238,8 @@ SpotRect 700, 164, 30, 30, ShowMessage Выход №1
 SpotRect 0, 608, 30, 30
 SpotRect 193, 769, 30, 30
 SpotRect 496, 1, 30, 30
-SpotRect 523, 174, 30, 30
-SpotRect 182, 610, 30, 30
 BrushColor -1
-TextOut Arial, 25, 708, 165, 1
+TextOut Arial, 25, 708, 165, 4
 TextOut Arial, 25, 8, 609, 2
-TextOut Arial, 25, 201, 770, 3
-TextOut Arial, 25, 504, 2, 4
-TextOut Arial, 25, 531, 175, 5
-TextOut Arial, 25, 190, 611, 6
+TextOut Arial, 25, 201, 770, 1
+TextOut Arial, 25, 504, 2, 3

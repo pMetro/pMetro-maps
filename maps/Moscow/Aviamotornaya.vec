@@ -101,15 +101,16 @@ Line 910,270, 910,258, 889,258, 889,252, 833,252, 833,258, 821,258, 821,202, 833
 ; Названия улиц голубым
 PenColor 00AFAF
 BrushColor -1
-AngleTextOut 0, Arial, 15, 271, 520, 'ж/д платформа "Новая" >>'
+AngleTextOut 0, Arial, 15, 271, 498, Переход на МЦД3 >>
 AngleTextOut 0, Arial, 15, 116, 393, Шоссе Энтузиастов
 AngleTextOut 270, Arial, 15, 153, 104, ул.Авиамоторная
 AngleTextOut 270, Arial, 15, 160, 549, ул.Авиамоторная
+AngleTextOut 0, Arial, 15, 795, 220, Переход  на БКЛ>>
 PenColor 000000
 
 PenColor 040464
-SpotRect 461, 521, 150, 15, LoadVec Novaya.vec
-TextOut Arial, 12, 461, 521, 'Схема перехода к пл."Новая"', 5
+; SpotRect 461, 521, 150, 15, LoadVec Novaya.vec
+;TextOut Arial, 12, 461, 521, 'Схема перехода на МЦД3, 5
 PenColor 000000
 
 ; стрелки

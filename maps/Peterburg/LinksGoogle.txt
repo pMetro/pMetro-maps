@@ -58,6 +58,8 @@ StringToAdd='  Карта Google: '
 Рыбацкое=http://maps.google.com/maps?ll=59.830878,30.500117&spn=0.01,0.01&t=h&q=59.830878,30.500117&hl=ru
 
 [4]
+Горный институт=https://maps.google.com/maps?ll=59.93250,30.26111&q=59.93250,30.26111&spn=0.01,0.01&t=h&hl=ru
+Театральная=https://maps.google.com/maps?ll=59.92667,30.29722&q=59.92667,30.29722&spn=0.01,0.01&t=h&hl=ru
 Спасская=http://maps.google.com/maps?ll=59.926744,30.319547&spn=0.01,0.01&t=h&q=59.926744,30.319547&hl=ru
 Достоевская=http://maps.google.com/maps?ll=59.928306,30.345917&spn=0.01,0.01&t=h&q=59.928306,30.345917&hl=ru
 Лиговский проспект=http://maps.google.com/maps?ll=59.920778,30.355222&spn=0.01,0.01&t=h&q=59.920778,30.355222&hl=ru

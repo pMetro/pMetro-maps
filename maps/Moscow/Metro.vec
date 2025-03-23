@@ -30,28 +30,26 @@ PenColor 4C4C4C
 AngleTextOut 0, Arial, 16, 1252, 243, 9 Серпуховско-Тимирязевская, 1
 PenColor 5C9F2E
 AngleTextOut 0, Arial, 16, 1252, 263, 10 Люблинско-Дмитровская, 1
-;PenColor 34649C
-;AngleTextOut 0, Arial, 16, 66, 1330, 11 Каховская, 1
-PenColor 2D69FC
-AngleTextOut 0, Arial, 16, 1252, 283, Л1 Бутовская, 1
-PenColor 84ACBC
-AngleTextOut 0, Arial, 16, 1252, 303, М1 Монорельс, 1
-PenColor DE7272
-AngleTextOut 0, Arial, 16, 1252, 323, МЦК, 1
-PenColor DE64A1
-AngleTextOut 0, Arial, 16, 1252, 343, 15 Некрасовская, 1
-PenColor 03795F
-AngleTextOut 0, Arial, 16, 1252, 363, 16 Троицкая, 1
-PenColor F6A800
-AngleTextOut 0, Arial, 16, 1252, 383, МЦД1, 1
-PenColor E83F83
-AngleTextOut 0, Arial, 16, 1252, 403, МЦД2, 1
-PenColor EA5B04
-AngleTextOut 0, Arial, 16, 1252, 423, МЦД3, 1
-PenColor 3FB585
-AngleTextOut 0, Arial, 16, 1252, 443, МЦД4, 1
 PenColor 21A097
-AngleTextOut 0, Arial, 16, 1252, 463, БКЛ, 1
+AngleTextOut 0, Arial, 16, 1252, 283, 11 БКЛ, 1
+PenColor 2D69FC
+AngleTextOut 0, Arial, 16, 1252, 303, 12 Бутовская, 1
+PenColor 84ACBC
+AngleTextOut 0, Arial, 16, 1252, 323, 13 Монорельс, 1
+PenColor DE7272
+AngleTextOut 0, Arial, 16, 1252, 343, 14 МЦК, 1
+PenColor DE64A1
+AngleTextOut 0, Arial, 16, 1252, 363, 15 Некрасовская, 1
+PenColor 03795F
+AngleTextOut 0, Arial, 16, 1252, 383, 16 Троицкая, 1
+PenColor F6A800
+AngleTextOut 0, Arial, 16, 1252, 403, МЦД1, 1
+PenColor E83F83
+AngleTextOut 0, Arial, 16, 1252, 423, МЦД2, 1
+PenColor EA5B04
+AngleTextOut 0, Arial, 16, 1252, 443, МЦД3, 1
+PenColor 3FB585
+AngleTextOut 0, Arial, 16, 1252, 463, МЦД4, 1
 
 PenColor 040464
 BrushColor -1

@@ -201,11 +201,11 @@ AngleTextOut 90, Arial, 15, 662, 601, Люблинская улица
 AngleTextOut 90, Arial, 15, 12, 468, Шоссейная улица
 
 PenColor 000000
-AngleTextOut 90, Arial, 25, 437, 963, Текстильщики, 1
+AngleTextOut 90, Arial, 25, 437, 1018, Текстильщики (МЦД-2), 1
 AngleTextOut 90, Arial, 20, 423, 1235, << Печатники
 AngleTextOut 90, Arial, 20, 460, 695, Новохохловская >>
 PenColor FFFFFF
-AngleTextOut 90, Arial, 25, 435, 965, Текстильщики, 1
+AngleTextOut 90, Arial, 25, 435, 1020, Текстильщики (МЦД-2), 1
 AngleTextOut 90, Arial, 20, 422, 1237, << Печатники
 AngleTextOut 90, Arial, 20, 459, 697, Новохохловская >>
 
@@ -257,13 +257,13 @@ Polygon 117,1151, 147,1151, 147,574, 117,574
 Polygon 150,1151, 180,1151, 180,574, 150,574
 
 BrushColor -1
-AngleTextOut 90, Arial, 25, 135, 950, Текстильщики, 1
+AngleTextOut 90, Arial, 25, 135, 993, Текстильщики (БКЛ), 1
 AngleTextOut 90, Arial, 20, 120, 1133, << Печатники
 AngleTextOut 90, Arial, 20, 158, 744, Нижегородская >>
 PenColor FFFFFF
 AngleTextOut 90, Arial, 20, 119, 1135, << Печатники
 AngleTextOut 90, Arial, 20, 157, 746, Нижегородская >>
-AngleTextOut 90, Arial, 25, 133, 952, Текстильщики, 1
+AngleTextOut 90, Arial, 25, 133, 995, Текстильщики (БКЛ), 1
 
 PenColor 000000
 Line 200,1151, 209,1151, 209,671, 260,671, 260,619, 256,619

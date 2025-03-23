@@ -114,6 +114,11 @@ AngleTextOut 270, Arial, 15, 1143, 103, 3-я Владимирская улица
 AngleTextOut 270, Arial, 15, 171, 577, 2-я Владимирская улица
 AngleTextOut 270, Arial, 15, 171, 104, 2-я Владимирская улица
 
+; Названия чёрным
+PenColor 000000
+AngleTextOut 0, Arial, 15, 1072, 735, '"Лента"'
+AngleTextOut 0, Arial, 15, 42, 712, '"Магнит"'
+
 ; стрелки
 PenColor FF0000
 Arrow 954,471, 968,471
@@ -121,6 +126,16 @@ Arrow 224,470, 209,470
 PenColor 009900
 Arrow 926,366, 915,377
 Arrow 244,352, 255,363
+
+; Остановки
+BrushColor -1
+PenColor 000000
+BrushColor 99CCFF
+AngleTextOut 0, Arial, 15, 1057, 489, А: 587к >>
+AngleTextOut 0, Arial, 15, 1111, 314, << А: 886к
+AngleTextOut 0, Arial, 15, 420, 502, "А: 141, 617, 619, 659, 787, н4, т77 >>"
+BrushColor DD88DD
+AngleTextOut 0, Arial, 15, 419, 521, М: 473к (МаксСити) >>
 
 ; Выходы
 Angle -10
@@ -143,3 +158,4 @@ TextOut Arial, 25, 56, 411, 5
 TextOut Arial, 25, 80, 274, 6
 TextOut Arial, 25, 169, 259, 7
 TextOut Arial, 25, 265, 334, 8
+

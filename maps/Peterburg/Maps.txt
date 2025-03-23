@@ -58,6 +58,8 @@ StringToAdd='  Карта окрестностей cтанции: '
 Рыбацкое=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6360160&mapY=6638060&act=5&mapWidth=800
 
 [4]
+Горный институт=https://yandex.ru/maps/?ll=30.26111,59.93250&pt=30.26111,59.93250&spn=0.01,0.01&l=sat,skl
+Театральная=https://yandex.ru/maps/?ll=30.29722,59.92667&pt=30.29722,59.92667&spn=0.01,0.01&l=sat,skl
 Спасская=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6350080&mapY=6649100&act=5&mapWidth=800
 Достоевская=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6351760&mapY=6649160&act=5&mapWidth=800
 Лиговский проспект=http://maps.yandex.ru/map.xml?mapID=3&size=5&scale=7&mapX=6352160&mapY=6648320&act=5&mapWidth=800

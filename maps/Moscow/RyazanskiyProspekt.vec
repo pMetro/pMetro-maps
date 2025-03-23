@@ -126,7 +126,8 @@ Polygon 633,398, 629,398, 629,399, 633,399
 ; Названия улиц голубым
 PenColor 00AFAF
 BrushColor -1
-AngleTextOut -87, Arial, 15, 390, 486, Рязанский проспект
+AngleTextOut -87, Arial, 15, 352, 479, Рязанский проспект
+AngleTextOut -87, Arial, 15, 243, 110, << Станция метро ''Окская''
 AngleTextOut 10, Arial, 15, 565, 533, 4-й Вешняковский проезд
 AngleTextOut 13, Arial, 15, 659, 876, улица Вострухина
 AngleTextOut 13, Arial, 15, 171, 1019, улица Скрябина

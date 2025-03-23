@@ -58,6 +58,8 @@ StringToAdd='  Сайт VPeterburge.ru: '
 Рыбацкое=http://metro.vpeterburge.ru/stations/3/rybatskoe/
 
 [4]
+Горный институт=http://metro.vpeterburge.ru/stations/4/bp1/
+Театральная=http://metro.vpeterburge.ru/stations/4/theater/
 Спасская=http://metro.vpeterburge.ru/stations/4/spas/
 Достоевская=http://metro.vpeterburge.ru/stations/4/dostoev/
 Лиговский проспект=http://metro.vpeterburge.ru/stations/4/ligovskiy/
