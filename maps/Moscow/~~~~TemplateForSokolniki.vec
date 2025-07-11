@@ -1,0 +1,215 @@
+Size 500x380
+
+; ====================================================
+
+;Angle 30
+
+; эскалатор 4 гор
+PenColor 7F7F7F
+Stairs 746,298, 746,273, 697,298
+PenColor 000000
+BrushColor 9B5509
+Polygon 753,273, 692,273, 692,270, 753,270
+Polygon 753,277, 753,280, 692,280, 692,277
+Polygon 753,284, 753,287, 692,287, 692,284
+Polygon 753,291, 753,294, 692,294, 692,291
+Polygon 753,298, 692,298, 692,301, 753,301
+
+
+
+горизонтальные
+
+; турникеты
+PenColor 009900
+Stairs 658,175, 658,171, 633,175
+PenColor FF0000
+Stairs 660,199, 660,203, 631,199
+
+; кассы
+PenColor 000000
+BrushColor -1
+Line 603,189, 603,181, 575,181, 575,189
+AngleTextOut 0, Arial, 10, 577, 178, кассы
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 605,277, 610,277, 610,275, 605,275
+PenColor FF0000
+BrushColor FF0000
+Polygon 600,277, 605,277, 605,275, 600,275
+
+
+
+; вертикальные
+
+; турникеты
+PenColor 009900
+Stairs 751,226, 755,226, 751,201
+PenColor FF0000
+Stairs 752,166, 756,166, 752,195
+
+; кассы
+PenColor 000000
+BrushColor -1
+Line 723,158, 715,158, 715,186, 723,186
+AngleTextOut 90, Arial, 10, 712, 184, кассы
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 609,238, 609,234, 607,234, 607,238
+PenColor FF0000
+BrushColor FF0000
+Polygon 609,242, 609,238, 607,238, 607,242
+
+
+
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 662,340, 662,325, 677,325, 677,340
+BrushColor -1
+AngleTextOut 0, Arial, 6, 663, 329, лифт
+
+;стрелки
+PenColor FF0000
+Arrow 666,291, 680,291
+PenColor 009900
+Arrow 680,279, 666,279
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 589, 363, Коломенская улица
+
+; МЦД-2
+
+
+; МЦД Береговая
+
+PenColor EEEEEE
+BrushColor EEEEEE
+Polygon 1,599, 1,639, 667,639, 667,599
+Polygon 58,686, 58,726, 723,726, 723,686
+
+; пути
+PenColor E83F83
+Line 657,652, 9,652, 20
+Line 713,673, 65,673, 20
+
+PenColor 000000
+BrushColor FCDC04
+
+PenColor 000000
+Line 1,599, 1,639, 667,639, 667,599, 1,599
+Line 58,686, 58,726, 723,726, 723,686, 58,686
+
+PenColor D0D0D0
+Railway 10, 14, 4, 57,678, -108,678
+Railway 10, 14, 4, 1,657, -108,657
+Railway 10, 14, 4, 853,678, 721,678
+Railway 10, 14, 4, 853,657, 665,657
+PenColor D81852
+Railway 10, 14, 4, 721,678, 57,678
+Railway 10, 14, 4, 665,657, 1,657
+
+PenColor 000000
+BrushColor -1
+AngleTextOut 360, Arial, 25, 223, 650, Текстильщики (МЦД-2), 1
+PenColor FFFFFF
+AngleTextOut 360, Arial, 25, 221, 648, Текстильщики (МЦД-2), 1
+PenColor E83F83
+AngleTextOut 360, Arial, 20, 40, 620, << Печатники
+AngleTextOut 360, Arial, 20, 552, 685, Новохохловская >>
+
+
+
+; МЦД островная
+
+PenColor EEEEEE
+BrushColor EEEEEE
+Polygon 666,529, -1,529, -1,475, 666,475
+
+PenColor 000000
+Line 666,529, -1,529, -1,475, 666,475, 666,529
+
+
+
+PenColor E83F83
+Line 657,541, 8,541, 20
+Line 657,463, 8,463, 20
+
+PenColor D0D0D0
+Railway 10, 14, 4, -54,458, 0,458
+Railway 10, 14, 4, -54,536, 0,536
+Railway 10, 14, 4, 665,458, 719,458
+Railway 10, 14, 4, 665,536, 719,536
+PenColor D81852
+Railway 10, 14, 4, 0,458, 665,458
+Railway 10, 14, 4, 0,536, 665,536
+
+PenColor D81852
+BrushColor -1
+AngleTextOut 0, Arial, 25, 166, 482, Рижская (МЦД-2), 1
+AngleTextOut 0, Arial, 20, 5, 469, << Марьина роща
+AngleTextOut 0, Arial, 20, 427, 507, Площадь трёх вокзалов >>
+
+
+
+; МЦК
+
+; островная
+
+;Пути
+PenColor DE7272
+Line 450,929, 95,929, 20
+Line 450,1011, 95,1011, 20
+PenColor D56060
+Dashed 450,929, 95,929, 13
+Dashed 450,1011, 95,1011, 13
+PenColor 000000
+Line 85,1001, 85,939, 460,939, 460,1001, 85,1001
+
+BrushColor -1
+PenColor DE7272
+AngleTextOut 0, Arial, 25, 168, 954, Нижегородская (МЦК), 1
+AngleTextOut 0, Arial, 20, 88, 935, << Новохохловская
+AngleTextOut 0, Arial, 20, 331, 977, Андроновка >>
+
+; МЦК береговая
+
+;Пути
+PenColor DE7272
+Line 458,1138, 103,1138, 20
+Line 458,1160, 103,1160, 20
+PenColor D56060
+Dashed 458,1138, 103,1138, 13
+Dashed 458,1160, 103,1160, 13
+PenColor 000000
+Line 93,1217, 93,1170, 468,1170, 468,1217, 93,1217
+Line 93,1128, 93,1081, 468,1081, 468,1128, 93,1128
+
+BrushColor -1
+PenColor DE7272
+AngleTextOut 0, Arial, 20, 94, 1105, << Новохохловская
+AngleTextOut 0, Arial, 20, 334, 1167, Андроновка >>
+PenColor 000000
+AngleTextOut 0, Arial, 25, 173, 1131, Нижегородская (МЦК), 1
+PenColor FFFFFF
+AngleTextOut 0, Arial, 25, 172, 1130, Нижегородская (МЦК), 1
+
+
+
+
+;Angle -30
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 520, 337, 30, 30, ShowMessage Выход №1
+SpotRect 517, 277, 30, 30
+BrushColor -1
+TextOut Arial, 25, 528, 338, 1
+TextOut Arial, 25, 525, 278, 2

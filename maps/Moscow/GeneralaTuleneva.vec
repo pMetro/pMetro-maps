@@ -1,0 +1,141 @@
+Size 520x390
+
+; ====================================================
+
+Angle 25
+
+; пути
+PenColor 000000
+BrushColor 03795F
+Polygon 20,174, 20,144, 469,144, 469,174
+Polygon 20,282, 20,252, 469,252, 469,282
+
+PenColor 000000
+Line 469,174, 469,177, 503,177
+Line 503,191, 469,191, 469,194
+Line 452,194, 400,194, 400,197, 403,197
+Line 469,252, 469,231, 400,231, 400,228, 403,228
+Line 20,252, 20,174
+Line 22,231, 139,231
+Line 22,191, 139,191
+Stairs 137,231, 137,191, 99,231
+Stairs 24,231, 24,191, 62,231
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 282,213, 282,209, 280,209, 280,213
+PenColor FF0000
+BrushColor FF0000
+Polygon 282,217, 282,213, 280,213, 280,217
+
+; эскалатор 4 гор
+PenColor 7F7F7F
+Stairs 466,225, 466,200, 408,225
+PenColor 000000
+BrushColor 9B5509
+Polygon 473,200, 403,200, 403,197, 473,197
+Polygon 473,204, 473,207, 403,207, 403,204
+Polygon 473,211, 473,214, 403,214, 403,211
+Polygon 473,218, 473,221, 403,221, 403,218
+Polygon 473,225, 403,225, 403,228, 473,228
+
+Opaque 70
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 452,143, 452,170, 503,170, 503,194, 452,194, 452,231, 470,231, 470,248, 434,248, 434,225, 426,225, 426,199, 434,199, 434,143
+Opaque 100
+
+; верхний уровень
+Line 473,197, 473,194, 452,194, 452,231, 473,231, 473,228
+Line 394,114, 441,114, 441,100, 478,100
+Line 492,114, 452,114
+Line 492,132, 452,132, 452,170, 503,170, 503,248, 434,248, 434,132, 394,132
+Line 394,123, 434,123, 0.5
+Line 492,118, 453,118, 0.5
+Stairs 396,114, 396,132, 434,114
+Stairs 490,132, 490,118, 452,132
+
+; турникеты
+PenColor 000000
+Line 473,231, 486,231, 0.5
+Line 492,194, 503,194, 0.5
+BrushColor -1
+Polygon 492,194, 486,194, 486,200, 492,200
+PenColor 009900
+Stairs 487,230, 491,230, 487,201
+PenColor FF0000
+Stairs 460,190, 456,190, 460,171
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 503,191, 503,177, 518,177, 518,191
+BrushColor -1
+AngleTextOut 0, Arial, 6, 504, 181, лифт
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 487,174, 492,174, 492,172, 487,172
+PenColor FF0000
+BrushColor FF0000
+Polygon 482,174, 487,174, 487,172, 482,172
+
+; кассы
+PenColor 000000
+BrushColor -1
+Line 434,199, 426,199, 426,225, 434,225
+AngleTextOut -90, Arial, 10, 437, 200, кассы
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 458,114, 458,100, 473,100, 473,114
+BrushColor -1
+AngleTextOut 0, Arial, 6, 460, 104, лифт
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut -80, Arial, 15, 632, 0, улица Тёплый Стан
+AngleTextOut -10, Arial, 15, 294, 326, улица генерала Тюленева
+
+Opaque 70
+; "закрыто"
+PenColor FFD0D0
+BrushColor FFD0D0
+Polygon 14,184, 142,184, 142,238, 14,238
+PenColor FF4040
+
+Opaque 100
+PenColor FF4040
+BrushColor -1
+AngleTextOut 0, Arial, 15, 43, 213, закрыто
+Dashed 14,184, 142,184, 142,238, 14,238, 14,184
+BrushColor 000000
+
+PenColor 03795F
+BrushColor -1
+AngleTextOut 0, Arial, 20, 23, 120, << Тютчевская
+AngleTextOut 0, Arial, 20, 190, 281, Университет дружбы народов >>
+AngleTextOut 0, Arial, 25, 167, 183, Генерала Тюленева, 1
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+
+
+
+
+
+Angle -25
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 333, 22, 30, 30, ShowMessage Выход №1
+SpotRect 461, 21, 30, 30
+BrushColor -1
+TextOut Arial, 25, 341, 23, 1
+TextOut Arial, 25, 469, 22, 2

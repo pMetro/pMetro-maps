@@ -1,0 +1,166 @@
+Size 630x350
+
+; пути
+PenColor 000000
+BrushColor FCDC04
+Polygon 94,119, 94,89, 543,89, 543,119
+Polygon 94,227, 94,197, 543,197, 543,227
+
+PenColor 000000
+BrushColor -1
+AngleTextOut 0, Arial, 20, 98, 66, << Солнцево
+AngleTextOut 0, Arial, 20, 420, 228, Озёрная >>
+AngleTextOut 0, Arial, 25, 270, 150, Говорово, 1
+PenColor FCDC04
+AngleTextOut 0, Arial, 20, 97, 65, << Солнцево
+AngleTextOut 0, Arial, 20, 419, 227, Озёрная >>
+AngleTextOut 0, Arial, 25, 269, 149, Говорово, 1
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 323,153, 323,149, 321,149, 321,153
+PenColor FF0000
+BrushColor FF0000
+Polygon 323,157, 323,153, 321,153, 321,157
+
+
+; правый вестибюль
+PenColor D0D0D0
+Line 550,122, 560,122
+Line 550,134, 560,134
+
+PenColor 000000
+Line 543,197, 543,185
+Line 510,185, 550,185, 550,197, 593,197, 593,232, 535,232, 535,254, 495,254
+Line 495,272, 593,272
+Line 593,254, 553,254, 553,250, 612,250, 612,133, 599,133, 599,120, 550,120, 550,141, 510,141
+Line 543,141, 543,134, 550,134
+Line 543,119, 543,122, 550,122
+Line 590,168, 602,174, 602,197, 0.5
+Line 587,132, 587,120, 0.5
+Line 510,145, 550,145
+Line 495,268, 535,268, 0.5
+Line 553,268, 593,268, 0.5
+Line 553,246, 593,246, 0.5
+Stairs 512,185, 512,145, 550,185
+Stairs 555,246, 555,232, 593,246
+Stairs 497,268, 497,254, 535,268
+Stairs 591,268, 591,254, 553,268
+
+; турникеты
+BrushColor -1
+Polygon 584,132, 584,138, 590,138, 590,132
+PenColor 009900
+Stairs 585,165, 589,165, 585,140
+PenColor FF0000
+Stairs 585,170, 589,171, 578,197
+
+;стрелки
+PenColor FF0000
+Arrow 559,176, 573,176
+PenColor 009900
+Arrow 572,153, 560,153
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 560,134, 560,120, 574,120, 574,134
+BrushColor -1
+AngleTextOut 0, Arial, 6, 561, 124, лифт
+
+; кассы
+PenColor 000000
+BrushColor -1
+Line 612,139, 619,139, 619,166, 612,166
+AngleTextOut 90, Arial, 10, 609, 165, кассы
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 571,138, 576,138, 576,136, 571,136
+PenColor FF0000
+BrushColor FF0000
+Polygon 566,138, 571,138, 571,136, 566,136
+
+
+; левый вестибюль
+PenColor 000000
+Line 94,119, 94,122, 89,122
+Line 89,134, 94,134, 94,137
+Line 133,137, 88,137, 88,119, 24,119
+Line 78,121, 88,121
+Line 24,119, 24,250, 83,250, 83,255, 43,255
+Line 43,273, 174,273, 174,232, 116,232
+Line 116,250, 156,250, 156,255, 101,255, 101,232, 42,232, 42,195, 89,195, 89,184, 133,184
+Line 94,184, 94,197
+Line 51,170, 33,170, 33,201, 0.5
+Line 82,245, 42,245, 0.5
+Line 153,269, 113,269, 0.5
+Line 43,259, 83,259, 0.5
+Line 116,236, 156,236, 0.5
+Line 56,136, 56,120, 0.5
+Stairs 131,137, 131,184, 93,137
+Stairs 80,245, 80,232, 42,245
+Stairs 45,273, 45,259, 83,273
+Stairs 115,255, 115,269, 153,255
+Stairs 118,236, 118,250, 156,236
+
+PenColor D0D0D0
+Line 87,122, 78,122
+Line 88,134, 78,134
+
+; турникеты
+PenColor 000000
+BrushColor -1
+Polygon 53,137, 53,143, 59,143, 59,137
+PenColor 009900
+Stairs 62,170, 66,170, 62,141
+PenColor FF0000
+Stairs 64,175, 68,174, 69,193
+
+;стрелки
+PenColor FF0000
+Arrow 57,184, 45,184
+PenColor 009900
+Arrow 37,158, 49,158
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 64,135, 64,121, 78,121, 78,135
+BrushColor -1
+AngleTextOut 0, Arial, 6, 65, 125, лифт
+
+; кассы
+PenColor 000000
+BrushColor -1
+Line 24,138, 16,138, 16,166, 24,166
+AngleTextOut 90, Arial, 10, 14, 164, кассы
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 72,139, 77,139, 77,137, 72,137
+PenColor FF0000
+BrushColor FF0000
+Polygon 67,139, 72,139, 72,137, 67,137
+
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 264, 10, Боровское шоссе
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 177, 233, 30, 30, ShowMessage Выход №1
+SpotRect 40, 279, 30, 30
+SpotRect 570, 276, 30, 30
+SpotRect 491, 276, 30, 30
+BrushColor -1
+TextOut Arial, 25, 185, 234, 1
+TextOut Arial, 25, 48, 280, 2
+TextOut Arial, 25, 578, 277, 3
+TextOut Arial, 25, 499, 277, 4

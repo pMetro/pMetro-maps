@@ -241,8 +241,8 @@ Arrow 628,104, 620,112
 
 BrushColor -1
 PenColor 000000
-AngleTextOut 35, Arial, 15, 20, 687, Савеловский вокзал, 1
-AngleTextOut 35, Arial, 15, 35, 692, и пл. Савеловская >>, 1
+AngleTextOut 35, Arial, 15, 20, 687, Савёловский вокзал, 1
+AngleTextOut 35, Arial, 15, 35, 692, и пл. Савёловская >>, 1
 AngleTextOut 35, Arial, 15, 64, 605, << Беговая, 1
 AngleTextOut -63, Arial, 15, 188, 665, поезда дальнего
 AngleTextOut -63, Arial, 15, 179, 686, следования

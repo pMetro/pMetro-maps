@@ -11,7 +11,7 @@ Polygon 514,385, 539,368, 797,737, 772,754
 BrushColor -1
 PenColor 4C4C4C
 AngleTextOut -55, Arial, 15, 535, 415, Цветной бульвар >>
-AngleTextOut -55, Arial, 15, 644, 294, << Савеловская
+AngleTextOut -55, Arial, 15, 644, 294, << Савёловская
 AngleTextOut -55, Arial, 25, 666, 446, Менделеевская, 1
 
 ;инфосос

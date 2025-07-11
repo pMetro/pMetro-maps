@@ -19,7 +19,7 @@ BrushColor -1
 PenColor 5C9F2E
 AngleTextOut 0, Arial, 25, 140, 490, Петровско-Разумовская, 1
 AngleTextOut 0, Arial, 20, 48, 692, << Фонвизинская
-AngleTextOut 0, Arial, 20, 392, 863, Тупик >>
+AngleTextOut 0, Arial, 20, 354, 863, Окружная >>
 
 BrushColor -1
 PenColor 4C4C4C
@@ -254,11 +254,11 @@ AngleTextOut -90, Arial, 12, -58, 772, кассы
 PenColor 040464
 BrushColor -1
 SpotRect 750, 193, 15, 260, LoadVec PetrRazumRZD.vec
-AngleTextOut -90, Arial, 12, 764, 197, 'Схема ж/д cтанции "Петровско-Разумовское"', 5
+AngleTextOut -90, Arial, 12, 764, 197, 'Схема cтанции МЦД-3 "Петровско-Разумовская"', 5
 
 ;названия улиц синим
 PenColor 00AFAF
-AngleTextOut -90, Arial, 15, 785, 198, '<< к ж/д ст. "Петровско-Разумовское"'
+AngleTextOut -90, Arial, 15, 785, 198, '<< к станции МЦД-3 "Петровско-Разумовская"'
 AngleTextOut -25, Arial, 15, 836, 293, Локомотивный проезд
 AngleTextOut 210, Arial, 15, 589, 231, Дмитровское шоссе
 AngleTextOut 20, Arial, 15, -74, 572, Дмитровское шоссе

@@ -9,7 +9,7 @@ Polygon 13,468, 463,468, 463,498, 13,498
 
 PenColor 046434
 BrushColor -1
-AngleTextOut 0, Arial, 20, 17, 334, << Ховрино
+AngleTextOut 0, Arial, 20, 13, 333, << Беломорская
 AngleTextOut 0, Arial, 20, 294, 498, Водный стадион >>
 AngleTextOut 0, Arial, 25, 153, 420, Речной вокзал, 1
 

@@ -1,0 +1,105 @@
+Size 620x410
+
+Angle 30
+; пути
+PenColor 000000
+BrushColor FCDC04
+Polygon 14,155, 14,125, 463,125, 463,155
+Polygon 14,263, 14,233, 463,233, 463,263
+
+PenColor 000000
+BrushColor -1
+AngleTextOut 0, Arial, 20, 17, 101, << Аэропорт Внуково
+AngleTextOut 0, Arial, 20, 333, 262, Рассказовка >>
+AngleTextOut 0, Arial, 25, 205, 169, Пыхтино, 1
+PenColor FCDC04
+AngleTextOut 0, Arial, 20, 16, 100, << Аэропорт Внуково
+AngleTextOut 0, Arial, 20, 332, 261, Рассказовка >>
+AngleTextOut 0, Arial, 25, 204, 168, Пыхтино, 1
+
+PenColor 000000
+Line 14,155, 14,233
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 244,199, 244,195, 242,195, 242,199
+PenColor FF0000
+BrushColor FF0000
+Polygon 244,203, 244,199, 242,199, 242,203
+
+PenColor 000000
+BrushColor D0D0D0
+Polygon 49,184, 72,184, 72,206, 49,206
+
+; правый вестибюль
+PenColor 000000
+Line 463,155, 463,176, 471,176
+Line 463,233, 463,212, 471,212
+Line 565,190, 588,190, 608,190, 617,199, 631,199, 0.5
+Line 593,223, 578,223, 0.5
+
+BrushColor D0D0D0
+Polygon 418,184, 441,184, 441,206, 418,206
+Polygon 385,184, 408,184, 408,206, 385,206
+
+; турникеты
+PenColor 009900
+Stairs 595,192, 599,192, 595,223
+PenColor FF0000
+Stairs 595,188, 599,188, 595,162
+
+; кассы
+PenColor 000000
+BrushColor -1
+Line 576,227, 568,227, 568,255, 576,255
+AngleTextOut -90, Arial, 10, 579, 229, кассы
+
+; эскалатор 3
+PenColor 7F7F7F
+Stairs 554,209, 554,179, 477,209
+PenColor 000000
+BrushColor 9B5509
+Polygon 561,179, 471,179, 471,176, 561,176
+Polygon 561,187, 561,190, 471,190, 471,187
+Polygon 561,198, 561,201, 471,201, 471,198
+Polygon 561,209, 471,209, 471,212, 561,212
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 418,202, 418,188, 433,188, 433,202
+BrushColor -1
+AngleTextOut 0, Arial, 6, 419, 192, лифт
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 590,230, 595,230, 595,228, 590,228
+PenColor FF0000
+BrushColor FF0000
+Polygon 585,230, 590,230, 590,228, 585,228
+
+Opaque 70
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 462,162, 492,162, 493,224, 462,224
+Opaque 100
+
+Line 418,206, 418,224, 576,224, 576,258, 632,258, 632,213
+Line 418,184, 418,162, 632,162, 632,184
+Line 561,212, 561,214, 493,214, 493,174, 561,174, 561,176
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 242, 33, Боровское шоссе
+
+Angle -30
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 588, 2, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 596, 3, 1

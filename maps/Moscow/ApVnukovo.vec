@@ -1,0 +1,290 @@
+Size 910x970
+
+Angle -45
+; пути
+PenColor 000000
+BrushColor FCDC04
+Polygon -7,309, -7,279, 442,279, 442,309
+Polygon -7,417, -7,387, 442,387, 442,417
+
+PenColor 000000
+BrushColor -1
+AngleTextOut 0, Arial, 20, -5, 256, << Пыхтино
+AngleTextOut 0, Arial, 20, 315, 417, посадки нет >>
+AngleTextOut 0, Arial, 25, 119, 330, Аэропорт Внуково, 1
+PenColor FCDC04
+AngleTextOut 0, Arial, 20, -6, 255, << Пыхтино
+AngleTextOut 0, Arial, 20, 314, 416, посадки нет >>
+AngleTextOut 0, Arial, 25, 118, 329, Аэропорт Внуково, 1
+
+PenColor 000000
+Line -7,309, -7,387
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 232,361, 232,357, 230,357, 230,361
+PenColor FF0000
+BrushColor FF0000
+Polygon 232,365, 232,361, 230,361, 230,365
+
+
+; правый вестибюль
+PenColor 000000
+Line 442,309, 442,330, 450,330
+Line 442,387, 442,366, 450,366
+Line 516,354, 537,362, 551,362, 560,356, 584,356, 593,361, 618,361, 624,356, 655,356, 0.5
+Line 528,323, 546,323, 546,326, 0.5
+Line 735,155, 735,720
+Line 694,473, 694,468, 717,468, 717,591, 632,591, 632,610
+Line 558,661, 632,661, 632,664, 717,664, 717,720
+Line 694,508, 696,508, 696,522, 688,522
+Line 664,508, 662,508, 662,522, 670,522
+Line 731,285, 731,225, 0.5
+Stairs 717,157, 735,157, 717,195
+Stairs 717,230, 731,230, 717,248
+Stairs 717,262, 731,262, 717,280
+
+BrushColor D0D0D0
+Polygon 419,336, 400,336, 400,360, 419,360
+Polygon 390,336, 372,336, 372,360, 390,360
+Polygon 68,376, 68,320, 4,320, 4,376
+
+; турникеты
+PenColor 009900
+Stairs 544,360, 548,360, 544,325
+PenColor FF0000
+Stairs 567,358, 571,358, 567,383
+
+; кассы
+PenColor 000000
+BrushColor -1
+Line 561,313, 561,304, 534,304, 534,313
+AngleTextOut 0, Arial, 10, 535, 302, кассы
+
+; эскалатор 3
+PenColor 7F7F7F
+Stairs 503,363, 503,333, 456,363
+PenColor 000000
+BrushColor 9B5509
+Polygon 510,333, 450,333, 450,330, 510,330
+Polygon 510,341, 510,344, 450,344, 450,341
+Polygon 510,352, 510,355, 450,355, 450,352
+Polygon 510,363, 450,363, 450,366, 510,366
+
+; эскалатор  2 верт
+PenColor 7F7F7F
+Stairs 691,478, 667,478, 691,512
+PenColor 000000
+BrushColor 9B5509
+Polygon 694,517, 694,473, 691,473, 691,517
+Polygon 685,517, 685,473, 682,473, 682,517
+Polygon 676,517, 676,473, 673,473, 673,517
+Polygon 667,517, 667,473, 664,473, 664,517
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 735,220, 735,205, 750,205, 750,220
+BrushColor -1
+AngleTextOut 0, Arial, 6, 736, 209, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 672,450, 672,435, 687,435, 687,450
+BrushColor -1
+AngleTextOut 0, Arial, 6, 673, 439, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 405,355, 405,341, 419,341, 419,355
+BrushColor -1
+AngleTextOut 0, Arial, 6, 406, 344, лифт
+
+Opaque 70
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 441,323, 466,323, 454,348, 466,374, 441,374
+Opaque 100
+
+Line 400,336, 400,323, 528,323, 528,313, 608,313, 608,338, 717,338, 717,155
+Line 400,360, 400,374, 528,374, 528,385, 717,385, 717,450, 664,450, 664,473
+Line 510,366, 510,368, 464,368, 454,348, 464,328, 510,328, 510,330
+
+
+; Аэроэкспресс
+
+PenColor 000000
+BrushColor -1
+Polygon 33,589, 543,589
+Polygon 33,667, 543,667
+
+PenColor 000000
+Line 33,589, 33,667
+
+; правый вестибюль
+PenColor 000000
+Line 543,589, 543,610, 551,610
+Line 543,667, 543,661
+
+; турникеты
+PenColor 000000
+Stairs 675,660, 679,660, 675,593
+
+; эскалатор 3
+PenColor 7F7F7F
+Stairs 634,643, 634,613, 557,643
+PenColor 000000
+BrushColor 9B5509
+Polygon 641,613, 551,613, 551,610, 641,610
+Polygon 641,621, 641,624, 551,624, 551,621
+Polygon 641,632, 641,635, 551,635, 551,632
+Polygon 641,643, 551,643, 551,646, 641,646
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 572,328, 572,332, 570,332, 570,328
+PenColor FF0000
+BrushColor FF0000
+Polygon 572,324, 572,328, 570,328, 570,324
+
+;стрелки
+PenColor FF0000
+Arrow 700,655, 714,655
+PenColor 009900
+Arrow 713,601, 699,601
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 543,661, 543,646, 558,646, 558,661
+BrushColor -1
+AngleTextOut 0, Arial, 6, 544, 650, лифт
+
+PenColor C0C0C0
+Railway 10, 14, 4, -89,676, 540,676
+Railway 10, 14, 4, -89,569, 540,569
+
+PenColor 000000
+BrushColor -1
+AngleTextOut 0, Arial, 25, 221, 602, Аэропорт Внуково, 1
+AngleTextOut 0, Arial, 20, 236, 624, скорый электропоезд
+AngleTextOut 0, Arial, 20, 34, 544, "<< Аминьевская, Киевский вокзал"
+AngleTextOut 0, Arial, 20, 33, 686, "<< Аминьевская, Киевский вокзал"
+
+
+
+; Аэропорт
+
+PenColor EEEEEE
+BrushColor EEEEEE
+Polygon 740,720, 512,720, 512,806, 740,806
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 720,748, 701,748, 701,800, 720,800
+Polygon 531,749, 551,749, 551,801, 531,801
+
+PenColor 000000
+Line 717,720, 512,720, 512,806
+Line 512,806, 740,806, 740,720, 735,720
+Stairs 535,762, 535,788, 584,762
+Stairs 717,761, 717,787, 667,761
+
+BrushColor D0D0D0
+Polygon 704,646, 704,609, 717,609, 717,646
+
+; турникеты
+Line 615,740, 710,740, 0.5
+Line 589,740, 512,740
+Line 735,740, 740,740, 0.5
+PenColor 000000
+Stairs 713,738, 713,743, 735,738
+Stairs 612,738, 612,743, 590,738
+
+;стрелки
+PenColor FF0000
+Arrow 727,746, 727,733
+PenColor 009900
+Arrow 602,735, 602,750
+
+; эскалатор 1 гор
+PenColor 7F7F7F
+Stairs 581,798, 581,791, 535,798
+PenColor 000000
+BrushColor 9B5509
+Polygon 586,791, 531,791, 531,788, 586,788
+Polygon 586,798, 531,798, 531,801, 586,801
+
+; эскалатор 1 гор
+PenColor 7F7F7F
+Stairs 581,759, 581,752, 535,759
+PenColor 000000
+BrushColor 9B5509
+Polygon 586,752, 531,752, 531,749, 586,749
+Polygon 586,759, 531,759, 531,762, 586,762
+
+; эскалатор 1 гор
+PenColor 7F7F7F
+Stairs 715,797, 715,790, 669,797
+PenColor 000000
+BrushColor 9B5509
+Polygon 720,790, 665,790, 665,787, 720,787
+Polygon 720,797, 665,797, 665,800, 720,800
+
+; эскалатор 1 гор
+PenColor 7F7F7F
+Stairs 715,758, 715,751, 669,758
+PenColor 000000
+BrushColor 9B5509
+Polygon 720,751, 665,751, 665,748, 720,748
+Polygon 720,758, 665,758, 665,761, 720,761
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 531,821, 531,806, 546,806, 546,821
+BrushColor -1
+AngleTextOut 0, Arial, 6, 532, 810, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 605,821, 605,806, 620,806, 620,821
+BrushColor -1
+AngleTextOut 0, Arial, 6, 606, 810, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 633,821, 633,806, 648,806, 648,821
+BrushColor -1
+AngleTextOut 0, Arial, 6, 634, 810, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 705,821, 705,806, 720,806, 720,821
+BrushColor -1
+AngleTextOut 0, Arial, 6, 706, 810, лифт
+
+PenColor 000000
+BrushColor -1
+AngleTextOut 0, Arial, 15, 594, 757, аэропорт\n-1 уровень
+AngleTextOut 0, Arial, 15, 413, 765, << Терминал А
+AngleTextOut 0, Arial, 15, 744, 765, Терминал D >>
+
+
+Angle 45
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 519, 833, 30, 30, ShowMessage Выход №1
+SpotRect 555, 674, 30, 30
+SpotRect 832, 416, 30, 30
+BrushColor -1
+TextOut Arial, 25, 527, 834, 1
+TextOut Arial, 25, 563, 675, 2
+TextOut Arial, 25, 840, 417, 3

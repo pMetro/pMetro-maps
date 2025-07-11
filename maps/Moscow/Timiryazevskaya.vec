@@ -99,16 +99,9 @@ BrushColor -1
 AngleTextOut 0, Arial, 15, 352, 728, Дмитровское шоссе
 AngleTextOut 0, Arial, 15, 9, 242, платформа
 AngleTextOut 0, Arial, 15, 2, 255, '"Тимирязевская"'
-AngleTextOut 50, Arial, 15, 275, 215, Монорельсовая дорога >>
 PenColor 000000
 
 Angle 50
-
-; Ссылка
-PenColor 040464
-SpotRect 528, 219, 210, 15, LoadVec TimiryazevskayaMonorels.vec
-AngleTextOut 0, Arial, 10, 530, 222, 'Схема станции монорельса "Тимирязеская"', 5
-PenColor 000000
 
 ; Выходы
 Angle 20

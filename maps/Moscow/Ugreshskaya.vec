@@ -1,0 +1,139 @@
+Size 720x600
+
+Angle 25
+
+; островная
+
+Line 335,168, 293,168, 293,150
+Line 262,168, 262,-67, 138,-67, 138,-31, 227,-31
+Line 156,-49, 198,-49
+Line 227,-49, 227,370, 237,370, 237,442
+Line 245,301, 245,349
+Line 292,251, 332,251
+Line 292,269, 332,269
+Line 281,291, 281,229, 754,229, 754,291, 281,291
+Line 249,374, 249,442, 0.5
+Line 250,346, 250,306, 0.5
+Line 240,344, 240,304, 0.5
+Line 294,172, 335,172, 0.5
+Line 333,164, 293,164, 0.5
+Line 198,-45, 156,-45, 0.5
+Line 198,-53, 156,-53, 0.5
+Stairs 250,344, 263,344, 250,306
+Stairs 227,342, 240,342, 227,304
+Stairs 237,376, 249,376, 237,442
+Stairs 297,186, 297,172, 335,186
+Stairs 331,150, 331,164, 293,150
+Stairs 160,-45, 160,-31, 198,-45
+Stairs 158,-67, 158,-53, 196,-67
+
+
+Stairs 330,251, 330,269, 292,251
+Opaque 70
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 334,250, 312,250, 312,270, 334,270
+Polygon 278,234, 284,234, 283,284, 279,284
+Opaque 100
+
+Line 292,251, 292,248, 312,248, 312,272, 292,272, 292,269
+Line 353,251, 339,234, 262,234, 262,186, 352,186, 352,150, 262,150
+Line 255,442, 255,370, 263,370, 263,284, 339,284, 353,268
+
+BrushColor D0D0D0
+Polygon 227,271, 245,271, 245,289, 242,289, 242,274, 227,274
+Polygon 281,249, 263,249, 263,270, 281,270
+
+
+
+;Пути
+PenColor DE7272
+Line 744,219, 389,219, 20
+Line 744,301, 389,301, 20
+PenColor D56060
+Dashed 744,219, 389,219, 13
+Dashed 744,301, 389,301, 13
+PenColor 000000
+
+BrushColor -1
+PenColor DE7272
+AngleTextOut 0, Arial, 25, 483, 240, Угрешская (МЦК), 1
+AngleTextOut 0, Arial, 20, 380, 225, << Дубровка
+AngleTextOut 0, Arial, 20, 586, 269, Новохохловская >>
+
+; эскалатор 2 гор
+PenColor 7F7F7F
+Stairs 375,265, 375,254, 345,265
+PenColor 000000
+BrushColor 9B5509
+Polygon 379,254, 342,254, 342,251, 379,251
+Polygon 379,258, 379,261, 342,261, 342,258
+Polygon 379,265, 342,265, 342,268, 379,268
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 266,267, 266,252, 281,252, 281,267
+BrushColor -1
+AngleTextOut 0, Arial, 6, 267, 256, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 227,289, 227,274, 242,274, 242,289
+BrushColor -1
+AngleTextOut 0, Arial, 6, 228, 278, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 262,165, 262,150, 277,150, 277,165
+BrushColor -1
+AngleTextOut 0, Arial, 6, 263, 154, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 212,-31, 212,-46, 227,-46, 227,-31
+BrushColor -1
+AngleTextOut 0, Arial, 6, 213, -42, лифт
+
+; турникеты
+PenColor 009900
+Stairs 271,281, 275,281, 271,271
+PenColor FF0000
+Stairs 269,238, 273,238, 269,249
+
+;стрелки
+PenColor FF0000
+Arrow 290,242, 278,242
+PenColor 009900
+Arrow 277,278, 289,278
+
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 461,260, 461,256, 459,256, 459,260
+PenColor FF0000
+BrushColor FF0000
+Polygon 461,264, 461,260, 459,260, 459,264
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 309, 62, Третье транспортное кольцо
+AngleTextOut 0, Arial, 15, 149, 505, Угрешская улица
+AngleTextOut -90, Arial, 15, 185, -335, '<< к метро "Волгоградский проспект"'
+
+Angle -25
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 330, 446, 30, 30, ShowMessage Выход №1
+SpotRect 206, 158, 30, 30
+SpotRect 41, -1, 30, 30
+BrushColor -1
+TextOut Arial, 25, 338, 447, 1
+TextOut Arial, 25, 214, 159, 2
+TextOut Arial, 25, 49, 0, 3

@@ -1,0 +1,186 @@
+Size 900x800
+
+Angle 25
+
+; МЦК
+
+Line 663,676, 663,717, 612,717, 612,728
+Line 681,676, 681,717, 772,717, 772,755
+Line 754,737, 754,735, 704,735, 704,755, 681,755, 681,796
+Line 663,796, 663,755, 612,755, 612,745
+Stairs 714,755, 714,737, 752,755
+Stairs 752,717, 752,735, 714,717
+
+; эскалатор 2 гор
+PenColor 7F7F7F
+Stairs 617,742, 617,731, 587,742
+PenColor 000000
+BrushColor 9B5509
+Polygon 621,731, 584,731, 584,728, 621,728
+Polygon 621,735, 621,738, 584,738, 584,735
+Polygon 621,742, 584,742, 584,745, 621,745
+
+; кассы
+PenColor 000000
+BrushColor -1
+Line 660,717, 660,709, 635,709, 635,717
+AngleTextOut 0, Arial, 10, 635, 706, кассы
+
+; турникеты
+PenColor 009900
+Stairs 629,735, 633,735, 629,717
+PenColor FF0000
+Stairs 629,739, 633,739, 629,754
+
+; турникеты
+PenColor 009900
+Stairs 688,739, 692,739, 688,754
+PenColor FF0000
+Stairs 688,735, 692,735, 688,717
+
+Opaque 70
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 600,767, 600,705, 712,705, 712,767
+Opaque 100
+
+Line 584,728, 584,726, 600,726, 600,747, 584,747, 584,744
+
+;Пути
+PenColor DE7272
+Line 702,695, 347,695, 20
+Line 702,777, 347,777, 20
+PenColor D56060
+Dashed 702,695, 347,695, 13
+Dashed 702,777, 347,777, 13
+PenColor 000000
+Line 772,755, 712,755, 712,767, 337,767, 337,705, 712,705, 712,737, 754,737
+
+BrushColor -1
+PenColor DE7272
+AngleTextOut 0, Arial, 25, 365, 706, Новохохловская, 1
+AngleTextOut 0, Arial, 25, 427, 728, (МЦК), 1
+AngleTextOut 0, Arial, 20, 341, 661, << Угрешская
+AngleTextOut 0, Arial, 20, 583, 797, Нижегородская >>
+
+;================================================
+
+; МЦД-2
+
+
+PenColor EEEEEE
+BrushColor EEEEEE
+Polygon 218,561, 218,-106, 272,-106, 272,561
+
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 232,561, 232,463, 259,463, 259,561
+
+PenColor 000000
+Line 218,561, 218,-106, 272,-106, 272,561, 218,561
+Line 336,614, 377,614
+Line 232,487, 259,487
+Line 259,495, 251,495, 251,535
+Line 232,495, 240,495, 240,535
+Stairs 240,497, 251,497, 240,535
+Stairs 374,639, 374,614, 337,639
+
+PenColor E83F83
+Line 206,552, 206,-97, 20
+Line 284,552, 284,-97, 20
+
+PenColor D0D0D0
+Railway 10, 14, 4, 289,-157, 289,-105
+Railway 10, 14, 4, 211,-157, 211,-105
+Railway 10, 14, 4, 289,559, 289,598
+Railway 10, 14, 4, 211,559, 211,599
+PenColor D81852
+Railway 10, 14, 4, 289,-105, 289,559
+Railway 10, 14, 4, 211,-105, 211,559
+
+PenColor D81852
+BrushColor -1
+AngleTextOut 270, Arial, 25, 264, 19, Новохохловская (МЦД-2), 1
+AngleTextOut 270, Arial, 20, 318, -103, << Калитники
+AngleTextOut 270, Arial, 20, 200, 408, Текстильщики >>
+
+; эскалатор 2 верт
+PenColor 7F7F7F
+Stairs 251,448, 240,448, 251,477
+PenColor 000000
+BrushColor 9B5509
+Polygon 240,441, 240,482, 237,482, 237,441
+Polygon 244,441, 247,441, 247,482, 244,482
+Polygon 251,441, 251,482, 254,482, 254,441
+
+Opaque 70
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 235,463, 256,463, 256,474, 235,474
+Polygon 232,486, 238,519, 253,519, 259,486
+Polygon 232,559, 232,563, 259,563, 259,559
+Opaque 100
+
+Line 259,463, 259,599, 393,599, 393,614
+Line 259,463, 232,463, 232,657, 393,657, 393,654
+Line 240,535, 238,535, 238,519, 253,519, 253,535, 251,535
+Line 237,482, 235,482, 235,474, 256,474, 256,482, 254,482
+
+; турникеты
+PenColor 000000
+Stairs 256,580, 256,576, 233,580
+
+; эскалатор 2 гор
+PenColor 7F7F7F
+Stairs 370,653, 370,642, 341,653
+PenColor 000000
+BrushColor 9B5509
+Polygon 377,642, 336,642, 336,639, 377,639
+Polygon 377,646, 377,649, 336,649, 336,646
+Polygon 377,653, 336,653, 336,656, 377,656
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 353,614, 353,599, 368,599, 368,614
+BrushColor -1
+AngleTextOut 0, Arial, 6, 354, 603, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 238,561, 238,546, 253,546, 253,561
+BrushColor -1
+AngleTextOut 0, Arial, 6, 239, 550, лифт
+
+; кассы
+PenColor 000000
+BrushColor -1
+Line 319,599, 319,591, 291,591, 291,599
+AngleTextOut 0, Arial, 10, 293, 588, кассы
+
+
+
+==============================
+
+;Здания беж
+PenColor DFDFDF
+BrushColor FEFBF1
+Polygon 537,656, 537,629, 466,629, 466,656
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 485, 829, Новохохловская улица
+AngleTextOut 0, Arial, 15, 417, 538, Юго-Восточная хорда
+Dashed 405,643, 672,643, 672,667
+
+Angle -20
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 755, 544, 30, 30, ShowMessage Выход №1
+SpotRect 801, 720, 30, 30
+BrushColor -1
+TextOut Arial, 25, 763, 545, 1
+TextOut Arial, 25, 809, 721, 2

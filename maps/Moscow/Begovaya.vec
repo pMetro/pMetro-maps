@@ -19,10 +19,12 @@ Line 344,360, 344,365, 327,365, 327,368
 Line 287,368, 287,365, 275,365, 275,324, 179,324, 179,329, 162,329, 162,281, 98,281
 Line 98,304, 145,304, 145,329, 140,329, 140,470, 146,470, 146,527, 98,527
 Line 98,549, 163,549, 163,470, 178,470, 178,475, 275,475, 275,432, 344,432, 344,440
+Line 98,285, 139,285, 0.5
+Line 98,544, 139,544, 0.5
 Stairs 287,400, 287,432, 305,400
 Stairs 312,400, 312,432, 330,400
-Stairs 101,281, 101,304, 139,281
-Stairs 101,527, 101,549, 139,527
+Stairs 101,304, 101,285, 139,304
+Stairs 101,527, 101,544, 139,527
 
 BrushColor D0D0D0
 Polygon 168,351, 179,351, 179,447, 168,447, 168,417, 161,417, 161,381, 168,381
@@ -221,22 +223,6 @@ AngleTextOut 30, Arial, 15, 96, 611, улица Розанова
 AngleTextOut 65, Arial, 15, 1208, 297, Бегова улица
 
 
-Opaque 70
-; "закрыто"
-PenColor FFD0D0
-BrushColor FFD0D0
-Polygon 860,68, 879,142, 943,126, 924,52
-Polygon 996,-29, 1006,10, 1042,1, 1032,-38
-PenColor FF4040
-
-Opaque 100
-PenColor FF4040
-BrushColor -1
-;AngleTextOut 0, Arial, 15, 374, 134, Строится
-Dashed 860,68, 879,142, 943,126, 924,52, 860,68
-Dashed 996,-29, 1006,10, 1042,1, 1032,-38, 996,-29
-BrushColor 000000
-
 ; Выходы
 Angle 10
 PenColor FFD900
@@ -244,13 +230,13 @@ BrushColor 615F56
 SpotRect 82, 381, 30, 30, ShowMessage Выход №1
 SpotRect 147, 141, 30, 30
 SpotRect 1126, 29, 30, 30
-SpotRect 1108, 684, 30, 30
-SpotRect 1070, 628, 30, 30
-SpotRect 1053, 850, 30, 30
+SpotRect 1106, 675, 30, 30
+SpotRect 1070, 617, 30, 30
+SpotRect 1140, 841, 30, 30
 BrushColor -1
 TextOut Arial, 25, 90, 382, 1
 TextOut Arial, 25, 155, 142, 2
 TextOut Arial, 25, 1134, 30, 3
-TextOut Arial, 25, 1116, 685, 4
-TextOut Arial, 25, 1078, 629, 5
-TextOut Arial, 25, 1061, 851, 6
+TextOut Arial, 25, 1114, 676, 4
+TextOut Arial, 25, 1078, 618, 5
+TextOut Arial, 25, 1148, 842, 6

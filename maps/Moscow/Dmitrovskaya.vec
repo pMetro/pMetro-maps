@@ -11,7 +11,7 @@ Polygon 792,338, 342,338, 342,308, 792,308
 BrushColor -1
 PenColor 4C4C4C
 AngleTextOut 360, Arial, 20, 351, 283, << Тимирязевская
-AngleTextOut 360, Arial, 20, 651, 448, Савеловская >>
+AngleTextOut 360, Arial, 20, 651, 448, Савёловская >>
 AngleTextOut 360, Arial, 25, 502, 355, Дмитровская, 1
 
 ;инфосос

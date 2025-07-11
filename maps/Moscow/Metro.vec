@@ -34,8 +34,6 @@ PenColor 21A097
 AngleTextOut 0, Arial, 16, 1252, 283, 11 БКЛ, 1
 PenColor 2D69FC
 AngleTextOut 0, Arial, 16, 1252, 303, 12 Бутовская, 1
-PenColor 84ACBC
-AngleTextOut 0, Arial, 16, 1252, 323, 13 Монорельс, 1
 PenColor DE7272
 AngleTextOut 0, Arial, 16, 1252, 343, 14 МЦК, 1
 PenColor DE64A1
@@ -139,12 +137,6 @@ PenColor 505050
 ;SpotRect 426, 1223, 20, 20, SelectRoute Бутовская
 ;TextOut Arial, 20, 431, 1223, Л1, 1
 ;
-;SpotRect 784, 227, 20, 20, SelectRoute Монорельс
-;TextOut Arial, 20, 789, 227, М1, 1
-;
-;SpotRect 474, 193, 20, 20, SelectRoute Монорельс
-;TextOut Arial, 20, 479, 193, М1, 1
-
 ;PenColor FF4040
 ;BrushColor -1
 ;AngleTextOut 0, Arial, 15, 957, 541, время движения

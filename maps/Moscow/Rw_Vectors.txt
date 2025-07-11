@@ -6,8 +6,8 @@ Type=Image
 
 [Междувокзальная]
 Москва Смоленская=BelZ.vec
-Савеловская=Savelovskaya.vec
-Москва Савеловская=Savelovskaya.vec
+Савёловская=Savelovskaya.vec
+Москва Савёловская=Savelovskaya.vec
 Дмитровская=DmitrovskayaZhD.vec
 
 [Рязанская]
@@ -17,8 +17,8 @@ Type=Image
 Выхино=Vyhino.vec
 Отдых=Otdyh.vec
 
-[Савеловская]
-Москва Савеловская=Savelovskaya.vec
+[Савёловская]
+Москва Савёловская=Savelovskaya.vec
 Бескудниково=Beskudnikovo.vec
 Дубна=Dubna.vec
 
@@ -43,7 +43,7 @@ Type=Image
 Беговая=Begovaya.vec
 Тестовская <Москва-Сити>=Testovskaya.vec
 Фили=FiliZ.vec
-Кунцево=Kunz.vec
+Кунцево=Kuntsevskaya.vec
 Рабочий Поселок=RabochiyPoselok.vec
 Сетунь=Setun.vec
 Раздоры=Razdory.vec

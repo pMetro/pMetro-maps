@@ -1,0 +1,24 @@
+[Options]
+StationDiameter=16
+ImageFileName=ZelenoluzhskayaLine.vec
+LinesWidth=9
+Transports=Metro.trp,Train.trp,Tram.trp,ChildTrain.trp
+CheckedTransports=Metro.trp
+
+[Московская]
+Coordinates=-75,272, 0,0, 0,0, 0,0, 0,0, 180,140
+Rects=-80,259,72,15, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 106,127,61,28
+Rects2=
+Rect=
+
+[Автозаводская]
+Coordinates=0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 0,0, 180,60
+Rects=0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 83,53,84,15
+Rects2=
+Rect=
+
+[Зеленолужская]
+Coordinates=200,60, 200,100, 200,140, 200,180, 200,220, 200,260, 200,300
+Rects=215,47,77,28, 215,88,151,28, 215,132,78,15, 214,166,79,28, 215,212,87,15, 215,246,99,28, 216,287,61,28
+Rects2=
+Rect=

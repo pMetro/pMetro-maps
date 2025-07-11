@@ -1,35 +1,42 @@
 [Options]
 AddToInfo=1
 Caption=Схема
+;MenuName=Изображения\Станции
 CityName=Москва
 Type=Image
 
 [Сокольническая]
-Саларьево=Salarevo.vec
-Румянцево=Rumyantsevo.vec
-Тропарёво=Troparevo.vec
-Юго-Западная=YugoZapadnaya.vec
-Проспект Вернадского=Vernadskogo.vec
-Университет=Universitet.vec
-Воробьевы горы=VorobevyGory.vec
-Спортивная=Sportivnaya.vec
-Фрунзенская=Frunzenskaya.vec
-Парк культуры=ParkKultury.vec
-Кропоткинская=Kropotkinskaya.vec
-Библиотека имени Ленина=Borovitskaya.vec
-Охотный ряд=Teatralnaya.vec
-Лубянка=Lubyanka.vec
-Чистые пруды=Turgenevskaya.vec
-Красные ворота=KrasnyeVorota.vec
-Комсомольская=Komsomolskaya.vec
-Красносельская=Krasnoselskaya.vec
-Сокольники=Sokolniki.vec
-Преображенская площадь=Preobrazhenskaya.vec
-Черкизовская=Cherkizovskaya.vec
 Бульвар Рокоссовского=BulvarRokossovskogo.vec
+Черкизовская=Cherkizovskaya.vec
+Преображенская площадь=Preobrazhenskaya.vec
+Сокольники=Sokolniki.vec
+Красносельская=Krasnoselskaya.vec
+Комсомольская=Komsomolskaya.vec
+Красные ворота=KrasnyeVorota.vec
+Чистые пруды=Turgenevskaya.vec
+Лубянка=Lubyanka.vec
+Охотный ряд=Teatralnaya.vec
+Библиотека имени Ленина=Borovitskaya.vec
+Кропоткинская=Kropotkinskaya.vec
+Парк культуры=ParkKultury.vec
+Фрунзенская=Frunzenskaya.vec
+Спортивная=Sportivnaya.vec
+Воробьевы горы=VorobevyGory.vec
+Университет=Universitet.vec
+Проспект Вернадского=Vernadskogo.vec
+Юго-Западная=YugoZapadnaya.vec
+Тропарёво=Troparevo.vec
+Румянцево=Rumyantsevo.vec
+Саларьево=Salaryevo.vec
+Филатов луг=FilatovLug.vec
+Прокшино=Prokshino.vec
+Ольховая=Olkhovaya.vec
+Новомосковская=Novomoskovskaya.vec
+Потапово=Potapovo.vec
 
 [Замоскворецкая]
 Ховрино=Hovrino.vec
+Беломорская=Belomorskaya.vec
 Речной вокзал=RechnoyVokzal.vec
 Водный стадион=VodnyStadion.vec
 Войковская=Voykovskaya.vec
@@ -126,7 +133,7 @@ Type=Image
 Проспект Мира=ProspektMira.vec
 Рижская=Rizhskaya.vec
 Алексеевская=Alekseevskaya.vec
-ВДНХ=VDNH.vec\nVDNH-VystavochnyCentr.vec
+ВДНХ=VDNH.vec
 Ботанический сад=BotanicheskySad.vec
 Свиблово=Sviblovo.vec
 Бабушкинская=Babushkinskaya.vec
@@ -173,6 +180,15 @@ Type=Image
 Минская=Minskaya.vec
 Ломоносовский проспект=LomonosovskyPr.vec
 Раменки=Ramenki.vec
+Мичуринский проспект=MichurinskyProspekt.vec
+Озёрная=Ozernaya.vec
+Говорово=Govorovo.vec
+Солнцево=Solncevo.vec
+Боровское шоссе=BorovskoeShosse.vec
+Новопеределкино=Novoperedelkino.vec
+Рассказовка=Rasskazovka.vec
+Пыхтино=Pyhtino.vec
+Аэропорт Внуково=ApVnukovo.vec
 
 [Серпуховско-Тимирязевская]
 Бульвар Дмитрия Донского=BoulevardDD.vec
@@ -192,7 +208,7 @@ Type=Image
 Чеховская=Pushkinskaya.vec
 Цветной бульвар=CvetnoyBulvar.vec
 Менделеевская=Novoslobodskaya.vec
-Савеловская=Savelovskaya.vec
+Савёловская=Savelovskaya.vec
 Дмитровская=Dmitrovskaya.vec
 Тимирязевская=Timiryazevskaya.vec
 Петровско-Разумовская=PetrovskoRazumovskaya.vec
@@ -203,11 +219,11 @@ Type=Image
 
 [Люблинско-Дмитровская]
 Физтех=Fiztekh.vec
-;Лианозово=
-;Яхромская=
-;Селигерская=
-;Верхние Лихоборы=
-;Окружная=
+Лианозово=Lianozovo.vec
+Яхромская=Yakhromskaya.vec
+Селигерская=Seligerskaya.vec
+Верхние Лихоборы=VerhnieLihobory.vec
+Окружная=Okruzhnaya.vec
 Петровско-Разумовская=PetrovskoRazumovskaya.vec
 Фонвизинская=Fonvizinskaya.vec
 Бутырская=Butyrskaya.vec
@@ -229,55 +245,19 @@ Type=Image
 Шипиловская=Shipilovskaya.vec
 Зябликово=Krasnogvardeyskaya.vec
 
-[Бутовская]
-Битцевский парк=Novoyasenevskaya.vec
-Лесопарковая=Lesoparkovaya.vec
-Улица Старокачаловская=BoulevardDD.vec
-Улица Скобелевская=UlSkobelevskaya.vec
-Бульвар Адмирала Ушакова=BuladmUshakova.vec
-Улица Горчакова=UlitcaGorchakova.vec
-Бунинская аллея=BuninskayaAlleya.vec
-
-[Монорельс]
-Тимирязевская=TimiryazevskayaMonorels.vec
-Улица Милашенкова=UlitsaMilashenkova.vec
-Телецентр=TeleCentr.vec
-Улица академика Королева=UlitsaAkademikaKoroleva.vec
-Выставочный центр=VystavochnyCentr.vec\nVDNH-VystavochnyCentr.vec
-Улица Сергея Эйзенштейна=UlitsaSergeyaEizenshteina.vec
-
-[МЦК]
-Нижегородская=Nizhegorodskaya.vec
-
-[Некрасовская]
-Некрасовка=Nekrasovka.vec
-Лухмановская=Luhmanovskaya.vec
-Улица Дмитриевского=UlitsaDmitrievskogo.vec
-Косино=Kosino.vec
-Юго-Восточная=Yugo-Vostochnaya.vec
-Окская=Okskaya.vec
-Стахановская=Stahanovskaya.vec
-Нижегородская=Nizhegorodskaya.vec
-
-[Троицкая]
-Новаторская=Novatorskaya.vec
-
-[МЦД1]
-
-[МЦД2]
-Тушинская=Tushinskaya.vec
-Печатники=Pechatniki.vec
-Текстильщики=Tekstilshchiki.vec
-
-[МЦД3]
-Косино=KosinoMCD3.vec
-Выхино=Vyhino.vec
-
-[МЦД4]
-Нижегородская=Nizhegorodskaya.vec
-
 [БКЛ]
-Деловой центр=DelovoyCentr.vec
+Савёловская=Savelovskaya.vec
+Петровский парк=Dinamo.vec
+ЦСКА=CSKA.vec
+Хорошёвская=Polezhaevskaya.vec
+Народное ополчение=NarodnoeOpolchenie.vec
+Мнёвники=Mnevniki.vec
+Терехово=Terekhovo.vec
+Кунцевская=Kuntsevskaya.vec
+Давыдково=Davydkovo.vec
+Аминьевская=Aminyevskaya.vec
+Мичуринский проспект=MichurinskyProspekt.vec
+Проспект Вернадского=Vernadskogo.vec
 Новаторская=Novatorskaya.vec
 Воронцовская=Kaluzhskaya.vec
 Зюзино=Zuzino.vec
@@ -289,9 +269,108 @@ Type=Image
 Печатники=Pechatniki.vec
 Текстильщики=Tekstilshchiki.vec
 Нижегородская=Nizhegorodskaya.vec
-;Авиамоторная
-;Лефортово
-;Электрозаводская
-;Сокольники
-;Рижская
-;Марьина Роща
+Авиамоторная=Aviamotornaya.vec
+Лефортово=Lefortovo.vec
+Электрозаводская=Electrozavodskaya.vec
+Сокольники=Sokolniki.vec
+Рижская=Rizhskaya.vec
+Марьина роща=MaryinaRoscha.vec
+
+[Бутовская]
+Битцевский парк=Novoyasenevskaya.vec
+Лесопарковая=Lesoparkovaya.vec
+Улица Старокачаловская=BoulevardDD.vec
+Улица Скобелевская=UlSkobelevskaya.vec
+Бульвар Адмирала Ушакова=BuladmUshakova.vec
+Улица Горчакова=UlitcaGorchakova.vec
+Бунинская аллея=BuninskayaAlleya.vec
+
+[МЦК]
+Окружная=Okruzhnaya.vec
+;Владыкино=
+;Ботанический сад=
+;Ростокино=
+;Белокаменная=
+;Бульвар Рокоссовского=
+;Локомотив=
+;Измайлово=
+;Соколиная Гора=
+;Шоссе Энтузиастов=
+;Андроновка=
+Нижегородская=Nizhegorodskaya.vec
+Новохохловская=Novohohlovskaya.vec
+Угрешская=Ugreshskaya.vec
+Дубровка=DubrovkaMCK.vec
+Автозаводская=Avtozavodskaya.vec
+ЗИЛ=Zil.vec
+Верхние Котлы=VerhniyeKotly.vec
+Крымская=Krymskaya.vec
+Площадь Гагарина=PlGagarina.vec
+;Лужники=
+;Кутузовская=
+;Москва-Сити=
+;Шелепиха=
+;Хорошёво=
+;Зорге=
+;Панфиловская=
+;Стрешнево=
+;Балтийская=
+;Коптево=
+;Лихоборы=
+
+[Некрасовская]
+Некрасовка=Nekrasovka.vec
+Лухмановская=Luhmanovskaya.vec
+Улица Дмитриевского=UlitsaDmitrievskogo.vec
+Косино=LermontovskyPr.vec
+Юго-Восточная=Yugo-Vostochnaya.vec
+Окская=Okskaya.vec
+Стахановская=Stahanovskaya.vec
+Нижегородская=Nizhegorodskaya.vec
+
+[Троицкая]
+;ЗИЛ
+;Крымская
+;Академическая
+;Вавиловская
+Новаторская=Novatorskaya.vec
+Университет дружбы народов=UniversitetDruzhbyNarodov.vec
+Генерала Тюленева=GeneralaTuleneva.vec
+Тютчевская=Tutchevskaya.vec
+Корниловская=Kornilovskaya.vec
+Коммунарка=Kommunarka.vec
+Новомосковская=Novomoskovskaya.vec
+;Сосенки
+;Летово
+;Десна
+;Кедровая
+;Ватутинки
+;Троицк
+
+[МЦД1]
+Окружная=Okruzhnaya.vec
+Лианозово=Lianozovo.vec
+Савёловская=Savelovskaya.vec
+Кунцевская=Kuntsevskaya.vec
+
+[МЦД2]
+Тушинская=Tushinskaya.vec
+Рижская=Rizhskaya.vec
+Новохохловская=Novohohlovskaya.vec
+Текстильщики=Tekstilshchiki.vec
+Печатники=Pechatniki.vec
+Царицыно=TSaritsynoZhD.vec
+
+[МЦД3]
+Рижская=Rizhskaya.vec
+Электрозаводская=Electrozavodskaya.vec
+Авиамоторная=Aviamotornaya.vec
+Косино=LermontovskyPr.vec
+Выхино=Vyhino.vec
+
+[МЦД4]
+Савёловская=Savelovskaya.vec
+Рижская=Rizhskaya.vec
+Серп и Молот=Rimskaya.vec
+Нижегородская=Nizhegorodskaya.vec
+Аминьевская=Aminyevskaya.vec

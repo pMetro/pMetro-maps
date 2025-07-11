@@ -107,13 +107,13 @@ Polygon 393,282, 536,244, 536,327, 393,365
 
 ; пути
 PenColor 000000
-BrushColor 34649C
+BrushColor 30D5C8
 Polygon 662,179, 670,208, 235,324, 227,295
 Polygon 691,285, 699,314, 264,431, 256,402
 
 Opaque 100
 
-PenColor 34649C
+PenColor 30D5C8
 BrushColor -1
 AngleTextOut 15, Arial, 20, 571, 348, Варшавская >>
 AngleTextOut 15, Arial, 20, 220, 272, << Зюзино

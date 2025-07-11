@@ -172,7 +172,7 @@ StringToAdd='  Карта окрестностей станции: '
 Чеховская=http://moscowmap.ru/metrostation.asp?metroid=95
 Цветной бульвар =http://moscowmap.ru/metrostation.asp?metroid=96
 Менделеевская=http://moscowmap.ru/metrostation.asp?metroid=97
-Савеловская=http://moscowmap.ru/metrostation.asp?metroid=98
+Савёловская=http://moscowmap.ru/metrostation.asp?metroid=98
 Дмитровская=http://moscowmap.ru/metrostation.asp?metroid=99
 Тимирязевская=http://moscowmap.ru/metrostation.asp?metroid=100
 Петровско-Разумовская=http://moscowmap.ru/metrostation.asp?metroid=101

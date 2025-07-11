@@ -1,0 +1,132 @@
+Size 600x570
+
+Angle -80
+
+; пути
+PenColor 000000
+BrushColor 30D5C8
+Polygon 65,67, 65,37, 514,37, 514,67
+Polygon 65,175, 65,145, 514,145, 514,175
+Line 65,67, 65,145
+Line 514,67, 514,84, 466,84, 466,127, 514,127, 514,145
+
+Opaque 80
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 297,172, 284,172, 284,144, 348,144, 348,172, 335,172, 335,176, 297,176
+Opaque 100
+
+BrushColor -1
+Spline 294,354, 282,340, 277,321, 282,302
+Spline 335,289, 346,300, 351,315, 351,327, 347,341
+Line 243,91, 389,91
+Line 243,121, 284,121, 284,172, 297,172, 297,207, 282,207, 282,302
+Line 389,121, 348,121, 348,172, 335,172, 335,221
+Line 294,354, 311,419, 336,444, 339,441
+Line 347,341, 363,401, 371,409, 368,412
+Line 430,474, 433,471, 471,509, 466,514, 472,520
+Line 451,541, 445,535, 428,552, 427,551, 423,555
+Line 407,539, 411,535, 390,514, 401,503
+Stairs 245,91, 245,121, 284,91
+Stairs 387,91, 387,121, 348,91
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 309,106, 309,91, 324,91, 324,106
+BrushColor -1
+AngleTextOut 0, Arial, 6, 310, 95, лифт
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 291,170, 286,170, 286,168, 291,168
+PenColor FF0000
+BrushColor FF0000
+Polygon 296,170, 291,170, 291,168, 296,168
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 420,105, 420,109, 418,109, 418,105
+PenColor FF0000
+BrushColor FF0000
+Polygon 420,101, 420,105, 418,105, 418,101
+
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 218,109, 218,105, 216,105, 216,109
+PenColor FF0000
+BrushColor FF0000
+Polygon 218,113, 218,109, 216,109, 216,113
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 282,276, 282,262, 297,262, 297,276
+BrushColor -1
+AngleTextOut 0, Arial, 6, 283, 266, лифт
+
+
+
+; эскалатор 4 верт
+PenColor 7F7F7F
+Stairs 300,290, 332,290, 300,224
+PenColor 000000
+BrushColor 9B5509
+Polygon 297,295, 297,221, 300,221, 300,295
+Polygon 305,295, 305,221, 309,221, 309,295
+Polygon 314,295, 314,221, 318,221, 318,295
+Polygon 323,295, 323,221, 327,221, 327,295
+Polygon 332,295, 332,221, 335,221, 335,295
+
+; эскалатор 4 45
+PenColor 7F7F7F
+Stairs 438,486, 413,511, 363,411
+PenColor 000000
+BrushColor 9B5509
+Polygon 444,488, 362,406, 360,408, 442,490
+Polygon 438,494, 356,412, 353,415, 435,497
+Polygon 431,501, 349,419, 346,422, 428,504
+Polygon 424,508, 342,426, 339,429, 421,511
+Polygon 417,515, 335,433, 333,435, 415,517
+
+;стрелки
+PenColor FF0000
+Arrow 420,542, 409,553
+PenColor 009900
+Arrow 466,535, 455,524
+
+; турникеты
+PenColor 000000
+BrushColor -1
+Polygon 315,323, 313,316, 320,314, 322,321
+Line 320,314, 314,296, 0.5
+Line 316,325, 335,396, 0.5
+Line 428,504, 442,518, 445,535, 0.5
+PenColor 009900
+Stairs 324,316, 325,320, 347,310
+PenColor FF0000
+Stairs 311,318, 312,322, 282,325
+
+; кассы
+PenColor 000000
+BrushColor -1
+Line 351,315, 361,317, 356,343, 348,341
+AngleTextOut 80, Arial, 10, 346, 340, кассы
+
+
+PenColor 30D5C8
+BrushColor -1
+AngleTextOut 0, Arial, 20, 68, 13, << Электрозаводская
+AngleTextOut 0, Arial, 20, 364, 175, Авиамоторная >>
+AngleTextOut 0, Arial, 25, 78, 86, Лефортово, 1
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 45, Arial, 15, 475, 443, Кинотеатр\n457, 4
+AngleTextOut 45, Arial, 15, 443, 579, Солдатская улица
+AngleTextOut 135, Arial, 15, 398, 605, Наличная улица

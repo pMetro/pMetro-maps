@@ -1,0 +1,128 @@
+Size 440x650
+
+; ====================================================
+
+Angle 55
+
+; пути
+PenColor 000000
+BrushColor 03795F
+Polygon -98,318, -98,288, 351,288, 351,318
+Polygon -98,426, -98,396, 351,396, 351,426
+
+PenColor D0D0D0
+Line 351,320, 379,320
+Line 351,330, 379,330
+
+PenColor 000000
+Line 351,318, 351,332, 293,332, 293,341
+Line 351,396, 351,384, 293,384, 293,372
+Line -98,396, -98,318
+Line -96,375, 21,375
+Line -96,335, 21,335
+Stairs 19,375, 19,335, -19,375
+Stairs -94,375, -94,335, -56,375
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 55,354, 55,350, 53,350, 53,354
+PenColor FF0000
+BrushColor FF0000
+Polygon 55,358, 55,354, 53,354, 53,358
+
+; эскалатор 4 гор
+PenColor 7F7F7F
+Stairs 360,369, 360,344, 298,369
+PenColor 000000
+BrushColor 9B5509
+Polygon 367,344, 293,344, 293,341, 367,341
+Polygon 367,348, 367,351, 293,351, 293,348
+Polygon 367,355, 367,358, 293,358, 293,355
+Polygon 367,362, 367,365, 293,365, 293,362
+Polygon 367,369, 293,369, 293,372, 367,372
+
+; вестибюль
+
+Line 358,341, 358,332, 417,332, 417,339
+Line 358,372, 358,382, 417,382, 417,373
+Line 417,352, 417,360
+
+; турникеты
+BrushColor -1
+Line 367,357, 388,353, 416,353, 0.5
+Polygon 390,374, 384,374, 384,380, 390,380
+PenColor 009900
+Stairs 385,370, 389,370, 385,353
+PenColor FF0000
+Stairs 405,350, 401,350, 405,333
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 379,332, 379,318, 394,318, 394,332
+BrushColor -1
+AngleTextOut 0, Arial, 6, 380, 322, лифт
+
+
+; подземный переход
+
+PenColor 000000
+Line 505,195, 446,195, 446,339, 450,339, 450,387, 446,387, 446,393
+Line 417,373, 424,373, 424,387, 428,387, 428,393
+Line 417,339, 424,339, 424,177, 444,177, 444,163, 474,163
+Line 505,177, 471,177
+Line 505,181, 465,181, 0.5
+Stairs 503,195, 503,181, 465,195
+
+PenColor FF0000
+Line 430,387, 444,393
+Line 444,387, 430,393
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 456,177, 456,163, 471,163, 471,177
+BrushColor -1
+AngleTextOut 0, Arial, 6, 458, 167, лифт
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 216, 219, улица академика Опарина
+
+Opaque 70
+; "закрыто"
+PenColor FFD0D0
+BrushColor FFD0D0
+Polygon -104,328, 24,328, 24,382, -104,382
+Polygon 411,389, 464,389, 464,409, 411,409
+PenColor FF4040
+
+Opaque 100
+PenColor FF4040
+BrushColor -1
+AngleTextOut 0, Arial, 15, -75, 357, закрыто
+Dashed -104,328, 24,328, 24,382, -104,382, -104,328
+AngleTextOut 0, Arial, 15, 412, 391, закрыто
+Dashed 411,389, 464,389, 464,409, 411,409, 411,389
+BrushColor 000000
+
+
+
+PenColor 03795F
+BrushColor -1
+AngleTextOut 0, Arial, 20, -95, 264, << Генерала Тюленева
+AngleTextOut 0, Arial, 20, 215, 426, Новаторская >>
+AngleTextOut 0, Arial, 25, -62, 327, Университет дружбы народов, 1
+
+
+
+Angle -55
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 283, 19, 30, 30, ShowMessage Выход №1
+BrushColor -1
+TextOut Arial, 25, 291, 20, 1

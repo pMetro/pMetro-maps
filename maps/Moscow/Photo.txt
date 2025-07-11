@@ -171,7 +171,7 @@ StringToAdd='  Фотографии станции: '
 Петровско-Разумовская=http://metro.ru/stations/serpukhovsko-timiryazevskaya/petrovsko-razumovskaya/
 Тимирязевская=http://metro.ru/stations/serpukhovsko-timiryazevskaya/timiryazevskaya/
 Дмитровская=http://metro.ru/stations/serpukhovsko-timiryazevskaya/dmitrovskaya/
-Савеловская=http://metro.ru/stations/serpukhovsko-timiryazevskaya/savelovskaya/
+Савёловская=http://metro.ru/stations/serpukhovsko-timiryazevskaya/savelovskaya/
 Менделеевская=http://metro.ru/stations/serpukhovsko-timiryazevskaya/mendeleevskaya/
 Цветной бульвар=http://metro.ru/stations/serpukhovsko-timiryazevskaya/tsvetnoy_bulvar/
 Чеховская=http://metro.ru/stations/serpukhovsko-timiryazevskaya/chekhovskaya/
@@ -222,11 +222,3 @@ StringToAdd='  Фотографии станции: '
 ;Бульвар Адмирала Ушакова=http://www.mosmetro.ru/pages/page_6.php?id_page=326
 ;Улица Горчакова=http://www.mosmetro.ru/pages/page_6.php?id_page=327
 ;Бунинская аллея=http://www.mosmetro.ru/pages/page_6.php?id_page=32
-
-[Монорельс]
-;Выставочный центр=http://www.mosmetro.ru/pages/page_6.php?id_page=333
-;Улица академика Королева=http://www.mosmetro.ru/pages/page_6.php?id_page=334
-;Телецентр=http://www.mosmetro.ru/pages/page_6.php?id_page=335
-;Улица Милашенкова=http://www.mosmetro.ru/pages/page_6.php?id_page=336
-;Тимирязевская=http://www.mosmetro.ru/pages/page_6.php?id_page=337
-

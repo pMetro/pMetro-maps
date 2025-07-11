@@ -1,0 +1,197 @@
+Size 810x580
+
+Angle 30
+; пути
+PenColor 000000
+BrushColor FCDC04
+Polygon 80,285, 80,255, 529,255, 529,285
+Polygon 80,393, 80,363, 529,363, 529,393
+
+PenColor 000000
+BrushColor -1
+AngleTextOut 0, Arial, 20, 139, 231, << Говорово
+AngleTextOut 0, Arial, 20, 310, 394, Мичуринский проспект >>
+AngleTextOut 0, Arial, 25, 262, 316, Озёрная, 1
+PenColor FCDC04
+AngleTextOut 0, Arial, 20, 138, 230, << Говорово
+AngleTextOut 0, Arial, 20, 309, 393, Мичуринский проспект >>
+AngleTextOut 0, Arial, 25, 261, 315, Озёрная, 1
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 315,324, 315,320, 316,320, 316,324
+PenColor FF0000
+BrushColor FF0000
+Polygon 315,328, 315,324, 316,324, 316,328
+
+; правый вестибюль
+
+PenColor 000000
+BrushColor D0D0D0
+Line 529,285, 529,291, 619,291, 619,270, 675,270, 675,235, 697,235, 697,242, 747,242, 747,202
+Line 618,305, 549,305
+Line 827,202, 827,257, 728,257, 728,440, 768,440
+Line 809,202, 809,242, 765,242, 765,202
+Line 768,458, 714,458, 714,257, 697,257, 697,366, 617,366, 617,343, 529,343, 529,363
+Line 768,444, 728,444, 0.5
+Line 751,202, 751,242, 0.5
+Line 813,202, 813,242, 0.5
+Line 702,245, 723,245, 0.5
+Stairs 766,458, 766,444, 728,458
+Stairs 614,305, 614,343, 553,305
+Stairs 827,204, 813,204, 827,242
+Stairs 751,204, 765,204, 751,242
+Stairs 712,257, 712,245, 702,257
+
+; кассы
+PenColor 000000
+BrushColor -1
+Line 698,303, 704,303, 704,331, 698,331
+AngleTextOut -90, Arial, 10, 708, 305, кассы
+
+
+;турникеты
+BrushColor -1
+Line 657,300, 686,300, 686,270, 0.5
+Polygon 652,305, 657,305, 657,300, 652,300
+PenColor 009900
+Stairs 656,362, 652,362, 656,308
+PenColor FF0000
+Stairs 652,275, 657,275, 652,296
+
+; кассы
+PenColor 000000
+BrushColor FFFFFF
+Polygon 48,264, 56,264, 56,292, 48,292
+BrushColor -1
+AngleTextOut 90, Arial, 10, 45, 290, кассы
+
+;стрелки
+PenColor FF0000
+Arrow 662,284, 671,284
+PenColor 009900
+Arrow 645,348, 634,348
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 602,305, 602,291, 617,291, 617,305
+BrushColor -1
+AngleTextOut 0, Arial, 6, 603, 295, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 699,456, 699,441, 714,441, 714,456
+BrushColor -1
+AngleTextOut 0, Arial, 6, 700, 445, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 810,271, 810,257, 825,257, 825,271
+BrushColor -1
+AngleTextOut 0, Arial, 6, 811, 261, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 728,242, 728,228, 743,228, 743,242
+BrushColor -1
+AngleTextOut 0, Arial, 6, 729, 232, лифт
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 664,363, 669,363, 669,361, 664,361
+PenColor FF0000
+BrushColor FF0000
+Polygon 659,363, 664,363, 664,361, 659,361
+
+; левый вестибюль
+
+PenColor 000000
+Stairs 93,210, 93,223, 131,210
+Line 80,363, 80,338, 70,338
+Line 80,285, 80,295, 7,295
+Line 6,307, 80,307, 80,310, 70,310
+Line 91,228, 131,228
+Line 91,223, 131,223, 0.5
+
+; эскалатор 
+
+PenColor 7F7F7F
+Stairs -10,313, -10,335, 65,313
+PenColor 000000
+BrushColor 9B5509
+Polygon 70,335, -16,335, -16,338, 70,338
+Polygon 70,319, -16,319, -16,322, 70,322
+Polygon 70,327, -16,327, -16,330, 70,330
+Polygon 70,310, -16,310, -16,313, 70,313
+
+Opaque 80
+PenColor FFFFFF
+BrushColor FFFFFF
+'PenColor FF0000
+Polygon 3,294, 2,339, 48,339, 48,294
+Opaque 100
+
+Line 131,210, 24,210, 24,267, -45,267, -45,362, 48,362, 48,228, 78,228, 78,242, 124,242
+Line -16,310, -16,309, 2,309, 2,339, -16,339
+Line 6,309, 36,309, 36,264, 0.5
+
+; турникеты
+BrushColor -1
+PenColor 009900
+Stairs -8,359, -4,359, -8,339
+PenColor FF0000
+Stairs -3,291, -7,291, -3,268
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 107,242, 107,228, 122,228, 122,242
+BrushColor -1
+AngleTextOut 0, Arial, 6, 108, 232, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon -9,309, -9,295, 6,295, 6,309
+BrushColor -1
+AngleTextOut 0, Arial, 6, -8, 299, лифт
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon -32,360, -37,360, -37,358, -32,358
+PenColor FF0000
+BrushColor FF0000
+Polygon -27,360, -32,360, -32,358, -27,358
+
+===================================
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 561, 415, Мичуринский проспект
+AngleTextOut -90, Arial, 15, 802, 271, Никулинская улица
+AngleTextOut 40, Arial, 15, 70, 90, Озёрная улица
+PenColor 000000
+
+Angle -30
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 91, 330, 30, 30, ShowMessage Выход №1
+SpotRect 763, 205, 30, 30
+SpotRect 625, 38, 30, 30
+SpotRect 746, 2, 30, 30
+
+BrushColor -1
+AngleTextOut 0, Arial, 25, 99, 332, 1
+AngleTextOut 0, Arial, 25, 771, 206, 2
+AngleTextOut 0, Arial, 25, 633, 39, 3
+AngleTextOut 0, Arial, 25, 754, 3, 4

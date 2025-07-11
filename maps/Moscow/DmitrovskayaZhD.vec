@@ -4,7 +4,7 @@ Angle 110
 BrushColor -1
 PenColor 4C4C4C
 AngleTextOut 180, Arial, 20, 504, 1362, << Тимирязевская
-AngleTextOut 180, Arial, 20, 276, 1173, Савеловская >>
+AngleTextOut 180, Arial, 20, 276, 1173, Савёловская >>
 AngleTextOut 180, Arial, 25, 388, 1275, Дмитровская, 1
 PenColor 00AFAF
 AngleTextOut 180, Arial, 15, 1003, 1256, Дмитровское шоссе

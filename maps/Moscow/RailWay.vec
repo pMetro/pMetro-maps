@@ -17,7 +17,7 @@ AngleTextOut 0, Arial, 10, 580, 28, Схема Ярославского направления, 5
 SpotRect 580, 28, 119, 15, LoadMap YaroslavskayaZhD.map
 AngleTextOut 0, Arial, 10, 11, 707, Схема Киевского направления, 5
 SpotRect 11, 707, 119, 15, LoadMap KievskayaZhD.map
-AngleTextOut 0, Arial, 10, 344, 5, Схема Савеловского направления, 5
+AngleTextOut 0, Arial, 10, 344, 5, Схема Савёловского направления, 5
 SpotRect 344, 5, 119, 15, LoadMap SavelovskayaZhD.map
 AngleTextOut 0, Arial, 10, 2, 300, Схема Смоленского направления, 5
 SpotRect 2, 300, 119, 15, LoadMap BelorusskayaZhD.map

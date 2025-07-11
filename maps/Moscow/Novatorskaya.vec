@@ -286,6 +286,13 @@ Polygon 436,642, 479,685, 481,683, 438,640
 ;лифт
 PenColor 000000
 BrushColor D0EFFF
+Polygon 585,952, 585,938, 600,938, 600,952
+BrushColor -1
+AngleTextOut 0, Arial, 6, 586, 942, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
 Polygon 417,709, 424,702, 431,709, 424,716
 BrushColor -1
 AngleTextOut 0, Arial, 4, 420, 707, лифт

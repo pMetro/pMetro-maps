@@ -48,11 +48,11 @@ PenColor 2C7CAC
 BrushColor -1
 PenColor 000000
 AngleTextOut 0, Arial, 20, 461, 96, << Минская
-AngleTextOut 0, Arial, 20, 795, 458, Шелепиха >>
+AngleTextOut 0, Arial, 20, 755, 458, Деловой центр >>
 AngleTextOut 0, Arial, 25, 635, 376, Парк Победы, 1
 PenColor FCDC04
 AngleTextOut 0, Arial, 20, 460, 95, << Минская
-AngleTextOut 0, Arial, 20, 794, 457, Шелепиха >>
+AngleTextOut 0, Arial, 20, 754, 457, Деловой центр >>
 AngleTextOut 0, Arial, 25, 634, 375, Парк Победы, 1
 
 ; левый вестибюль

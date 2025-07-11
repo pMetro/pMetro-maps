@@ -1,0 +1,160 @@
+Size 500x560
+Angle 50
+
+=================================================
+
+; БКЛ
+
+; пути
+PenColor 000000
+BrushColor 30D5C8
+Polygon 478,322, 478,352, 29,352, 29,322
+Polygon 478,214, 478,244, 29,244, 29,214
+
+PenColor 30D5C8
+BrushColor -1
+AngleTextOut 0, Arial, 20, 28, 190, << Хорошёвская
+AngleTextOut 0, Arial, 20, 308, 352, Петровский парк >>
+AngleTextOut 0, Arial, 25, 180, 266, ЦСКА, 1
+
+PenColor 000000
+Line 478,244, 478,252, 506,252
+Line 478,322, 478,302
+Line 29,244, 29,252, 1,252
+Line 29,322, 29,302
+
+; турникеты
+PenColor 009900
+Stairs -13,305, -9,305, -13,338
+PenColor FF0000
+Stairs 23,234, 19,234, 23,263
+
+; турникеты
+PenColor 009900
+Stairs 520,305, 516,305, 520,338
+PenColor FF0000
+Stairs 484,234, 488,234, 484,263
+
+;стрелки
+PenColor FF0000
+Arrow 103,269, 91,269
+Arrow 414,269, 428,269
+PenColor 009900
+Arrow 91,296, 103,296
+Arrow 428,300, 414,300
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 260,277, 260,282, 262,282, 262,277
+Polygon 556,285, 556,280, 558,280, 558,285
+Polygon 462,284, 462,279, 464,279, 464,284
+Polygon -49,284, -49,279, -51,279, -51,284
+Polygon 42,284, 42,279, 40,279, 40,284
+PenColor FF0000
+BrushColor FF0000
+Polygon 260,282, 260,287, 262,287, 262,282
+Polygon 556,290, 556,285, 558,285, 558,290
+Polygon 462,289, 462,284, 464,284, 464,289
+Polygon -49,289, -49,284, -51,284, -51,289
+Polygon 42,289, 42,284, 40,284, 40,289
+
+; кассы
+PenColor 000000
+BrushColor -1
+Polygon 52,310, 52,282, 62,282, 62,310
+AngleTextOut -90, Arial, 10, 63, 284, кассы
+
+; кассы
+PenColor 000000
+BrushColor -1
+Polygon 455,310, 455,282, 445,282, 445,310
+AngleTextOut -90, Arial, 10, 456, 283, кассы
+
+Opaque 80
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 12,223, 38,231, 54,241, 69,261, 69,302, 55,322, 38,334, 11,342, -26,340, -57,324, -56,239
+Polygon 494,223, 468,231, 452,241, 437,261, 437,302, 451,322, 468,334, 495,342, 532,340, 563,324, 562,239
+Opaque 100
+
+; эскалатор 4 верт
+PenColor 7F7F7F
+Stairs -21,299, -21,270, 26,299
+PenColor 000000
+BrushColor 9B5509
+Polygon -27,302, 29,302, 29,299, -27,299
+Polygon -27,294, 29,294, 29,291, -27,291
+Polygon -27,286, 29,286, 29,283, -27,283
+Polygon -27,278, 29,278, 29,275, -27,275
+Polygon -27,270, 29,270, 29,267, -27,267
+
+; эскалатор 4 верт
+PenColor 7F7F7F
+Stairs 528,299, 528,270, 481,299
+PenColor 000000
+BrushColor 9B5509
+Polygon 534,302, 478,302, 478,299, 534,299
+Polygon 534,294, 478,294, 478,291, 534,291
+Polygon 534,286, 478,286, 478,283, 534,283
+Polygon 534,278, 478,278, 478,275, 534,275
+Polygon 534,270, 478,270, 478,267, 534,267
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon -13,267, 1,267, 1,252, -13,252
+BrushColor -1
+AngleTextOut -90, Arial, 6, -4, 253, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 520,267, 506,267, 506,252, 520,252
+BrushColor -1
+AngleTextOut -90, Arial, 6, 516, 253, лифт
+
+Line 490,267, 490,224, 0.5
+Line 510,232, 510,222, 0.5
+Stairs 512,244, 508,244, 512,231
+BrushColor D0D0D0
+Polygon 503,252, 503,249, 523,249, 523,267, 520,267, 520,252
+
+Line 17,267, 17,224, 0.5
+Line -3,232, -3,222, 0.5
+Stairs -5,244, -1,244, -5,231
+BrushColor D0D0D0
+Polygon 4,252, 4,249, -16,249, -16,267, -13,267, -13,252
+
+PenColor 000000
+BrushColor -1
+Ellipse 432,222, 587,344
+PenColor FFFFFF
+Line 585,282, 585,282, 20
+PenColor 000000
+Line 585,272, 591,272
+Line 585,292, 591,292
+AngleTextOut -50, Arial, 6, 497, 303, 3 уровня\n эскалаторов
+AngleTextOut -50, Arial, 6, 505, 153, "Кассы и турникеты на -1 этаже,\nметро - на -3 этаже"
+
+PenColor 000000
+BrushColor -1
+Ellipse 75,222, -80,344
+PenColor FFFFFF
+Line -78,282, -78,282, 20
+PenColor 000000
+Line -78,272, -84,272
+Line -78,292, -84,292
+AngleTextOut -50, Arial, 6, 10, 303, 3 уровня\n эскалаторов
+AngleTextOut -50, Arial, 6, -21, 356, "Кассы и турникеты на -1 этаже,\nметро - на -3 этаже"
+
+=================================================
+; Выходы
+Angle -50
+PenColor FFD900
+BrushColor 615F56
+SpotRect 407, 1, 30, 30, ShowMessage Выход №1
+SpotRect 59, 530, 30, 30
+BrushColor -1
+TextOut Arial, 25, 413, 2, 1
+TextOut Arial, 25, 67, 531, 2

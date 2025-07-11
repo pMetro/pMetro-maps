@@ -162,9 +162,6 @@ AngleTextOut 0, Arial, 15, 1037, 486, ул. Милашенкова
 AngleTextOut 0, Arial, 15, -210, 490, ул. Милашенкова
 AngleTextOut 60, Arial, 15, 1075, 634, ул. Фонвизина
 
-AngleTextOut 0, Arial, 15, 740, 347, 'к станции монорельса "Улица Милашенкова"'
-Arrow 740,343, 823,343
-
 ; Выходы
 Angle 45
 PenColor FFD900

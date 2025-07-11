@@ -1,0 +1,115 @@
+Size 470x410
+
+; ====================================================
+
+Angle -30
+
+; пути
+PenColor 000000
+BrushColor E41C0C
+Polygon 464,254, 464,284, 15,284, 15,254
+Polygon 464,146, 464,176, 15,176, 15,146
+
+Opaque 70
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 179,162, 178,267, 265,267, 265,162
+Polygon 146,285, 111,285, 111,145, 146,145
+Opaque 100
+
+Line 464,254, 464,176
+Line 15,254, 15,176
+Line 192,400, 111,400, 111,47, 192,47
+Line 192,360, 146,360, 146,251, 178,251, 178,267, 265,267, 265,223, 305,223
+Line 305,206, 265,206, 265,162, 178,162, 178,179, 146,179, 146,87, 192,87
+Line 207,223, 247,223, 247,246, 199,246, 199,183, 247,183, 247,206, 207,206
+Line 192,70, 152,70, 0.5
+Line 192,65, 152,65, 0.5
+Line 152,382, 192,382, 0.5
+Line 152,378, 192,378, 0.5
+Stairs 209,223, 209,206, 247,223
+Stairs 303,223, 303,206, 265,223
+Stairs 265,225, 247,225, 265,246
+Stairs 265,204, 247,204, 265,183
+Stairs 190,47, 190,65, 152,47
+Stairs 190,87, 190,70, 152,87
+Stairs 190,400, 190,382, 152,400
+Stairs 190,360, 190,378, 152,360
+
+BrushColor D0D0D0
+Polygon 146,232, 157,232, 157,198, 146,198
+
+; кассы
+PenColor 000000
+BrushColor FFFFFF
+Polygon 149,229, 157,229, 157,201, 149,201
+BrushColor -1
+AngleTextOut 90, Arial, 10, 146, 228, кассы
+
+; турникеты
+Line 157,215, 168,215, 0.5
+PenColor 009900
+Stairs 177,225, 173,225, 177,250
+PenColor FF0000
+Stairs 177,210, 173,210, 177,180
+
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 183,209, 183,223, 168,223, 168,209
+BrushColor -1
+AngleTextOut 45, Arial, 6, 166, 219, лифты
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 128,386, 128,400, 113,400, 113,386
+BrushColor -1
+AngleTextOut 0, Arial, 6, 114, 389, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 128,47, 128,61, 113,61, 113,47
+BrushColor -1
+AngleTextOut 0, Arial, 6, 114, 50, лифт
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 185,216, 185,220, 187,220, 187,216
+PenColor FF0000
+BrushColor FF0000
+Polygon 185,212, 185,216, 187,216, 187,212
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 392,215, 392,219, 394,219, 394,215
+PenColor FF0000
+BrushColor FF0000
+Polygon 392,211, 392,215, 394,215, 394,211
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 473, 222, Филатовское шоссе
+
+PenColor E41C0C
+BrushColor -1
+AngleTextOut 0, Arial, 20, 18, 122, << Филатов Луг
+AngleTextOut 0, Arial, 20, 352, 284, Ольховая >>
+AngleTextOut 0, Arial, 25, 311, 180, Прокшино, 1
+
+
+Angle 30
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 60, 349, 30, 30, ShowMessage Выход №1
+SpotRect 222, 83, 30, 30
+BrushColor -1
+TextOut Arial, 25, 68, 350, 1
+TextOut Arial, 25, 230, 84, 2

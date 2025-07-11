@@ -61,6 +61,7 @@ Line 1004,178, 1004,183
 Line 1023,708, 1023,715
 
 ; кассы
+PenColor 
 BrushColor FFFFFF
 Polygon 991,397, 998,393, 983,369, 976,373
 BrushColor -1

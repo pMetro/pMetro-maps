@@ -8,16 +8,15 @@ StringToAdd='  Расписание электричек: '
 Москва Курская=http://www.tutu.ru/station.php?nnst=56008\nhttp://www.tutu.ru/station.php?nnst=40406
 Каланчевская=http://www.tutu.ru/station.php?nnst=40306
 Ржевская=http://www.tutu.ru/station.php?nnst=40206
-Станколит=http://www.tutu.ru/station.php?nnst=40006
-Савеловская=http://www.tutu.ru/station.php?nnst=39906
+Савёловская=http://www.tutu.ru/station.php?nnst=39906
 Москва Смоленская=http://www.tutu.ru/station.php?nnst=101
-Москва Савеловская=http://www.tutu.ru/station.php?nnst=28604
+Москва Савёловская=http://www.tutu.ru/station.php?nnst=28604
 Дмитровская=http://www.tutu.ru/station.php?nnst=35805
 
 [Горьковская]
 Москва Курская=http://www.tutu.ru/station.php?nnst=56008
 Серп и Молот=http://www.tutu.ru/station.php?nnst=56108
-Карачарово=http://www.tutu.ru/station.php?nnst=56308
+Нижегородская=http://www.tutu.ru/station.php?nnst=56308
 Чухлинка=http://www.tutu.ru/station.php?nnst=56408
 Кусково=http://www.tutu.ru/station.php?nnst=56508
 Новогиреево=http://www.tutu.ru/station.php?nnst=56608
@@ -548,8 +547,8 @@ StringToAdd='  Расписание электричек: '
 Веерное Депо=http://www.tutu.ru/station.php?nnst=69410
 Бологое=http://www.tutu.ru/station.php?nnst=69510
 
-[Савеловская]
-Москва Савеловская=http://www.tutu.ru/station.php?nnst=28604
+[Савёловская]
+Москва Савёловская=http://www.tutu.ru/station.php?nnst=28604
 Тимирязевская=http://www.tutu.ru/station.php?nnst=28704
 Окружная=http://www.tutu.ru/station.php?nnst=28804
 Дегунино=http://www.tutu.ru/station.php?nnst=28904
@@ -589,7 +588,7 @@ StringToAdd='  Расписание электричек: '
 Талдом=http://www.tutu.ru/station.php?nnst=32304
 Лебзино=http://www.tutu.ru/station.php?nnst=32404
 124 км=http://www.tutu.ru/station.php?nnst=32504
-Савелово=http://www.tutu.ru/station.php?nnst=32604
+Савёлово=http://www.tutu.ru/station.php?nnst=32604
 Иванцево=http://www.tutu.ru/station.php?nnst=65709
 80 км=http://www.tutu.ru/station.php?nnst=65609
 Драчево=http://www.tutu.ru/station.php?nnst=65509

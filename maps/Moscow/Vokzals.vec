@@ -29,7 +29,7 @@ PenColor 004000
 BrushColor FFFFFF
 Polygon 483,289, 483,317, 592,317, 592,289, 2
 BrushColor -1
-AngleTextOut 0, Arial, 15, 505, 290, Савеловский, 1
+AngleTextOut 0, Arial, 15, 505, 290, Савёловский, 1
 AngleTextOut 0, Arial, 15, 505, 300, вокзал, 1
 Image Vokzals_logo.vec, 486, 292
 
