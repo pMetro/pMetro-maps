@@ -58,4 +58,3 @@ King's Cross St.Pancras=
 
 [Docklands Light Railway]
 
-[]

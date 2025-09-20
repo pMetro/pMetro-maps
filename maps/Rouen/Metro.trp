@@ -2,7 +2,5 @@
 Name=Metro
 Stations=Boulingrin,Beauvoisine,Gare-Rue Verte,Palais de Justice,Theatre des Arts,Joffre-Mutualite,Saint-Sever(Avenue de Caen,Joffre-Mutualite,Europe),Avenue de Caen,Jean Jaures,Francois Truffaut,Place du 8-Mai,Saint-Julien,Charles de Gaulle,Provinces,J.F. Kennedy,Leon Blum,Paul Cezanne,Georges Braque(,Paul Cezanne),Europe(Honore de Balzac,Saint-Sever),Honore de Balzac,Voltaire,Garibaldi,Hotel de Ville-Sotteville,14-Juillet,Jean Zay,Toit Familial,Champ de Courses,Ernest Renan,Le Parc,Maryse Bastie,Technopole
 Driving=1,2,1,0.30,1,2,(1,2,2),2,1,1,2,2,2,1,1,2,1,(,1),(1,2),1,2,2,2,2,2,1,2,2,2,2
-DelayDay=20
-DelayNight=30
+Delays=20,30
 
-[]

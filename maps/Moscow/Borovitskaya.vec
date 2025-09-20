@@ -648,6 +648,6 @@ TextOut Arial, 25, 1165, 231, 2
 TextOut Arial, 25, 1301, 144, 3
 TextOut Arial, 25, 1468, 243, 4
 TextOut Arial, 25, 1516, 329, 5
-TextOut Arial, 25, 968, 915, 6
-TextOut Arial, 25, 53, 233, 7
-TextOut Arial, 25, 749, 223, 8
+TextOut Arial, 25, 968, 915, 7
+TextOut Arial, 25, 53, 233, 8
+TextOut Arial, 25, 749, 223, 6

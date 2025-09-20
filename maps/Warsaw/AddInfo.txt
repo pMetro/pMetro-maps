@@ -9,7 +9,7 @@ Slodowiec=Станция открыта 23.04.2008
 Marymont=Станция открыта 29.12.2006
 Plac Wilsona=Станция открыта 08.04.2005
 Dworzec Gdanski=Станция открыта 20.12.2003
-Ratusz Arsenal=Станция открыта 11.05.2001
+Ratusz-Arsenal=Станция открыта 11.05.2001
 Swietokrzyska=Станция открыта 11.05.2001
 Centrum=Станция открыта 26.05.1998
 Politechnika=Станция открыта 07.04.1997
@@ -24,11 +24,3 @@ Imielin=Станция открыта 07.04.1997
 Natolin=Станция открыта 07.04.1997
 Kabaty=Станция открыта 07.04.1997
 
-[II linia]
-Rondo Daszynskiego=Станция открыта 08.03.2015
-ONZ Rondo=Станция открыта 08.03.2015
-Swietokrzyska=Станция открыта 08.03.2015
-Nowy Swiat-Uniwersytet=Станция открыта 08.03.2015
-Centrum Nauki Kopernik=Станция открыта 08.03.2015
-Stadion Narodowy=Станция открыта 08.03.2015
-Dworzec Wilenski=Станция открыта 08.03.2015

@@ -2,6 +2,5 @@
 Name=Metro
 Stations=Matinkyla,Niittymaa,Tapiola,Otaniemi,Keilaniemi,Koivusaari,Lauttasaari,Ruoholahti,Kamppi,Rautatientori,Kaisaniemi,Hakaniemi,Sornainen,Kalasatama,Kulosaari,Herttoniemi,Siilitie,Itakeskus(Puotila,Siilitie,Myllypuro),Puotila,Rastila,Vuosaari(,Rastila),Myllypuro(Kontula,Itakeskus),Kontula,Mellunmaki
 Driving=0,0,0,0,0,0,0,1,1,1,2,2,2,2,2,2,2,(1,2,2),2,2,(,2),(2,2),2
-DelayDay=4
-DelayNight=5
+Delays=4,5
 

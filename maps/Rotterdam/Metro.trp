@@ -3,16 +3,14 @@ Name=Erasmuslijn
 LineMap=1.map
 Stations=De Akkers,Heemraadlaan,Spijkenisse Centrum,Zlmplaat,Hoogvliet,Tussenwater,Poortugal,Rhoon,Slinge,Zuidplein,Maashaven,Rijnhaven,Wilhelminaplein,Leuvehaven,Beurs,Stadhuis,Central Station,Blijdorp
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0
-DelayDay=5
-DelayNight=15
+Delays=5,15
 
 [Line2]
 Name=Calandlijn
 LineMap=2.map
 Stations=De Akkers,Heemraadlaan,Spijkenisse Centrum,Zlmplaat,Hoogvliet,Tussenwater,Pernis,Vijfsluitzen,Troelstralaan,Parkweg,Sciedam Centrum,Marconiplein,Delfshafen,Coolhaven,Dijkzigt,Eendrachtsplein,Beurs,Blaak,Oostplein,Gerdesiaweg,Voorshorteer-Iann,Kranlingse Zoom,Capelsebrug(Slotlaan,Kranlingse Zoom,Schenkel),Slotlaan,Capelle Centrum,De Terp(Capelle Centrum),Schenkel(Prinsenlaan,Capelsebrug),Prinsenlaan,Oosterflank,Alexander,Graskruid(Heisseplaats,Alexander,Romeynshof),Heisseplaats,Nienw Verlaat,Ambachts- land,De Tochen,Nesselande(De Tochen),Romeynshof(Binnenhof,Graskruid),Binnenhof
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,(2,2,2),2,2,(2),(2,2),2,2,2,(2,2,2),2,2,2,2,(2),(2,2)
-DelayDay=5
-DelayNight=15
+Delays=5,15
 
 [Transfers]
 1=Calandlijn,De Akkers,Erasmuslijn,De Akkers, 2

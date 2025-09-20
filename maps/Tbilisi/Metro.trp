@@ -2,15 +2,13 @@
 Name=Akhmeteli-Varketili
 Stations=Tbilisskoe More,Mukhiani,Akhmetelis Teatri,Sarajishvili,Guramishvili,Grmagele,Didube,Elektrodepo,Nadzaladevi,Vagzlis Moedani,Mardjanishvili,Rustaveli,Tavisuplebis Moedani,Avlabari,300 Aragveli,Isani,Samgori,Varketili,Vazisubani
 Driving=0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0
-DelayDay=5
-DelayNight=10
+Delays=5,10
 
 [Line2]
 Name=Saburtalo
 Stations=Vagzlis Moedani,Tsereteli,Politektnikuri,Medikal Institut,Delisi,Vazha Pshavela,University
 Driving=2,2,2,2,3,3
-DelayDay=5
-DelayNight=10
+Delays=5,10
 
 [Transfers]
 ;линия,станция, линия,станция, время

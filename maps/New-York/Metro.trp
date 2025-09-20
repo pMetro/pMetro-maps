@@ -3,216 +3,189 @@ LineMap=
 Name=1 - Broadway - 7 Av Local
 Stations=Van Cortlandt Pk - 242 St,238 St,231 St,Marble Hill - 225 St,215 St,207 St,Dyckman Street,191 St,181 St,168 St,157 St,145 St,137 St - City College,125 St,Columbia University - 116 St,110 St,103 St,96 St,86 St,79 St,72 St,Lincoln Center - 66 St,59 St - Columbus Circle,50 St,Times Sq - 42 St,34 St,28 St,23 St,18 St,14 St,Christopher St - Sheridan Sq,Houston Street,Canal Street,Franklin Street,Chambers Street,World Trade Center,Rector Street,South Ferry
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line2]
 LineMap=
 Name=2 - Seventh Av Local
 Stations=Wakefield 241 St,Nereid Avenue,233 St,225 St,219 St,Gun Hill Rd,Burke Avenue,Allerton Avenue,Pelham Parkway,Bronx Park East,East 180 St,West Farms Sq,174 St,Freeman Street,Simpson Street,Intervale Avenue,Prospect Avenue,Jackson Avenue,149 St - 3 Av,Grand Concourse - 149 St,135 St,125 St,116 St,Central Park North - 110 St,96 St,86 St,79 St,72 St,Lincoln Center - 66 St,59 St - Columbus Circle,50 St,Times Sq - 42 St,34 St,28 St,23 St,18 St,14 St,Christopher St - Sheridan Sq,Houston Street,Canal Street,Franklin Street,Chambers Street,Park Place,Fulton Nassau Sts,Wall Street,Clark Street,Borough Hall,Hoyt St,Nevins Street,Atlantic Avenue,Bergen Street,Grand Army Plaza,Eastern Parkway - Brooklyn Museum,Franklin Avenue,President Street,Sterling Street,Winthrop Street,Church Avenue,Beverly Road,Newkirk Avenue,Brooklyn College - Flatbush Avenue
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line3]
 LineMap=
 Name=3 - Seventh Av Express
 Stations=148 St,145 St,135 St,125 St,116 St,Central Park North - 110 St,96 St,86 St,79 St,72 St,Lincoln Center - 66 St,59 St - Columbus Circle,50 St,Times Sq - 42 St,34 St,28 St,23 St,18 St,14 St,Christopher St - Sheridan Sq,Houston Street,Canal Street,Franklin Street,Chambers Street,Park Place,Fulton Nassau Sts,Wall Street,Clark Street,Borough Hall,Hoyt St,DeKalb Avenue,Atlantic Avenue,Bergen Street,Grand Army Plaza,Eastern Parkway - Brooklyn Museum,Franklin Avenue,Nostrand Avenue,Kingston Avenue,Crown Hts - Utica Av,Sutter Av - Rutland Rd,Saratoga Avenue,Rockaway Avenue,Junius Street,Pennsylvania Avenue,Van Siclen Av,New Lots Av
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line4]
 LineMap=
 Name=4 - Lexington Av Express
 Stations=Woodlawn,Mosholu Parkway,Bedford Pk Blvd - Lehman College,Kingsbridge Road,Fordham Road,83 St,Burnside Avenue,176 St,Mt Eden Avenue,170 St,167 St,Yankee Stadium - 161 St,Grand Concourse - 149 St,138 St,125 St,116 St,110 St,103 St,96 St,86 St,77 St,68 St - Hunter College,59 St,51 St,Grand Central - 42 St,33 St,28 St,23 St,14 St,Astor Place,Bleecker Street,Spring Street,Canal Street,Brooklyn Bridge - City Hall,Fulton Nassau Sts,Wall Street,Bowling Green,Borough Hall,Nevins Street,Atlantic Avenue,Franklin Avenue,Nostrand Avenue,Kingston Avenue,Crown Hts - Utica Av
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line5]
 LineMap=
 Name=5 - Lexington Av Express
 Stations=Nereid Avenue,233 St,225 St,219 St,Gun Hill Rd,Burke Avenue,Allerton Avenue,Pelham Parkway,Bronx Park East(East 180 St,Pelham Parkway),Eastchester - Dyre Avenue(Baychester Avenue),Baychester Avenue,Gun Hill Rd,Pelham Parkway,Morris Park,East 180 St(West Farms Sq,Bronx Park East,,Morris Park),West Farms Sq,174 St,Freeman Street,Simpson Street,Intervale Avenue,Prospect Avenue,Jackson Avenue,149 St - 3 Av,Grand Concourse - 149 St,138 St,125 St,116 St,110 St,103 St,96 St,86 St,77 St,68 St - Hunter College,59 St,51 St,Grand Central - 42 St,33 St,28 St,23 St,14 St,Astor Place,Bleecker Street,Spring Street,Canal Street,Brooklyn Bridge - City Hall,Fulton Nassau Sts,Wall Street,Bowling Green,Borough Hall,Nevins Street,Atlantic Avenue,Franklin Avenue,President Street,Sterling Street,Winthrop Street,Church Avenue,Beverly Road,Newkirk Avenue,Brooklyn College - Flatbush Avenue
 Driving=2,2,2,2,2,2,2,2,(2,2),(2),2,2,2,2,(2,2,,2),2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line6]
 LineMap=
 Name=6 - Lexington Av Local
 Stations=Pelham Bay Park,Buhre Avenue,Middletown Road,Westchester Sq - East Tremont Av,Zerega Avenue,Castle Hill Avenue,Parkchester - E 177 St,Saint Lawrence Avenue,Morrison - Sound View Avenues,Elder Avenue,Whitlock Avenue,Hunts Point Avenue,Longwood Avenue,East 149 St,East 143 St - St Mary's St,Cypress Avenue,Brook Avenue,138 St - 3 Av,125 St,116 St,110 St,103 St,96 St,86 St,77 St,68 St - Hunter College,59 St,51 St,Grand Central - 42 St,33 St,28 St,23 St,14 St,Astor Place,Bleecker Street,Spring Street,Canal Street,Brooklyn Bridge - City Hall
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line7]
 LineMap=
 Name=7 - Flushing Local
 Stations=Flushing - Main St,Willets Point - Shea Stadium,111 St,103 St - Corona Plaza,Junction Boulevard,Elmhurst Av - 90 St,Jackson Hts - 82 St,Broadway - 74 St,69 St,Woodside - 61 St,52 St,46 St,40 St,33 St,Queensboro Plaza,Court House Sq - 45 Rd,Hunters Point Avenue,Vernon Blvd - Jackson Av,Grand Central - 42 St,5 Av,Times Sq - 42 St,34 St-Hudson Yards
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line8]
 LineMap=
 Name=A - 8 Av Express
 Stations=Inwood - 207 St,Dyckman Street,190 St,181 St,175 St,168 St,163 St,155 St,145 St,135 St,125 St,116 St,110 St,103 St,96 St,86 St,Museum of Natural History - 81 St,72 St,59 St - Columbus Circle,50 St,42 St,34 St - Penn Station,23 St,14 St,Washington Sq - West 4 St,Spring Street,Canal Street,Chambers Street,Fulton Nassau Sts,High Street,Borough Hall - Jay St,Hoyt St,Lafayette Avenue,Clinton Washington Avs,Franklin Avenue,Nostrand Avenue,Kingston Throop Avs,Utica Avenue,Ralph Avenue,Rockaway Avenue,Broadway Junction,Liberty Avenue,Van Siclen Av,Shepherd Avenue,Euclid Avenue,Grant Avenue,80 St,88 St,Rockaway Boulevard(Aqueduct - North Conduit Avenue,88 St,104 St),Aqueduct - North Conduit Avenue,Howard Beach - JFK Airport,Broad Channel(Beach 67 St,Howard Beach - JFK Airport,Beach 90 St),Beach 67 St,Beach 60 St,Beach 44 St,Beach 36 St,Beach 25 St,Far Rockaway(,Beach 25 St),104 St(111 St,Rockaway Boulevard),111 St,Lefferts Boulevard(,111 St),Beach 90 St(Beach 98 St,Broad Channel),Beach 98 St,Beach 105 St,Rockaway Pk - Beach 116 St
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,(2,2,2),2,2,(2,2,2),2,2,2,2,2,(,2),(2,2),2,(,2),(2,2),2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line9]
 LineMap=
 Name=B - 6 Av Express
 Stations=Queensbridge - 21 Street,Roosevelt Island,Lexington Avenue - 63 St,57 St(Rockefeller Ctr - 47-50 Sts,Lexington Avenue - 63 St),Bedford Pk Blvd(Kingsbridge Road),Kingsbridge Road,Fordham Road,182-183 Streets,Tremont Avenue,174-175 Streets,170 St,167 St,Yankee Stadium - 161 St,155 St,145 St,135 St,125 St,116 St,110 St,103 St,96 St,86 St,Museum of Natural History - 81 St,72 St,59 St - Columbus Circle,7 Av,Rockefeller Ctr - 47-50 Sts(42 St,7 Av,,57 St),42 St,Herald Sq - 34 St,23 St,6 Av,Washington Sq - West 4 St,Prince Street,Broadway - Lafayette St,Grand Street,DeKalb Avenue,Pacific Street,36 St,9 Av,Fort Hamilton Parkway,50 St,55 St,62 St,71 St,79 St,18 Av,20 Av,Bay Parkway,25 Av,Bay 50 St,Coney Island - Stillwell Av
 Driving=2,2,2,(2,2),(2),2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,(2,2,,2),2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line10]
 LineMap=
 Name=C - Eighth Av Local
 Stations=Bedford Pk Blvd,Fordham Road,Tremont Avenue,Yankee Stadium - 161 St(145 St,Tremont Avenue),168 St(157 St),157 St,155 St,145 St(135 St,155 St,,Yankee Stadium - 161 St),135 St,125 St,116 St,110 St,103 St,96 St,86 St,Museum of Natural History - 81 St,72 St,59 St - Columbus Circle,50 St,42 St,34 St - Penn Station,23 St,14 St,Washington Sq - West 4 St,Spring Street,Canal Street(Chambers Street,Spring Street,World Trade Center),Chambers Street,Fulton Nassau Sts,High Street,Borough Hall - Jay St,Hoyt St,Lafayette Avenue,Clinton Washington Avs,Franklin Avenue,Nostrand Avenue,Kingston Throop Avs,Utica Avenue,Ralph Avenue,Rockaway Avenue,Broadway Junction,Liberty Avenue,Van Siclen Av,Shepherd Avenue,Euclid Avenue(,Shepherd Avenue),World Trade Center(,Canal Street)
 Driving=2,2,2,(2,2),(2),2,2,(2,2,,2),2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,(2,2,2),2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,(,2),(,2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line11]
 LineMap=
 Name=D - 6 Av Express
 Stations=Norwood 205 St,Bedford Pk Blvd,Kingsbridge Road,Fordham Road,182-183 Streets,Tremont Avenue,174-175 Streets,170 St,167 St,Yankee Stadium - 161 St,155 St,145 St,135 St,125 St,116 St,110 St,103 St,96 St,86 St,Museum of Natural History - 81 St,72 St,59 St - Columbus Circle,7 Av,Rockefeller Ctr - 47-50 Sts,42 St,Herald Sq - 34 St,23 St,6 Av,Washington Sq - West 4 St,Prince Street,Broadway - Lafayette St,Lower East Side - 2 Av,Delancey St - Essex St,East Broadway,York Street,Borough Hall - Jay St,Bergen Street,Carroll Street,Smith 9 Sts,4 Av - 9 St,7 Av.,15 St - Prospect Pk,Fort Hamilton Pkwy,Church Avenue,Ditmas Avenue,18 Av,Avenue I,Bay Pkwy,Avenue N,Avenue P,Kings Highway,Avenue U,Avenue X,Neptune Avenue,West 8 St - NY Aquarium,Coney Island - Stillwell Av
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line12]
 LineMap=
 Name=E - 8 Av Local
 Stations=Jamaica Center - Parsons - Archer,Sutphin Blvd - Archer Av,Jamaica - Van Wyck,Union Tpke - Kew Gardens,Forest Hills - 71 Av,Roosevelt Av - Jackson Hts,Queens Plaza,Ely Av - 23 St,Lexington Av - 53 St,53 St - 5 Av,7 Av,50 St,42 St,34 St - Penn Station,23 St,14 St,Washington Sq - West 4 St,Spring Street,Canal Street,World Trade Center
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line13]
 LineMap=
 Name=F - 6 Av Local
 Stations=Jamaica - 179 St,169 St,Parsons Blvd,Sutphin Blvd,Briarwood - Van Wyck Blvd,Union Tpke - Kew Gardens,75 Av,Forest Hills - 71 Av,Roosevelt Av - Jackson Hts,Queens Plaza,Ely Av - 23 St,Lexington Av - 53 St,53 St - 5 Av,Rockefeller Ctr - 47-50 Sts,42 St,Herald Sq - 34 St,23 St,6 Av,Washington Sq - West 4 St,Prince Street,Broadway - Lafayette St,Grand Street,DeKalb Avenue,Atlantic Avenue,7 Av,Prospect Park,Parkside Avenue,Church Av,Beverley Road,Cortelyou Road,Newkirk Avenue,Avenue H,Avenue J,Avenue M,Kings Highway,Avenue U,Neck Road,Sheepshead Bay,Brighton Beach,Ocean Parkway,West 8 St - NY Aquarium,Coney Island - Stillwell Av
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line14]
 LineMap=
 Name=G - Brooklyn - Queens Crosstown Local
 Stations=Forest Hills - 71 Av,67 Av,Rego Pk - 63 Dr,Woodhaven Blvd,Newtown - Grand Av,Roosevelt Av - 74 St,65 St,Northern Boulevard,46 St,Steinway Street,36 St,Queens Plaza,Court House Sq - 45 Rd,21 St,Greenpoint Avenue,Nassau Avenue,Lorimer Street,Broadway,Flushing Avenue,Myrtle Willoughby Avs,Bedford Nostrand Avs,Classon Avenue,Fulton Street,Hoyt St,Bergen Street,Carroll Street,Smith 9 Sts
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line15]
 LineMap=
 Name=J - Nassau Street Express
 Stations=Jamaica Center - Parsons - Archer,Sutphin Blvd - Archer Av,121 St,111 St,104 St,Woodhaven Boulevard,75 St,Crescent Street,Norwood Avenue,Cleveland Street,Van Siclen Av,Alabama Avenue,Broadway,Chauncey Street,Halsey Street,Gates Avenue,Kosciusko Street,Myrtle Avenue,Flushing Avenue,Lorimer Street,Hewes Street,Marcy Avenue,Delancey St - Essex St,Bowery,Canal Street,Chambers Street,Fulton Nassau Sts,Broad Street
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line16]
 LineMap=
 Name=L - 14 St - Canarsie Local
 Stations=14 St,6 Av,14 St.,3 Av,1 Av,Bedford Avenue,Lorimer Street,Graham Avenue,Grand Street,Montrose Avenue,Morgan Avenue,Jefferson Street,DeKalb Avenue,Myrtle Wyckoff Avs,Halsey Street,Wilson Avenue,Bushwick Av - Aberdeen St,Broadway Junction,Atlantic Avenue,Sutter Avenue,Livonia Avenue,New Lots Av,East 105 St,Canarsie - Rockaway Parkway
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line17]
 LineMap=
 Name=M - Nassau Street Local
 Stations=Metropolitan Avenue,Fresh Pond Road,Forest Avenue,Seneca Avenue,Myrtle Wyckoff Avs,Knickerbocker Avenue,Central Avenue,Myrtle Avenue,Marcy Avenue,Delancey St - Essex St,Bowery,Canal Street,Chambers Street,Fulton Nassau Sts,Broad Street,Court St,Lawrence Street,DeKalb Avenue,Pacific Street,Union Street,9 St,Prospect Avenue,25 St,36 St,9 Av,Fort Hamilton Parkway,50 St,55 St,62 St,71 St,79 St,18 Av,20 Av,Bay Parkway
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line18]
 LineMap=
 Name=N - Broadway Express
 Stations=Astoria - Ditmars Blvd,Astoria Blvd,30 Av,Broadway,36 Av,39 Av,Queensboro Plaza,Lexington Av - 59 St,5 Av - 59 St,57 St,49 St,Times Sq - 42 St,Herald Sq - 34 St,28 St,23 St,14 St,NYU - 8 St,Prince Street,Canal Street,City Hall,Cortlandt Street,Rector Street,Whitehall Street,Court St,DeKalb Avenue,Pacific Street,Union Street,9 St,Prospect Avenue,25 St,36 St,45 St,53 St,59 St,8 Av,Fort Hamilton Pkwy,New Utrecht Av,18 Av,20 Av,Bay Pkwy,Kings Hwy,Avenue U,86 St,Coney Island - Stillwell Av
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line19]
 LineMap=
 Name=Q - Broadway Express
 Stations=Queensbridge - 21 Street,Roosevelt Island,Lexington Avenue - 63 St,57 St,Rockefeller Ctr - 47-50 Sts,42 St,Herald Sq - 34 St,23 St,6 Av,Washington Sq - West 4 St,Prince Street,Broadway - Lafayette St,Grand Street,DeKalb Avenue,Atlantic Avenue,7 Av,Prospect Park,Parkside Avenue,Church Av,Beverley Road,Cortelyou Road,Newkirk Avenue,Avenue H,Avenue J,Avenue M,Kings Highway,Avenue U,Neck Road,Sheepshead Bay,Brighton Beach
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line20]
 LineMap=
 Name=R - Broadway Local
 Stations=Forest Hills - 71 Av,67 Av,Rego Pk - 63 Dr,Woodhaven Blvd,Newtown - Grand Av,Roosevelt Av - 74 St,65 St,Northern Boulevard,46 St,Steinway Street,36 St,Queens Plaza,Lexington Av - 59 St,5 Av - 59 St,57 St,49 St,Times Sq - 42 St,Herald Sq - 34 St,28 St,23 St,14 St,NYU - 8 St,Prince Street,Canal Street,City Hall,Cortlandt Street,Rector Street,Whitehall Street,Court St,DeKalb Avenue,Pacific Street,Union Street,9 St,Prospect Avenue,25 St,36 St.,45 St,53 St,59 St,Bay Ridge Avenue,77 St,86 St,Bay Ridge - 95 St
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line21]
 LineMap=
 Name=SB - Shuttle
 Stations=Rockaway Pk - Beach 116 St,Beach 105 St,Beach 98 St,Beach 90 St(Beach 98 St,Broad Channel),Broad Channel(Beach 90 St,Beach 90 St)
 Driving=2,2,2,(2,2),(2,2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line22]
 LineMap=
 Name=SG - Shuttle
 Stations=Franklin Avenue,Park Place,Botanic Garden,Prospect Park
 Driving=2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line23]
 LineMap=
 Name=S - Shuttle
 Stations=Grand Central - 42 St,Times Sq - 42 St
 Driving=2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line24]
 LineMap=AirTrainjfk.map
 Name=AirTrain - Howard Beach Route
 Stations=Howard Beach Station,Lefferts Boulevard,Federal Circle,Terminal 1(Terminals 2/3),Terminals 2/3(Terminal 4),Terminal 4(Terminals 5/6),Terminals 5/6(Terminal 7),Terminal 7(Terminal 8/9),Terminal 8/9(-Federal Circle)
 Driving=2,2,2,(2),(2),(2),(2),(2),(2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line25]
 LineMap=AirTrainjfk.map
 Name=AirTrain - Jamaica Station Route
 Stations=Jamaica Station,Federal Circle,Terminal 1(Terminals 2/3),Terminals 2/3(Terminal 4),Terminal 4(Terminals 5/6),Terminals 5/6(Terminal 7),Terminal 7(Terminal 8/9),Terminal 8/9(-Federal Circle)
 Driving=2,2,(2),(2),(2),(2),(2),(2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line26]
 LineMap=AirTrainjfk.map
 Name=AirTrain - All Terminals Loop
 Stations=Terminal 1(Terminal 8/9),Terminals 2/3(Terminal 1),Terminal 4(Terminals 2/3),Terminals 5/6(Terminal 4),Terminal 7(Terminals 5/6),Terminal 8/9(Terminal 7)
 Driving=(2),(2),(2),(2),(2),(2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line27]
 LineMap=statenisland.map
 Name=Staten Island Railway
 Stations=RCB Ballpark(,-Tompkinsville),St. George(,RCB Ballpark),Tompkinsville,Stapleton,Clifton,Grasmere,Old Town,Dongan Hills,Jefferson Avenue,Grant City,New Dorp,Oakwood Heights,Bay Terrace,Great Kills,Eltingville,Annadale,Huguenot,Prince's Bay,Pleasant Plains,Richmond Valley,Nassau,Atlantic,Tottenville
 Driving=(,3),(,2),(2,3),2,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2
-DelayDay=25
-DelayNight=25
+Delays=25,25
 
 [Transfers]
 1=2 - Seventh Av Local,96 St,1 - Broadway - 7 Av Local,96 St,2,invisible

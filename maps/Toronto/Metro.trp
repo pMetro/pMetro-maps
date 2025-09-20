@@ -3,32 +3,28 @@ Name=Yonge-University-Spadina
 LineMap=Yonge.map
 Stations=Finch,North York Centre,Sheppard-Yonge,York Mills,Lawrence,Eglinton,Davisville,St.Clair,Summerhill,Rosedale,Bloor-Yonge,Wellesley,College,Dundas,Queen,King,Union,St.Andrew,Osgoode,St.Patrick,Queens Park,Museum,St.George,Spadina,Dupont,St.Clair West,Eglinton West,Glencairn,Lawrence West,Yorkdale,Wilson,Downsview
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=4
+Delays=3,4
 
 [Line2]
 Name=Bloor-Danforth
 LineMap=Bloor.map
 Stations=Kennedy,Warden,Victoria Park,Main Street,Woodbine,Coxwell,Greenwood,Donlands,Pape,Chester,Broadview,Castle Frank,Sherbourne,Bloor-Yonge,Bay,St.George,Spadina,Bathurst,Christie,Ossington,Dufferin,Lansdowne,Dundas West,Keele,High Park,Runnymede,Jane,Old Mill,Royal York,Islington,Kipling
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=4
+Delays=3,4
 
 [Line3]
 Name=Scarborough RT
 LineMap=RT.map
 Stations=McCowan,Scarborough Centre,Midland,Ellesmere,Lawrence East,Kennedy
 Driving=2,2,2,2,2
-DelayDay=4
-DelayNight=4
+Delays=4,4
 
 [Line4]
 Name=Sheppard
 LineMap=Sheppard.map
 Stations=Don Mills,Leslie,Bessarion,Bayview,Sheppard-Yonge
 Driving=2,2,2,2
-DelayDay=4
-DelayNight=4
+Delays=4,4
 
 [Transfers]
 1=Yonge-University-Spadina,Sheppard-Yonge,Sheppard,Sheppard-Yonge, 2

@@ -16,6 +16,7 @@ Puhung=10.04.1987
 
 [Hyoskin]
 Rakwon=09.10.1975
+;Kwangmyong=?
 Samhung=09.10.1975
 Chonsung=09.10.1975
 Hyoskin=09.10.1975
@@ -24,4 +25,3 @@ Hwanggumbol=06.10.1978
 Konguk=09.09.1985
 Kwangbok=09.09.1985
 
-[]

@@ -1,0 +1,113 @@
+Size 650x680
+
+; ====================================================
+
+Angle 50
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 339,339, 339,343, 337,343, 337,339
+PenColor FF0000
+BrushColor FF0000
+Polygon 339,335, 339,339, 337,339, 337,335
+
+; северный выход
+PenColor 000000
+Line 737,391, 697,391, 697,295, 626,295, 626,312, 575,312, 575,293
+Line 575,371, 575,352, 626,352, 626,390, 676,390, 676,409, 737,409
+Line 575,347, 624,347, 0.5
+Line 737,395, 697,395, 0.5
+Stairs 580,312, 580,347, 622,312
+Stairs 735,409, 735,395, 697,409
+
+; турникеты
+Line 667,354, 667,360, 662,360, 0.5
+Line 667,297, 667,309, 0.5
+Line 640,360, 627,360, 0.5
+PenColor 009900
+Stairs 665,352, 669,352, 665,311
+PenColor FF0000
+Stairs 661,358, 661,362, 639,358
+
+
+; южный выход
+PenColor 000000
+Line 126,293, 126,308, 69,308, 69,292, -6,292
+Line 84,354, 126,354, 126,352, 69,352, 69,368, 12,368, 12,425, 84,425
+Line 126,371, 126,369, 84,369
+Line 84,443, 44,443, 44,448, 93,448, 142,425, 189,425
+Line 189,443, 145,443, 96,466, -6,466, -6,292
+Line 189,439, 149,439, 0.5
+Line 84,439, 44,439, 0.5
+Line 122,347, 74,347, 0.5
+Stairs 120,308, 120,347, 74,308
+Stairs 82,425, 82,439, 44,425
+Stairs 187,439, 187,425, 149,439
+
+BrushColor D0D0D0
+Polygon 20,319, 20,337, 12,337, 12,319
+
+; турникеты
+Line 50,324, 50,319, 22,319, 0.5
+PenColor 009900
+Stairs 48,364, 52,364, 48,323
+PenColor FF0000
+Stairs 33,294, 37,294, 33,317
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 40,324, 45,324, 45,322, 40,322
+PenColor FF0000
+BrushColor FF0000
+Polygon 35,324, 40,324, 40,322, 35,322
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon -21,453, -21,438, -6,438, -6,453
+BrushColor -1
+AngleTextOut 0, Arial, 6, -20, 442, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 69,369, 69,354, 84,354, 84,369
+BrushColor -1
+AngleTextOut 0, Arial, 6, 70, 358, лифт
+
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 269, 171, Ленинский проспект
+AngleTextOut -90, Arial, 15, 117, 115, улица Строителей
+AngleTextOut -90, Arial, 15, 132, 477, улица Панфёрова
+
+; пути
+PenColor 000000
+BrushColor 03795F
+Polygon 126,293, 126,263, 575,263, 575,293
+Polygon 126,401, 126,371, 575,371, 575,401
+
+PenColor 03795F
+BrushColor -1
+AngleTextOut 0, Arial, 20, 129, 239, << Новаторская
+AngleTextOut 0, Arial, 20, 420, 401, Академическая >>
+AngleTextOut 0, Arial, 25, 275, 310, Вавиловская, 1
+
+Angle -50
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 203, 549, 30, 30, ShowMessage Выход №1
+SpotRect 335, 537, 30, 30
+SpotRect 598, 22, 30, 30
+BrushColor -1
+TextOut Arial, 25, 211, 550, 1
+TextOut Arial, 25, 343, 538, 2
+TextOut Arial, 25, 606, 23, 4
+
+

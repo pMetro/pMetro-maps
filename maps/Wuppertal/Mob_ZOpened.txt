@@ -47,4 +47,3 @@ Werther Brucke=
 Wupperfeld=
 Oberbarmen=
 
-[]

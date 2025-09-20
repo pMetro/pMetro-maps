@@ -38,6 +38,16 @@ Stairs 688,739, 692,739, 688,754
 PenColor FF0000
 Stairs 688,735, 692,735, 688,717
 
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 505,737, 505,733, 503,733, 503,737
+PenColor FF0000
+BrushColor FF0000
+Polygon 505,741, 505,737, 503,737, 503,741
+
+
+
 Opaque 70
 PenColor FFFFFF
 BrushColor FFFFFF
@@ -159,6 +169,20 @@ BrushColor -1
 Line 319,599, 319,591, 291,591, 291,599
 AngleTextOut 0, Arial, 10, 293, 588, кассы
 
+; туалет
+PenColor 000000
+BrushColor -1
+Line 334,599, 334,591, 326,591, 326,599
+AngleTextOut 0, Arial, 10, 327, 589, Т
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 319,655, 324,655, 324,653, 319,653
+PenColor FF0000
+BrushColor FF0000
+Polygon 314,655, 319,655, 319,653, 314,653
+
 
 
 ==============================
@@ -167,6 +191,14 @@ AngleTextOut 0, Arial, 10, 293, 588, кассы
 PenColor DFDFDF
 BrushColor FEFBF1
 Polygon 537,656, 537,629, 466,629, 466,656
+
+;инфососы
+PenColor 94949C
+BrushColor 94949C
+Polygon 499,648, 504,648, 504,646, 499,646
+PenColor FF0000
+BrushColor FF0000
+Polygon 494,648, 499,648, 499,646, 494,646
 
 ; Названия улиц голубым
 PenColor 00AFAF

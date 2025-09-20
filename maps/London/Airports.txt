@@ -12,4 +12,3 @@ Heathrow Terminals 1,2,3=Аэропорт Хитроу, терминалы 1,2,3
 
 [Docklands Light Railway]
 London City Airport=Аэропорт Сити
-[]

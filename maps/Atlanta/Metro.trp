@@ -2,15 +2,13 @@
 Name=North-Sounsh line
 Stations=Airport,College Park,East Point,Lakewood/Fort McPherson,Oakland City,West End,Garnett,Five Points,Peachtree Center,Civic Center,North Avenue,Midtown,Arts Center,Lindbergh(Buckhead,Arts Center,Lenox),Buckhead,Medical Center,Dunwoody,Sandy Springs,North Springs(,Sandy Springs),Lenox(Brookhaven,Lindbergh),Brookhaven,Chamblee,Doraville
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,(2,2,2),2,2,2,2,(,2),(2,2),2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line2]
 Name=West-East line
 Stations=Indian Creek,Kensington,Avondale,Decatur,East Lake,Edgewood/Candler Park,Inman Park/Reynoldstown,King Memorial,Georgia State,Five Points,Omni/Dome/GA World Congress Center,Vine City,Ashby(West Lake,Vine City,Bankhead),West Lake,Hamilton E. Holmes(,West Lake),Bankhead(,Ashby)
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,(2,2,2),2,(,2),(,2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Transfers]
 1=North-Sounsh line,Five Points,West-East line,Five Points, 2

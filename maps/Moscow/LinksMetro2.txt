@@ -332,10 +332,10 @@ StringToAdd='  Ссылка на станцию в Metro2: '
 Нижегородская=https://metro2.org/msk/stations/nizhegorodskaya-15
 
 [Троицкая]
-;ЗИЛ=https://metro2.org/msk/stations/zil-16
-;Крымская=https://metro2.org/msk/stations/krymskaya-16
-;Академическая=https://metro2.org/msk/stations/akademicheskaya-16
-;Вавиловская=https://metro2.org/msk/stations/vavilovskaya
+ЗИЛ=https://metro2.org/msk/stations/zil-16
+Крымская=https://metro2.org/msk/stations/krymskaya-16
+Академическая=https://metro2.org/msk/stations/akademicheskaya-16
+Вавиловская=https://metro2.org/msk/stations/vavilovskaya
 Новаторская=https://metro2.org/msk/stations/novatorskaya-16
 Университет дружбы народов=https://metro2.org/msk/stations/universitet-druzhby-narodov
 Генерала Тюленева=https://metro2.org/msk/stations/generala-tyuleneva

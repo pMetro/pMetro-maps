@@ -2,22 +2,19 @@
 Name=A
 Stations=Basso-Cambo,Bellefontaine,Reynerie,Mirail/Université,Bagatelle,Mermoz,Fontaine-Lestang,Arènes/Gare Saint-Cyprien,Patte-d'Oie,Saint-Cyprien/République,Esquirol,Capitole,Jean Jaurès,Marengo-SNCF/Gare Matabiau,Jolimont,Roseraie,Argoulets,Balma Gramont
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line3]
 Name=B
 Stations=Borderouge,Trois Cocus,La Vache,Barrière de Paris,Minimes-Claude Nougaro,Canal du Midi,Compans Caffarelli,Jeanne d'Arc,Jean Jaurès,Francois Verdier,Carmes,Palais de Justice,Saint-Michel-Marcel Langer,Empalot,Sain-Agne-SNCF,Saouzelong,Rangueil,Facultè de Pharmacie,Universitè-Paul-Sabatier,Ramonville
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line2]
 Name=C
 Stations=Arènes/Gare Saint-Cyprien,Gare des Capelles,Gare de Colomiers
 Driving=2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Transfers]
 1=A,Jean Jaurès,B,Jean Jaurès,2

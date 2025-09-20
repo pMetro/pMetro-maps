@@ -3,24 +3,21 @@ Name=M1
 LineMap=M1.map
 Stations=Mexikoi Ut,Szechenyi furdo,Hosok tere,Bajza utca,Kodaly korond,Vorosmarty utca,Oktogon,Opera,Bajcsy- Zsilinszky ut,Deak Ferenc ter,Vorosmarty ter
 Driving=2,1,1,1,1,1,1,1,1,1
-DelayDay=4
-DelayNight=7
+Delays=4,7
 
 [Line2]
 Name=M2
 LineMap=M2.map
 Stations=Ors Vezer tere,Pillango utca,Stadionok,Keleti palyaudvar,Blaha Lujza ter,Astoria,Deak Ferenc ter,Kossuth Lajos ter,Batthyany ter,Moszkva ter,Deli palyaudvar
 Driving=2,2,2,2,2,1,2,2,1,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line3]
 Name=M3
 LineMap=M3.map
 Stations=Kobanya-Kispest,Hatar ut,Pottyos utca,Ecseri ut,Nepliget,Nagyvarad ter,Klinikak,Ferenc Korut,Kalvin ter,Ferenciek tere,Deak Ferenc ter,Arany Janos utca,Nyugati ter,Lehel ter,Dozsa Gyorgy ut,Arpad hid,Forgach utca,Gyongyosi utca,Ujpest Varoskapu,Ujpest-kozpont
 Driving=2,2,1,2,1,2,1,2,1,2,1,2,2,1,21,2,2,2,0
-DelayDay=4
-DelayNight=7
+Delays=4,7
 
 [Transfers]
 1=M1,Deak Ferenc ter,M2,Deak Ferenc ter,2

@@ -6,4 +6,3 @@ MenuName=Разное\Аэропорт
 [Red Line]
 Cleveland Hopkins Int'l Airport=
 
-[]

@@ -12,4 +12,3 @@ Central Station=
 Heworth=
 Sunderland=
 
-[]

@@ -1,6 +1,6 @@
 [Line1]
 Name=1
-Stations=Tajrish,Gheytariyeh,Shahid Sadr,Gholhak,Doctor Shari’ati,Mirdamad,Shahid Haghani,Shahid Hemmat,Mosalla-ye Emam Khomeini,Shahid Beheshti,Shahid Mofatteh,Shohada-ye Haftom-e Tir,Taleghani,Darvazeh Dowlat,Sa’di,Emam Khomeini,Panzdah-e Khordad,Khayyam,Meydan-e Mohammadiyeh,Shoush,Payaneh Jonoub,Shahid Bokharaei,Ali Abad,Javanmard-e Ghassab,Shahr-e Rey,Palayeshgah,Shahed-Bagher Shahr 1,Haram-e Motahhar-e Emam Khomeini,Kahrizak(,Haram-e Motahhar-e Emam Khomeini),Shahed-Bagher Shahr 2(Namayeshgah-e Shahr-e Aftab),Namayeshgah-e Shahr-e Aftab(Vavan,Shahed-Bagher Shahr 2,Emam Khomeini Airport),Vavan,Emam Khomeini Airport(Shahr-e Parand,Vavan,,Namayeshgah-e Shahr-e Aftab),Shahr-e Parand
+Stations=Tajrish,Gheytariyeh,Shahid Sadr,Gholhak,Doctor Shari’ati,Mirdamad,Shahid Haghani,Shahid Hemmat,Mosalla,Shahid Beheshti,Shahid Mofatteh,Haft-e-tir,Taleghani,Darvazeh Dowlat,Saadi,Emam Khomeini,Panzdah-e Khordad,Khayam,Meydan-e Mohammadiyeh,Shoush,Terminal-e-Jonoob,Shahid Bokharaei,Ali Abad,Javanmard-e Ghassab,Shahr-e-Rey,Palayeshgah,Shahed-Bagher Shahr 1,Haram-e Motahhar-e Emam Khomeini,Kahrizak(,Haram-e Motahhar-e Emam Khomeini),Shahed-Bagher Shahr 2(Namayeshgah-e Shahr-e Aftab),Namayeshgah-e Shahr-e Aftab(Vavan,Shahed-Bagher Shahr 2,Emam Khomeini Airport),Vavan,Emam Khomeini Airport(Shahr-e Parand,Vavan,,Namayeshgah-e Shahr-e Aftab),Shahr-e Parand
 Aliases=Shahed-Bagher Shahr 1,Shahed-Bagher Shahr,Shahed-Bagher Shahr 2,Shahed-Bagher Shahr
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,(,2),(2),(,2,2),0,(,,,2)
 
@@ -40,7 +40,7 @@ Shahed-Bagher Shahr=1,Shahed-Bagher Shahr 1, 1,Shahed-Bagher Shahr 2, 2
 Emam Khomeini=1,Emam Khomeini, 2,Emam Khomeini, 2
 Shahid Beheshti=1,Shahid Beheshti, 3,Shahid Beheshti, 2
 Darvazeh Dowlat=1,Darvazeh Dowlat, 4,Darvazeh Dowlat, 2
-Shohada-ye Haftom-e Tir=1,Shohada-ye Haftom-e Tir, 6,Shohada-ye Haftom-e Tir, 0
+Shohada-ye Haftom-e Tir=1,Haft-e-tir, 6,Shohada-ye Haftom-e Tir, 0
 Meydan-e Mohammadiyeh=1,Meydan-e Mohammadiyeh, 7,Meydan-e Mohammadiyeh, 2
 Darvazeh Shemiran=2,Darvazeh Shemiran, 4,Darvazeh Shemiran, 2
 Shademan=2,Shademan, 4,Shademan, 2

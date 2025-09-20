@@ -1,0 +1,76 @@
+[Options]
+AddToInfo=1
+Caption=Информация
+CityName=Тегеран
+;StringToAdd='  '
+
+[1]
+;Tajrish=
+;Gheytariyeh=
+;Shahid Sadr=
+;Gholhak=
+;Doctor Shari’ati=
+Mirdamad=станция открыта в 2005 г.
+;Shahid Haghani
+Shahid Hemmat=станция открыта в 2005 г.
+Mosalla=станция открыта в 2005 г.
+Shahid Beheshti=станция открыта в 2005 г.
+Shahid Mofatteh=станция открыта в 2005 г.
+Haft-e-tir=станция открыта в 2005 г.
+Taleghani=станция открыта в 2005 г.
+Darvazeh Dowlat=станция открыта в 2005 г.
+Saadi=станция открыта в 2005 г.
+Emam Khomeini=станция открыта в 2005 г.
+Panzdah-e Khordad=станция открыта в 2005 г.
+Khayam=станция открыта в 2005 г.
+Meydan-e Mohammadiyeh=станция открыта в 2005 г.
+Shoush=станция открыта в 2005 г.
+Terminal-e-Jonoob=станция открыта в 2005 г.
+Shahid Bokharaei=станция открыта в 2005 г.
+Ali Abad=станция открыта в 2005 г.
+Javanmard-e Ghassab=станция открыта в 2005 г.
+Shahr-e-Rey=станция открыта в 2005 г.
+;Palayeshgah
+Shahed-Bagher Shahr 1=станция открыта в 2005 г.
+Haram-e Motahhar-e Emam Khomeini=станция открыта в 2005 г.
+;Kahrizak=
+
+[2]
+Daneshgah-e Elm-o San’at=станция открыта в 2006 г.
+Sarsabz=станция открыта в 2006 г.
+Sabalan=станция открыта в 2006 г.
+Shahid Madani=станция открыта в 2006 г.
+Darvazeh Shemiran=станция открыта в 2006 г.
+Baharestan=станция открыта в 2006 г.
+Emam Khomeini=станция открыта в 2006 г.
+Mellat=станция открыта в 2006 г.
+Hasan Abad=станция открыта в 2006 г.
+;Majles=станция открыта в 2006 г.
+Meydan-e-Hor=станция открыта в 2006 г.
+Shahid Navab-e Safavi=станция открыта в 2006 г.
+;Azadi=станция открыта в 2006 г.
+Daneshgah-e Sharif=станция открыта в 2006 г.
+Tarasht=станция открыта в 2006 г.
+Tehran/Sadeghiyeh=станция открыта в 2006 г.
+
+[4]
+Ferdowsi=станция открыта в 2008 г.
+Darvazeh Dowlat=станция открыта в 2008 г.
+Darvazeh Shemiran=станция открыта в 2008 г.
+
+[5]
+Tehran/Sadeghiyeh=станция открыта в 2006 г.
+Eram-e Sabz=станция открыта в 2006 г.
+Varzeshgah-e Azadi=станция открыта в 2006 г.
+Chitgar=станция открыта в 2006 г.
+Iran Khodro=станция открыта в 2006 г.
+Vardavard=станция открыта в 2006 г.
+Garmdarreh=станция открыта в 2006 г.
+
+
+
+
+
+
+
+

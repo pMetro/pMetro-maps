@@ -2,6 +2,5 @@
 Name=Linea 1
 Stations=Borgo,Giuffrida,Italia,Galatea,Stazione Centrale F.S.,Porto
 Driving=2,2,2,2,2
-DelayDay=15
-DelayNight=30
+Delays=15,30
 

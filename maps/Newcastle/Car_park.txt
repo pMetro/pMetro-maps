@@ -16,4 +16,3 @@ Heworth=
 East Boldon=
 Stadium of Light=
 
-[]

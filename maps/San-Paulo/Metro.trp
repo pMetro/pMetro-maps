@@ -2,36 +2,31 @@
 Name=Linea 1
 Stations=Tucurivi,Parada Inglesa,Jardim Sao Paulo,Santana,Carandiru,Tiete,Armenia,Tiradentes,Luz,Sao Bento,Se,Liberdade,Sao Joaquim,Vergueiro,Paraiso,Ana Rosa,Vila Mariana,Santa Cruz,Praca da Arvore,Saude,Sao Judas,Conceicao,Jabaquara
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line2]
 Name=Linea 2
 Stations=Vila Madalena,Sumare,Clinicas,Consolacao,Trianon-Masp,Brigadeiro,Paraiso,Ana Rosa,Chacara Klabin,Imigrantes,Alto do Ipiranga,Sacoma,Tamanduatei,Vila Prudente
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line3]
 Name=Linea 3
 Stations=Barra Funda,Marechal Deodoro,Santa Cecilia,Republica,Anhangabau,Se,Pedro II,Bras,Bresser,Belem,Tatuape,Carrao,Penha,Vila Matilde,Guilhermina-Esperanca,Patriarca,Artur Alvim,Corinthians-Itaquera
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line4]
 Name=Linea 4
 Stations=Vila Sonia,Sao Paulo-Morumbi,Butanta,Pinherios,Faria Lima,Paulista,Republica,Luz
 Driving=2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line5]
 Name=Linea 5
 Stations=Capao Redondo,Campo Limpo,Vila das Belezas,Giovanni Gronchi,Santo Amaro,Largo 13,Adolfo Pinheiro,Alto da Boa Vista,Borba Gato,Brooklin,Campo Belo,Eucaliptos,Moema,AACD-Servidor,Hospital San Paulo,Santa Cruz,Chacara Klabin
 Driving=2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Transfers]
 =Linea 3,Se, Linea 1,Se, 5

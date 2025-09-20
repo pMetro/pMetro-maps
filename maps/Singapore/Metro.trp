@@ -2,57 +2,49 @@
 Name=East West
 Stations=Pasir Ris,Tampines,Simei,Tanah Merah(Bedok,Simei,Expo),Bedok,Kembangan,Eunos,Paya Lebar,Aljunied,Kallang,Lavender,Bugis,City Hall,Raffles Place,Tanjong Pagar,Outram Park,Tiong Bahru,Redhill,Queenstown,Commonwealth,Buona Vista,Dover,Clementi,Jurong East,Chinese Garden,Lakeside,Boon Lay,Pioneer,Joo Koon,Gul Circle,Tuas Crescent,Tuas West Road,Tuas Link(,Tuas West Road),Expo(Changi Airport,Tanah Merah),Changi Airport
 Driving=3,2,3,(3,3,3),2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,4,2,3,2,2,4,3,2,2,2,(,2),(8,3)
-DelayDay=4
-DelayNight=7
+Delays=4,7
 
 [Line2]
 Name=North South
 Stations=Jurong East,Bukit Batok,Bukit Gombak,Choa Chu Kang,Yew Tee,Kranji,Marsiling,Woodlands,Admiralty,Sembawang(Canberra,Admiralty,Yishun),Canberra,Yishun(Khatib,Canberra,,Sembawang),Khatib,Yio Chu Kang,Ang Mo Kio,Bishan,Braddell,Toa Payoh,Novena,Newton,Orchard,Somerset,Dhoby Ghaut,City Hall,Raffles Place,Marina Bay,Marina South Pier
 Driving=3,2,4,2,5,2,3,2,3,(,3,4),0,(2,,,4),6,2,2,2,2,2,2,2,2,1,2,2,2,2
-DelayDay=4
-DelayNight=7
+Delays=4,7
 
 [Line3]
 Name=North East
 Stations=Harbour Front,Outram Park,Chinatown,Clarke Quay,Dhoby Ghaut,Little India,Farrer Park,Boon Keng,Potong Pasir,Woodleigh,Serangoon,Kovan,Hougang,Buangkok,Sengkang,Punggol
 Driving=3,2,2,2,2,2,2,3,1,2,3,2,2,2,3
-DelayDay=4
-DelayNight=7
+Delays=4,7
 
 [Line4]
 Name=Circle
 Stations=Dhoby Ghaut,Bras Basah,Esplanade,Promenade(Nicoll Highway,Esplanade,,Bayfront),Nicoll Highway,Stadium,Mountbatten,Dakota,Paya Lebar,MacPherson,Tai Seng,Bartley,Serangoon,Lorong Chuan,Bishan,Marymount,Caldecott(Bukit Brown,Marymount,Botanic Gardens),Bukit Brown,Botanic Gardens(Farrer Road,Bukit Brown,,Caldecott),Farrer Road,Holland Village,Buona Vista,one-north,Kent Ridge,Haw Par Villa,Pasir Panjang,Labrador Park,Telok Blangah,Harbour Front(,Telok Blangah),Marina Bay(Bayfront),Bayfront(Promenade,Marina Bay)
 Driving=2,2,2,(2,2,,2),2,2,2,2,2,2,3,2,2,3,3,2,(,2,5),0,(2,,,5),2,3,1,2,3,2,2,2,2,(,2),(2),(2,2)
-DelayDay=4
-DelayNight=7
+Delays=4,7
 
 [Line5]
 Name=Downtown
 Stations=Bukit Panjang,Cashew,Hillview,Beauty World,King Albert Park,Sixth Avenue,Tan Kah Kee,Botanic Gardens,Stevens,Newton,Little India,Rochor,Bugis,Promenade,Bayfront,Downtown,Telok Ayer,Chinatown,Fort Canning,Bencoolen,Jalan Besar,Bendemeer,Geylang Bahru,Mattar,MacPherson,Ubi,Kaki Bukit,Bedok North,Bedok Reservoir,Tampines West,Tampines,Tampines East,Upper Changi,Expo
 Driving=2,1,4,2,2,2,2,2,2,3,1,2,2,2,2,1,2,2,1,2,2,2,2,3,1,2,2,3,2,2,2,4,1
-DelayDay=4
-DelayNight=7
+Delays=4,7
 
 [Line6]
 Name=Bukit Panjang LRT
 Stations=Choa Chu Kang,South View,Keat Hong,Teck Whye,Phoenix,Bukit Panjang(Petir,Phoenix,,Senja),Petir,Pending,Bangkit,Fajar,Segar,Jelapang,Senja(Bukit Panjang,Jelapang)
 Driving=1,1,1,1,1,(1,1,,1),1,1,1,1,1,1,(1,1)
-DelayDay=4
-DelayNight=7
+Delays=4,7
 
 [Line7]
 Name=Sengkang LRT
 Stations=Sengkang(Compassvale,Ranggung,Cheng Lim,Renjong),Compassvale,Rumbia,Bakau,Kangkar,Ranggung(Sengkang,Kangkar),Cheng Lim(Farmway,Sengkang),Farmway,Kupang,Thanggam,Fernvale,Layar,Tongkang,Renjong(Sengkang,Tongkang)
 Driving=(2,2,2,2),1,1,1,2,(2,2),(1,2),1,1,1,1,1,1,(2,1)
-DelayDay=4
-DelayNight=7
+Delays=4,7
 
 [Line8]
 Name=Punggol LRT
 Stations=Punggol(Cove,Damai,Sam Kee,Soo Teck),Cove,Meridian,Coral Edge,Riviera,Kadaloor,Oasis,Damai(Punggol,Oasis),Sam Kee(Teck Lee,Punggol),Teck Lee,Punggol Point,Samudera,Nibong,Sumang,Soo Teck(Punggol,Sumang)
 Driving=(2,2,2,2),1,1,1,1,1,1,(2,1),(1,2),1,1,1,1,1,(2,1)
-DelayDay=4
-DelayNight=7
+Delays=4,7
 
 [Transfers]
 Tampines=East West,Tampines,Downtown,Tampines, 6

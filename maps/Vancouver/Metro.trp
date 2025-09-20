@@ -2,15 +2,13 @@
 Name=Expo Line
 Stations=Waterfront,Burrard,Granville,Stadium,Main Street-Science World,Broadway,Nanaimo,29th Avenue,Joyce,Patterson,Metrotown,Royal Oak,Edmonds,22th Street,New Westminster,Columbia,Scott Road,Gateway,Surrey Central,King George
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line2]
 Name=Millenium Line
 Stations=Waterfront,Burrard,Granville,Stadium,Main Street-Science World,Broadway,Nanaimo,29th Avenue,Joyce,Patterson,Metrotown,Royal Oak,Edmonds,22th Street,New Westminster,Columbia,Sapperton,Braid,Lougheed Town Centre,Production Way-University,Lake City Way,Sperling-Burnaby Lake,Holdom,Brentwood Town Centre,Gilmore,Rupert,Renfrew,Commercial Drive,VCC-Clark
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Transfers]
 1=Expo Line, Waterfront, Millenium Line, Waterfront, 0
@@ -32,4 +30,3 @@ DelayNight=6
 17=Expo Line, New Westminster, Millenium Line, New Westminster, 0
 18=Expo Line, Columbia, Millenium Line, Columbia, 0
 
-[]

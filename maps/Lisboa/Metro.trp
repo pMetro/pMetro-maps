@@ -3,32 +3,28 @@ Name=Blue line
 LineMap=Blue.map
 Stations=Amadora Este,Alfornelos,Pontinha,Carnide,Colegio Militar/Luz,Alto dos Moinhos,Laranjeiras,Jardim Zoologico,Praca de Espanha,S.Sebastiao,Parque,Marques de Pombal,Avenida,Restauradores,Baixa-Chiado,Terreiro do Paco,Santa Apolonia
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=5
-DelayNight=15
+Delays=5,15
 
 [Line2]
 Name=Yellow line
 LineMap=Yellow.map
 Stations=Odivelas,Senhor Roubado,Ameixoiera,Lumiar,Quinta das Conchas,Campo Grande,Cicade Universitaria,Entre Campos,Campo Pequeno,Saldanha,Picoas,Marques de Pombal,Rato
 Driving=2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=5
-DelayNight=15
+Delays=5,15
 
 [Line3]
 Name=Green line
 LineMap=Green.map
 Stations=Telheiras,Campo Grande,Alvalade,Roma,Areeiro,Alameda,Arroios,Anjos,Intendente,Martim Moniz,Rossio,Baixa-Chiado,Cais do Sodre
 Driving=2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=5
-DelayNight=15
+Delays=5,15
 
 [Line4]
 Name=Red line
 LineMap=Red.map
 Stations=S.Sebastiao,Saldanha,Alameda,Olaias,Bela Vista,Chelas,Olivais,Cabo Ruivo,Oriente,Moscavide,Escarnacao,Aeroporto
 Driving=2,2,2,2,2,2,2,2,2,2,2
-DelayDay=5
-DelayNight=15
+Delays=5,15
 
 [Transfers]
 1=Blue line,Marques de Pombal,Yellow line,Marques de Pombal,2

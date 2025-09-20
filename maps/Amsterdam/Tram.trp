@@ -5,116 +5,100 @@ Type=Tram
 Name=Tramline #1
 Stations=Osdorp De Aker,Matterhorn,Pilatus,Inaristraat,Ecuplein,Baden Powellweg,Hoekenes,Louis Davidsstraat,Meer en Vaart,Piet Wiedijkstraat,Johan Huizingalaan,Station Lelylaan,Derkinderenstraat,Surinameplein,Overtoomsesluis,Rhijnvis Feithstraat,J.P. Heijestraat,1e Con. Huygensstraat,Stadhouderskade(Leidseplein),Leidseplein(Prinsengracht,1e Con. Huygensstraat),Prinsengracht,Keizersgracht,Koningsplein,Spui,Dam,Nieuwezijds Kolk,Martelaarsgracht(Centraal Station),Centraal Station(,Nieuwezijds Kolk)
 Driving=1,1,2,2,2,2,2,1,1,3,2,1,3,1,1,2,2,1,(1),(1,2),1,1,1,1,2,1,(1),(,2)
-DelayDay=6
-DelayNight=10
+Delays=6,10
 
 [Line2]
 Name=Tramline #2
 Stations=Oudenaardeplantsoen,Kasterleepark,Lann v.Vlaanderen,Louwesweg,Aletta Jacobslaan,Johan Huizingalaan,Heemstedestraat,Delflandlaan,Westlandgracht,Hoofddorpplein,Amstelveenseweg,Valeriusplein,Emmastraat,Cornelius Schuytstraat,Jac. Obrechtstraat,Van Baerlestraat,Hobbemastraat,Leidseplein,Prinsengracht,Keizersgracht,Koningsplein,Spui,Dam,Nieuwezijds Kolk,Martelaarsgracht(Centraal Station),Centraal Station(,Nieuwezijds Kolk)
 Driving=2,1,2,1,1,2,2,1,1,2,2,2,1,1,1,1,2,1,1,1,1,1,2,1,(1),(,2)
-DelayDay=6
-DelayNight=10
+Delays=6,10
 
 [Line3]
 Name=Tramline #3
 Stations=Muiderpoortstation,Dapperstraat,Linnaeusstraat,Beukenweg,Camperstraat,Wibautstraat,Amsteldijk,Van Woustraat,2e v.d.Helststraat,Ferd. Bolstraat,Ruysdaelkade,Roelof Hartplein,Museumplein,Van Baerlestraat,Overtoom,Kinkerstraat,De Clercqstraat,Hugo de Grootplein,Fred. Hendrikplants.,Marnixplein,N. Willemsstraat,Haarlemmerplein,Zoutkeetsgracht
 Driving=1,1,3,1,1,1,1,2,1,1,1,2,1,2,2,2,2,1,1,1,2,1
-DelayDay=6
-DelayNight=10
+Delays=6,10
 
 [Line4]
 Name=Tramline #4
 Stations=Centraal Station,Dam,Spui,Muntplein,Rembrandtplein,Keizersgracht,Prinsengracht,Frederiksplein,Stadhouderskade,Ceintuurbaan,Lutmastraat,Jozef Israelskade,Victorieplein,Waalstraat,Maasstraat,Dintelstraat,Europaplein,Station RAI,Drentepark
 Driving=3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-DelayDay=6
-DelayNight=10
+Delays=6,10
 
 [Line5]
 Name=Tramline #5
 Stations=Binnenhof,Oranjebaan,Onderuit,Zonnestein,Kronenburg,Uilenstede,van Boshuizenstraat,A.J. Ernststraat,De Boelelaan/VU,Station Zuid,Princess Irenestraat,Stadionweg,Gerrit v.d. Veenstraat,Apollolaan,Roelof Hartplein,Museumplein,Van Baerlestraat,Hobbemastraat,Leidseplein,Prinsengracht,Keizersgracht,Koningsplein,Spui,Dam,Nieuwezijds Kolk,Martelaarsgracht(Centraal Station),Centraal Station(,Nieuwezijds Kolk)
 Driving=2,2,2,2,2,1,3,1,2,2,1,1,1,1,2,1,1,2,1,1,1,1,1,2,1,(1),(,2)
-DelayDay=6
-DelayNight=10
+Delays=6,10
 
 [Line6]
 Name=Tramline #7
 Stations=Flevopark,Insulindeweg,Soembawastraat,Molukkenstraat,Muiderpoortstation,Dapperstraat,Linnaeusstraat,Beukenweg,Korte's-Gravesabdestraat,Weesperplein,Oosteinde,Frederiksplein,Weteringcircuit,Spiegelgracht,Leidseplein,Raamplein,Elandsgracht,Bilderdijkstraa,Ten Katestraat,J.P. Heijestraat,Postjesweg,Van Kinsbergenstraat,Jan Evertsenstraat,Marco Polostraat,Mercatorplein,J. v.Galenstraat,Erasmusgracht,Bos en Lommerplein,Burg. de Vlugtlaan,Burg. Fockstraat,Burg. Eliasstraat,Plein '40-'45,Lodewijk van Deysselstraat,Burg. Roellstraat,Sloterpark
 Driving=1,2,1,1,1,1,3,2,2,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,1,1
-DelayDay=7
-DelayNight=10
+Delays=7,10
 
 [Line7]
 Name=Tramline #9
 Stations=Centraal Station,Dam,Spui,Muntplein,Rembrandtplein,Waterlooplein,Mr. Vissenplein,Plantage Kerklaan,Plantage Badlaan,Alexanderplein,1e van Swindenstraat,Wijttenbachstraat,Pretoriusstraat,Hogeweg,Hugo de Vrieslaa,Kruislaa,Brinkstraat,Arent Krijtsstraat,Schoolstraat,Nicolaas Lublinkstraat,Diemen Sniep
 Driving=3,2,1,1,1,1,2,1,1,1,1,2,2,1,2,3,2,1,2,1
-DelayDay=8
-DelayNight=10
+Delays=8,10
 
 [Line8]
 Name=Tramline #10
 Stations=Van Hallstraat,Van Limburg Stirumstraat,De Wittenkade,Nassaukade,Marnixplein,Bloemgracht,Rozengracht,Elandsgracht,Raamplein,Leidseplein,Spiegelgracht,Weteringcircuit,Frederiksplein,Oosteinde,Weesperplein,Korte's-Gravesabdestraat,Alexanderplein,Hoogte Kadijk,1e Coehoornstraat,1e Leeghwaterstraat,Rietlandpark,C. van Eesterenlaan,Azartplein,Azartplein2
 Driving=1,1,1,1,2,1,2,1,1,2,1,1,1,2,2,1,2,1,1,2,1,2,1
-DelayDay=10
-DelayNight=15
+Delays=10,15
 Aliases=Azartplein2,Azartplein
 
 [Line9]
 Name=Tramline #12
 Stations=Amstelstation,Amsteldijk,Victorieplein,Waalstraat,Maalstraat,Scheldestraat,Cornelis Troostplein,Ceintuurbaan,Ruysdaelkade,Roelof Hartplein,Museumplein,Van Baerlestraat,Overtoom,Kinkerstraat,De Clercqstraat,E. Wolffstraat,Willem de Zwijgerlaan,Adm. de Rujterweg,J. v.Galenstraat,K. Doormanstraat,Bos en Lommerweg,Wiltzanghlaan,Haarlemmerweg,Kingsfordweg,Station Sloterdijk
 Driving=2,1,1,1,1,1,1,1,1,2,1,2,2,2,1,1,1,2,2,1,1,1,2,3
-DelayDay=10
-DelayNight=15
+Delays=10,15
 
 [Line10]
 Name=Tramline #13
 Stations=Lambertus Zijlpein,Dr. H. Colijnstraat,Burg. van Leeuwenlaan,Slotermeerlaan,Burg. Rendorpstraat,Jan van Galenstraat,Jan Tooropstraat,Jan Voermanstraat,Adm. Helfrichstraat,Mercatorplein,Marco Polostraat,Adm. de Ruijterweg,Willem de Zwijgerlaan,E. Wolffstraat,Bilderdijkstraat,Marnixstraat,Westermarkt,Dam,Nieuwezijds Kolk,Martelaarsgracht(Centraal Station),Centraal Station(,Nieuwezijds Kolk)
 Driving=1,1,2,2,2,1,1,1,2,1,1,1,1,1,2,2,1,2,(1,1),(1),(,2)
-DelayDay=10
-DelayNight=12
+Delays=10,12
 
 [Line11]
 Name=Tramline #14
 Stations=Flevopark,Insulindeweg,Soembawastraat,Molukkenstraat,Javaplein,Zeeburgerdijk,Pontanusstraat,Alexanderplein,Plantage Badlaan,Plantage Kerklaan,Mr. Vissenplein,Waterlooplein,Rembrandtplein,Muntplein,Spui,Dam,Westermarkt,Marnixstraat,Bilderdijkstraat,E. Wolffstraat,Willem de Zwijgerlaan,Adm. de Ruijterweg,J. v.Galenstraat,K. Doormanstraat,Bos en Lommerweg,Egidiusstraat,Bos en Lommerplein,Burg. de Vlugtlaan,Burg. Fockstraat,Burg. Eliasstraat,Plein '40-'45,Lodewijk van Deysselstraat,Burg. Roellstraat,Sloterpark
 Driving=1,2,1,1,2,1,2,1,1,2,1,1,1,1,2,2,2,1,1,1,1,2,2,1,1,2,2,2,1,1,1,1,1
-DelayDay=10
-DelayNight=15
+Delays=10,15
 
 [Line12]
 Name=Tramline #16
 Stations=Gustav Mahlerlaan,VU medisch centrum,Amstelveenseweg,IJsbaanpad,Stadionplein,Harlemmermeerstation,Valeriusplein,Emmastraat,Jacob Obrechtstraat,Museumplein,Museumplein2,Ruysdaelstraat,Albert Cuypstraat,Stadhouderstraat,Weteringcircuit,Keizersgracht,Muntplein,Spui,Dam,Centraal Station
 Driving=1,2,1,1,2,2,1,2,1,1,2,1,1,1,2,1,1,2,3
-DelayDay=7
-DelayNight=15
+Delays=7,15
 Aliases=Museumplein2,Museumplein
 
 [Line13]
 Name=Tramline #17
 Stations=Dijkgraafplein(Baden Powellweg),Ingelandenweg(,Dijkgraafplein),Baden Powellweg,Hoekenes,Osdorplein,Ruimzicht,Meer en Vaart,Piet Wiedijkstraat,Johan Huizingalaan,Station Lelylaan,Derkinderenstraat,Surinameplein,Hoofdweg,Corantynstraat,Postjesweg,Witte de Withstraat,J.P. Heijestraat,Ten Katestraat,Bilderdijkstraa,Elandsgracht,Marnixstraat,Westermarkt,Dam,Nieuwezijds Kolk,Martelaarsgracht(Centraal Station),Centraal Station(,Nieuwezijds Kolk)
 Driving=(1),(,1),(2,1),1,2,2,1,3,2,1,3,1,1,1,2,1,1,1,2,1,2,1,2,1,(1),(,2)
-DelayDay=6
-DelayNight=12
+Delays=6,12
 
 [Line14]
 Name=Tramline #24
 Stations=Gustav Mahlerlaan,VU medisch centrum,Amstelveenseweg,IJsbaanpad,Stadionplein,Olympiaweg,Olympiaplein,Minervaplein,Beethovenstraat,Gerrit v.d. Veenstraat,Apollolaan,Roelof Hartplein,Museumplein2,Ruysdaelstraat,Albert Cuypstraat,Stadhouderstraat,Weteringcircuit,Keizersgracht,Muntplein,Spui,Dam,Centraal Station
 Driving=1,2,1,1,1,2,1,1,1,1,1,2,2,1,1,1,2,1,1,2,3
-DelayDay=8
-DelayNight=15
+Delays=8,15
 Aliases=Museumplein2,Museumplein
 
 [Line15]
 Name=Tramline #25
 Stations=President Kennedulaan(Uiterwaardenstraat),Hunzestraat(,President Kennedulaan),Uiterwaardenstraat,Victorieplein,Waalstraat,Maalstraat,Scheldestraat,Cornelis Troostplein,Ceintuurbaan,2e v.d.Helststraat,Van Woustraat,Stadhouderskade,Frederiksplein,Weteringcircuit,Keizersgracht,Muntplein,Spui,Dam,Centraal Station,Muziekgeb. Bimhuis,Passenger Terminal Amsterdam
 Driving=(2),(,1),(1,1),1,1,1,1,1,2,2,1,2,2,1,1,2,3,3,2,1
-DelayDay=15
-DelayNight=15
+Delays=15,15
 
 [Line16]
 Name=Tramline #26
 Stations=IJburg,IJburg2(Ruisrietstraat),Ruisrietstraat(Diemerparklaan,IJburg),Diemerparklaan,Vennepluimstraat,Steigereiland,Zuiderzeeweg,Rietlandpark,Kattenburgerstraat,Muziekgeb. Bimhuis,Centraal Station
 Driving=1,(2),(1,1),1,3,6,7,3,2,3
-DelayDay=10
-DelayNight=15
+Delays=10,15
 Aliases=IJburg2,IJburg
 
 [Transfers]

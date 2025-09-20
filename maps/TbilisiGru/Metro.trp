@@ -2,23 +2,20 @@
 Name=Didube-Samgorskaya
 Stations=axmetelis Teatri,sarajiSvili,guramiSvili,RrmaRele,didube,elektrodepo,naZaladevi,vagzlis moedani,marjaniSvili,rustaveli,Taisuflebis moedani,avlabari,300 aragveli,iSani,samgori,varkeTili
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=5
-DelayNight=10
+Delays=5,10
 
 [Line2]
 Name=Saburtalinskaya
 Stations=vagzlis moedani,wereTlis gamziri,teqnikuri universiteti,samedicino instituti,delisi
 Driving=2,2,2,2
-DelayDay=5
-DelayNight=10
+Delays=5,10
 
 [Line3]
 Name=Saburtalinskaya-1
 Alias=Saburtalinskaya
 Stations=delisi,vazha pshavela
 Driving=3
-DelayDay=10
-DelayNight=12
+Delays=10,12
 
 [Transfers]
 ;линия,станция, линия,станция, время

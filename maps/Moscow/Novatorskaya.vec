@@ -104,7 +104,7 @@ Polygon 314,848, 284,848, 284,399, 314,399
 BrushColor -1
 PenColor 03795F
 AngleTextOut 90, Arial, 25, 225, 549, Новаторская, 1
-AngleTextOut 90, Arial, 20, 313, 531, посадки нет >>
+AngleTextOut 90, Arial, 20, 313, 531, Вавиловская >>
 AngleTextOut 90, Arial, 20, 151, 846, << Университет дружбы народов
 
 ;инфососы
@@ -346,7 +346,7 @@ AngleTextOut 0, Arial, 15, 73, 912, улица Новаторов
 AngleTextOut 90, Arial, 15, 247, 1158, Ленинский проспект
 AngleTextOut 90, Arial, 15, 218, 183, Ленинский проспект
 
-;; Выходы
+; Выходы
 Angle 40
 PenColor FFD900
 BrushColor 615F56

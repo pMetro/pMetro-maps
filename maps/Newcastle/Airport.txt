@@ -6,4 +6,3 @@ MenuName=Разное\Аэропорт
 [Green Line]
 Airport=
 
-[]

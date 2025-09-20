@@ -11,4 +11,3 @@ West Street=
 Bridge Street=
 Kelvinbridge=
 
-[]

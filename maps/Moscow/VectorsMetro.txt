@@ -294,7 +294,7 @@ Type=Image
 ;Бульвар Рокоссовского=
 ;Локомотив=
 ;Измайлово=
-;Соколиная Гора=
+Соколиная Гора=SokolinayaGora.vec
 ;Шоссе Энтузиастов=
 ;Андроновка=
 Нижегородская=Nizhegorodskaya.vec
@@ -305,13 +305,13 @@ Type=Image
 ЗИЛ=Zil.vec
 Верхние Котлы=VerhniyeKotly.vec
 Крымская=Krymskaya.vec
-Площадь Гагарина=PlGagarina.vec
-;Лужники=
-;Кутузовская=
-;Москва-Сити=
-;Шелепиха=
-;Хорошёво=
-;Зорге=
+Площадь Гагарина=LeninskyProspekt.vec
+Лужники=Sportivnaya.vec
+Кутузовская=KutuzovskayaM.vec
+Москва-Сити=Moscow-City.vec
+Шелепиха=Shelepikha.vec
+Хорошёво=Horoshevo.vec
+Зорге=Zorge.vec
 ;Панфиловская=
 ;Стрешнево=
 ;Балтийская=
@@ -329,10 +329,10 @@ Type=Image
 Нижегородская=Nizhegorodskaya.vec
 
 [Троицкая]
-;ЗИЛ
-;Крымская
-;Академическая
-;Вавиловская
+ЗИЛ=Zil.vec
+Крымская=Krymskaya.vec
+Академическая=Akademicheskaya.vec
+Вавиловская=Vavilovskaya.vec
 Новаторская=Novatorskaya.vec
 Университет дружбы народов=UniversitetDruzhbyNarodov.vec
 Генерала Тюленева=GeneralaTuleneva.vec
@@ -369,8 +369,10 @@ Type=Image
 Выхино=Vyhino.vec
 
 [МЦД4]
+Аминьевская=Aminyevskaya.vec
+Кутузовская=KutuzovskayaM.vec
+Москва-Сити=Moscow-City.vec
 Савёловская=Savelovskaya.vec
 Рижская=Rizhskaya.vec
 Серп и Молот=Rimskaya.vec
 Нижегородская=Nizhegorodskaya.vec
-Аминьевская=Aminyevskaya.vec

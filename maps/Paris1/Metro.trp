@@ -2,114 +2,98 @@
 Name=Ligne 1
 Stations=Chateau de Vincennes,Berault,St-Mande Tourelle,Porte de Vincennes,Nation,Reuilly Diderot,Gare de Lyon,Bastille,St Paul,Hotel de Ville,Chatelet,Louvre Rivoli,Palais Royal - Musee du Louvre,Tuileries,Concorde,Champs Elysees - Clemenceau,Franklin D. Roosevelt,George V,Ch. De Gaulle - Etoile,Argentine,Porte Maillot,Les Sablons,Pont de Neuilly,Esplanade de La Defense,La Defense
 Driving=1,1,2,1,2,1,1,2,2,1,1,1,1,2,1,2,1,1,2,1,2,1,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line2]
 Name=Ligne 2
 Stations=Nation,Avron,Alexandre Dumas,Philippe Auguste,Pere Lachaise,Menilmontant,Couronnes,Belleville,Colonel Fabien,Jaures,Stalingrad,La Chapelle,Barbes Rochechouart,Anvers,Pigalle,Blanche,Place de Clichy,Rome,Villiers,Monceau,Courcelles,Ternes,Ch. De Gaulle - Etoile,Victor Hugo,Porte Dauphine
 Driving=1,1,1,2,1,1,1,1,2,1,1,2,2,1,1,2,1,2,1,2,1,1,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line3]
 Name=Ligne 3
 Stations=Galieni,Porte de Bagnolet,Gambetta,Pere Lachaise,Saint-Maur,Parmentier,Republique,Temple,Arts et Metiers,Reaumur Sebastopol,Sentier,Bourse,4 Septembre,Opera,Havre Caumartin,Saint Lazare,Europe,Villiers,Malesherbes,Wagram,Pereire,Porte de Champerret,Louise Michel,Anatole France,Pont de Levallois - Becon
 Driving=1,1,2,1,1,2,1,1,1,1,2,1,1,1,1,2,1,2,1,1,1,1,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line4]
 Name=Ligne 3bis
 Stations=Gambetta,Pelleport,Saint Fargeau,Porte des Lilas
 Driving=1,1,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line5]
 Name=Ligne 4
 Stations=Porte De Clignancourt,Simplon,Marcadet Poissonniers,Chateau Rouge,Barbes Rochechouart,Gare du Nord,Gare de l'Est,Chateau d'eau,Strasbourg Saint Denis,Reaumur Sebastopol,Etienne Marcel,Les Halles,Chatelet,Cite,Saint Michel,Odeon,Saint Germain des Pres,Saint Sulpice,Saint Placide,Montparnasse Bienvenue,Vavin,Raspail,Denfert Rochereau,Mouton Duvernet,Alesia,Porte d'Orleans
 Driving=1,1,1,1,1,1,1,1,1,2,1,1,2,1,1,1,1,2,1,1,2,1,1,1,2
-DelayDay=2
-DelayNight=5
+Delays=2,5
 
 [Line6]
 Name=Ligne 5
 Stations=Bobigny - Pablo Picasso,Bobigny-Pantin - R. Queneau,Eglise de Pantin,Hoche,Porte de Pantin,Ourcq,Laumiere,Jaures,Stalingrad,Gare du Nord,Gare de l'Est,Jacques Bonsergent,Republique,Oberkampf,Richard Lenoir,Breguet Sabin,Bastille,Quai de la Rapee,Gare d'Austerlitz,Saint Marcel,Campo Formio,Place d'Italie
 Driving=3,2,1,2,1,1,2,1,2,3,2,1,2,1,2,1,2,2,1,1,3
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line7]
 Name=Ligne 6
 Stations=Nation,Picpus,Bel Air,Daumesnil,Dugommier,Bercy,Quai de la Gare,Chevaleret,Nationale,Place d'Italie,Corvisart,Glaciere,St Jacques,Denfert Rochereau,Raspail,Edgar Quinet,Montparnasse Bienvenue,Pasteur,Sevres Lecourbe,Cambronne,La Motte Picquet - Grenelle,Dupleix,Bir Hakeim,Passy,Trocadero,Boissiere,Kleber,Ch. De Gaulle - Etoile
 Driving=1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,2,1,1,2
-DelayDay=2
-DelayNight=6
+Delays=2,6
 
 [Line8]
 Name=Ligne 7
 Stations=La Courneuve - 8 Mai 1945,Fort d'Aubervilliers,Aubervilliers - Pantin - 4 Chemins,Porte de la Villette,Corentin Cariou,Crimee,Riquet,Stalingrad,Louis Blanc,Chateau Landon,Gare de l'Est,Poissonniere,Cadet,Le Peletier,Chaussee d'Antin - La Fayette,Opera,Pyramides,Palais Royal - Musee du Louvre,Pont Neuf,Chatelet,Pont Marie,Sully Morland,Jussieu,Place Monge,Censier Daubenton,Les Gobelins,Place d'Italie,Tolbiac,Maison Blanche(Porte d'Italie,Tolbiac,Le Kremlin - Bicetre),Porte d'Italie,Porte de Choisy,Porte d'Ivry,Pierre Curie,Mairie d'Ivry(,Pierre Curie),Le Kremlin - Bicetre(Villejuif - Leo Lagrange,Maison Blanche),Villejuif - Leo Lagrange,Vjuif - P.Vaillant-Couturier,Villejuif - Louis Aragon
 Driving=1,2,2,1,1,1,1,2,1,2,1,2,1,1,2,1,1,2,1,2,1,2,1,1,1,2,1,1,(1,1,2),1,2,1,3,(,3),(2,2),2,2
-DelayDay=2
-DelayNight=5
+Delays=2,5
 
 [Line9]
 Name=Ligne 7bis
 Stations=Louis Blanc,Jaures,Bolivar,Buttes Chaumont,Botzaris,Place des Fetes(Pre St Gervais),Pre St Gervais(Danube),Danube(-Botzaris)
 Driving=1,1,1,1,1,(3),(1),(2)
-DelayDay=4
-DelayNight=7
+Delays=4,7
 
 [Line10]
 Name=Ligne 8
 Stations=Balard,Lourmel,Boucicaut,Felix Faure,Commerce,La Motte Picquet - Grenelle,Ecole Militaire,Latour Maubourg,Invalides,Concorde,Madeleine,Opera,Richelieu Drouot,Rue Montmartre,Bonne Nouvelle,Strasbourg Saint Denis,Republique,Filles du Calvaire,St Sebastien - Froissart,Chemin Vert,Bastille,Ledru Rollin,Faidherbe - Chaligny,Reuilly Diderot,Montgallet,Daumesnil,Michel Bizot,Porte Doree,Porte de Charenton,Liberte,Charenton - Ecoles,Alfort - Ecole Veterinaire,Maisons-Alfort Stade,Maisons-Alfort Les Juilliottes,Creteil - L'Echat,Creteil Universite,Creteil Prefecture
 Driving=1,1,1,1,1,2,1,1,2,2,1,1,2,1,1,1,1,1,1,1,1,2,1,2,1,2,1,2,2,1,2,2,2,2,1,3
-DelayDay=2
-DelayNight=6
+Delays=2,6
 
 [Line11]
 Name=Ligne 9
 Stations=Mairie de Montreuil,Croix de Chavaux,Robespierre,Porte de Montreuil,Maraichers,Buzenval,Nation,Boulets Montreuil,Charonne,Voltaire,Saint Ambroise,Oberkampf,Republique,Strasbourg Saint Denis,Bonne Nouvelle,Rue Montmartre,Richelieu Drouot,Chaussee d'Antin - La Fayette,Havre Caumartin,Saint Augustin,Miromesnil,St Philippe du Roule,Franklin D. Roosevelt,Alma Marceau,Iena,Trocadero,Rue de la Pompe,La Muette,Ranelagh,Jasmin,Michel-Ange Auteuil,Michel-Ange Molitor,Exelmans,Porte de St Cloud,Marcel Sembat,Billancourt,Pont de Sevres
 Driving=1,2,2,1,2,1,2,1,1,1,2,2,1,1,1,2,1,1,1,2,1,2,1,2,1,1,3,1,1,2,1,1,2,1,2,2
-DelayDay=2
-DelayNight=6
+Delays=2,6
 
 [Line12]
 Name=Ligne 10
 Stations=Boulogne - Pont de St Cloud,Boulogne - Jean Jaures,Michel-Ange Molitor(Chardon Lagache),Chardon Lagache(Mirabeau),Mirabeau(Javel),Porte d'Auteuil(,Boulogne - Jean Jaures),Michel-Ange Auteuil(,Porte d'Auteuil),Eglise d'Auteuil(,Michel-Ange Auteuil),Javel,Charles Michels,Avenue Emile Zola,La Motte Picquet - Grenelle,Segur,Duroc,Vaneau,Sevres Babylone,Mabillon,Odeon,Cluny - La Sorbonne,Maubert Mutualite,Cardinal Lemoine,Jussieu,Gare d'Austerlitz
 Driving=1,2,(1),(2),(1),(,3),(,1),(,2),(2,1),1,1,2,1,2,1,1,2,1,1,1,1,3
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line13]
 Name=Ligne 11
 Stations=Mairie des Lilas,Porte des Lilas,Telegraphe,Place des Fetes,Jourdain,Pyrenees,Belleville,Goncourt,Republique,Arts et Metiers,Rambuteau,Hotel de Ville,Chatelet
 Driving=1,1,1,1,1,1,1,1,2,1,1,2
-DelayDay=2
-DelayNight=4
+Delays=2,4
 
 [Line14]
 Name=Ligne 12
 Stations=Mairie d'Issy,Corentin Celton,Porte de Versailles,Convention,Vaugirard,Volontaires,Pasteur,Falguiere,Montparnasse Bienvenue,Notre-Dame des Champs,Rennes,Sevres Babylone,Rue du Bac,Solferino,Assemblee Nationale,Concorde,Madeleine,Saint Lazare,Trinite,Notre Dame de Lorette,Saint Georges,Pigalle,Abbesses,Lamarck Caulaincourt,Jules Joffrin,Marcadet Poissonniers,Marx Dormoy,Porte de la Chapelle
 Driving=1,1,1,1,1,1,2,1,1,2,1,1,1,1,1,2,2,1,1,2,1,1,1,2,1,2,2
-DelayDay=3
-DelayNight=5
+Delays=3,5
 
 [Line15]
 Name=Ligne 13
-Stations=Chatillon Montrouge,Malakoff - Rue Etienne Dolet,Malakoff - Plateau de Vanves,Porte de Vanves,Plaisance,Pernety,Gaite,Montparnasse Bienvenue,Duroc,St Francois Xavier,Varenne,Invalides,Champs Elysees - Clemenceau,Miromesnil,Saint Lazare,Liege,Place de Clichy,La Fourche(Brochant,Place de Clichy,Guy Moquet),Brochant,Porte de Clichy,Mairie de Clichy,Gabriel Peri,Les Angnettes,Asnieres Gennevilliers Les Courtilles(,Mairie de Clichy),Guy Moquet(Porte de St Ouen,La Fourche),Porte de St Ouen,Garibaldi,Mairie de St Ouen,Carrefour Pleyel,Saint Denis - Porte de Paris,Saint Denis - Basilique,Saint Denis - Universite
+Stations=Chatillon Montrouge,Malakoff - Rue Etienne Dolet,Malakoff - Plateau de Vanves,Porte de Vanves,Plaisance,Pernety,Gaite,Montparnasse Bienvenue,Duroc,St Francois Xavier,Varenne,Invalides,Champs Elysees - Clemenceau,Miromesnil,Saint Lazare,Liege,Place de Clichy,La Fourche(Brochant,Place de Clichy,Guy Moquet),Brochant,Porte de Clichy,Mairie de Clichy,Gabriel Peri,Les Angnettes,Asnieres Gennevilliers Les Courtilles(,Les Angnettes),Guy Moquet(Porte de St Ouen,La Fourche),Porte de St Ouen,Garibaldi,Mairie de St Ouen,Carrefour Pleyel,Saint Denis - Porte de Paris,Saint Denis - Basilique,Saint Denis - Universite
 Driving=1,2,2,1,1,2,1,2,1,1,1,2,2,2,1,1,1,(2,1,2),1,2,2,2,2,(,2),(2,2),1,3,2,2,2,3
 ;Driving=1,2,2,1,1,2,1,2,1,1,1,2,2,2,1,1,1,(2,1,2),1,2,2,2,2,(,2),(2,2),1,3,2,2,2,3
-DelayDay=3
-DelayNight=4
+Delays=3,4
 
 [Line16]
 Name=Ligne 14
 Stations=Olympiades,Bibliotheque Francois Mitterrand,Cour St-Emilion,Bercy,Gare de Lyon,Chatelet,Pyramides,Madeleine,Saint Lazare
 Driving=1,1,1,1,3,2,2,1
-DelayDay=2
-DelayNight=4
+Delays=2,4
 
 [Transfers]
 01=Ligne 1,Nation,Ligne 2,Nation, 2
@@ -228,4 +212,3 @@ DelayNight=4
 125=Ligne 14,Saint Lazare,Ligne 13,Saint Lazare, 2
 126=Ligne 14,Saint Lazare,Ligne 12,Saint Lazare, 2
 
-[]

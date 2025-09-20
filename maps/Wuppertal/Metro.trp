@@ -2,7 +2,5 @@
 Name=Schwebebahn
 Stations=Vohwinkel,Bruch,Hammerstein,Sonnborner Strasse,Zoo / Stadion,Varresbecker Strasse,Westende,Pestalozzi Strasse,Robert-Daum-Platz,Ohligsmuhle,Hauptbahnhof,Kluse,Landgericht,Volklinger Strasse,Loher Brucke,Adler Brucke,Alter Markt,Werther Brucke,Wupperfeld,Oberbarmen
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=5
-DelayNight=10
+Delays=5,10
 
-[]

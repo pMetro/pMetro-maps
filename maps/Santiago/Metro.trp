@@ -3,40 +3,35 @@ Name=L1
 LineMap=1 linea.map
 Stations=San Pablo,Neptuno,Pajaritos,Las Rejas,Ecuador,San Alberto Hurtado,U. de Santiago,Estacion Central,Union Latino - Americana,Republica,Los Heroes,La Moneda,U. de Chile,Santa Lucia,U. Catolica,Baquedano,Salvador,Manuel Montt,Pedro de Valdivia,Los Leones,Tobalaba,El Golf,Alcantara,Escuela Militar,Manquehue,Hernando de Magallanes,Los Dominicos
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line2]
 Name=L2
 LineMap=2 linea.map
 Stations=La Cisterna,El Parron,Lo Ovalle,Cuidad del Nino,Departamental,Lo Vial,San Miguel,El Llano,Franklin,Rondizzoni Famae,Parque O'Higgins,Toesca,Los Heroes,Santa Ana,Cal y Canto,Patronato,Cerro Blanco,Cementerios,Einstein,Dorsal,Zapadores,Vespucio Norte
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line3]
 Name=L5
 LineMap=3 linea.map
 Stations=Plaza de Maipu,Santiago Bueras,Del Sol,Monte Tabor,Las Parcelas,Laguna Sur,Barrancas,Pudahuel,San Pablo,Lo Prado,Blanqueado,Gruta de Lourdes,Quinta Normal,Cumming,Santa Ana,Plaza de Armas,Bellas Artes,Baquedano,P. Bustamante,Sta Isabel,Irarrazaval,Nuble,R. de Araya,C. Valdovinos,C. Agricola,San Joaquin,Pedrero,Mirador,Bellavista de la Florida,Vicente Valdes
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line4]
 Name=L4
 LineMap=4 linea.map
 Stations=Tobalaba,Cristobal Colon,Francisco Bilbao,Principe de Gales,Simon Bolivar,Plaza Egana,Los Orientales,Grecia,Los Presidentes,Quilin,Las Torres,Macul,Vicuna Mackenna,Vicente Valdes,Rojas Magallanes,Trinidad,Los Quillayes,Elisa Correa,Hospital Sotero del Rio,Protectora de la Infancia,Las Mercedes,Plaza de Puente Alto
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line5]
 Name=L4A
 LineMap=5 linea.map
 Stations=Vicuna Mackenna,Santa Julia,La Granja,Santa Rosa,San Ramon,La Cisterna
 Driving=2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Transfers]
 1=L1, Los Heroes, L2, Los Heroes, 2

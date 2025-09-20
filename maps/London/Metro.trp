@@ -3,8 +3,7 @@ Name=Bakerloo
 LineMap=Bakerloo.map
 Stations=Harrow & Wealdstone,Kenton,South Kenton,North Wembley,Wembley Central,Stonebridge Park,Harlesden,Willesden Junction,Kensal Green,Queen's Park,Kilburn Park,Maida Vale,Warwick Avenue,Paddington,Edgware Road,Marylebone,Baker Street,Regent's Park,Oxford Circus,Piccadilly Circus,Charing Cross,Embankment,Waterloo,Lambeth North,Elephant & Castle
 Driving=3,2,1,2,3,2,2,3,3,2,1,2,2,2,1,1,2,2,2,2,1,1,2,2
-DelayDay=4
-DelayNight=8
+Delays=4,8
 
 [Line2]
 Name=Central
@@ -12,16 +11,14 @@ LineMap=Central.map
 Stations=West Ruislip,Ruislip Gardens,South Ruislip,Nortolt,Greenford,Perivale,Hanger Lane(North Acton,Perivale),Ealing Broadway(West Acton),West Acton,North Acton(East Acton,Hanger Lane,,West Acton),East Acton,White City,Shepherd's Bush,Holland Park,Notting Hill Gate,Queensway,Lancaster Gate,Marble Arch,Bond Street,Oxford Circus,Tottenham Court Road,Holborn,Chancery Lane,St.Paul's,Bank,Liverpool Street,Bethnal Green,Mile End,Stratford,Leyton,Leytonstone(Snaresbrook,Leyton,Wanstead),Snaresbrook,South Woodford,Woodford I,Buckhurst Hill,Loughton,Debden,Theydon Bois,Epping(,Theydon Bois),Wanstead(Redbridge,Leytonstone),Redbridge,Gants Hill,Newbury Park,Barkingside,Fairlop,Hainault,Grange Hill,Chigwell,Roding Valley,Woodford II
 Aliases=Woodford I,Woodford,Woodford II,Woodford
 Driving=4,2,3,2,3,3,(3,3),(3),3,(2,3,,3),3,2,2,1,2,2,2,2,1,2,1,2,2,2,2,2,3,3,4,3,(2,3,3),3,2,2,4,2,4,4,(,4),(3,3),2,3,4,2,2,2,2,2,4
-DelayDay=4
-DelayNight=8
+Delays=4,8
 
 [Line3]
 Name=Circle
 LineMap=Circle.map
 Stations=Baker Street(Great Portland Street,Edgware Road),Great Portland Street,Euston Square,King's Cross St.Pancras,Farringdon,Barbican,Moorgate,Liverpool Street,Aldgate,Tower Hill,Monument,Cannon Street,Mansion House,Blackfriars,Temple,Embankment,Westminster,St.James's Park,Victoria,Sloane Square,South Kensington,Gloucester Road,High Street Kensington,Notting Hill Gate,Bayswater,Paddington,Edgware Road(Baker Street,Paddington)
 Driving=(2,3),2,2,3,2,1,2,2,2,2,1,1,1,2,1,2,1,2,2,2,2,3,3,2,2,4,(3,4)
-DelayDay=4
-DelayNight=8
+Delays=4,8
 
 [Line4]
 Name=District
@@ -29,8 +26,7 @@ LineMap=District.map
 Stations=Upminster,Upminster Bridge,Hornchurch,Elm Park,Dagenham East,Dagenham Heathway,Becontree,Upney,Barking,East Ham,Upton Park,Plaistow,West Ham,Bromley-by-Bow,Bow Road,Mile End,Stepney Green,Whitechapel,Aldgate East,Tower Hill,Monument,Cannon Street,Mansion House,Blackfriars,Temple,Embankment,Westminster,St.James's Park,Victoria,Sloane Square,South Kensington,Gloucester Road,Earl's Court II(West Kensington,Gloucester Road,West Brompton),West Kensington,Barons Court,Hammersmith,Ravenscourt Park,Stamford Brook,Turnham Green(Chiswich Park,Stamford Brook,Gunnersbury),Chiswich Park,Acton Town,Ealing Common,Ealing Broadway(,Ealing Common),Gunnersbury(Kew Gardens,Turnham Green),Kew Gardens,Richmond(,Kew Gardens),West Brompton(Fulham Broadway,Earl's Court II),Fulham Broadway,Parsons Green,Putney Bridge,East Putney,Southfields,Wimbledon Park,Wimbledon(,Wimbledon Park),Edgware Road(Paddington),Paddington,Bayswater,Notting Hill Gate,High Street Kensington,Earl's Court I,Kensington Olympia
 Aliases=Earl's Court I,Earl's Court,Earl's Court II,Earl's Court
 Driving=2,2,2,3,2,2,3,2,3,2,2,1,2,2,2,2,2,2,2,2,1,1,1,2,1,2,1,2,2,2,2,2,(2,2,2),2,1,2,1,2,(2,2,2),2,2,3,(,3),(3,2),3,(,3),(1,2),2,3,2,2,2,3,(,3),(2),2,2,2,3,3
-DelayDay=4
-DelayNight=8
+Delays=4,8
 
 [Line5]
 Name=East London
@@ -38,24 +34,21 @@ LineMap=EastLondon.map
 Stations=Shoreditch,Whitechapel,Shadwell,Wapping,Rotherhithe,Canada Water,Surrey Quays(New Cross Gate,Canada Water,New Cross),New Cross(,Surrey Quays),New Cross Gate(,Surrey Quays)
 ;Driving=0,2,2,1,1,2,(3,2,4),(,4),(,3)
 Driving=0,0,0,0,0,0,(),(),()
-DelayDay=4
-DelayNight=8
+Delays=4,8
 
 [Line6]
 Name=Hammersmith & City
 LineMap=Circle.map
 Stations=Hammersmith,Goldhawk Road,Shepherd's Bush,Wood Lane,Latimer Road,Ladbroke Grove,Westbourne Park,Royal Oak,Paddington,Edgware Road,Baker Street,Great Portland Street,Euston Square,King's Cross St.Pancras,Farringdon,Barbican,Moorgate,Liverpool Street,Aldgate East,Whitechapel,Stepney Green,Mile End,Bow Road,Bromley-by-Bow,West Ham,Plaistow,Upton Park,East Ham,Barking
 Driving=3,1,1,1,1,2,2,1,3,(2,2),(2,3),2,2,3,2,1,2,2,2,2,2,2,2,2,1,2,2,3
-DelayDay=4
-DelayNight=8
+Delays=4,8
 
 [Line7]
 Name=Jubilee
 LineMap=Jubilee.map
 Stations=Stanmore,Canons Park,Queensbury,Kingsbury,Wembley Park,Neasden,Dollis Hill,Willesden Green,Kilburn,West Hampstead,Finchley Road,Swiss Cottage,St. John's Wood,Baker Street,Bond Street,Green Park,Westminster,Waterloo,Southwark,London Bridge,Bermondsey,Canada Water,Canary Wharf,North Greenwich,Canning Town,West Ham,Stratford
 Driving=2,3,2,4,3,2,2,2,2,1,2,2,3,3,2,3,2,1,2,3,2,3,2,3,3,3
-DelayDay=4
-DelayNight=8
+Delays=4,8
 
 [Line8]
 Name=Metropolitan
@@ -63,8 +56,7 @@ LineMap=Metropolitan.map
 Stations=Aldgate,Liverpool Street,Moorgate,Barbican,Farringdon,King's Cross St.Pancras,Euston Square,Great Portland Street,Baker Street,Finchley Road,Wembley Park,Preston Road,Northwick Park,Harrow-on-the-Hill(North Harrow,Northwick Park,West Harrow),North Harrow,Pinner,Northwood Hills,Northwood,Moor Park(Rickmansworth,Northwood,Croxley),Rickmansworth,Chorleywood,Chalfont & Latimer II,Amersham(,Chalfont & Latimer II),Croxley(Watford,Moor Park),Watford(,Croxley),Chalfont & Latimer I(Chesham),Chesham(,Chalfont & Latimer I),West Harrow(Rayners Lane,Harrow-on-the-Hill),Rayners Lane,Eastcote,Ruislip Manor,Ruislip,Ickenham,Hillingdon,Uxbridge
 Aliases=Chalfont & Latimer I,Chalfont & Latimer,Chalfont & Latimer II,Chalfont & Latimer,
 Driving=2,2,1,2,3,2,2,2,6,7,3,2,3,(3,3,2),2,3,2,3,(4,3,4),4,4,4,(,4),(3,4),(,3),(8),(,8),(3,2),2,2,2,3,2,3
-DelayDay=4
-DelayNight=8
+Delays=4,8
 
 [Line9]
 Name=Northern
@@ -72,40 +64,35 @@ LineMap=Northern.map
 Stations=High Barnet,Totteridge & Whetstone,Woodside Park,West Finchley,Finchley Central(East Finchley,West Finchley,,Mill Hill East),East Finchley,Highgate,Archway,Tufnell Park,Kentish Town(Camden Town,Tufnell Park),Mill Hill East(Finchley Central),Edgware(Burnt Oak),Burnt Oak,Colindale,Hendon Central,Brent Cross,Golders Green,Hampstead,Belsize Park,Chalk Farm,Camden Town(Euston I,Kentish Town,Mornington Crescent,Chalk Farm),Mornington Crescent,Euston II,Warren Street,Goodge Street,Tottenham Court Road,Leicester Square,Charing Cross,Embankment,Waterloo(Kennington,Embankment),Euston I(King's Cross St.Pancras,Camden Town),King's Cross St.Pancras,Angel,Old Street,Moorgate,Bank,London Bridge,Borough,Elephant & Castle,Kennington(Oval,Waterloo,,Elephant & Castle),Oval,Stockwell,Clapham North,Clapham Common,Clapham South,Balham,Tooting Bec,Tooting Broadway,Colliers Wood,South Wimbledon,Morden
 Aliases=Euston I,Euston,Euston II,Euston
 Driving=4,2,2,2,(4,2,,3),2,3,2,2,(2,2),(3),(3),2,3,2,3,4,2,2,2,(3,2,2,2),1,1,2,1,1,2,1,2,(3,2),(2,3),2,3,2,2,2,1,2,2,(2,3,,2),2,2,1,2,2,2,2,2,2,3
-DelayDay=4
-DelayNight=8
+Delays=4,8
 
 [Line10]
 Name=Piccadilly
 LineMap=Piccadilli.map
 Stations=Cockfosters,Oakwood,Southgate,Arnos Grove,Bounds Green,Wood Green,Turnpike Lane,Manor House,Finsbury Park,Arsenal,Holloway Road,Caledonian Road,King's Cross St.Pancras,Russell Square,Holborn,Covent Garden,Leicester Square,Piccadilly Circus,Green Park,Hyde Park Corner,Knightsbridge,South Kensington,Gloucester Road,Earl's Court,Barons Court,Hammersmith,Turnham Green,Acton Town(Ealing Common,Turnham Green,South Ealing),Ealing Common,North Ealing,Park Royal,Alperton,Sudbury Town,Sudbury Hill,South Harrow,Rayners Lane,Eastcote,Ruislip Manor,Ruislip,Ickenham,Hillingdon,Uxbridge(,Hillingdon),South Ealing(Northfields,Acton Town),Northfields,Boston Manor,Osterley,Hounslow East,Hounslow Central,Hounslow West,Hatton Cross("Heathrow Terminals 1,2,3",Hounslow West,Heathrow Terminal 4),Heathrow Terminal 4("-Heathrow Terminals 1,2,3"),"Heathrow Terminals 1,2,3"(Heathrow Terminal 5,Hatton Cross),Heathrow Terminal 5
 Driving=2,3,3,3,2,2,3,2,1,2,1,3,2,1,2,1,2,1,2,1,3,1,2,3,2,4,3,(2,3,3),2,2,3,2,2,3,3,2,2,2,3,2,3,(,3),(1,3),2,3,2,1,2,4,(3,4,3),(2),(2,3)
-DelayDay=4
-DelayNight=8
+Delays=4,8
 
 [Line11]
 Name=Victoria
 LineMap=Victoria.map
 Stations=Walthamstow Central,Blackhorse Road,Tottenham Hale,Seven Sisters,Finsbury Park,Highbury & Islington,King's Cross St.Pancras,Euston,Warren Street,Oxford Circus,Green Park,Victoria,Pimlico,Vauxhall,Stockwell,Brixton
 Driving=2,2,2,4,3,3,2,1,2,2,2,2,1,3,2
-DelayDay=4
-DelayNight=8
+Delays=4,8
 
 [Line12]
 Name=Waterloo & City
 LineMap=WaterlooAndCity.map
 Stations=Waterloo,Bank
 Driving=4
-DelayDay=4
-DelayNight=8
+Delays=4,8
 
 [Line13]
 Name=Docklands Light Railway
 LineMap=DLR.map
 Stations=Bank(Shadwell),Tower Gateway(Shadwell),Shadwell(Limehouse,Tower Gateway,,Bank),Limehouse,Westferry(West India Quay,Limehouse,Poplar),West India Quay(Canary Wharf,Poplar,,Westferry),Canary Wharf,Heron Quays,South Quay,Crossharbor&London Arena,Mudchute,Island Gardens,Cutty Sark,Greenwich,Deptford Bridge,Elverson Road,Lewisham(,Elverson Road),Poplar(West India Quay,Westferry,Blackwall,All Saints),All Saints(Poplar,Devons Road),Devons Road(All Saints,Bow Church),Bow Church(Devons Road,Pudding Mill Lane),Pudding Mill Lane(Bow Church,Stratford),Stratford(Pudding Mill Lane),Blackwall(East India,Poplar),East India,Canning Town(West Silverstown,East India,Royal Victoria),West Silverstown,Pontoon Dock,London City Airport,King George V,Woolwich Arsenal(,King George V),Royal Victoria(Custom House,Canning Town),Custom House,Prince Regent,Royal Albert,Beckton Park,Cyprus,Gallions Reach,Beckton
 Driving=(5),(3),(2,3,,5),2,(2,2,2),(1,1,,2),1,1,2,2,1,2,2,2,2,2,(,2),(1,2,2,2),(2,4),(4,2),(2,2),(2,2),(2),(1,2),2,(4,2,2),2,2,2,4,(,4),(2,2),2,2,2,2,2,2
-DelayDay=10
-DelayNight=10
+Delays=10,10
 
 [Transfers]
 01=Bakerloo,Paddington,Circle,Paddington, 1
@@ -278,4 +265,3 @@ g8=Docklands Light Railway,Stratford,Central,Stratford, 2
 g9=Docklands Light Railway,Stratford,Jubilee,Stratford, 2
 h0=Docklands Light Railway,Canning Town,Jubilee,Canning Town, 2
 
-[]

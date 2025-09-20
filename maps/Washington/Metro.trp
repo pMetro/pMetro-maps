@@ -2,36 +2,31 @@
 Name=Red Line
 Stations=Shady Grove,Rockville,Twinbrook,White Flint,Grosvenor-Strathmore,Medical Center,Bethesda,Friendship Heights,Tenleytown-American University,Van Ness-University of the District of Columbia,Cleveland Park,Woodley Park-Zoo/Adams Morgan,Dupont Circle,Farragut North,Metro Center,Gallery Place-Chinatown,Judiciary Square,Union Station,New York Avenue,Rhode Island Avenue,Brookland-Catholic University of America,Fort Totten,Takoma,Silver Spring,Forest Glen,Wheaton,Glenmont
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line2]
 Name=Green Line
 Stations=Greenbelt,College Park-University of Maryland,Prince George\,West Hyattsville,Fort Totten,Georgia Ave-Petworth,Columbia Heights,U Street/African-Amer Civil War Memorial/Cardozo,Shaw-Howard University,Mt Vernon Square-University of the District of Columbia,Gallery Place-Chinatown,Archives-Navy Memorial,L'Enfant Plaza,Waterfront-SEU,Navy Yard,Anacostia,Congress Heights,Southern Ave,Naylor Road,Sultland,Branch Ave
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line3]
 Name=Blue Line
 Stations=Franconia-Springfield,Van Dorn Street,King Street,Braddock Road,National Airport,Crystal City,Pentagon City,Pentagon,Arlington Cemetery,Rosslyn,Foggy Bottom-George Washington University,Farragut West,McPherson Square,Metro Center,Federal Triangle,Smithsonian,L'Enfant Plaza,Federal Center-Southwest,Capitol South,Eastern Market,Potomac Avenue,Stadium-Armory,Benning Road,Capitol Heights,Addison Road Seat Pleasant,Morgan Boulevard,Largo Town Center
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line4]
 Name=Orange Line
 Stations=Vienna/Fairfax-George Mason University,Dunn Loring-Merrifield,West Falls Church-VT/UVA,East Falls Church,Ballston-MU,Virginia Square-George Mason University,Clarendon,Court House,Rosslyn,Foggy Bottom-George Washington University,Farragut West,McPherson Square,Metro Center,Federal Triangle,Smithsonian,L'Enfant Plaza,Federal Center-Southwest,Capitol South,Eastern Market,Potomac Avenue,Stadium-Armory,Minnesota Avenue,Deanwood,Cheverly,Landover,New Carrollton
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line5]
 Name=Yellow Line
 Stations=Huntington,Eisenhower Avenue,King Street,Braddock Road,National Airport,Crystal City,Pentagon City,Pentagon,L'Enfant Plaza,Archives-Navy Memorial,Gallery Place-Chinatown,Mt Vernon Square-University of the District of Columbia
 Driving=2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Transfers]
 01=Red Line,Metro Center,Blue Line,Metro Center, 2

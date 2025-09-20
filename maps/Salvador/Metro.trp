@@ -2,12 +2,10 @@
 Name=Linha 1
 Stations=Lapa,Campo da Polvora,Brotas,Bonoco,Acesso Norte,Retiro,Bon Jua,Piraja,Mata Escura,Pau de Lima,Cajazeiras
 Driving=2,2,2,2,2,2,2,0,0,0
-DelayDay=15
-DelayNight=30
+Delays=15,30
 
 [Line2]
 Name=Linha 2
 Stations=Bonoco,Detran,Rodoviaria,Pernambues,Imbui,Centro Administrativo da Bahia,Pituacu,Flamboyant,Tamburugy,Bairro da Paz,Mussurunga,Aeroporto,Lauro de Freitas
 Driving=0,0,0,0,0,0,0,0,0,0,0,0
-DelayDay=15
-DelayNight=30
+Delays=15,30

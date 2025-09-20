@@ -2,29 +2,25 @@
 Name=Omni Loop
 Stations=School Board,Omni,Bicentennial Park,Eleventh Street,Park West,Freedom Tower,College North(Arena/State Plaza),Arena/State Plaza(Government Center),Government Center(Third Street),Third Street(Knight Center),Knight Center(Bayfront Park),Bayfront Park(First Street),First Street(College/Bayside),College/Bayside(-Freedom Tower)
 Driving=2,2,2,2,2,2,(2),(2),(2),(2),(2),(2),(2),(2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line2]
 Name=Brickell Loop
 Stations=Financial District,Brickell,Tenth Street,Eighth Street,Fifth Street,Riverwalk,Knight Center(Bayfront Park),Bayfront Park(First Street),First Street(College/Bayside),College/Bayside(College North),College North(Arena/State Plaza),Arena/State Plaza(Government Center),Government Center(Third Street),Third Street(-Riverwalk)
 Driving=2,2,2,2,2,2,(2),(2),(2),(2),(2),(2),(2),(2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line3]
 Name=Downtown Loop
 Stations=Miami Avenue,Government Center(Arena/State Plaza),Arena/State Plaza(College North),College North(College/Bayside),College/Bayside(First Street),First Street(Bayfront Park),Bayfront Park(Knight Center),Knight Center(Miami Avenue)
 Driving=2,(2),(2),(2),(2),(2),(2),(2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line4]
 Name=Metrorail
 Stations=Miami International Airport(Earlington Heights),Palmetto(Okeechobee),Okeechobee,Hialeah,Tri-Rail,Northside,Dr Martin Luther King Jr.,Brownsville,Earlington Heights(Allapattah,Brownsville,,Miami International Airport),Allapattah,Santa Clara,Civic Center,Culmer,Overtown/Arena,Government Center,Brickell,Vizcaya,Coconut Grove,Douglas Road,University,South Miami,Dadeland North,Dadeland South
 Driving=(2),(2),2,2,2,2,2,2,(2,2,,2),2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Transfers]
 01=Omni Loop,College North,Brickell Loop,College North, 2

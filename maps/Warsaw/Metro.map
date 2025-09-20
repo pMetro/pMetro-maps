@@ -1,51 +1,13 @@
 [Options]
-;ImageFileName=Metro_warsaw.gif
-ImageFileName=Warsaw.vec
+ImageFileName=Warsaw.gif,Warsaw.vec
 StationDiameter=15
 LinesWidth=9
-;IsVector=0
-UpperCase=false
+IsVector=0
 
 [I linia]
 Color=07397D
 LabelsColor=07397D
-Coordinates=232,400, 256,416, 281,436, 303,452, 337,476, 368,487, 393,530, 414,581, 423,623, 438,654, 446,693, 430,742, 439,774, 451,814, 472,853, 479,890, 481,936, 509,967, 531,987, 553,1018, 579,1054
-Rects=181,393,41,15, 179,415,66,15, 230,432,40,28, 244,457,53,15, 277,474,51,15, 318,488,42,28, 335,519,47,28, 362,568,41,28, 339,606,74,15, 452,658,44,15, 457,686,63,15, 441,730,67,28, 450,766,60,15, 462,805,48,15, 483,843,62,15, 490,882,37,15, 492,925,46,15, 520,955,45,15, 543,977,35,15, 564,1008,37,15, 590,1047,37,15
-Rects2=
-Rect=32,1089,150,17
+Coordinates=143,238, 163,254, 181,268, 209,290, 228,305, 246,319, 268,352, 283,382, 294,409, 298,424, 306,462, 304,499, 310,523, 316,547, 322,570, 327,602, 330,630, 343,645, 361,667, 377,686, 393,716
+Rects=79,230,59,10, 65,251,92,11, 77,270,99,10, 125,290,76,9, 149,306,71,9, 163,322,81,9, 137,351,124,9, 168,379,113,9, 238,394,53,20, 305,429,61,12, 314,458,86,13, 196,486,95,24, 215,522,84,9, 239,545,66,9, 223,568,88,10, 264,598,52,12, 254,627,64,11, 264,646,68,11, 304,667,44,9, 312,686,54,10, 333,715,50,10
+Rect=23,809,150,17
 
-[II linia]
-Color=D6221A
-LabelsColor=D6221A
-Coordinates=104,652, 134,614, 173,616, 225,611, 256,615, 286,619, 310,623, 335,640, 361,655, 410,640, 449,628, 483,619, 522,583, 497,549, 525,515, 544,483, 566,407, 527,384, 482,379
-Rects=96,662,15,51, 127,624,15,49, 165,626,15,110, 217,621,15,68, 248,625,15,39, 277,629,15,31, 301,633,15,36, 319,653,15,107, 353,665,15,59, 392,655,15,74, 459,631,91,28, 504,610,79,28, 532,576,52,28, 440,536,47,28, 535,514,51,15, 554,476,50,15, 576,399,40,15, 502,360,75,15, 402,374,70,15
-Rects2=
-Rect=32,1111,150,17
-
-[III linia]
-Color=056032
-LabelsColor=056032
-Coordinates=522,583, 537,557, 584,562, 625,591, 628,627, 629,665, 669,681
-Rects=0,0,0,0, 517,533,70,15, 594,544,76,15, 635,584,68,15, 638,619,72,15, 639,648,26,15, 679,674,30,15
-Rects2=
-Rect=32,1133,237,17
-
-[AdditionalNodes]
-1=II linia,Lazurowa,Chrzanow, 119,615, 109,634, spline
-2=II linia,ONZ Rondo,Rondo Daszynskiego, 341,655, spline
-3=II linia,Rondo Daszynskiego,Plocka, 328,627, spline
-4=II linia,Centrum Nauki Kopernik,Stadion Narodowy, 516,595, spline
-5=II linia,Stadion Narodowy,Dworzec Wilenski, 517,567, spline
-6=II linia,Dworzec Wilenski,Szwedzka, 499,531, spline
-7=II linia,Szwedzka,Targowek, 539,503, spline
-8=II linia,Targowek,Zacisze, 549,465, 570,439, spline
-9=II linia,Zacisze,Kondratowicza, 554,386, spline
-10=I linia,Centrum,Politechnika, 446,672, spline
-11=I linia,Politechnika,Pole Mokotowskie, 442,712, 429,723, spline
-12=I linia,Wilanowska,Wierzbno, 459,836, spline
-13=I linia,Wilanowska,Sluzew, 478,867, spline
-14=I linia,Ursynow,Sluzew, 479,925, spline
-15=III linia,Praga Centrum,Dw.Wschodni, 525,567, spline
-16=III linia,Dw.Wschodni,Podskarbinska, 553,555, spline
-17=III linia,Podskarbinska,R.Wiatraczna, 594,565, 606,565, 622,571, spline
-18=III linia,R.Wiatraczna,Ostrobramska, 625,610, spline

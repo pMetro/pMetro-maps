@@ -76,4 +76,3 @@ Vauxhall=Tate Britain
 
 [Waterloo & City]
 
-[]

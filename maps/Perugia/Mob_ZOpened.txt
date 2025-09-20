@@ -13,4 +13,3 @@ Caption=z
 Cupa=
 Pincetto=
 
-[]

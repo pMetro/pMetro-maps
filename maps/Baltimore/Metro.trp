@@ -2,29 +2,25 @@
 Name=Metro Subway
 Stations=Owings Mills,Old Court,Milford Mill,Reisterstown Plaza,Rogers Avenue,West Cold Spring,Mondawmin,Penn North,Upton,State Center,Lexington Market,Charles Center,Shot Tower,Hopkins Hospital
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line2]
 Name=Timonium-Cromwell Station/Glen Burnie
 Stations=Timonium,Timonium Business Park,Lutherville,Falls Road,Mt. Washington,Cold Spring Lane,Woodberry,North Avenue,University of Baltimore/Mt. Royal,Cultural Center,Centre Street,Lexington Market,University Center/Baltimore Street,Convention Center,Camden Yards,Hamburg Street,Westport,Cherry Hill,Patapsco,Baltimore Highlands,Nursery Road,North Linthicum,Linthicum,Ferndale,Cromwell Station/Glen Burnie
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line3]
 Name=Hunt Valley-BWI Airport
 Stations=Hunt Valley,Pepper Road,McCormick Road,Gilroy Road,Warren Road,Timonium,Timonium Business Park,Lutherville,Falls Road,Mt. Washington,Cold Spring Lane,Woodberry,North Avenue,University of Baltimore/Mt. Royal,Cultural Center,Centre Street,Lexington Market,University Center/Baltimore Street,Convention Center,Camden Yards,Hamburg Street,Westport,Cherry Hill,Patapsco,Baltimore Highlands,Nursery Road,North Linthicum,Linthicum,BWI Business District,BWI Airport
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line4]
 Name=Penn Station-Camden Yards
 Stations=Penn Station,University of Baltimore/Mt. Royal,Cultural Center,Centre Street,Lexington Market,University Center/Baltimore Street,Convention Center,Camden Yards
 Driving=2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Transfers]
 1=Metro Subway,Lexington Market,Timonium-Cromwell Station/Glen Burnie, Lexington Market, 3
@@ -68,4 +64,3 @@ DelayNight=6
 39=Hunt Valley-BWI Airport,Convention Center,Penn Station-Camden Yards,Convention Center,0
 40=Hunt Valley-BWI Airport,Camden Yards,Penn Station-Camden Yards,Camden Yards,0
 
-[]

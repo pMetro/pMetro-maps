@@ -3,24 +3,21 @@ Name=A
 LineMap=A.map
 Stations=Battistini,Cornelia,Baldo degli Ubaldi,Valle Aurelia,Cipro - Musei Vaticani,Ottaviano S.Pietro,Lepanto,Flaminio,Piazza di Spagna,Barberini,Repubblica,Termini,Vittorio Emanuele,Manzoni,San Giovani,Re di Roma,Ponte Lungo,Furio Camillo,Colli Albani,Arco di Travertino,Porta Furba - Quadraro,Numidio Quadrato,Lucio Sestio,Giuglio Agricola,Subaugusta,Cinecitta,Anagnina
 Driving=1.26,1.46,2.07,1.38,1.22,1.29,1.14,1.05,1.51,1.49,2.14,1.36,1.18,0.42,1.42,0.48,0.50,1.36,1.05,1.26,1.50,1.58,2.08,1,1,1
-DelayDay=5
-DelayNight=10
+Delays=5,10
 
 [Line2]
 Name=B
 LineMap=B.map
 Stations=Jonio,Conca d'Oro,Libia,Annibaliano(Bologna,Libia),Rebibbia(Ponte Mammolo),Ponte Mammolo,Santa Maria del Soccorso,Pietralata,Monti Tiburtini,Quintiliani,Tiburtina,Bologna(Policlinico,Tiburtina,,Annibaliano),Policlinico,Castro Pretorio,Termini,Cavour,Colosseo,Circo Massimo,Piramide,Garbatella,Basilica San Paolo,Marconi,Eur Magliana,Eur Palasport,Eur Fermi,Laurentina
 Driving=2,2,2,(2,2),(1.26),1.46,2.07,1.38,1,1.22,1.29,(1.14,1.29,,2),1.05,1.51,1.49,2.14,1.36,1.18,1.42,0.48,0.50,1.36,1.05,1.26,1.50
-DelayDay=6
-DelayNight=11
+Delays=6,11
 
 [Line3]
 Name=C
 LineMap=C.map
 Stations=Lodi,Pigneto,Malatesta,Teano,Gardenie,Mirti,Parco di Centocelle,Alessandrino,Torre Spaccata,Torre Maura,Giardinetti,Torrenova,Torre Angela,Torre Gaia,Grotte Celoni,Due Leoni-Fontana Candida,Borghesiana,Bolognetta,Finocchio,Graniti,Monte Compatri-Pantano
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=6
-DelayNight=11
+Delays=6,11
 
 
 

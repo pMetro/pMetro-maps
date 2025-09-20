@@ -7,4 +7,3 @@ MenuName=Разное\Паром
 North Shields=
 South Shields=
 
-[]

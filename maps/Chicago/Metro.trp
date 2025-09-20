@@ -2,50 +2,43 @@
 Name=Red
 Stations=Howard,Jarvis,Morse,Loyola,Granville,Thorndale,Bryn Mawr,Berwyn,Argyle,Lawrence,Wilson,Sheridan,Addison,Belmont,Fullerton,North/Clybourn,Clark/Division,Chicago,Grand,Washington,Monroe,Jackson,Harrison,Roosevelt/State,Cermak/Chinatown,Sox-35th,47th,Garfield,63rd,69th,79th,87th,95th/Dan Ryan
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line2]
 Name=Orange
 Stations=Midway,Pulaski,Kedzie,Western,35 Street/Archer,Ashland,Halsted,Roosevelt/Wabash,LaSalle(Quincy),Quincy,Washington(Clark),Clark(State/Lake),State/Lake(Randolph/Wabash),Randolph/Wabash(Madison),Madison(Adams),Adams(-Roosevelt/Wabash)
 Driving=2,2,2,2,2,2,2,2,(2),2,(2),(2),(2),(2),(2),(2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line3]
 Name=Lime
 Stations=Howard,Oakton-Skokie,Dempster-Skokie
 Driving=2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line4]
 Name=Green
 Stations=Harlem/Lake,Oak Park,Ridgeland,Austin,Central,Laramie,Cicero,Pulaski,Kedzie,California,Ashland,Morgan,Clinton,Clark,State/Lake,Randolph/Wabash,Madison,Adams,Roosevelt/Wabash,Cermak-McCormick Place,35 Street-Bronzeville-IIT,Indiana,43 Street,47 Street,51 Street,Garfield(King Drive,51 Street,Halsted),King Drive,East 63 Street/Cottage Grove(,King Drive),Halsted(Ashland/63 Street,Garfield),Ashland/63 Street
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,(2,2,2),2,(,2),(2,2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line5]
 Name=Blue
 Stations=O'Hare Airport,Rosemont/River Road,Cumberland,Harlem,Jefferson Park,Montrose,Irving Park,Addison,Belmont,Logan Square,California,Western,Damen,Division,Chicago,Clark,Washington,Monroe,Jackson,LaSalle,Clinton,UIC-Halsted,Racine(Medical Center,UIC-Halsted,Polk),Medical Center,Western/Congress,Kedzie-Homan,Pulaski/Congress,Cicero/Congress,Austin/Lombard,Oak Park/Congress,Harlem/Congress,Forest Park(,Harlem/Congress),Polk(18th,Racine),18th,Hoyne,Western/Douglas,California/Douglas,Kedzie,Central Park,Pulaski/Douglas,Kildare,Cicero/Douglas,54th/Cermak
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,(2,2,2),2,2,2,2,2,2,2,2,(,2),(2,2),2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line6]
 Name=Purple
 Stations=Linden,Central,Noyes,Foster,Davis,Dempster,Main,South Boulevard,Howard,Belmont,Fullerton,Chicago,Merchandise Mart,Clark(State/Lake),State/Lake(Randolph/Wabash),Randolph/Wabash(Madison),Madison(Adams),Adams(LaSalle),LaSalle(Quincy),Quincy(Washington),Washington(-Merchandise Mart)
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,(2),(2),(2),(2),(2),(2),(2),(2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Line7]
 Name=Brown
 Stations=Kimball,Kedzie,Francisco,Rockwell,Western,Damen,Montrose,Irving Park,Addison,Paulina,Southport,Belmont,Wellington,Diversey,Fullerton,Armitage,Sedgwick,Chicago,Merchandise Mart,Washington(Quincy),Quincy(LaSalle),LaSalle(Adams),Adams(Madison),Madison(Randolph/Wabash),Randolph/Wabash(State/Lake),State/Lake(Clark),Clark(-Merchandise Mart)
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,(2),(2),(2),(2),(2),(2),(2),(2)
-DelayDay=3
-DelayNight=6
+Delays=3,6
 
 [Transfers]
 01=Red,Howard,Lime,Howard, 2

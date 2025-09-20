@@ -3,32 +3,28 @@ Name=M1
 LineMap=M1.map
 Stations=Sesto FS 1 Maggio,Sesto Rondo,Sesto Marelli,Villa San Giovanni,Precotto,Gorla,Turro,Rovereto,Pasteur,Loreto,Lima,Porta Venezia,Palestro,San Babila,Duomo,Cordusio,Cairoli,Cadorna,Conciliazioni,Pagano(Buonarroti,Conciliazioni,Wagner),Buonarroti,Amendola Fiera,Lotto,Q.T.8,Lampugnano,Uruguay,Bonola,San Leonardo,Molino Dorino,Pero,Rho Fiera(Pero),Wagner(De Angeli,Pagano),De Angeli,Gambara,Bande Nere,Primaticcio,Inganni,Bisceglie
 Driving=1.30,1.50,1.15,1.06,1.05,1.03,1.07,1.08,1.15,1.09,1.15,1.08,1.05,1.05,2,1.04,1.12,1.25,1.06,(1.12,1.06,2),1.07,1.32,2,2,2,2,2,2,2,2,(2),(2,2),2,2,2,2,2
-DelayDay=3
-DelayNight=8
+Delays=3,8
 
 [Line2]
 Name=M2
 LineMap=M2.map
 Stations=Abbiategrasso(Famagosta),Milanofiori Forum(Milanofiori Nord),Milanofiori Nord,Famagosta(Romolo FS,Milanofiori Nord,,Abbiategrasso),Romolo FS,Porta Genova FS,Sant Agostino,Sant Ambrogio,Cadorna,Lanza,Moscova,Garibaldi,Gioia,Centrale FS,Caiazzo,Loreto,Piola,Lambrate FS,Udine,Cimiano,Crescenzago,Cascina Gobba(Vimodrone,Crescenzago,Cologno Sud),Vimodrone,Cascina Burrona,Cernusco S.N.,Villa Fiorita,Cassina de' Pecchi,Bussero,Villa Pompea,Gorgonzola,Cascina Antonietta,Gessate(Cascina Antonietta),Cologno Sud(Cologno Centro,Cascina Gobba),Cologno Centro,Cologno Nord
 Driving=(2),(2),2,(2,2,,2),2,1.28,1.03,1.30,1.44,1.27,1.33,1.46,1.23,2,2,2,2,2,2,2,2,(2,2,2),2,2,2,2,2,2,2,2,2,(2),(2,2),2
-DelayDay=3
-DelayNight=8
+Delays=3,8
 
 [Line3]
 Name=M3
 Stations=Comasina,Affori FN,Affori Centro,Dergano,Maciachini,Zara,Sondrio,Centrale FS,Repubblica,Turati,Monte Napoleone,Duomo,Missori,Crocetta,Porta Romana,Lodi T.I.B.B.,Brenta,Corvetto,Porto di Mare,Rogoredo,S.Donato
 LineMap=M3.map
 Driving=2,2,2,2,2,2,2,2,2,0.55,1.37,2,2,2,2,2,2,2,2,2
-DelayDay=3
-DelayNight=8
+Delays=3,8
 
 [Line4]
 Name=M5
 Stations=Bignami,Ponale,Bicocca,Ca Granda,Istria,Marche,Zara,Isola,Garibaldi,Monumentale,Cenisio,Gerusalemme,Domodossola,Tre Torri,Portello,Lotto,Segesta,San Siro Ippodromo,San Siro Stadio
 LineMap=M5.map
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,3,(3),2,2,2,2
-DelayDay=3
-DelayNight=8
+Delays=3,8
 
 [Transfers]
 1=M1,Loreto, M2,Loreto, 2

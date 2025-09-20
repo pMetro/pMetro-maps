@@ -40,4 +40,3 @@ Saint Lazare=Вокзал Сен-Лазар.
 [Ligne 14]
 Gare de Lyon=Вокзал Лион.
 
-[]

@@ -6,32 +6,28 @@ Name=Ringlijn
 LineMap=Ringlijn.map
 Stations=Gein,Reigersbos,Holendrecht,Bullewijk,Bijlmer,Strandvliet/Arena,Duivendrecht,Van der Madeweg,Overamstel,RAI,Zuid/WTC,Amstelveenseweg,Henk Sneevlietweg,Heemstedestraat,Lelylaan,Postjesweg,Jan van Galenstraat,de Vlugtlaan,Sloterdijk,Isolatorweg
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=4
-DelayNight=12
+Delays=4,12
 
 [Line2]
 Name=Amstelveenlijn
 LineMap=Amstelveenlijn.map
 Stations=Westwijk,Sacharovlaan,Spinnerij,Poortwachter,Brink,Meent,Gondel,Marne,Sportlaan,Ouderkerkerlaan,Amstelveen Centrum,Oranjebaan,Onderuit,Zonnestein,Kronenburg,Uilenstede,van Boshuizenstraat,A.J. Ernststraat,Vrij Universiteit,Zuid/WTC,RAI,Overamstel,Spaklerweg,Amstel,Wibautstraat,Weesperplein,Waterlooplein,Nieuwmarkt,Centraal Station
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=4
-DelayNight=12
+Delays=4,12
 
 [Line3]
 Name=Gaasperplaslijn
 LineMap=Gaasperplaslijn.map
 Stations=Gaasperplas,Kraaiennest,Ganzenhoef,Verrijn Stuartweg,Diemen Zuid,Venserpolder,Van der Madeweg,Spaklerweg,Amstel,Wibautstraat,Weesperplein,Waterlooplein,Nieuwmarkt,Centraal Station
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=4
-DelayNight=12
+Delays=4,12
 
 [Line4]
 Name=Geinlijn
 LineMap=Geinlijn.map
 Stations=Gein,Reigersbos,Holendrecht,Bullewijk,Bijlmer,Strandvliet/Arena,Duivendrecht,Van der Madeweg,Spaklerweg,Amstel,Wibautstraat,Weesperplein,Waterlooplein,Nieuwmarkt,Centraal Station
 Driving=2,2,2,2,2,2,2,2,2,2,2,2,2,2
-DelayDay=4
-DelayNight=12
+Delays=4,12
 
 [Transfers]
 01=Ringlijn,Gein,Geinlijn,Gein, 2

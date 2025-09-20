@@ -5,7 +5,7 @@ CityName=Москва
 StringToAdd='  Фотографии станции: '
 
 [Сокольническая]
-Бульвар Рокоссовского=http://metro.ru/stations/sokolnicheskaya/ulitsa_podbelskogo/
+Бульвар Рокоссовского=https://metro.ru/stations/sokolnicheskaya/bulvar-rokossovskogo/
 Черкизовская=http://metro.ru/stations/sokolnicheskaya/cherkizovskaya/
 Преображенская площадь=http://metro.ru/stations/sokolnicheskaya/preobrazhenskaya_ploshad/
 Сокольники=http://metro.ru/stations/sokolnicheskaya/sokolniki/
@@ -50,7 +50,7 @@ StringToAdd='  Фотографии станции: '
 Алма-Атинская=http://metro.ru/stations/zamoskvoretskaya/alma-atinskaya/
 
 [Арбатско-Покровская]
-;Пятницкое шоссе=
+Пятницкое шоссе=https://metro.ru/stations/arbatsko-pokrovskaya/pyatnitskoe-shosse/
 Митино=http://metro.ru/stations/arbatsko-pokrovskaya/mitino/
 Волоколамская=http://metro.ru/stations/arbatsko-pokrovskaya/volokolamskaya/
 Мякинино=http://metro.ru/stations/arbatsko-pokrovskaya/myakinino/
@@ -132,7 +132,7 @@ StringToAdd='  Фотографии станции: '
 Планерная=http://metro.ru/stations/tagansko-krasnopresnenskaya/planernaya/
 Сходненская=http://metro.ru/stations/tagansko-krasnopresnenskaya/shodnenskaya/
 Тушинская=http://metro.ru/stations/tagansko-krasnopresnenskaya/tushinskaya/
-;Спартак=http://metro.ru/stations/tagansko-krasnopresnenskaya/spartak/
+Спартак=https://metro.ru/stations/tagansko-krasnopresnenskaya/spartak/
 Щукинская=http://metro.ru/stations/tagansko-krasnopresnenskaya/shukinskaya/
 Октябрьское поле=http://metro.ru/stations/tagansko-krasnopresnenskaya/oktyabrskoye_pole/
 Полежаевская=http://metro.ru/stations/tagansko-krasnopresnenskaya/polezhaevskaya/
@@ -163,6 +163,10 @@ StringToAdd='  Фотографии станции: '
 Марксистская=http://metro.ru/stations/kalininskaya/marksistskaya/
 Третьяковская=http://metro.ru/stations/kalininskaya/tretiakovskaya/
 
+[Солнцевская]
+Деловой центр=https://metro.ru/stations/kalininskaya/delovoy-tsentr/
+Парк Победы=https://metro.ru/stations/kalininskaya/park-pobedy/
+
 [Серпуховско-Тимирязевская]
 Алтуфьево=http://metro.ru/stations/serpukhovsko-timiryazevskaya/altufievo/
 Бибирево=http://metro.ru/stations/serpukhovsko-timiryazevskaya/bibirevo/
@@ -192,8 +196,8 @@ StringToAdd='  Фотографии станции: '
 
 [Люблинско-Дмитровская]
 Марьина роща=http://metro.ru/stations/lyublinskaya/maryina_roshcha/
-Достоевская=http://www.mymetro.ru/cgi-bin/list.pl?lng=ru&a=1&b=10&c=02
-Трубная=http://www.mosmetro.ru/pages/page_6.php?id_page=306\nhttp://metroworld.ruz.net/moscow/reportings_trubnaya_170807.htm\nhttp://news.metro.ru/f1012.html
+Достоевская=https://metro.ru/stations/lyublinskaya/dostoevskaya/
+Трубная=https://metro.ru/stations/lyublinskaya/trubnaya/
 Сретенский бульвар=http://metro.ru/stations/lyublinskaya/sretensky_bulvar/
 Чкаловская=http://metro.ru/stations/lyublinskaya/chkalovskaya/
 Римская=http://metro.ru/stations/lyublinskaya/rimskaya/
@@ -207,7 +211,7 @@ StringToAdd='  Фотографии станции: '
 Марьино=http://metro.ru/stations/lyublinskaya/maryino/
 Борисово=http://metro.ru/stations/lyublinskaya/borisovo/
 Шипиловская=http://metro.ru/stations/lyublinskaya/shipilovskaya/
-Шипиловская=http://metro.ru/stations/lyublinskaya/zyablikovo/
+Зябликово=http://metro.ru/stations/lyublinskaya/zyablikovo/
 
 [БКЛ]
 Каширская=http://metro.ru/stations/kakhovskaya/kashirskaya/
@@ -217,8 +221,8 @@ StringToAdd='  Фотографии станции: '
 [Бутовская]
 Битцевский парк=http://metro.ru/stations/butovskaya/bitsevskiy_park/
 Лесопарковая=http://metro.ru/stations/butovskaya/lesoparkovaya/
-;Улица Старокачаловская=http://www.mosmetro.ru/pages/page_6.php?id_page=324
-;Улица Скобелевская=http://www.mosmetro.ru/pages/page_6.php?id_page=325
-;Бульвар Адмирала Ушакова=http://www.mosmetro.ru/pages/page_6.php?id_page=326
-;Улица Горчакова=http://www.mosmetro.ru/pages/page_6.php?id_page=327
-;Бунинская аллея=http://www.mosmetro.ru/pages/page_6.php?id_page=32
+Улица Старокачаловская=https://metro.ru/stations/butovskaya/ulitsa_starokachalovskaya/
+Улица Скобелевская=https://metro.ru/stations/butovskaya/ulitsa_skobelevskaya/
+Бульвар Адмирала Ушакова=https://metro.ru/stations/butovskaya/bulvar_admirala_ushakova/
+Улица Горчакова=https://metro.ru/stations/butovskaya/ulitsa_gorchakova/
+Бунинская аллея=https://metro.ru/stations/butovskaya/buninskaya_alleya/
