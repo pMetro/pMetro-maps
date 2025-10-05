@@ -252,12 +252,13 @@ StringToAdd='  Расписание электричек: '
 
 [Курская]
 Москва Курская=http://www.tutu.ru/station.php?nnst=40406
-Москва Тов.=http://www.tutu.ru/station.php?nnst=40506
+Москва Товарная=http://www.tutu.ru/station.php?nnst=40506
 Калитники=http://www.tutu.ru/station.php?nnst=40606
 Текстильщики=http://www.tutu.ru/station.php?nnst=40706
 Люблино=http://www.tutu.ru/station.php?nnst=40806
 Депо=http://www.tutu.ru/station.php?nnst=40906
 Перерва=http://www.tutu.ru/station.php?nnst=41006
+;Курьяново=https://www.tutu.ru/station.php?nnst=45306
 Москворечье=http://www.tutu.ru/station.php?nnst=41106
 Царицыно=http://www.tutu.ru/station.php?nnst=41206
 Покровская=http://www.tutu.ru/station.php?nnst=41306
@@ -265,6 +266,7 @@ StringToAdd='  Расписание электричек: '
 Битца=http://www.tutu.ru/station.php?nnst=41506
 Бутово=http://www.tutu.ru/station.php?nnst=41606
 Щербинка=http://www.tutu.ru/station.php?nnst=41706
+;Остафьево=https://www.tutu.ru/station.php?nnst=45106
 Силикатная=http://www.tutu.ru/station.php?nnst=41806
 Подольск=http://www.tutu.ru/station.php?nnst=41906
 Кутузовская=http://www.tutu.ru/station.php?nnst=42006

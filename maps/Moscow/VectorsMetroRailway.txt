@@ -24,3 +24,5 @@ Type=Image
 [Серпуховско-Тимирязевская]
 Дмитровская=DmitrovskayaZhD.vec
 
+[Ярославская]
+Северянин=Rostokino.vec

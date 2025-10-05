@@ -50,16 +50,17 @@ Stairs 51,406, 55,406, 51,368
 PenColor FF0000
 Stairs 41,410, 45,410, 41,432
 
-;стрелки
-PenColor FF0000
-Arrow 120,407, 104,407
 Line 332,380, 336,406
 Line 336,380, 332,406
 Line 448,380, 452,406
 Line 452,380, 448,406
 Line 583,368, 587,415
 Line 587,368, 583,415
-PenCo414,379, lor 009900
+
+;стрелки
+PenColor FF0000
+Arrow 120,407, 104,407
+PenColor 009900
 Arrow 104,376, 119,376
 
 ;инфососы
@@ -213,7 +214,7 @@ AngleTextOut 0, Arial, 6, 1124, 328, Т
 
 ;туалет
 PenColor 000000
-BrushColor -1
+BrushColor 99FF99
 Polygon 1124,893, 1117,893, 1117,886, 1124,886
 BrushColor -1
 AngleTextOut 0, Arial, 6, 1119, 886, Т

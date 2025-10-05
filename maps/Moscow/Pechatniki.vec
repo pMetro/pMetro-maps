@@ -398,7 +398,9 @@ Line 939,42, 939,52, 968,52
 AngleTextOut 0, Arial, 10, 942, 40, кассы
 
 ; туалет
-Line 939,-3, 950,-3, 950,-13, 939,-13
+BrushColor 99FF99
+Polygon  939,-3, 950,-3, 950,-13, 939,-13
+BrushColor -1
 AngleTextOut 0, Arial, 10, 942, -14, Т
 
 Stairs 974,190, 974,171, 1011,190

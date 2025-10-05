@@ -287,16 +287,16 @@ Type=Image
 
 [МЦК]
 Окружная=Okruzhnaya.vec
-;Владыкино=
-;Ботанический сад=
-;Ростокино=
-;Белокаменная=
-;Бульвар Рокоссовского=
-;Локомотив=
-;Измайлово=
+;Владыкино=Vladykino.vec
+Ботанический сад=BotanicheskySad.vec
+Ростокино=Rostokino.vec
+Белокаменная=Belokamennaya.vec
+Бульвар Рокоссовского=BulvarRokossovskogo.vec
+Локомотив=Cherkizovskaya.vec
+Измайлово=Partizanskaya.vec
 Соколиная Гора=SokolinayaGora.vec
-;Шоссе Энтузиастов=
-;Андроновка=
+Шоссе Энтузиастов=ShosseEnt.vec
+Андроновка=Andronovka.vec
 Нижегородская=Nizhegorodskaya.vec
 Новохохловская=Novohohlovskaya.vec
 Угрешская=Ugreshskaya.vec
@@ -365,8 +365,9 @@ Type=Image
 Рижская=Rizhskaya.vec
 Электрозаводская=Electrozavodskaya.vec
 Авиамоторная=Aviamotornaya.vec
-Косино=LermontovskyPr.vec
+Андроновка=Andronovka.vec
 Выхино=Vyhino.vec
+Косино=LermontovskyPr.vec
 
 [МЦД4]
 Аминьевская=Aminyevskaya.vec

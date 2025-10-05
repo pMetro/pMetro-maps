@@ -188,9 +188,10 @@ AngleTextOut 0, Arial, 10, 97, 570, кассы
 AngleTextOut 0, Arial, 10, 170, 570, кассы
 
 ; туалет
+BrushColor 99FF99
+Polygon 143,860, 143,849, 154,849, 154,860
 BrushColor -1
-Line 122,860, 122,844, 170,844, 170,860
-AngleTextOut 0, Arial, 10, 131, 845, туалет
+AngleTextOut 0, Arial, 10, 145, 848, Т
 
 
 ; турникеты

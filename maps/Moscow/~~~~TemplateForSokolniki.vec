@@ -31,7 +31,7 @@ BrushColor -1
 Line 603,189, 603,181, 575,181, 575,189
 AngleTextOut 0, Arial, 10, 577, 178, кассы
 
-;инфососы
+;инфосос
 PenColor 94949C
 BrushColor 94949C
 Polygon 605,277, 610,277, 610,275, 605,275
@@ -55,7 +55,7 @@ BrushColor -1
 Line 723,158, 715,158, 715,186, 723,186
 AngleTextOut 90, Arial, 10, 712, 184, кассы
 
-;инфососы
+;инфосос
 PenColor 94949C
 BrushColor 94949C
 Polygon 609,238, 609,234, 607,234, 607,238
@@ -78,6 +78,13 @@ PenColor FF0000
 Arrow 666,291, 680,291
 PenColor 009900
 Arrow 680,279, 666,279
+
+; туалет
+PenColor 000000
+BrushColor 99FF99
+Polygon 714,327, 723,327, 723,336, 714,336
+BrushColor -1
+AngleTextOut 0, Arial, 10, 716, 326, Т
 
 ; Названия улиц голубым
 PenColor 00AFAF
@@ -177,28 +184,6 @@ PenColor DE7272
 AngleTextOut 0, Arial, 25, 168, 954, Нижегородская (МЦК), 1
 AngleTextOut 0, Arial, 20, 88, 935, << Новохохловская
 AngleTextOut 0, Arial, 20, 331, 977, Андроновка >>
-
-; МЦК береговая
-
-;Пути
-PenColor DE7272
-Line 458,1138, 103,1138, 20
-Line 458,1160, 103,1160, 20
-PenColor D56060
-Dashed 458,1138, 103,1138, 13
-Dashed 458,1160, 103,1160, 13
-PenColor 000000
-Line 93,1217, 93,1170, 468,1170, 468,1217, 93,1217
-Line 93,1128, 93,1081, 468,1081, 468,1128, 93,1128
-
-BrushColor -1
-PenColor DE7272
-AngleTextOut 0, Arial, 20, 94, 1105, << Новохохловская
-AngleTextOut 0, Arial, 20, 334, 1167, Андроновка >>
-PenColor 000000
-AngleTextOut 0, Arial, 25, 173, 1131, Нижегородская (МЦК), 1
-PenColor FFFFFF
-AngleTextOut 0, Arial, 25, 172, 1130, Нижегородская (МЦК), 1
 
 
 

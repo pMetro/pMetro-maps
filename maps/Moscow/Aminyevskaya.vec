@@ -363,7 +363,7 @@ AngleTextOut -90, Arial, 10, 556, 458, кассы
 
 ; туалет
 PenColor 000000
-BrushColor FFFFFF
+BrushColor 99FF99
 Polygon 543,509, 552,509, 552,518, 543,518
 BrushColor -1
 AngleTextOut -90, Arial, 10, 554, 511, Т
