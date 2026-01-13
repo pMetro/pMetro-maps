@@ -135,6 +135,14 @@ Stairs 72,515, 76,515, 72,490
 PenColor FF0000
 Stairs 72,560, 76,560, 72,589
 
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 749,506, 749,502, 747,502, 747,506
+PenColor FF0000
+BrushColor FF0000
+Polygon 749,510, 749,506, 747,506, 747,510
+
 ;стрелки
 PenColor FF0000
 Arrow 52,574, 66,574
@@ -213,7 +221,7 @@ AngleTextOut 0, Arial, 20, 444, 599, Деловой центр >>
 AngleTextOut 0, Arial, 25, 329, 513, Шелепиха, 1
 
 BrushColor FFFFFF
-Polygon 666,515, 626,515, 626,548, 665,547
+Polygon 666,515, 626,515, 626,548, 665,548
 
 Opaque 80
 PenColor FFFFFF

@@ -104,15 +104,15 @@ Line -13,525, -25,557, 14,571, 13,574
 
 ; Путилковская
 ;Пути
-BrushColor 99CC00
+BrushColor 8D5B2D
 Polygon 99,596, 109,568, 531,721, 521,749
 Polygon 64,691, 74,664, 495,817, 485,844
 
 BrushColor -1
-PenColor 99CC00
+PenColor 8D5B2D
 AngleTextOut -20, Arial, 20, 381, 806, Броневая >>
 AngleTextOut -20, Arial, 20, 120, 546, << Юго-Западная
-AngleTextOut -20, Arial, 25, 242, 655, Путиловская, 1
+AngleTextOut -20, Arial, 25, 236, 665, Путиловская, 1
 
 ; левый вестибюль
 PenColor 000000
@@ -155,17 +155,9 @@ BrushColor -1
 Line 689,780, 678,776, 668,804, 679,808
 AngleTextOut -110, Arial, 10, 689, 783, кассы
 
-Opaque 70
-PenColor FFFFFF
-BrushColor FFFFFF
-Polygon 65,296, 65,526, 841,808, 779,976, -114,651, -113,296
-
-Opaque100
 BrushColor -1
-PenColor 99CC00
-AngleTextOut -20, Arial, 25, 242, 655, Путиловская, 1
-PenColor FF0000
-AngleTextOut -20, Arial, 25, 248, 685, (проект)
+PenColor 8D5B2D
+AngleTextOut -20, Arial, 25, 236, 665, Путиловская, 1
 
 
 PenColor FF0000

@@ -5,6 +5,7 @@ Angle -80
 ; улица
 PenColor F5F5F5
 Line 775,1238, -214,664, -214,378, -232,362, -373,362, 40
+Line -208,357, 852,357, 40
 
 ; пути
 PenColor 000000
@@ -134,6 +135,7 @@ Polygon 740,444, 736,444, 736,445, 740,445
 PenColor 00AFAF
 BrushColor -1
 AngleTextOut 90, Arial, 15, -225, 552, Планерная улица
+AngleTextOut 0, Arial, 15, 226,347, улица <e,yjdf
 PenColor 000000
 
 ; Выходы

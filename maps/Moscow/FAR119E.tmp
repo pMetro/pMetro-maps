@@ -1,0 +1,70 @@
+Size 1000x1000
+; ============================================================
+; МЦД-3
+
+; платформы
+
+PenColor 000000
+BrushColor -1
+Polygon 819,430, 307,430, 307,485, 819,485
+
+PenColor D0D0D0
+Railway 10, 14, 4, 288,414, 309,414
+Railway 10, 14, 4, 288,492, 309,492
+Railway 10, 14, 4, 818,414, 838,414
+Railway 10, 14, 4, 818,492, 838,492
+
+PenColor EA5B04
+Line 810,496, 317,496, 20
+Line 810,419, 317,419, 20
+
+PenColor D82400
+Railway 10, 14, 4, 309,414, 818,414
+Railway 10, 14, 4, 309,492, 818,492
+
+PenColor EA5B04
+BrushColor -1
+AngleTextOut 0, Arial, 25, 334, 441, Электрозаводская, 1
+AngleTextOut 0, Arial, 25, 711, 441, (МЦД-3), 1
+AngleTextOut 0, Arial, 20, 324, 386, << Митьково
+AngleTextOut 0, Arial, 20, 655, 505, Сортировочная >>
+
+
+
+
+; МЦД Береговая
+
+PenColor EEEEEE
+BrushColor EEEEEE
+Polygon 1,599, 1,639, 669,639, 669,599
+Polygon 58,686, 58,726, 725,726, 725,686
+
+; пути
+PenColor EA5B04
+Line 659,652, 9,652, 20
+Line 715,673, 65,673, 20
+
+PenColor 000000
+BrushColor FCDC04
+
+PenColor 000000
+Line 1,599, 1,639, 669,639, 669,599, 1,599
+Line 58,686, 58,726, 725,726, 725,686, 58,686
+
+PenColor D0D0D0
+Railway 10, 14, 4, 57,678, -108,678
+Railway 10, 14, 4, 1,657, -108,657
+Railway 10, 14, 4, 853,678, 723,678
+Railway 10, 14, 4, 853,657, 667,657
+PenColor D82400
+Railway 10, 14, 4, 723,678, 57,678
+Railway 10, 14, 4, 667,657, 1,657
+
+PenColor 000000
+BrushColor -1
+AngleTextOut 360, Arial, 25, 223, 650, Лихоборы (МЦД-3), 1
+PenColor FFFFFF
+AngleTextOut 360, Arial, 25, 221, 648, Лихоборы (МЦД-3), 1
+PenColor EA5B04
+AngleTextOut 360, Arial, 20, 40, 620, << Моссельмаш
+AngleTextOut 360, Arial, 20, 554, 685, Петровско-Разумовская >>

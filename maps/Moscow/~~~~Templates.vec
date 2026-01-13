@@ -39,6 +39,14 @@ PenColor FF0000
 BrushColor FF0000
 Polygon 600,277, 605,277, 605,275, 600,275
 
+; старый инфосос
+PenColor 34349C
+BrushColor 34349C
+Polygon 545,910, 541,910, 541,911, 545,911
+PenColor FF0000
+BrushColor FF0000
+Polygon 549,910, 545,910, 545,911, 549,911
+
 
 
 ; вертикальные
@@ -62,6 +70,15 @@ Polygon 609,238, 609,234, 607,234, 607,238
 PenColor FF0000
 BrushColor FF0000
 Polygon 609,242, 609,238, 607,238, 607,242
+
+
+; старый инфосос
+PenColor 34349C
+BrushColor 34349C
+Polygon 546,911, 546,907, 545,907, 545,911
+PenColor FF0000
+BrushColor FF0000
+Polygon 546,915, 546,911, 545,911, 545,915
 
 
 
@@ -184,6 +201,29 @@ PenColor DE7272
 AngleTextOut 0, Arial, 25, 168, 954, Нижегородская (МЦК), 1
 AngleTextOut 0, Arial, 20, 88, 935, << Новохохловская
 AngleTextOut 0, Arial, 20, 331, 977, Андроновка >>
+
+
+; МЦК береговая
+
+;Пути
+PenColor DE7272
+Line 786,444, 431,444, 20
+Line 837,466, 482,466, 20
+PenColor D56060
+Dashed 786,444, 431,444, 13
+Dashed 837,466, 482,466, 13
+PenColor 000000
+Line 421,512, 421,476, 847,476, 847,512, 421,512
+Line 421,434, 421,399, 847,399, 847,434, 421,434
+
+BrushColor -1
+PenColor DE7272
+AngleTextOut 0, Arial, 20, 422, 411, << Владыкино
+AngleTextOut 0, Arial, 20, 729, 473, Ростокино >>
+PenColor 000000
+AngleTextOut 0, Arial, 25, 501, 437, Ботанический сад (МЦК), 1
+PenColor FFFFFF
+AngleTextOut 0, Arial, 25, 500, 436, Ботанический сад (МЦК), 1
 
 
 

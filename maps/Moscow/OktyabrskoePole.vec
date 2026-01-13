@@ -6,6 +6,9 @@ PenColor F5F5F5
 BrushColor F5F5F5
 Polygon 416,-25, 627,-202, 627,369, 1200,369, 1260,441, 1082,591, 627,591, 627,973, 418,1148, 415,1145, 416,591, -49,591, -160,459, -53,369, 416,369
 
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 128,592, 128,368, 154,368, 154,407, 178,407, 178,402, 242,402, 242,445, 303,445, 303,437, 753,437, 753,445, 814,445, 814,402, 878,402, 878,407, 902,407, 902,368, 929,368, 929,592, 903,592, 903,547, 878,547, 878,553, 814,553, 814,510, 753,510, 753,517, 303,517, 303,510, 242,510, 242,553, 179,553, 179,547, 154,547, 154,592
 
 ; пути
 PenColor 000000
@@ -34,29 +37,36 @@ PenColor 000000
 BrushColor D0D0D0
 Polygon 159,441, 180,441, 180,513, 159,513
 Line 303,437, 303,445, 242,445, 242,402, 178,402, 178,407, 154,407, 154,354, 201,354
-Line 201,333, 80,333
-Line 80,354, 128,354, 128,602, 79,602
-Line 79,624, 200,624
+Line 201,336, 80,336
+Line 80,354, 128,354, 128,602, 80,602
+Line 80,620, 200,620
 Line 200,602, 154,602, 154,547, 179,547, 179,553, 242,553, 242,510, 303,510, 303,517
-Stairs 245,445, 245,510, 299,445
-Stairs 84,333, 84,354, 122,333
-Stairs 160,333, 160,354, 198,333
-Stairs 83,602, 83,624, 121,602
-Stairs 160,602, 160,624, 198,602
+Line 157,340, 198,340, 0.5
+Line 82,340, 122,340, 0.5
+Line 158,615, 198,615, 0.5
+Line 973,616, 933,616, 0.5
+Line 243,506, 299,506, 0.5
+Stairs 245,445, 245,506, 299,445
+Stairs 84,340, 84,354, 122,340
+Stairs 160,340, 160,354, 198,340
+Stairs 83,602, 83,620, 121,602
+Stairs 160,602, 160,615, 198,602
 
 ; турникеты
 BrushColor FFFFFF
 Line 242,510, 223,510, 0.5
 Line 195,468, 180,468, 0.5
-Polygon 193,470, 198,467, 201,472, 196,475
+Polygon 215,507, 221,507, 221,513, 215,513
+PenColor FF0000
+Stairs 198,464, 194,464, 198,403
 PenColor 009900
-Stairs 199,478, 202,476, 222,512
+Stairs 195,470, 198,468, 216,505
 
 ; кассы
 PenColor 000000
-Polygon 233,522, 242,522, 242,553, 233,553
+Polygon 242,516, 251,516, 251,547, 242,547
 BrushColor -1
-AngleTextOut 90, Arial, 10, 231, 550, кассы
+AngleTextOut 90, Arial, 10, 240, 544, кассы
 
 ;стрелки
 PenColor FF0000
@@ -65,37 +75,42 @@ PenColor 009900
 Arrow 156,529, 184,529
 
 ;инфосос
-PenColor 34349C
-BrushColor 34349C
-Polygon 221,433, 225,433, 225,434, 221,434
+PenColor 94949C
+BrushColor 94949C
+Polygon 206,463, 210,463, 210,464, 206,464
 PenColor FF0000
 BrushColor FF0000
-Polygon 217,433, 221,433, 221,434, 217,434
+Polygon 202,463, 206,463, 206,464, 202,464
 
 
 ;правый вестибюль
 
 PenColor 000000
 BrushColor D0D0D0
-Polygon 876,429, 897,429, 897,526, 876,526
+Polygon 878,435, 899,435, 899,519, 878,519
 Line 753,437, 753,445, 814,445, 814,402, 878,402, 878,407, 902,407, 902,354, 854,354
-Line 854,333, 977,333
+Line 854,336, 977,336
 Line 977,354, 929,354, 929,602, 977,602
-Line 977,624, 854,624
+Line 977,620, 854,620
 Line 854,602, 903,602, 903,547, 878,547, 878,553, 814,553, 814,510, 753,510, 753,517
-Stairs 973,333, 973,354, 935,333
-Stairs 858,333, 858,354, 896,333
-Stairs 858,602, 858,624, 896,602
-Stairs 935,602, 935,624, 973,602
-Stairs 756,445, 756,510, 811,445
+Line 856,340, 896,340, 0.5
+Line 975,340, 935,340, 0.5
+Line 754,450, 810,450, 0.5
+Stairs 973,340, 973,354, 935,340
+Stairs 858,340, 858,354, 896,340
+Stairs 858,602, 858,620, 896,602
+Stairs 935,602, 935,616, 973,602
+Stairs 756,450, 756,510, 810,450
 
 ; турникеты
 BrushColor FFFFFF
 Line 814,510, 833,510, 0.5
-Line 861,468, 876,468, 0.5
-Polygon 863,470, 858,467, 855,472, 860,475
+Line 861,462, 878,462, 0.5
+Polygon 837,501, 831,501, 831,507, 837,507
+PenColor FF0000
+Stairs 861,410, 857,410, 861,460
 PenColor 009900
-Stairs 857,478, 854,476, 833,513
+Stairs 860,467, 856,464, 838,499
 
 ; кассы
 PenColor 000000
@@ -105,48 +120,45 @@ AngleTextOut 90, Arial, 10, 803, 547, кассы
 
 ;стрелки
 PenColor FF0000
-Arrow 875,418, 903,418
+Arrow 875,420, 892,420
 PenColor 009900
-Arrow 901,537, 873,537
+Arrow 892,534, 874,534
 
 ;инфосос
-PenColor 34349C
-BrushColor 34349C
-Polygon 837,427, 841,427, 841,428, 837,428
+PenColor 94949C
+BrushColor 94949C
+Polygon 852,460, 856,460, 856,461, 852,461
 PenColor FF0000
 BrushColor FF0000
-Polygon 833,427, 837,427, 837,428, 833,428
+Polygon 848,460, 852,460, 852,461, 848,461
 
 ; остановки
 BrushColor 0000FF
-SpotCircle 10, 6, 355, ShowMessage Автобусы:\n26\n39
-SpotCircle 10, 24, 604, ShowMessage Автобусы:\n26\n100\n253
-SpotCircle 10, 241, 604, ShowMessage Автобусы:\n39\n105\n800
-SpotCircle 10, 403, 739, ShowMessage Автобусы:\n253\n691\n800
-SpotCircle 10, 642, 235, ShowMessage Автобусы:\n691\n800
-BrushColor 007F00
-SpotCircle 10, 642, 212, ShowMessage Троллейбусы:\n19\n59\n61
-SpotCircle 10, 403, 761, ShowMessage Троллейбусы:\n19\n59\n61
-BrushColor FAAF0F
-SpotCircle 10, 403, 717, ShowMessage Маршрутки:\n672м
-SpotCircle 10, 48, 604, ShowMessage Маршрутки:\n253м
+SpotCircle 10, 6, 355, ShowMessage Автобусы:\n26\nс339
+SpotCircle 10, 24, 604, ShowMessage Автобусы:\n26\n100\n253\n253к
+SpotCircle 10, 241, 604, ShowMessage Автобусы:\n800\n800к\nс339
+SpotCircle 10, 402, 710, ShowMessage Автобусы:\nт59\nт59к
+SpotCircle 10, 402, 740, ShowMessage Автобусы:\n389\nм23
+SpotCircle 10, 402, 770, ShowMessage Автобусы:\n253\n253к\n291\n800\n800к\nе24\nс339
+SpotCircle 10, 641, 228, ShowMessage Автобусы:\n291\n389\n800\n800к\nм23\nс339\nт59т\n59к
+SpotCircle 10, 641, 728, ShowMessage Автобусы:\n26\n100\n291\n389\n800\n800к\nе24\nм23\nс339\nт59\nт59к
 
 BrushColor -1
 PenColor FFFFFF
 AngleTextOut 40, Arial, 16, -4, 352, A, 1
 AngleTextOut 40, Arial, 16, 14, 600, A, 1
 AngleTextOut 40, Arial, 16, 231, 600, A, 1
-AngleTextOut 40, Arial, 16, 393, 735, A, 1
-AngleTextOut 40, Arial, 16, 632, 231, A, 1
-AngleTextOut 40, Arial, 16, 633, 208, Т, 1
-AngleTextOut 40, Arial, 16, 394, 758, Т, 1
-AngleTextOut 40, Arial, 16, 392, 713, М, 1
-AngleTextOut 40, Arial, 16, 37, 601, М, 1
+AngleTextOut 40, Arial, 16, 392, 706, A, 1
+AngleTextOut 40, Arial, 16, 392, 736, A, 1
+AngleTextOut 40, Arial, 16, 392, 766, A, 1
+AngleTextOut 40, Arial, 16, 631, 224, A, 1
+AngleTextOut 40, Arial, 16, 631, 724, A, 1
 
 ; синие стрелки
 PenColor 0000FF
 Arrow 423,718, 423,759, 2
 Arrow 620,245, 620,202, 2
+Arrow 620,745, 620,702, 2
 Arrow 22,376, -18,376, 2
 Arrow 17,584, 53,584, 2
 Arrow 224,584, 261,584, 2
@@ -167,20 +179,20 @@ AngleTextOut 90, Arial, 15, 374, 292, 'к МЦК "Панфиловская >>'
 Angle 40
 PenColor FFD900
 BrushColor 615F56
-SpotRect 135, 368, 30, 30, ShowMessage Выход №1
-SpotRect 61, 307, 30, 30
-SpotRect 278, 44, 30, 30
-SpotRect 352, 104, 30, 30
-SpotRect 875, 543, 30, 30
-SpotRect 946, 603, 30, 30
-SpotRect 724, 864, 30, 30
-SpotRect 656, 805, 30, 30
+SpotRect 136, 358, 30, 30, ShowMessage Выход №1
+SpotRect 62, 297, 30, 30
+SpotRect 280, 35, 30, 30
+SpotRect 354, 95, 30, 30
+SpotRect 874, 536, 30, 30
+SpotRect 945, 596, 30, 30
+SpotRect 722, 852, 30, 30
+SpotRect 654, 793, 30, 30
 BrushColor -1
-TextOut Arial, 25, 143, 369, 1
-TextOut Arial, 25, 69, 308, 2
-TextOut Arial, 25, 286, 45, 3
-TextOut Arial, 25, 360, 105, 4
-TextOut Arial, 25, 883, 544, 5
-TextOut Arial, 25, 954, 604, 6
-TextOut Arial, 25, 732, 865, 7
-TextOut Arial, 25, 664, 806, 8
+TextOut Arial, 25, 144, 359, 1
+TextOut Arial, 25, 70, 298, 2
+TextOut Arial, 25, 288, 36, 3
+TextOut Arial, 25, 362, 96, 4
+TextOut Arial, 25, 882, 537, 5
+TextOut Arial, 25, 953, 597, 6
+TextOut Arial, 25, 730, 853, 7
+TextOut Arial, 25, 662, 794, 8

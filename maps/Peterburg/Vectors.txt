@@ -82,4 +82,5 @@ Type=Image
 Международная=Mezhdunarodnaya.vec
 
 [6]
+Юго-Западная=Yugo-Zapadnaya.vec
 Путиловская=KirovskyZavod.vec

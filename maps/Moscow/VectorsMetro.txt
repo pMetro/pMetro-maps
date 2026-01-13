@@ -287,7 +287,7 @@ Type=Image
 
 [МЦК]
 Окружная=Okruzhnaya.vec
-;Владыкино=Vladykino.vec
+Владыкино=Vladykino.vec
 Ботанический сад=BotanicheskySad.vec
 Ростокино=Rostokino.vec
 Белокаменная=Belokamennaya.vec
@@ -307,16 +307,16 @@ Type=Image
 Крымская=Krymskaya.vec
 Площадь Гагарина=LeninskyProspekt.vec
 Лужники=Sportivnaya.vec
-Кутузовская=KutuzovskayaM.vec
+Кутузовская=Kutuzovskaya.vec
 Москва-Сити=Moscow-City.vec
 Шелепиха=Shelepikha.vec
 Хорошёво=Horoshevo.vec
 Зорге=Zorge.vec
-;Панфиловская=
-;Стрешнево=
-;Балтийская=
-;Коптево=
-;Лихоборы=
+Панфиловская=Panfilovskaya.vec
+Стрешнево=Streshnevo.vec
+Балтийская=Baltiyskaya.vec
+Коптево=Koptevo.vec
+Лихоборы=Likhobory.vec
 
 [Некрасовская]
 Некрасовка=Nekrasovka.vec
@@ -348,13 +348,15 @@ Type=Image
 ;Троицк
 
 [МЦД1]
-Окружная=Okruzhnaya.vec
 Лианозово=Lianozovo.vec
+Окружная=Okruzhnaya.vec
 Савёловская=Savelovskaya.vec
+Тестовская <Москва-Сити>=Testovskaya.vec
 Кунцевская=Kuntsevskaya.vec
 
 [МЦД2]
 Тушинская=Tushinskaya.vec
+Стрешнево=Streshnevo.vec
 Рижская=Rizhskaya.vec
 Новохохловская=Novohohlovskaya.vec
 Текстильщики=Tekstilshchiki.vec
@@ -362,6 +364,7 @@ Type=Image
 Царицыно=TSaritsynoZhD.vec
 
 [МЦД3]
+Лихоборы=Likhobory.vec
 Рижская=Rizhskaya.vec
 Электрозаводская=Electrozavodskaya.vec
 Авиамоторная=Aviamotornaya.vec
@@ -371,7 +374,7 @@ Type=Image
 
 [МЦД4]
 Аминьевская=Aminyevskaya.vec
-Кутузовская=KutuzovskayaM.vec
+Кутузовская=Kutuzovskaya.vec
 Москва-Сити=Moscow-City.vec
 Савёловская=Savelovskaya.vec
 Рижская=Rizhskaya.vec

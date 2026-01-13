@@ -82,3 +82,11 @@ StringToAdd='  Сайт VPeterburge.ru: '
 Волковская=http://metro.vpeterburge.ru/stations/5/volkov/
 Бухарестская=http://metro.vpeterburge.ru/stations/5/buhar/
 Международная=http://metro.vpeterburge.ru/stations/5/mezhdunar/
+
+[6]
+Юго-Западная=http://metro.vpeterburge.ru/stations/kalinin/kaz/
+Путиловская=http://metro.vpeterburge.ru/stations/kalinin/putil/
+Броневая=http://metro.vpeterburge.ru/stations/kalinin/bro/
+Заставская=http://metro.vpeterburge.ru/stations/kalinin/cher/
+Боровая=http://metro.vpeterburge.ru/stations/kalinin/bor/
+Каретная=http://metro.vpeterburge.ru/stations/kalinin/ok2/
