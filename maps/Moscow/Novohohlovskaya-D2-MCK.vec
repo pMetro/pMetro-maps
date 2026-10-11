@@ -46,6 +46,14 @@ PenColor FF0000
 BrushColor FF0000
 Polygon 505,741, 505,737, 503,737, 503,741
 
+; туалет
+PenColor 000000
+BrushColor 99FF99
+Polygon 616,708, 625,708, 625,717, 616,717
+BrushColor -1
+AngleTextOut 0, Arial, 10, 618, 707, Т
+
+
 
 
 Opaque 70
@@ -71,7 +79,7 @@ PenColor DE7272
 AngleTextOut 0, Arial, 25, 365, 706, Новохохловская, 1
 AngleTextOut 0, Arial, 25, 427, 728, (МЦК), 1
 AngleTextOut 0, Arial, 20, 341, 661, << Угрешская
-AngleTextOut 0, Arial, 20, 583, 797, Нижегородская >>
+AngleTextOut 0, Arial, 20, 503, 782, Нижегородская >>
 
 ;================================================
 
@@ -102,9 +110,8 @@ Line 284,552, 284,-97, 20
 PenColor D0D0D0
 Railway 10, 14, 4, 289,-157, 289,-105
 Railway 10, 14, 4, 211,-157, 211,-105
-Railway 10, 14, 4, 289,559, 289,598
+Railway 10, 14, 4, 289,559, 289,771
 Railway 10, 14, 4, 211,559, 211,771
-Railway 10, 14, 4, 289,657, 289,771
 PenColor D81852
 Railway 10, 14, 4, 289,-105, 289,559
 Railway 10, 14, 4, 211,-105, 211,559
@@ -129,7 +136,7 @@ PenColor FFFFFF
 BrushColor FFFFFF
 Polygon 235,463, 256,463, 256,474, 235,474
 Polygon 232,486, 238,519, 253,519, 259,486
-Polygon 232,559, 232,563, 259,563, 259,559
+Polygon 232,559, 232,657, 294,657, 294,599, 259,599, 259,559
 Opaque 100
 
 Line 259,463, 259,599, 393,599, 393,614
@@ -215,6 +222,7 @@ AngleTextOut 0, Arial, 15, 417, 538, Юго-Восточная хорда
 Dashed 405,643, 672,643, 672,667
 
 Angle -20
+
 ; Выходы
 PenColor FFD900
 BrushColor 615F56

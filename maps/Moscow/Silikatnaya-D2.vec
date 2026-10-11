@@ -1,0 +1,153 @@
+Size 420x720
+;================================================
+
+; МЦД-2
+
+Angle 90
+Line 570,150, 570,150
+; платформы
+PenColor EEEEEE
+BrushColor EEEEEE
+Polygon 535,348, -136,348, -136,318, 106,318, 106,288, 111,288, 111,283, 125,283, 125,312, 136,312, 136,318, 535,318
+Polygon 535,423, 122,423, 122,458, 95,458, 95,423, -136,423, -136,393, 535,393
+PenColor 000000
+Line 122,458, 95,458, 95,423, -136,423, -136,393, 535,393, 535,423, 122,423, 122,426
+Line 136,279, 106,279, 106,318, -136,318, -136,348, 535,348, 535,318, 136,318, 136,315
+
+; пути
+PenColor E83F83
+Line 525,381, -124,381, 20
+Line 525,360, -124,360, 20
+
+PenColor D0D0D0
+Railway 10, 14, 4, -156,355, -132,355
+Railway 10, 14, 4, -156,377, -132,377
+Railway 10, 14, 4, 533,356, 581,356
+Railway 10, 14, 4, 533,375, 581,375
+Railway 10, 14, 4, -159,517, 213,475, 580,462
+Railway 10, 14, 4, -159,539, 213,497, 580,484
+PenColor D81852
+Railway 10, 14, 4, -132,355, 533,356
+Railway 10, 14, 4, -132,377, 533,375
+
+Opaque 80
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 375,509, 357,509, 357,314, 375,314
+Opaque 100
+
+PenColor 000000
+Line 196,464, 317,443, 357,443, 357,531, 415,531
+Line 415,513, 375,513, 375,290, 317,290
+Line 317,308, 357,308, 357,426, 196,426
+Line 415,527, 376,527, 0.5
+Line 357,430, 317,430, 0.5
+Line 357,294, 317,294, 0.5
+Line 111,288, 111,283, 132,283, 0.5
+Line 133,312, 125,312, 0.5
+Stairs 355,430, 355,443, 317,430
+Stairs 355,294, 355,308, 317,294
+Stairs 413,513, 413,527, 375,513
+Stairs 127,283, 127,312, 132,283
+
+; кассы
+PenColor DDDDDD
+Polygon 210,277, 210,315, 136,315, 136,277
+PenColor 000000
+Line 210,299, 210,277, 159,277
+Line 150,277, 136,277, 136,286
+Line 136,311, 136,315, 210,315, 210,312
+BrushColor D0D0D0
+Polygon 210,277, 210,296, 194,296, 194,293, 161,293, 161,277
+Polygon 148,277, 148,284, 136,284, 136,277
+BrushColor FFFFFF
+Polygon 193,280, 164,280, 164,293, 193,293
+BrushColor -1
+AngleTextOut 0, Arial, 10, 166, 281, кассы
+
+; кассы
+PenColor DDDDDD
+Polygon 196,426, 196,464, 122,464, 122,426
+PenColor 000000
+Line 196,442, 196,464, 122,464, 122,456
+Line 196,429, 196,426, 122,426, 122,428
+BrushColor D0D0D0
+Polygon 196,445, 180,445, 180,448, 145,448, 145,458, 122,458, 122,464, 196,464
+BrushColor FFFFFF
+Polygon 177,448, 148,448, 148,460, 177,460
+BrushColor -1
+AngleTextOut 0, Arial, 10, 150, 448, кассы
+
+; турникеты
+Stairs 133,429, 130,429, 133,455
+Stairs 148,287, 145,287, 148,313
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 282,417, 282,413, 280,413, 280,417
+PenColor FF0000
+BrushColor FF0000
+Polygon 282,421, 282,417, 280,417, 280,421
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 282,324, 282,320, 280,320, 280,324
+PenColor FF0000
+BrushColor FF0000
+Polygon 282,328, 282,324, 280,324, 280,328
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 67,416, 67,412, 65,412, 65,416
+PenColor FF0000
+BrushColor FF0000
+Polygon 67,420, 67,416, 65,416, 65,420
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 67,325, 67,321, 65,321, 65,325
+PenColor FF0000
+BrushColor FF0000
+Polygon 67,329, 67,325, 65,325, 65,329
+
+; туалет
+PenColor 000000
+BrushColor 99FF99
+Polygon 227,270, 236,270, 236,279, 227,279
+BrushColor -1
+AngleTextOut -90, Arial, 10, 236, 271, Т
+
+PenColor D81852
+BrushColor -1
+AngleTextOut 0, Arial, 20, -126, 325, << Подольск
+AngleTextOut 0, Arial, 20, 408, 391, Остафьево >>
+PenColor 000000
+AngleTextOut 0, Arial, 25, 84, 358, Силикатная (МЦД-2), 1
+PenColor FFFFFF
+AngleTextOut 0, Arial, 25, 83, 357, Силикатная (МЦД-2), 1
+
+PenColor 777777
+AngleTextOut 0, Arial, 10, 540, 340, путь 1
+AngleTextOut 0, Arial, 10, 540, 390, путь 2
+
+;Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut -90, Arial, 15, -83, 156, Тепличная улица
+
+Angle -90
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 92, 369, 30, 30, ShowMessage Выход №1
+SpotRect 104, 231, 30, 30
+SpotRect 386, 157, 30, 30
+BrushColor -1
+TextOut Arial, 25, 100, 370, 1
+TextOut Arial, 25, 112, 232, 2
+TextOut Arial, 25, 394, 158, 3

@@ -155,10 +155,10 @@ PenColor FFFFFF
 TextOut Arial, 25, 672, 719, 4, 1
 
 BrushColor EA7125
-SpotRect 149, 536, 22, 22, SelectRoute 4
+SpotRect 3, 468, 22, 22, SelectRoute 4
 BrushColor -1
 PenColor FFFFFF
-TextOut Arial, 25, 154, 536, 4, 1
+TextOut Arial, 25, 8, 468, 4, 1
 
 BrushColor 702785
 SpotRect 205, 176, 22, 22, SelectRoute 5

@@ -256,8 +256,8 @@ PenColor EA5B04
 BrushColor -1
 AngleTextOut -45, Arial, 25, 424, 341, Электрозаводская, 1
 AngleTextOut -45, Arial, 25, 691, 607, (МЦД-3), 1
-AngleTextOut -45, Arial, 20, 456, 295, << Митьково
-AngleTextOut -45, Arial, 20, 606, 613, Сортировочная >>
+AngleTextOut -45, Arial, 20, 368, 370, << Митьково
+AngleTextOut -45, Arial, 20, 687, 523, Сортировочная >>
 
 PenColor 000000
 Line 652,575, 634,593

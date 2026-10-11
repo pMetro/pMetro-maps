@@ -67,7 +67,7 @@ Polygon 54,210, 54,199, 65,199, 65,210
 BrushColor -1
 AngleTextOut 0, Arial, 4, 55, 201, лифт
 
-лифт
+; лифт
 PenColor D0D0D0
 Line 58,426, 54,430
 PenColor 000000
@@ -76,7 +76,7 @@ Polygon 73,437, 73,426, 84,426, 84,437
 BrushColor -1
 AngleTextOut 0, Arial, 4, 75, 428, лифт
 
-лифт
+; лифт
 PenColor 000000
 BrushColor D0EFFF
 Polygon 156,373, 156,363, 166,363, 166,373

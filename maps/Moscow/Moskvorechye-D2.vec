@@ -1,0 +1,128 @@
+Size 540x790
+;================================================
+
+; МЦД-2
+
+Angle 60
+
+; платформы
+PenColor EEEEEE
+BrushColor EEEEEE
+Polygon 683,384, -40,384, -40,362, -37,362, -37,342, -19,342, -19,362, 269,362, 269,350, 323,350, 323,362, 683,362
+PenColor 000000
+Polygon 683,454, 323,454, 323,466, 269,466, 269,454, -4,454, -4,430, 683,430
+
+; пути
+PenColor E83F83
+Line 673,418, 24,418, 20
+Line 621,396, -28,396, 20
+
+PenColor D0D0D0
+Railway 10, 14, 4, -191,391, -39,391
+Railway 10, 14, 4, -179,413, 13,413
+Railway 10, 14, 4, 628,392, 732,392
+Railway 10, 14, 4, 680,412, 744,412
+Railway 10, 14, 4, -135,488, 788,488
+Railway 10, 14, 4, -123,510, 800,510
+PenColor D81852
+Railway 10, 14, 4, -39,391, 628,392
+Railway 10, 14, 4, 13,413, 680,412
+
+Opaque 80
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon -42,524, -60,524, -60,387, -42,387
+Opaque 100
+
+PenColor 000000
+Line -65,288, -65,286, -19,286, -19,362, 269,362, 269,350, 323,350, 323,362, 683,362, 683,384, -40,384, -40,362, -37,362, -37,310, -42,310, -42,433, 15,433
+Line 15,451, -42,451, -42,596, -39,596
+Line -65,308, -65,310, -60,310, -60,596, -63,596
+Line -42,447, -4,447, 0.5
+Line -23,310, -23,349, 0.5
+Stairs -23,312, -37,312, -23,349
+Stairs -4,447, -4,433, -42,447
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 368,447, 368,443, 366,443, 366,447
+PenColor FF0000
+BrushColor FF0000
+Polygon 368,451, 368,447, 366,447, 366,451
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 368,368, 368,364, 366,364, 366,368
+PenColor FF0000
+BrushColor FF0000
+Polygon 368,372, 368,368, 366,368, 366,372
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 96,447, 96,443, 94,443, 94,447
+PenColor FF0000
+BrushColor FF0000
+Polygon 96,451, 96,447, 94,447, 94,451
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 96,368, 96,364, 94,364, 94,368
+PenColor FF0000
+BrushColor FF0000
+Polygon 96,372, 96,368, 94,368, 94,372
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 275,459, 275,455, 273,455, 273,459
+PenColor FF0000
+BrushColor FF0000
+Polygon 275,463, 275,459, 273,459, 273,463
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 275,357, 275,353, 273,353, 273,357
+PenColor FF0000
+BrushColor FF0000
+Polygon 275,361, 275,357, 273,357, 273,361
+
+PenColor D81852
+BrushColor -1
+AngleTextOut 360, Arial, 20, -23, 361, << Царицыно
+AngleTextOut 360, Arial, 20, 563, 429, Курьяново >>
+PenColor 000000
+AngleTextOut 360, Arial, 25, 178, 388, Москворечье (МЦД-2), 1
+PenColor FFFFFF
+AngleTextOut 360, Arial, 25, 177, 387, Москворечье (МЦД-2), 1
+
+PenColor 777777
+AngleTextOut 0, Arial, 10, 689, 378, путь 1
+AngleTextOut 0, Arial, 10, 689, 422, путь 2
+
+; турникеты
+PenColor 000000
+Stairs -39,288, -36,288, -39,309
+Stairs 5,436, 8,436, 5,450
+
+;Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 190, 210, МСД (Юго-Восточная хорда)
+AngleTextOut -90, Arial, 15, -129, 338, Каширское шоссе
+AngleTextOut 0, Arial, 15, -9, 618, Сабуровская улица
+
+Angle -60
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 4, 649, 30, 30, ShowMessage Выход №1
+SpotRect 270, 722, 30, 30
+BrushColor -1
+TextOut Arial, 25, 12, 650, 1
+TextOut Arial, 25, 278, 723, 2

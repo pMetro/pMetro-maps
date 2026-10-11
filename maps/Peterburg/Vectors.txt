@@ -2,6 +2,7 @@
 AddToInfo=1
 Caption=Схема
 CityName=Санкт-Петербург
+;MenuName=Test\Image
 Type=Image
 
 [1]
@@ -58,6 +59,8 @@ Type=Image
 Рыбацкое=Rybatskoe.vec
 
 [4]
+Горный институт=GornyInstitut.vec
+;Театральная=
 Спасская=Sadovaya-SennayaPl.vec
 Достоевская=Vladimirskaya-Dostoevskaya.vec
 Лиговский проспект=LigovskiyPr.vec
@@ -80,6 +83,9 @@ Type=Image
 Волковская=Volkovskaya.vec
 Бухарестская=Buharestskaya.vec
 Международная=Mezhdunarodnaya.vec
+Проспект Славы=ProspektSlavy.vec
+Дунайская=
+Шушары=
 
 [6]
 Юго-Западная=Yugo-Zapadnaya.vec

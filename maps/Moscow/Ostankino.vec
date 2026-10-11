@@ -1,0 +1,114 @@
+Size 650x730
+; ====================================================
+
+;МЦД-3
+
+Angle -50
+
+; подземный переход
+Line 377,219, 337,219, 337,340, 357,340
+Line 357,358, 337,358, 337,464, 377,464
+Line 377,482, 267,482
+Line 267,464, 307,464, 307,358, 287,358
+Line 287,340, 307,340, 307,219, 267,219
+Line 267,201, 377,201
+Stairs 375,201, 375,219, 337,201
+Stairs 269,201, 269,219, 307,201
+Stairs 355,340, 355,358, 337,340
+Stairs 269,340, 269,358, 307,340
+Stairs 375,482, 375,464, 337,482
+Stairs 269,482, 269,464, 307,482
+
+Opaque 80
+
+; платформы
+
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 306,415, 306,235, 338,235, 338,415
+
+PenColor EEEEEE
+BrushColor EEEEEE
+Polygon -25,237, -25,277, 641,277, 641,237
+Polygon -24,324, -24,373, 641,373, 641,324
+
+; пути
+PenColor EA5B04
+Line 631,290, -17,290, 20
+Line 631,311, -17,311, 20
+
+Opaque 100
+
+Stairs 375,340, 375,358, 357,340
+Stairs 269,340, 269,358, 287,340
+Line 259,340, 287,340, 287,358, 259,358
+Line 386,340, 357,340, 357,358, 386,358
+
+
+PenColor D0D0D0
+Railway 10, 14, 4, -25,316, -81,316
+Railway 10, 14, 4, -25,295, -81,295
+Railway 10, 14, 4, 709,316, 639,316
+Railway 10, 14, 4, 709,295, 639,295
+Railway 10, 14, 4, 709,390, -81,390
+Railway 10, 14, 4, 709,410, -81,410
+PenColor D82400
+Railway 10, 14, 4, 639,316, -25,316
+Railway 10, 14, 4, 639,295, -25,295
+
+PenColor 000000
+Line 80,225, 76,225, 76,237, -25,237, -25,277, 641,277, 641,237, 118,237, 118,225, 114,225
+Line -24,324, -24,373, 641,373, 641,324, -24,324
+
+; турникеты
+Stairs 83,226, 83,229, 111,226
+Stairs 261,357, 264,357, 261,340
+Stairs 381,357, 384,357, 381,340
+
+
+PenColor 000000
+BrushColor -1
+AngleTextOut 360, Arial, 25, 195, 283, Останкино (МЦД-3), 1
+PenColor FFFFFF
+AngleTextOut 360, Arial, 25, 193, 281, Останкино (МЦД-3), 1
+PenColor EA5B04
+AngleTextOut 360, Arial, 20, -15, 323, << Петровско-Разумовская
+AngleTextOut 360, Arial, 20, 445, 255, "Рижская, Митьково >>"
+
+PenColor 777777
+AngleTextOut 0, Arial, 15, 601, 237, пл.1
+AngleTextOut 0, Arial, 15, 601, 338, пл.2
+AngleTextOut 0, Arial, 10, 722, 283, путь 1
+AngleTextOut 0, Arial, 10, 724, 304, путь 2
+AngleTextOut 0, Arial, 10, 721, 404, путь 3
+AngleTextOut 0, Arial, 10, 726, 382, путь 4
+
+; Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 202, 533, Валаамская улица
+AngleTextOut 50, Arial, 15, 153, 75, Проезд Дубовой рощи
+Arrow 528,474, 589,474, 589,503
+AngleTextOut 90, Arial, 15, 565, 624, '<< к метро "Бутырская"'
+
+
+Angle 50
+
+=================================
+
+
+
+;; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 258, 52, 30, 30, ShowMessage Выход №1
+SpotRect 379, 175, 30, 30
+SpotRect 488, 308, 30, 30
+SpotRect 279, 492, 30, 30
+SpotRect 156, 361, 30, 30
+BrushColor -1
+TextOut Arial, 25, 266, 53, 1
+TextOut Arial, 25, 387, 176, 2
+TextOut Arial, 25, 496, 309, 3
+TextOut Arial, 25, 287, 493, 4
+TextOut Arial, 25, 164, 362, 5

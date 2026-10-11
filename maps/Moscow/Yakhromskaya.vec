@@ -143,7 +143,7 @@ Polygon -17,395, -103,395, -103,398, -17,398
 Opaque 80
 PenColor FFFFFF
 BrushColor FFFFFF
-'PenColor FF0000
+;PenColor FF0000
 Polygon -85,394, -85,424, -39,424, -39,394
 Opaque 100
 

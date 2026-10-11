@@ -8,9 +8,9 @@ Polygon 553,287, 553,257, 103,257, 103,287
 
 BrushColor -1
 PenColor 702785
-AngleTextOut 0, Arial, 20, 426, 395, посадки нет >>
+AngleTextOut 0, Arial, 20, 387, 396, Проспект Славы >>
 AngleTextOut 0, Arial, 20, 106, 232, << Бухарестская
-AngleTextOut 0, Arial, 25, 209, 314, Международная, 1
+AngleTextOut 0, Arial, 25, 208, 308, Международная, 1
 
 ; торцы
 PenColor 000000

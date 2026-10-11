@@ -131,7 +131,7 @@ AngleTextOut 90, Arial, 15, 403, 777, улица Академика Бочвара
 AngleTextOut 40, Arial, 15, 801, 309, Щукинская улица
 AngleTextOut 0, Arial, 15, -104, 442, улица Маршала Василевского
 AngleTextOut 90, Arial, 15, 29, 302, ТРК Щука >>
-633,753, AngleTextOut 0, Arial, 15, 919, 397, улица Маршала
+AngleTextOut 0, Arial, 15, 943, 435, улица Маршала
 AngleTextOut 0, Arial, 15, 946, 455, Василевского
 
 ; Выходы

@@ -350,6 +350,20 @@ StringToAdd='  Ссылка на станцию в Metro2: '
 ;Ватутинки
 ;Троицк
 
+[Рублёво-Архангельская]
+Деловой центр=https://metro2.org/msk/stations/delovoy-tsentr-17
+Шелепиха=https://metro2.org/msk/stations/shelepiha-17
+Звенигородская=https://metro2.org/msk/stations/zvenigorodskaya
+Народное ополчение=https://metro2.org/msk/stations/narodnoe-opolchenie-17
+Бульвар Генерала Карбышева=https://metro2.org/msk/stations/bulvar-generala-karbysheva
+;Серебряный Бор=
+;Строгино=
+;Липовая Роща=
+;СберСити=
+;Новорижская=
+;Красногорская=
+;Изумрудные холмы=
+
 [МЦД1]
 Лобня=https://metro2.org/msk/stations/lobnya
 Шереметьевская=https://metro2.org/msk/stations/sheremetevskaya-d1
@@ -369,7 +383,7 @@ StringToAdd='  Ссылка на станцию в Metro2: '
 Савёловская=https://metro2.org/msk/stations/savyolovskaya-d1
 Белорусская=https://metro2.org/msk/stations/belorusskaya-d1
 Беговая=https://metro2.org/msk/stations/begovaya-d1
-Тестовская <Москва-Сити>=https://metro2.org/msk/stations/testovskaya-d1
+Москва-Сити=https://metro2.org/msk/stations/testovskaya-d1
 Фили=https://metro2.org/msk/stations/fili-d1
 Славянский бульвар=https://metro2.org/msk/stations/slavyanskiy-bulvar-d1
 Кунцевская=https://metro2.org/msk/stations/kuntsevskaya-d1

@@ -1,0 +1,103 @@
+[Options]
+AddToInfo=1
+Caption=Ссылки
+CityName=Санкт-Петербург
+StringToAdd='  Ссылка на станцию в Metro2: '
+
+[1]
+Девяткино=https://metro-2.org/spb/stations/devyatkino
+Гражданский проспект=https://metro-2.org/spb/stations/grazhdanskiy-prospekt
+Академическая=https://metro-2.org/spb/stations/akademicheskaya
+Политехническая=https://metro-2.org/spb/stations/politehnicheskaya
+Площадь Мужества=https://metro-2.org/spb/stations/ploshchad-muzhestva
+Лесная=https://metro-2.org/spb/stations/lesnaya
+Выборгская=https://metro-2.org/spb/stations/vyborgskaya
+Площадь Ленина=https://metro-2.org/spb/stations/ploshchad-lenina
+Чернышевская=https://metro-2.org/spb/stations/chernyshevskaya
+Площадь Восстания=https://metro-2.org/spb/stations/ploshchad-vosstaniya
+Владимирская=https://metro-2.org/spb/stations/vladimirskaya
+Пушкинская=https://metro-2.org/spb/stations/pushkinskaya
+Технологический институт-I=https://metro-2.org/spb/stations/tehnologicheskiy-institut-1
+Балтийская=https://metro-2.org/spb/stations/baltiyskaya
+Нарвская=https://metro-2.org/spb/stations/narvskaya
+Кировский завод=https://metro-2.org/spb/stations/kirovskiy-zavod
+Автово=https://metro-2.org/spb/stations/avtovo
+Ленинский проспект=https://metro-2.org/spb/stations/leninskiy-prospekt
+Проспект Ветеранов=https://metro-2.org/spb/stations/prospekt-veteranov
+
+[2]
+Парнас=https://metro-2.org/spb/stations/parnas
+Проспект Просвещения=https://metro-2.org/spb/stations/prospekt-prosveshcheniya
+Озерки=https://metro-2.org/spb/stations/ozerki
+Удельная=https://metro-2.org/spb/stations/udelnaya
+Пионерская=https://metro-2.org/spb/stations/pionerskaya
+Чёрная речка=https://metro-2.org/spb/stations/chyornaya-rechka
+Петроградская=https://metro-2.org/spb/stations/petrogradskaya
+Горьковская=https://metro-2.org/spb/stations/gorkovskaya
+Невский проспект=https://metro-2.org/spb/stations/nevskiy-prospekt
+Сенная площадь=https://metro-2.org/spb/stations/sennaya-ploshchad
+Технологический институт-II=https://metro-2.org/spb/stations/tehnologicheskiy-institut-2
+Фрунзенская=https://metro-2.org/spb/stations/frunzenskaya
+Московские ворота=https://metro-2.org/spb/stations/moskovskie-vorota
+Электросила=https://metro-2.org/spb/stations/elektrosila
+Парк Победы=https://metro-2.org/spb/stations/park-pobedy
+Московская=https://metro-2.org/spb/stations/moskovskaya
+Звёздная=https://metro-2.org/spb/stations/zvyozdnaya
+Купчино=https://metro-2.org/spb/stations/kupchino
+
+[3]
+;Каменка=https://metro-2.org/spb/stations/kamenka
+;Богатырская=https://metro-2.org/spb/stations/bogatyrskaya
+Беговая=https://metro-2.org/spb/stations/begovaya
+Зенит=https://metro-2.org/spb/stations/zenit
+Приморская=https://metro-2.org/spb/stations/primorskaya
+Василеостровская=https://metro-2.org/spb/stations/vasileostrovskaya
+;Адмиралтейская 2=https://metro-2.org/spb/stations/admiralteyskaya-2
+Гостиный двор=https://metro-2.org/spb/stations/gostiny-dvor
+Маяковская=https://metro-2.org/spb/stations/mayakovskaya
+Площадь Александра Невского-I=https://metro-2.org/spb/stations/ploshchad-aleksandra-nevskogo-1
+Елизаровская=https://metro-2.org/spb/stations/elizarovskaya
+Ломоносовская=https://metro-2.org/spb/stations/lomonosovskaya
+Пролетарская=https://metro-2.org/spb/stations/proletarskaya
+Обухово=https://metro-2.org/spb/stations/obuhovo
+Рыбацкое=https://metro-2.org/spb/stations/rybatskoe
+
+[4]
+;Морской фасад=https://metro-2.org/spb/stations/morskoy-fasad
+;Гавань=https://metro-2.org/spb/stations/gorny-institut
+Горный институт=https://metro-2.org/spb/stations/gorny-institut
+Театральная=https://metro-2.org/spb/stations/teatralnaya
+Спасская=https://metro-2.org/spb/stations/spasskaya
+Достоевская=https://metro-2.org/spb/stations/dostoevskaya
+Лиговский проспект=https://metro-2.org/spb/stations/ligovskiy-prospekt
+Площадь Александра Невского-II=https://metro-2.org/spb/stations/ploshchad-aleksandra-nevskogo-2
+Новочеркасская=https://metro-2.org/spb/stations/novocherkasskaya
+Ладожская=https://metro-2.org/spb/stations/ladozhskaya
+Проспект Большевиков=https://metro-2.org/spb/stations/prospekt-bolshevikov
+Улица Дыбенко=https://metro-2.org/spb/stations/ulitsa-dybenko
+;Кудрово=https://metro-2.org/spb/stations/kudrovo
+
+[5]
+Комендантский проспект=https://metro-2.org/spb/stations/komendantskiy-prospekt
+Старая Деревня=https://metro-2.org/spb/stations/staraya-derevnya
+Крестовский остров=https://metro-2.org/spb/stations/krestovskiy-ostrov
+Чкаловская=https://metro-2.org/spb/stations/chkalovskaya
+Спортивная=https://metro-2.org/spb/stations/sportivnaya-5
+Адмиралтейская=https://metro-2.org/spb/stations/admiralteyskaya-1
+Садовая=https://metro-2.org/spb/stations/sadovaya
+Звенигородская=https://metro-2.org/spb/stations/zvenigorodskaya
+Обводный канал=https://metro-2.org/spb/stations/obvodny-kanal
+Волковская=https://metro-2.org/spb/stations/volkovskaya
+Бухарестская=https://metro-2.org/spb/stations/buharestskaya
+Международная=https://metro-2.org/spb/stations/mezhdunarodnaya
+Проспект Славы=https://metro-2.org/spb/stations/prospekt-slavy
+Дунайская=https://metro-2.org/spb/stations/dunayskaya
+Шушары=https://metro-2.org/spb/stations/shushary
+
+[6]
+Юго-Западная=https://metro-2.org/spb/stations/yugo-zapadnaya
+Путиловская=https://metro-2.org/spb/stations/putilovskaya
+;Броневая=https://metro-2.org/spb/stations/bronevaya
+;Заставская=https://metro-2.org/spb/stations/zastavskaya
+;Боровая=https://metro-2.org/spb/stations/borovaya
+;Каретная=https://metro-2.org/spb/stations/karetnaya

@@ -218,14 +218,6 @@ Type=3dImage
 Улица Горчакова=UlitsaGorchakova.pm3d
 Бунинская аллея=BuninskayaAlleya.pm3d
 
-[Монорельс]
-Тимирязевская=TimiryazevskayaMonorels.pm3d
-Улица Милашенкова=UlitsaMilashenkova.pm3d
-Телецентр=TeleCentr.pm3d
-Улица академика Королева=UlitsaAkademikaKoroleva.pm3d
-Выставочный центр=VystavochnyCentr.pm3d
-Улица Сергея Эйзенштейна=UlitsaSergeyaEizenshteina.pm3d
-
 [Междувокзальная]
 Москва Курская=Chkalovskaya.pm3d(4392,-3745,1136,306,27,3774),ChkalovskayaRusich.pms,ChkalovskayaKoltsevaya.pms,ChkalovskayaTrainK.pms,ChkalovskayaTrainG.pms,ChkalovskayaSputnik.pms
 
@@ -240,7 +232,7 @@ Type=3dImage
 Варшавская=Varshavskaya.pm3d(2586,2281,382,90,50,4358),VarshavskayaTrain.pms
 
 [Белорусская]
-Тестовская <Москва-Сити>=Testovskaya.pm3d
+Москва-Сити=Testovskaya.pm3d
 Рабочий Поселок=RabochiyPoselok.pm3d,RabochiyPoselokS.pms
 Раздоры=Razdory.pm3d
 Беговая=Begovaya.pm3d(2450,-583,194,180,47,4465),BegovayaTrain.pms

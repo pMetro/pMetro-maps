@@ -134,7 +134,6 @@ Polygon 70,310, -16,310, -16,313, 70,313
 Opaque 80
 PenColor FFFFFF
 BrushColor FFFFFF
-'PenColor FF0000
 Polygon 3,294, 2,339, 48,339, 48,294
 Opaque 100
 

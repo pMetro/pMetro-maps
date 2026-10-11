@@ -231,7 +231,6 @@ BrushColor 30D5C8
 Polygon 352,527, 352,497, 801,497, 801,527
 Polygon 352,635, 352,605, 801,605, 801,635
 Line 352,527, 352,545
-Line
 
 PenColor 30D5C8
 BrushColor -1

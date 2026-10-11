@@ -247,16 +247,6 @@ PenColor 009900
 Stairs 468,421, 472,421, 468,438
 PenColor FF0000
 Stairs 532,446, 532,450, 513,446
-Line 450,514, 448,530
-Line 450,530, 448,514
-Line 455,956, 453,972
-Line 455,972, 453,956
-Line 514,377, 470,381
-Line 514,381, 470,377
-Line 552,244, 550,258
-Line 550,244, 552,258
-Line 432,244, 434,258
-Line 434,244, 432,258
 
 ;лифт
 PenColor 000000
@@ -293,7 +283,9 @@ SpotRect 392, 5, 30, 30
 SpotRect 637, 135, 30, 30
 SpotRect 520, 214, 30, 30
 SpotRect 702, 465, 30, 30
+SpotRect 590, 684, 30, 30
 SpotRect 1077, 677, 30, 30
+SpotRect 960, 879, 30, 30
 BrushColor -1
 TextOut Arial, 25, 271, 774, 1
 TextOut Arial, 25, 223, 865, 2
@@ -304,4 +296,6 @@ TextOut Arial, 25, 400, 6, 6
 TextOut Arial, 25, 645, 136, 7
 TextOut Arial, 25, 528, 215, 8
 TextOut Arial, 25, 710, 466, 9
+TextOut Arial, 25, 592, 685, 10
 TextOut Arial, 25, 1080, 678, 11
+TextOut Arial, 25, 963, 880, 12

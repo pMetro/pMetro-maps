@@ -507,8 +507,6 @@ PenColor 000000
 BrushColor FCDC04
 
 Line 524,120, 500,120, 500,168, 523,168
-Line 1262,80
-Line 1261,208
 
 PenColor 000000
 BrushColor -1

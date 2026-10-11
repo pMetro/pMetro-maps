@@ -82,6 +82,9 @@ StringToAdd='  Сайт VPeterburge.ru: '
 Волковская=http://metro.vpeterburge.ru/stations/5/volkov/
 Бухарестская=http://metro.vpeterburge.ru/stations/5/buhar/
 Международная=http://metro.vpeterburge.ru/stations/5/mezhdunar/
+Проспект Славы=http://metro.vpeterburge.ru/stations/5/slavy/
+Дунайская=http://metro.vpeterburge.ru/stations/5/dun/
+Шушары=http://metro.vpeterburge.ru/stations/5/shu/
 
 [6]
 Юго-Западная=http://metro.vpeterburge.ru/stations/kalinin/kaz/

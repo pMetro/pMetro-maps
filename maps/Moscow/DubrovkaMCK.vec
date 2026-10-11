@@ -1,6 +1,6 @@
 Size 620x660
 
-;Angle 30
+Angle 30
 
 ; островная
 
@@ -137,7 +137,7 @@ AngleTextOut -90, Arial, 15, 408, 436, 'к метро "Кожуховская" >>'
 PenColor 000000
 AngleTextOut 0, Arial, 15, 51, 540, '<< ТЦ "Мозаика"'
 
-;Angle -30
+Angle -30
 ; Выходы
 PenColor FFD900
 BrushColor 615F56
@@ -148,4 +148,3 @@ BrushColor -1
 TextOut Arial, 25, 100, 39, 1
 TextOut Arial, 25, 331, 425, 2
 TextOut Arial, 25, 228, 579, 3
-

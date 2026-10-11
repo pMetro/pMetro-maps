@@ -1,0 +1,172 @@
+Size 780x620
+;================================================
+
+; МЦД-2
+
+Angle 55
+
+; Переход
+PenColor 000000
+Line 395,410, 395,416, 376,416, 376,358, 412,358, 412,222, 377,222, 377,204, 341,204
+Line 341,185, 377,185, 377,123, 411,123, 411,130
+Line 436,130, 436,123, 465,123, 465,186, 507,186
+Line 507,204, 465,204, 465,219, 436,219, 436,416, 419,416, 419,410
+Stairs 505,186, 505,204, 468,186
+
+; эскалатор 2 гор
+PenColor 7F7F7F
+Stairs 352,188, 352,201, 373,188
+PenColor 000000
+BrushColor 9B5509
+Polygon 377,188, 347,188, 347,185, 377,185
+Polygon 377,193, 377,196, 347,196, 347,193
+Polygon 377,201, 347,201, 347,204, 377,204
+
+
+BrushColor D0D0D0
+Polygon 377,143, 411,143, 411,169, 377,169
+Polygon 465,143, 436,143, 436,176, 465,176
+
+; кассы
+PenColor 000000
+BrushColor FFFFFF
+Polygon 408,169, 408,161, 380,161, 380,169
+BrushColor -1
+AngleTextOut 0, Arial, 10, 382, 159, кассы
+
+; кассы
+PenColor 000000
+BrushColor -1
+Line 408,358, 408,350, 380,350, 380,358
+AngleTextOut 0, Arial, 10, 382, 347, кассы
+
+; турникеты
+BrushColor FFFFFF
+Polygon 407,215, 412,215, 412,220, 407,220
+Stairs 436,180, 439,180, 436,218
+PenColor FF0000
+Stairs 408,187, 411,187, 408,214
+PenColor 009000
+Stairs 379,183, 379,186, 408,183
+
+Opaque 80
+PenColor EEEEEE
+BrushColor EEEEEE
+Polygon 487,159, 487,184, 509,184, 509,206, 487,206, 487,227, 635,227, 635,159
+Polygon 362,159, -34,159, -34,227, 362,227, 362,206, 340,206, 340,183, 362,183
+Polygon 362,159, 487,159, 487,227, 362,227
+
+; пути
+PenColor E83F83
+Line 625,239, -24,239, 20
+Line 625,147, -24,147, 20
+
+Opaque 100
+
+;PenColor 000000
+Line -34,159, 635,159, 635,227, -34,227, -34,159
+Line 487,186, 487,204
+Line 362,185, 362,204
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 450,219, 450,204, 465,204, 465,219
+BrushColor -1
+AngleTextOut 0, Arial, 6, 451, 208, лифт
+
+
+PenColor D0D0D0
+Railway 10, 14, 4, -112,142, -32,142
+Railway 10, 14, 4, -84,234, -32,234
+Railway 10, 14, 4, 632,142, 665,142
+Railway 10, 14, 4, 632,234, 727,234
+Railway 10, 14, 4, -153,84, 620,84
+
+Railway 10, 14, 4, 214,627, 840,628
+Railway 10, 14, 4, 186,600, 881,601
+
+PenColor D81852
+Railway 10, 14, 4, -32,142, 632,142
+Railway 10, 14, 4, -32,234, 632,234
+
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 396,596, 414,596, 414,641, 396,641
+
+PenColor 000000
+Line 427,500, 427,556, 414,556, 414,684, 429,684, 429,740
+Line 388,500, 388,556, 396,556, 396,684, 389,684, 389,740
+Line 418,699, 429,699
+Line 417,541, 427,541
+Stairs 406,541, 388,541, 406,503
+Stairs 389,699, 407,699, 389,737
+
+
+; эскалатор 1 верт
+PenColor 7F7F7F
+Stairs 409,539, 414,539, 409,504
+PenColor 000000
+BrushColor 9B5509
+Polygon 409,500, 409,544, 406,544, 406,500
+Polygon 414,500, 414,544, 417,544, 417,500
+
+; эскалатор 1 верт
+PenColor 7F7F7F
+Stairs 410,735, 415,735, 410,700
+PenColor 000000
+BrushColor 9B5509
+Polygon 410,696, 410,740, 407,740, 407,696
+Polygon 415,696, 415,740, 418,740, 418,696
+
+; туалет
+PenColor 000000
+BrushColor 99FF99
+Polygon 436,331, 445,331, 445,340, 436,340
+BrushColor -1
+AngleTextOut 0, Arial, 10, 438, 330, Т
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 416,349, 416,345, 414,345, 414,349
+PenColor FF0000
+BrushColor FF0000
+Polygon 416,353, 416,349, 414,349, 414,353
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 447,204, 447,200, 445,200, 445,204
+PenColor FF0000
+BrushColor FF0000
+Polygon 447,208, 447,204, 445,204, 445,208
+
+PenColor D81852
+BrushColor -1
+AngleTextOut 360, Arial, 25, 110, 174, Курьяново (МЦД-2), 1
+AngleTextOut 360, Arial, 20, -27, 155, << Москворечье
+AngleTextOut 360, Arial, 20, 525, 203, Перерва >>
+
+PenColor 777777
+AngleTextOut 0, Arial, 10, 637, 154, путь 1
+AngleTextOut 0, Arial, 10, 639, 246, путь 2
+
+;Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 315, -24, МСД (Юго-Восточная хорда)
+
+
+Angle -55
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 524, 319, 30, 30, ShowMessage Выход №1
+SpotRect 203, 170, 30, 30
+BrushColor -1
+TextOut Arial, 25, 532, 320, 1
+TextOut Arial, 25, 211, 171, 2
+
+

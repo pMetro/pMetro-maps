@@ -4,6 +4,11 @@ Angle -25
 ; метро
 
 ; пути
+PenColor EA5B04
+Line 400,393, -248,393, 20
+Line 400,416, -248,416, 20
+
+; пути
 PenColor 000000
 BrushColor AC24AC
 Polygon 557,499, 557,529, 1134,529, 1134,499
@@ -37,14 +42,18 @@ AngleTextOut 0, Arial, 10, 473, 487, кассы
 Line 1156,429, 1156,499
 AngleTextOut 90, Arial, 12, 1153, 491, полиция
 
+PenColor D0D0D0
 
 Railway 10, 14, 4, -9,281, 1139,281
-Railway 10, 14, 4, -9,388, 1139,388
-Railway 10, 14, 4, -9,411, 1139,411
 Railway 10, 14, 4, -9,258, 1139,258
+Railway 10, 14, 4, 407,388, 1139,388
+Railway 10, 14, 4, 407,411, 1139,411
+PenColor D82400
+Railway 10, 14, 4, -9,388, 407,388
+Railway 10, 14, 4, -9,411, 407,411
 
-PenColor C0C0C0
-BrushColor C0C0C0
+PenColor EEEEEE
+BrushColor EEEEEE
 Polygon -9,429, 441,429, 441,499, 326,499, 326,471, 262,471, 262,499, -9,499
 Polygon -9,299, -9,379, 1125,379, 1125,299
 Polygon 216,209, 216,249, 1126,249, 1126,209
@@ -143,15 +152,15 @@ AngleTextOut 0, Arial, 15, 434, 34, улица Красный Казанец
 AngleTextOut 0, Arial, 15, 819, 640, улица Хлобыстова
 AngleTextOut 90, Arial, 15, 188, 740, Автостанция
 PenColor 000000
-AngleTextOut 0, Arial, 25, -7, 455, 'ж/д платформа "Выхино"'
-AngleTextOut 0, Arial, 25, -7, 324, 'ж/д платформа "Выхино"'
 AngleTextOut 0, Arial, 25, 564, 206, платформа экспресс-поездов
 AngleTextOut 0, Arial, 25, 564, 324, платформа экспресс-поездов
-
-AngleTextOut 0, Arial, 20, 14, 429, << Вешняки (к Москве)
 AngleTextOut 0, Arial, 20, 564, 299, << к Москве
-AngleTextOut 0, Arial, 20, 12, 354, Косино (от Москвы) >>
 AngleTextOut 0, Arial, 20, 564, 227, от Москвы >>
+PenColor EA5B04
+AngleTextOut 0, Arial, 25, -7, 455, Выхино ((МЦД-3)
+AngleTextOut 0, Arial, 25, -7, 324, Выхино (МЦД-3)
+AngleTextOut 0, Arial, 20, 14, 429, << Вешняки (к Москве)
+AngleTextOut 0, Arial, 20, 12, 354, Косино (от Москвы) >>
 
 PenColor FF0000
 Arrow 1056,221, 1056,188
@@ -225,9 +234,13 @@ SpotRect 865, 781, 30, 30
 SpotRect 593, 658, 30, 30
 SpotRect 772, 154, 30, 30
 SpotRect 888, 208, 30, 30
+SpotRect 233, 502, 30, 30
+SpotRect 724, 94, 30, 30
 BrushColor -1
 TextOut Arial, 25, 1104, 343, 1
 TextOut Arial, 25, 873, 782, 2
 TextOut Arial, 25, 601, 659, 3
 TextOut Arial, 25, 780, 155, 4
 TextOut Arial, 25, 896, 209, 5
+TextOut Arial, 25, 241, 503, 6
+TextOut Arial, 25, 732, 95, 7

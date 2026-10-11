@@ -232,7 +232,6 @@ BrushColor -1
 AngleTextOut 0, Arial, 6, 357, -61, лифт
 
 ;лифт
-317,387, 
 PenColor 000000
 BrushColor D0EFFF
 Polygon 287,550, 287,535, 302,535, 302,550
@@ -280,7 +279,7 @@ AngleTextOut 40, Arial, 15, 250, 726, '"Октябрьское поле"'
 
 Angle 80
 
- Выходы
+; Выходы
 PenColor FFD900
 BrushColor 615F56
 SpotRect 90, 299, 30, 30, ShowMessage Выход №1

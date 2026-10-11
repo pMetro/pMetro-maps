@@ -41,7 +41,7 @@ Type=Image
 [Белорусская]
 Москва Смоленская=BelZ.vec
 Беговая=Begovaya.vec
-Тестовская <Москва-Сити>=Testovskaya.vec
+Москва-Сити=Moscow-City.vec
 Фили=FiliZ.vec
 Кунцево=Kuntsevskaya.vec
 Рабочий Поселок=RabochiyPoselok.vec
@@ -51,7 +51,7 @@ Type=Image
 [Курская]
 Текстильщики=Tekstilshchiki.vec
 Чехов=Chekhov.vec
-Царицыно=TSaritsynoZhD.vec
+Царицыно=TSaritsyno.vec
 
 [Ленинградская]
 Петровско-Разумовское=PetrRazumRZD.vec

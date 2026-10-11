@@ -106,7 +106,6 @@ AngleTextOut -90, Arial, 15, 450, 319, Череповецкая улица
 AngleTextOut -90, Arial, 15, 450, 759, улица Лескова
 AngleTextOut -90, Arial, 15, 400, 759, Макдональдс
 
-Size 1x1
 ; Выходы
 Angle -90
 PenColor FFD900
@@ -119,12 +118,6 @@ SpotRect 427, 938, 30, 30
 SpotRect 427, 1004, 30, 30
 SpotRect 133, 1006, 30, 30
 SpotRect 133, 936, 30, 30
-SpotRect 10, 400, 30, 30
-SpotRect 10, 450, 30, 30
-SpotRect 10, 500, 30, 30
-SpotRect 10, 550, 30, 30
-SpotRect 10, 600, 30, 30
-SpotRect 10, 650, 30, 30
 BrushColor -1
 TextOut Arial, 25, 115, 237, 1
 TextOut Arial, 25, 115, 158, 2
@@ -134,9 +127,3 @@ TextOut Arial, 25, 435, 939, 5
 TextOut Arial, 25, 435, 1005, 6
 TextOut Arial, 25, 141, 1007, 7
 TextOut Arial, 25, 141, 937, 8
-TextOut Arial, 25, 18, 401, 9
-TextOut Arial, 25, 12, 451, 10
-TextOut Arial, 25, 12, 501, 11
-TextOut Arial, 25, 12, 551, 12
-TextOut Arial, 25, 12, 601, 13
-TextOut Arial, 25, 12, 651, 14

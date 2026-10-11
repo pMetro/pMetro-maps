@@ -1,106 +1,124 @@
-Size 470x410
+Size 550x500
 
 ; ====================================================
 
 Angle -30
 
+Line -88,171, -88,171
+
 ; пути
 PenColor 000000
 BrushColor E41C0C
-Polygon 464,254, 464,284, 15,284, 15,254
-Polygon 464,146, 464,176, 15,176, 15,146
+Polygon 493,348, 493,378, 44,378, 44,348
+Polygon 493,240, 493,270, 44,270, 44,240
 
 Opaque 70
 PenColor FFFFFF
 BrushColor FFFFFF
-Polygon 179,162, 178,267, 265,267, 265,162
-Polygon 146,285, 111,285, 111,145, 146,145
+Polygon 208,256, 207,361, 294,361, 294,256
+Polygon 175,379, 140,379, 140,239, 175,239
 Opaque 100
 
-Line 464,254, 464,176
-Line 15,254, 15,176
-Line 192,400, 111,400, 111,47, 192,47
-Line 192,360, 146,360, 146,251, 178,251, 178,267, 265,267, 265,223, 305,223
-Line 305,206, 265,206, 265,162, 178,162, 178,179, 146,179, 146,87, 192,87
-Line 207,223, 247,223, 247,246, 199,246, 199,183, 247,183, 247,206, 207,206
-Line 192,70, 152,70, 0.5
-Line 192,65, 152,65, 0.5
-Line 152,382, 192,382, 0.5
-Line 152,378, 192,378, 0.5
-Stairs 209,223, 209,206, 247,223
-Stairs 303,223, 303,206, 265,223
-Stairs 265,225, 247,225, 265,246
-Stairs 265,204, 247,204, 265,183
-Stairs 190,47, 190,65, 152,47
-Stairs 190,87, 190,70, 152,87
-Stairs 190,400, 190,382, 152,400
-Stairs 190,360, 190,378, 152,360
+Line 493,348, 493,270
+Line 44,348, 44,270
+Line 221,494, 140,494, 140,181, 99,181, 99,103
+Line 140,103, 140,141, 221,141
+Line 221,454, 175,454, 175,345, 207,345, 207,361, 294,361, 294,317, 334,317
+Line 334,300, 294,300, 294,256, 207,256, 207,273, 175,273, 175,181, 221,181
+Line 236,317, 276,317, 276,340, 228,340, 228,277, 276,277, 276,300, 236,300
+Line 221,164, 181,164, 0.5
+Line 221,159, 181,159, 0.5
+Line 181,476, 221,476, 0.5
+Line 181,472, 221,472, 0.5
+Stairs 238,317, 238,300, 276,317
+Stairs 332,317, 332,300, 294,317
+Stairs 294,319, 276,319, 294,340
+Stairs 294,298, 276,298, 294,277
+Stairs 219,141, 219,159, 181,141
+Stairs 219,181, 219,164, 181,181
+Stairs 219,494, 219,476, 181,494
+Stairs 219,454, 219,472, 181,454
 
 BrushColor D0D0D0
-Polygon 146,232, 157,232, 157,198, 146,198
+Polygon 175,326, 186,326, 186,292, 175,292
 
 ; кассы
 PenColor 000000
 BrushColor FFFFFF
-Polygon 149,229, 157,229, 157,201, 149,201
+Polygon 178,323, 186,323, 186,295, 178,295
 BrushColor -1
-AngleTextOut 90, Arial, 10, 146, 228, кассы
+AngleTextOut 90, Arial, 10, 175, 322, кассы
 
 ; турникеты
-Line 157,215, 168,215, 0.5
+Line 186,309, 197,309, 0.5
 PenColor 009900
-Stairs 177,225, 173,225, 177,250
+Stairs 204,275, 200,275, 204,293
 PenColor FF0000
-Stairs 177,210, 173,210, 177,180
+Stairs 204,342, 200,342, 204,324
 
 
 ;лифт
 PenColor 000000
 BrushColor D0EFFF
-Polygon 183,209, 183,223, 168,223, 168,209
+Polygon 212,294, 212,324, 197,324, 197,294
 BrushColor -1
-AngleTextOut 45, Arial, 6, 166, 219, лифты
+AngleTextOut 90, Arial, 6, 201, 318, лифты
 
 ;лифт
 PenColor 000000
 BrushColor D0EFFF
-Polygon 128,386, 128,400, 113,400, 113,386
+Polygon 157,480, 157,494, 142,494, 142,480
 BrushColor -1
-AngleTextOut 0, Arial, 6, 114, 389, лифт
+AngleTextOut 0, Arial, 6, 143, 483, лифт
 
 ;лифт
 PenColor 000000
 BrushColor D0EFFF
-Polygon 128,47, 128,61, 113,61, 113,47
+Polygon 157,126, 157,141, 142,141, 142,126
 BrushColor -1
-AngleTextOut 0, Arial, 6, 114, 50, лифт
+AngleTextOut 0, Arial, 6, 143, 129, лифт
 
 ;инфососы
 PenColor 94949C
 BrushColor 94949C
-Polygon 185,216, 185,220, 187,220, 187,216
+Polygon 223,310, 223,314, 225,314, 225,310
 PenColor FF0000
 BrushColor FF0000
-Polygon 185,212, 185,216, 187,216, 187,212
+Polygon 223,306, 223,310, 225,310, 225,306
 
 ;инфососы
 PenColor 94949C
 BrushColor 94949C
-Polygon 392,215, 392,219, 394,219, 394,215
+Polygon 421,309, 421,313, 423,313, 423,309
 PenColor FF0000
 BrushColor FF0000
-Polygon 392,211, 392,215, 394,215, 394,211
+Polygon 421,305, 421,309, 423,309, 423,305
 
 ; Названия улиц голубым
 PenColor 00AFAF
 BrushColor -1
-AngleTextOut 0, Arial, 15, 473, 222, Филатовское шоссе
+AngleTextOut 0, Arial, 15, 502, 316, Филатовское шоссе
+AngleTextOut 90, Arial, 15, 100, 170, 'Бизнес-квартал\n  "Прокшино" >>'
+
+; строится
+Opaque 70
+PenColor FFD0D0
+BrushColor FFD0D0
+Polygon 95,63, 95,190, 137,190, 137,63
+
+Opaque 100
+PenColor FF4040
+BrushColor -1
+AngleTextOut 90, Arial, 15, 106, 148, Строится
+Dashed 95,63, 95,190, 137,190, 137,63, 95,63
+
+
 
 PenColor E41C0C
 BrushColor -1
-AngleTextOut 0, Arial, 20, 18, 122, << Филатов Луг
-AngleTextOut 0, Arial, 20, 352, 284, Ольховая >>
-AngleTextOut 0, Arial, 25, 311, 180, Прокшино, 1
+AngleTextOut 0, Arial, 20, 47, 216, << Филатов Луг
+AngleTextOut 0, Arial, 20, 381, 378, Ольховая >>
+AngleTextOut 0, Arial, 25, 340, 274, Прокшино, 1
 
 
 Angle 30
@@ -108,8 +126,8 @@ Angle 30
 ; Выходы
 PenColor FFD900
 BrushColor 615F56
-SpotRect 60, 349, 30, 30, ShowMessage Выход №1
-SpotRect 222, 83, 30, 30
+SpotRect 69, 434, 30, 30, ShowMessage Выход №1
+SpotRect 270, 88, 30, 30
 BrushColor -1
-TextOut Arial, 25, 68, 350, 1
-TextOut Arial, 25, 230, 84, 2
+TextOut Arial, 25, 77, 435, 1
+TextOut Arial, 25, 278, 89, 2

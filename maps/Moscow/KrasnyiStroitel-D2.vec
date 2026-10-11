@@ -1,0 +1,91 @@
+Size 600x900
+;================================================
+
+; МЦД-2
+
+Angle 75
+
+; платформы
+PenColor EEEEEE
+BrushColor EEEEEE
+Polygon 715,351, -15,351, -15,321, 715,321
+Polygon 657,410, 506,410, 506,420, 341,420, 341,428, 261,428, 261,420, -15,420, -15,396, 657,396
+PenColor 000000
+
+; пути
+PenColor E83F83
+Line 646,384, -3,384, 20
+Line 646,363, -3,363, 20
+
+PenColor D0D0D0
+Railway 10, 14, 4, -209,296, 733,296
+Railway 10, 14, 4, -193,358, -11,358
+Railway 10, 14, 4, -193,380, -11,380
+Railway 10, 14, 4, 653,359, 710,359
+Railway 10, 14, 4, 654,378, 714,378
+Railway 10, 14, 4, -165,462, 779,462
+Railway 10, 14, 4, -165,484, 779,484
+Railway 10, 14, 4, -139,562, 807,562
+Railway 10, 14, 4, -139,584, 807,584
+PenColor D81852
+Railway 10, 14, 4, -11,358, 653,359
+Railway 10, 14, 4, -11,380, 654,378
+
+Opaque 80
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon -55,603, -73,603, -73,283, -55,283
+Opaque 100
+
+PenColor 000000
+Line -15,417, -55,417, -55,716
+Line -73,716, -73,247
+Line -55,247, -55,327, -15,327
+Line -15,327, -15,321, 715,321, 715,351, -15,351, -15,345
+Line -15,345, -55,345, -55,399, -15,399
+Line -15,399, -15,396, 657,396, 657,410, 506,410, 506,420, 341,420, 341,428, 261,428, 261,420, -15,420, -15,417
+Stairs -55,714, -73,714, -55,676
+Stairs -73,249, -55,249, -73,287
+Stairs -17,327, -17,345, -55,327
+Stairs -17,399, -17,417, -55,399
+Stairs -55,520, -73,520, -55,538
+
+; кассы
+PenColor 000000
+BrushColor D0D0D0
+Polygon -37,251, -37,285, 8,285, 8,251
+BrushColor FFFFFF
+Polygon -29,254, -37,254, -37,282, -29,282
+BrushColor -1
+AngleTextOut -90, Arial, 10, -26, 256, кассы
+
+PenColor D81852
+BrushColor -1
+AngleTextOut 0, Arial, 20, -5, 328, << Битца
+AngleTextOut 0, Arial, 20, 366, 392, Покровское >>
+PenColor 000000
+AngleTextOut 0, Arial, 25, 205, 351, Красный Строитель (МЦД-2), 1
+PenColor FFFFFF
+AngleTextOut 0, Arial, 25, 204, 351, Красный Строитель (МЦД-2), 1
+
+PenColor 777777
+AngleTextOut 0, Arial, 10, 715, 359, путь 1
+AngleTextOut 0, Arial, 10, 719, 378, путь 2
+
+;Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, -22, 766, МСД (Юго-Восточная хорда)
+AngleTextOut 0, Arial, 15, 81, 214, Дорожная улица
+
+Angle -75
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 439, 817, 30, 30, ShowMessage Выход №1
+SpotRect 5, 774, 30, 30
+BrushColor -1
+TextOut Arial, 25, 447, 818, 1
+TextOut Arial, 25, 13, 775, 2
+

@@ -1,0 +1,218 @@
+Size 470x800
+;================================================
+
+; МЦД-2
+
+Angle 80
+
+
+BrushColor D0D0D0
+
+
+; пути
+PenColor E83F83
+Line 524,424, -125,424, 20
+Line 524,352, -125,352, 20
+
+
+PenColor 000000
+BrushColor EEEEEE
+Polygon -135,364, -135,412, 534,412, 534,364
+Polygon -135,457, -135,505, 534,505, 534,457
+
+PenColor D0D0D0
+Railway 10, 14, 4, -185,347, -133,347
+Railway 10, 14, 4, -173,419, -133,419
+Railway 10, 14, 4, 531,347, 634,347
+Railway 10, 14, 4, 531,419, 647,419
+
+Railway 10, 14, 4, -153,512, 663,512
+Railway 10, 14, 4, -169,440, 651,440
+
+PenColor D81852
+Railway 10, 14, 4, -133,347, 531,347
+Railway 10, 14, 4, -133,419, 531,419
+
+PenColor EEEEEE
+BrushColor EEEEEE
+Polygon 332,552, 332,565, 317,565, 317,552
+Polygon 256,552, 256,570, 246,570, 246,552
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 375,568, 380,568, 380,566, 375,566
+PenColor FF0000
+BrushColor FF0000
+Polygon 370,568, 375,568, 375,566, 370,566
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 375,290, 380,290, 380,288, 375,288
+PenColor FF0000
+BrushColor FF0000
+Polygon 370,290, 375,290, 375,288, 370,288
+
+; эскалатор 2 гор
+PenColor 7F7F7F
+Stairs 322,552, 322,565, 357,552
+PenColor 000000
+BrushColor 9B5509
+Polygon 361,552, 317,552, 317,549, 361,549
+Polygon 361,557, 361,560, 317,560, 317,557
+Polygon 361,565, 317,565, 317,568, 361,568
+
+Opaque 80
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 398,303, 362,303, 362,377, 251,377, 251,400, 296,400, 296,472, 251,472, 251,495, 367,495, 367,530, 384,530, 384,495, 398,495, 2
+Opaque 100
+
+PenColor 000000
+Line 299,289, 299,286, 398,286, 398,303, 400,303, 400,301
+Line 415,301, 415,316, 398,316, 398,495, 384,495, 384,551, 400,551
+Line 400,566, 397,566, 397,568
+Line 387,568, 387,566, 384,566, 384,570, 311,570, 311,572
+Line 301,572, 301,570, 238,570, 238,567
+Line 361,549, 363,549, 363,547, 296,547, 296,570
+Line 229,475, 229,472, 296,472, 296,400, 229,400, 229,397
+Stairs 309,297, 309,316, 347,297
+Stairs 282,570, 282,552, 244,570
+
+BrushColor D0D0D0
+Polygon 398,316, 415,316, 415,495, 398,495
+
+PenColor D0D0D0
+Line 396,566, 388,566
+Line 312,477, 292,477
+Line 312,395, 292,395
+Stairs 310,377, 310,395, 292,377
+Stairs 310,477, 310,495, 292,477
+
+PenColor 000000
+Line 312,377, 312,395, 332,395
+Line 312,495, 312,477, 332,477
+Line 238,555, 238,552, 284,552, 284,535, 367,535, 367,495, 229,495, 229,492
+Line 229,380, 229,377, 362,377, 362,316, 299,316, 299,313
+Stairs 330,377, 330,395, 312,377
+Stairs 330,477, 330,495, 312,477
+
+; кассы
+PenColor 000000
+BrushColor FFFFFF
+Polygon 398,406, 406,406, 406,434, 398,434
+BrushColor -1
+AngleTextOut -90, Arial, 10, 409, 408, кассы
+
+; туалет
+PenColor 000000
+BrushColor 99FF99
+Polygon 398,460, 407,460, 407,469, 398,469
+BrushColor -1
+AngleTextOut -90, Arial, 10, 409, 461, Т
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 400,301, 400,286, 415,286, 415,301
+BrushColor -1
+AngleTextOut 0, Arial, 6, 401, 290, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 344,392, 344,377, 359,377, 359,392
+BrushColor -1
+AngleTextOut 0, Arial, 6, 345, 381, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 344,495, 344,480, 359,480, 359,495
+BrushColor -1
+AngleTextOut 0, Arial, 6, 345, 484, лифт
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 400,566, 400,551, 415,551, 415,566
+BrushColor -1
+AngleTextOut 0, Arial, 6, 401, 555, лифт
+
+; турникеты
+Polygon 337,431, 332,431, 332,436, 337,436
+Stairs 357,396, 353,396, 357,479
+
+; эскалатор 2 гор
+PenColor 7F7F7F
+Stairs 241,382, 241,395, 276,382
+PenColor 000000
+BrushColor 9B5509
+Polygon 280,382, 236,382, 236,379, 280,379
+Polygon 280,387, 280,390, 236,390, 236,387
+Polygon 280,395, 236,395, 236,398, 280,398
+
+; эскалатор 2 гор
+PenColor 7F7F7F
+Stairs 241,477, 241,490, 276,477
+PenColor 000000
+BrushColor 9B5509
+Polygon 280,477, 236,477, 236,474, 280,474
+Polygon 280,482, 280,485, 236,485, 236,482
+Polygon 280,490, 236,490, 236,493, 280,493
+
+; эскалатор 1 гор
+PenColor 7F7F7F
+Stairs 311,289, 311,294, 348,289
+PenColor 000000
+BrushColor 9B5509
+Polygon 350,289, 306,289, 306,286, 350,286
+Polygon 350,294, 350,297, 306,297, 306,294
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 304,461, 304,457, 302,457, 302,461
+PenColor FF0000
+BrushColor FF0000
+Polygon 304,465, 304,461, 302,461, 302,465
+
+;инфосос
+PenColor 94949C
+BrushColor 94949C
+Polygon 301,414, 301,410, 299,410, 299,414
+PenColor FF0000
+BrushColor FF0000
+Polygon 301,418, 301,414, 299,414, 299,418
+
+PenColor D81852
+BrushColor -1
+AngleTextOut 360, Arial, 25, -1, 369, Остафьево (МЦД-2), 1
+AngleTextOut 360, Arial, 20, -128, 360, << Силикатная
+AngleTextOut 360, Arial, 20, 418, 390, Щербинка >>
+
+PenColor 777777
+AngleTextOut 0, Arial, 10, 538, 359, путь 1
+AngleTextOut 0, Arial, 10, 538, 403, путь 2
+AngleTextOut 0, Arial, 10, 539, 452, путь 3
+AngleTextOut 0, Arial, 10, 538, 496, путь 4
+AngleTextOut 0, Arial, 20, -72, 468, Платформа №2 для экспрессов
+
+
+;Названия улиц голубым
+PenColor 00AFAF
+BrushColor -1
+AngleTextOut 0, Arial, 15, 214, 181, Заводская улица
+AngleTextOut -60, Arial, 15, 555, 200, проспект Славского
+
+Angle -80
+
+; Выходы
+PenColor FFD900
+BrushColor 615F56
+SpotRect 99, 293, 30, 30, ShowMessage Выход №1
+SpotRect 425, 348, 30, 30
+BrushColor -1
+TextOut Arial, 25, 107, 294, 1
+TextOut Arial, 25, 433, 349, 2

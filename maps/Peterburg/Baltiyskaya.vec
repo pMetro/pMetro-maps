@@ -166,8 +166,6 @@ PenColor 009900
 Arrow 278,79, 274,94
 Arrow 198,195, 208,195
 
-186,252, 
-
 ; Названия улиц голубым
 PenColor 00AFAF
 BrushColor -1

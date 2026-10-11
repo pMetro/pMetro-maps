@@ -131,7 +131,6 @@ Angle -90
 
 PenColor 000000
 Line 610,340, 610,500, 698,500, 698,441
-Line 698,441
 Line 632,375, 632,465
 
 BrushColor D0D0D0

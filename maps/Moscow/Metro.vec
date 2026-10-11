@@ -35,11 +35,13 @@ AngleTextOut 0, Arial, 16, 1252, 283, 11 БКЛ, 1
 PenColor 2D69FC
 AngleTextOut 0, Arial, 16, 1252, 303, 12 Бутовская, 1
 PenColor DE7272
-AngleTextOut 0, Arial, 16, 1252, 343, 14 МЦК, 1
+AngleTextOut 0, Arial, 16, 1252, 323, 14 МЦК, 1
 PenColor DE64A1
-AngleTextOut 0, Arial, 16, 1252, 363, 15 Некрасовская, 1
+AngleTextOut 0, Arial, 16, 1252, 343, 15 Некрасовская, 1
 PenColor 03795F
-AngleTextOut 0, Arial, 16, 1252, 383, 16 Троицкая, 1
+AngleTextOut 0, Arial, 16, 1252, 363, 16 Троицкая, 1
+PenColor 273040
+AngleTextOut 0, Arial, 16, 1252, 383, 17 Рублёво-Архангельская, 1
 PenColor F6A800
 AngleTextOut 0, Arial, 16, 1252, 403, МЦД1, 1
 PenColor E83F83

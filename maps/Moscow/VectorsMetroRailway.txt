@@ -11,7 +11,6 @@ Type=Image
 Кунцевская=Kunz.vec
 
 [Филевская]
-Москва-Сити=Test.vec
 Фили=FiliZ.vec
 Кунцевская=Kunz.vec
 

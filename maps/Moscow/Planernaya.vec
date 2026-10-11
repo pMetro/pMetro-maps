@@ -135,7 +135,7 @@ Polygon 740,444, 736,444, 736,445, 740,445
 PenColor 00AFAF
 BrushColor -1
 AngleTextOut 90, Arial, 15, -225, 552, Планерная улица
-AngleTextOut 0, Arial, 15, 226,347, улица <e,yjdf
+AngleTextOut 0, Arial, 15, 226,347, улица Бубнова
 PenColor 000000
 
 ; Выходы
