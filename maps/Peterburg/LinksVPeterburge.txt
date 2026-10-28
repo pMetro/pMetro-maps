@@ -46,6 +46,8 @@ StringToAdd='  Сайт VPeterburge.ru: '
 Купчино=http://metro.vpeterburge.ru/stations/2/kupchino/
 
 [3]
+Беговая=https://metro.vpeterburge.ru/stations/3/savushkina/
+Зенит=https://metro.vpeterburge.ru/stations/3/krest1/
 Приморская=http://metro.vpeterburge.ru/stations/3/primor/
 Василеостровская=http://metro.vpeterburge.ru/stations/3/vasileostr/
 Гостиный двор=http://metro.vpeterburge.ru/stations/3/gost/

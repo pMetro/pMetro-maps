@@ -1,0 +1,149 @@
+Size 400x470
+Angle -60
+
+
+; пути
+
+PenColor 000000
+BrushColor 702785
+Polygon 427,198, 427,228, -23,228, -23,198
+Polygon 427,231, 427,261, -23,261, -23,231
+
+Opaque 80
+PenColor FFFFFF
+BrushColor FFFFFF
+Polygon 181,262, 181,197, 217,197, 217,262
+PenColor 000000
+Polygon 169,284, 169,168, 178,168, 178,284
+Opaque 100
+
+BrushColor -1
+PenColor 000000
+AngleTextOut 0, Arial, 25, 235, 208, Шушары, 1
+PenColor FFFFFF
+AngleTextOut 0, Arial, 25, 237, 210, Шушары, 1
+PenColor 702785
+AngleTextOut 0, Arial, 20, 296, 256, посадки нет >>
+AngleTextOut 0, Arial, 20, -20, 173, << Дунайская
+
+;================================
+; нижняя платформа
+
+PenColor 000000
+Line -23,258, -23,299, 132,299, 132,358
+Line 181,149, 181,299, 166,299, 166,337
+Line 166,149, 166,153
+Line 166,344, 166,382, 181,382, 181,342
+Line 217,342, 217,382, 230,382, 230,299, 217,299, 217,149
+Line 217,299, 217,304
+Line 181,299, 181,304
+Line 240,375, 240,299
+Line 264,358, 264,299, 427,299, 427,258
+Line 152,315, 152,358, 0.5
+Line 166,344, 159,344, 159,315, 0.5
+Line 159,344, 159,359, 0.5
+Stairs 152,320, 132,320, 152,358
+Stairs 240,320, 264,320, 240,358
+Line 252,318, 252,358, 0.5
+Line 185,264, 185,304, 0.5
+Line 185,154, 185,195, 0.5
+Line 231,149, 231,161, 0.5
+Stairs 181,380, 217,380, 181,342
+Stairs 185,266, 217,266, 185,304
+Stairs 185,192, 217,192, 185,154
+Stairs 231,151, 217,151, 231,161
+Stairs 166,151, 148,151, 166,161
+
+BrushColor D0D0D0
+Polygon 230,299, 240,299, 240,375, 230,375
+
+; инфосос
+PenColor 009000
+BrushColor 009000
+Polygon 227,323, 227,319, 228,319, 228,323
+PenColor FF0000
+BrushColor FF0000
+Polygon 227,319, 227,315, 228,315, 228,319
+
+; инфосос
+PenColor 009000
+BrushColor 009000
+Polygon 337,295, 333,295, 333,296, 337,296
+PenColor FF0000
+BrushColor FF0000
+Polygon 333,295, 329,295, 329,296, 333,296
+
+; кассы
+PenColor 000000
+BrushColor FFFFFF
+Polygon 230,327, 237,327, 237,355, 230,355
+BrushColor -1
+AngleTextOut 90, Arial, 10, 226, 353, кассы
+
+;стрелки
+PenColor FF0000
+Arrow 252,299, 252,311
+Arrow 143,300, 143,312
+PenColor 009900
+Arrow 199,320, 199,307
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 166,299, 166,284, 181,284, 181,299
+BrushColor -1
+AngleTextOut 0, Arial, 6, 167, 288, лифт
+
+;===============================
+; верхняя платформа
+
+PenColor 000000
+Line -23,198, -23,161, 148,161, 148,133, 235,133, 235,161, 427,161, 427,198
+
+; инфосос
+PenColor 009000
+BrushColor 009000
+Polygon 82,166, 78,166, 78,167, 82,167
+PenColor FF0000
+BrushColor FF0000
+Polygon 78,166, 74,166, 74,167, 78,167
+
+
+; турникеты
+PenColor 000000
+BrushColor -1
+Polygon 173,329, 173,322, 180,322, 180,329
+Line 166,326, 173,326, 0.5
+Line 216,326, 223,326, 223,309, 230,309, 0.5
+PenColor 009900
+Stairs 180,324, 180,328, 217,324
+
+; туалет
+PenColor 000000
+BrushColor 99FF99
+Polygon 122,382, 131,382, 131,391, 122,391
+BrushColor -1
+AngleTextOut 0, Arial, 10, 124, 381, Т
+
+;стрелки
+PenColor 009900
+Arrow 171,142, 157,142, 157,157
+Arrow 217,141, 224,141, 224,157
+
+;лифт
+PenColor 000000
+BrushColor D0EFFF
+Polygon 166,168, 166,153, 181,153, 181,168
+BrushColor -1
+AngleTextOut 0, Arial, 6, 167, 157, лифт
+
+
+;===============================
+; названия улиц
+BrushColor -1
+PenColor 00AFAF
+AngleTextOut 0, Arial, 15, 208, 399, Автозаводский проезд
+BrushColor 000000
+
+
+Angle 60

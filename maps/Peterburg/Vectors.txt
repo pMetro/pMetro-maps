@@ -47,6 +47,8 @@ Type=Image
 Купчино=Kupchino.vec
 
 [3]
+Беговая=Begovaya.vec
+Зенит=Zenit.vec
 Приморская=Primorskaya.vec
 Василеостровская=Vasileostrovskaya.vec
 Гостиный двор=NevskiPr-GostinyDvor.vec
@@ -84,8 +86,8 @@ Type=Image
 Бухарестская=Buharestskaya.vec
 Международная=Mezhdunarodnaya.vec
 Проспект Славы=ProspektSlavy.vec
-Дунайская=
-Шушары=
+Дунайская=Dunayskaya.vec
+Шушары=Shushary.vec
 
 [6]
 Юго-Западная=Yugo-Zapadnaya.vec

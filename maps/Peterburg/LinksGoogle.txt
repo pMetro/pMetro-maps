@@ -46,6 +46,8 @@ StringToAdd='  Карта Google: '
 Купчино=http://maps.google.com/maps?ll=59.829444,30.375556&spn=0.01,0.01&t=h&q=59.829444,30.375556&hl=ru
 
 [3]
+Беговая=https://maps.google.com/maps?ll=59.987306,30.202472&q=59.987306,30.202472&spn=0.01,0.01&hl=ru
+Зенит=https://maps.google.com/maps?ll=59.97222,30.21167&q=59.97222,30.21167&spn=0.01,0.01&hl=ru
 Приморская=http://maps.google.com/maps?ll=59.948496,30.2343&spn=0.01,0.01&t=h&q=59.948496,30.2343&hl=ru
 Василеостровская=http://maps.google.com/maps?ll=59.942639,30.278278&spn=0.01,0.01&t=h&q=59.942639,30.278278&hl=ru
 Гостиный двор=http://maps.google.com/maps?ll=59.933889,30.334167&spn=0.01,0.01&t=h&q=59.933889,30.334167&hl=ru
